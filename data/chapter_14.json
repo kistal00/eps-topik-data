@@ -1,0 +1,222 @@
+{
+  "version": 1,
+  "chapterNo": 14,
+  "title": "길 찾기",
+  "titleEn": "Getting Directions",
+  "learningObjectives": [
+    "위치와 방향에 대해 묻고 대답할 수 있다.",
+    "명령형 문장을 사용해 다른 사람에게 지시할 수 있다.",
+    "• 위치와 방향에 대해 묻고 대답할 수 있다.",
+    "• 명령형 문장을 사용해 다른 사람에게 지시할 수 있다.",
+    "• 이동 동사의 의미를 알고 상황에 맞게 사용할 수 있다."
+  ],
+  "vocabulary": [
+    {
+      "korean": "건너가다",
+      "english": "to cross"
+    }
+  ],
+  "grammar": [
+    {
+      "point": "길 찾기",
+      "explanation": "Getting Directions 위치와 방향에 대해 묻고 대답할 수 있다. 학습 목표 Can ask and answer questions about location and directions. LEARNING OBJECTIVES 명령형 문장을 사용해 다른 사람에게 지시할 수 있다. Can use imperative sentences to give instructions to others. 180 한국어 표준교재 1 CHAPTER 14 EPS-TOPIK 이 근처에 약국이 있어요? 네, 사거리에서 오른쪽으로 가세요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION (으)로(방향) 위치와 방향 도로명 주소 -(으)세요 Location and Directions Street Addresses 이동 동사 Movement Verbs 180 한국어 표준교재 1",
+      "examples": []
+    },
+    {
+      "point": "아래로",
+      "explanation": "받침 ×, 받침 ‘ㄹ’ 로 서울로 마두 씨는 어디로 갔어요? 이 기차는 서울로 가요.",
+      "examples": [
+        "예 여기에서 오른쪽으로 가야 해요."
+      ]
+    },
+    {
+      "point": "오다 들어가다 건너가다 내려가다",
+      "explanation": "⑴ 약국은 건물 안에 있어요. 건물 안으로 . ⑵ 4층에는 화장실이 없어요. 3층으로 . ⑶ 편의점은 맞은편에 있어요. 횡단보도를 . ⑷ 내일 우리 집에서 프엉 씨 생일 파티를 할 거예요. 6시에 우리 집에 .",
+      "examples": []
+    }
+  ],
+  "conversations": [
+    {
+      "speaker": "위치 명사는",
+      "korean": "기준이",
+      "english": ""
+    },
+    {
+      "speaker": "되는 사물",
+      "korean": "뒤에 온다.",
+      "english": "Location nouns come"
+    },
+    {
+      "speaker": "예 의자",
+      "korean": "위",
+      "english": ""
+    },
+    {
+      "speaker": "건물",
+      "korean": "앞",
+      "english": ""
+    },
+    {
+      "speaker": "예 빗자루로",
+      "korean": "바닥을 쓸어요.",
+      "english": ""
+    },
+    {
+      "speaker": "자전거로",
+      "korean": "출퇴근해요.",
+      "english": ""
+    },
+    {
+      "speaker": "예 여기에서",
+      "korean": "오른쪽으로 가야 해요.",
+      "english": ""
+    },
+    {
+      "speaker": "마두 씨는",
+      "korean": "어디로 갔어요?",
+      "english": ""
+    },
+    {
+      "speaker": "이 기차는",
+      "korean": "서울로 가요.",
+      "english": ""
+    },
+    {
+      "speaker": "칼 로 왕민",
+      "korean": "씨, 어디 가요?",
+      "english": "Wangmin, where are you going?"
+    },
+    {
+      "speaker": "왕 민 마두",
+      "korean": "씨 방에 가요. 마두 씨 방은 어디에",
+      "english": ""
+    },
+    {
+      "speaker": "칼 로 마두",
+      "korean": "씨 방은 휴게실 옆에 있어요.",
+      "english": ""
+    },
+    {
+      "speaker": "왕 민",
+      "korean": "고마워요.",
+      "english": "Thank you."
+    },
+    {
+      "speaker": "디안 씨",
+      "korean": "방은 어디에 있어요?",
+      "english": ""
+    },
+    {
+      "speaker": "내려가다",
+      "korean": "내려오다 들어가다 들어오다",
+      "english": "to go down to come down to go in to come in"
+    },
+    {
+      "speaker": "올라가다",
+      "korean": "올라오다 나가다 나오다",
+      "english": "to go up to come up to go out to come out"
+    },
+    {
+      "speaker": "횡단보도",
+      "korean": "육교",
+      "english": "crosswalk overpass"
+    },
+    {
+      "speaker": "것을",
+      "korean": "명령하거나 요청할 때 사용한다. 청할 때 주로 사용한다.",
+      "english": ""
+    },
+    {
+      "speaker": "예 문을 좀",
+      "korean": "닫아 주세요.",
+      "english": ""
+    },
+    {
+      "speaker": "예 창문을",
+      "korean": "닦으세요.",
+      "english": ""
+    },
+    {
+      "speaker": "내일은 일찍",
+      "korean": "출근하세요.",
+      "english": ""
+    },
+    {
+      "speaker": "오다",
+      "korean": "들어가다 건너가다 내려가다",
+      "english": ""
+    },
+    {
+      "speaker": "유수프 회사",
+      "korean": "근처에 약국이 있어요?",
+      "english": "Is there a pharmacy near the office?"
+    },
+    {
+      "speaker": "프 엉",
+      "korean": "네, 가까워요. 마트 안에 있어요.",
+      "english": ""
+    },
+    {
+      "speaker": "유수프",
+      "korean": "마트에 어떻게 가요?",
+      "english": "How do I get to the mart?"
+    },
+    {
+      "speaker": "프 엉 회사",
+      "korean": "앞 사거리에서 오른쪽으로 가세요.",
+      "english": ""
+    },
+    {
+      "speaker": "그러면",
+      "korean": "마트가 있어요.",
+      "english": "G o right at the intersection in front of the office."
+    },
+    {
+      "speaker": "유수프",
+      "korean": "감사합니다.",
+      "english": "Thank you."
+    },
+    {
+      "speaker": "오른쪽으로",
+      "korean": "가다",
+      "english": ""
+    },
+    {
+      "speaker": "왼쪽으로",
+      "korean": "가다",
+      "english": ""
+    },
+    {
+      "speaker": "말씀",
+      "korean": "좀",
+      "english": "Excuse me, may I ask you something? How do I get to the subway"
+    }
+  ],
+  "readingQuestions": [
+    {
+      "id": "ch14_r001",
+      "questionKorean": "왼쪽으로 가요.",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④\n3. 다음 내용과 관계있는 것을 고르십시오."
+      ],
+      "correctAnswer": -1
+    }
+  ],
+  "listeningQuestions": [
+    {
+      "id": "ch14_l001",
+      "questionKorean": "듣기 LISTENING\n97\n[1~2] 다음을 듣고 물음에 알맞은 대답을 고르십시오.\n1.",
+      "options": [
+        "① 병원이 있어요.",
+        "② 오후에 병원에 가요.",
+        "③ 마트 맞은편에 있어요.",
+        "④ 마트는 여기에서 멀어요."
+      ],
+      "correctAnswer": -1,
+      "transcript": "듣기지문\n1. 남 : 병원이 어디에 있어요?\n2. 남 : 은행에 어떻게 가요?\n3. 남 : 식당은 몇 층에 있어요?\n여 : 식당은 2층에 있어요.\n4. 남 : 자동차가 어디에 있어요?\n여 : 건물 사이에 있어요.\n5. 남 : 약국이 어디에 있어요?\n여 : 약국이 병원 옆에 있어요.\n14 길 찾기 GETTING DIRECTIONS 189"
+    }
+  ]
+}

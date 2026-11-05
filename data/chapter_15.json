@@ -1,0 +1,237 @@
+{
+  "version": 1,
+  "chapterNo": 15,
+  "title": "옷차림",
+  "titleEn": "Clothing",
+  "learningObjectives": [
+    "옷차림에 대해 묻고 대답할 수 있다.",
+    "물건의 색깔을 말할 수 있다.",
+    "• 옷차림에 대해 묻고 대답할 수 있다.",
+    "• 물건의 색깔을 묻고 대답할 수 있다.",
+    "• 사물의 상태나 특징을 표현할 수 있다."
+  ],
+  "vocabulary": [
+    {
+      "korean": "옷차림",
+      "english": "Clothing"
+    },
+    {
+      "korean": "색깔",
+      "english": "Colors"
+    },
+    {
+      "korean": "입다",
+      "english": "to wear (clothes)"
+    }
+  ],
+  "grammar": [
+    {
+      "point": "옷차림",
+      "explanation": "Clothing 옷차림에 대해 묻고 대답할 수 있다. 학습 목표 Can ask and answer questions about clothing. LEARNING OBJECTIVES 물건의 색깔을 말할 수 있다. Can talk the color of objects. 190 한국어 표준교재 1 CHAPTER 15 EPS-TOPIK 마두 씨가 누구예요? 머리가 짧은 사람이에요. 검은색 옷을 입고 있어요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -고 있다(상태) 옷과 액세서리 한국의 전통 의상 -(으)ㄴ Clothing and Accessories Korea's Traditional Clothing 색깔 Colors 190 한국어 표준교재 1",
+      "examples": []
+    },
+    {
+      "point": "예 재미있는 책, 맛 있는 빵",
+      "explanation": "받침 ○ -은 작다 → 작은 받침 ×, 받침 ‘ㄹ’ -ㄴ 예쁘다 → 예쁜 따뜻한 잠바를 입어요. 책상 위에 작은 가방이 있어요.",
+      "examples": [
+        "예 예쁜 바지를 샀어요."
+      ]
+    }
+  ],
+  "conversations": [
+    {
+      "speaker": "청바지",
+      "korean": "원피스",
+      "english": "jeans dress"
+    },
+    {
+      "speaker": "치마",
+      "korean": "반바지",
+      "english": "skirt shorts"
+    },
+    {
+      "speaker": "신다",
+      "korean": "쓰다",
+      "english": ""
+    },
+    {
+      "speaker": "운동화",
+      "korean": "슬리퍼 구두 안경 선글라스",
+      "english": ""
+    },
+    {
+      "speaker": "양말 장화",
+      "korean": "모자",
+      "english": "socks rain boots cap"
+    },
+    {
+      "speaker": "결과가",
+      "korean": "지속되거나 감정, 인지가 지속되는 상태임을 나타낸다. 사용한다.",
+      "english": "When the subject of the sentence"
+    },
+    {
+      "speaker": "예 바지를",
+      "korean": "입고 있어요.",
+      "english": ""
+    },
+    {
+      "speaker": "안경을 쓰고",
+      "korean": "있어요.",
+      "english": ""
+    },
+    {
+      "speaker": "운동화를",
+      "korean": "신고 있어요.",
+      "english": ""
+    },
+    {
+      "speaker": "디 안 왕민",
+      "korean": "씨, 지금 어디에 있어요?",
+      "english": "Where are you now, Wangmin?"
+    },
+    {
+      "speaker": "왕 민",
+      "korean": "영화관 앞에 있어요.",
+      "english": ""
+    },
+    {
+      "speaker": "디 안 저도",
+      "korean": "영화관 앞에 있어요. 무슨 옷을 입고",
+      "english": ""
+    },
+    {
+      "speaker": "왕 민",
+      "korean": "셔츠하고 반바지를 입고 있어요.",
+      "english": ""
+    },
+    {
+      "speaker": "그리고",
+      "korean": "모자를 쓰고 있어요.",
+      "english": ""
+    },
+    {
+      "speaker": "디 안",
+      "korean": "아, 저기 왕민 씨가 있네요. 왕민 씨!",
+      "english": "Ah, there you are. Wangmin!"
+    },
+    {
+      "speaker": "민수",
+      "korean": "수지",
+      "english": ""
+    },
+    {
+      "speaker": "빨간색",
+      "korean": "주황색 노란색 초록색",
+      "english": "red orange yellow green"
+    },
+    {
+      "speaker": "하늘색",
+      "korean": "파란색 보라색 분홍색",
+      "english": "sky blue blue violet pink"
+    },
+    {
+      "speaker": "회색 까만색",
+      "korean": "하얀색 갈색",
+      "english": "gray black white brown"
+    },
+    {
+      "speaker": "유수프",
+      "korean": "딜로바 씨, 뭐 봐요?",
+      "english": "What are you looking at, Dilova?"
+    },
+    {
+      "speaker": "딜로바",
+      "korean": "인터넷 쇼핑몰에서 옷을 봐요. 이번 주",
+      "english": ""
+    },
+    {
+      "speaker": "일요일에",
+      "korean": "친구 결혼식이 있어서 옷을",
+      "english": ""
+    },
+    {
+      "speaker": "사야",
+      "korean": "돼요.",
+      "english": ""
+    },
+    {
+      "speaker": "유수프 이",
+      "korean": "노란색 치마가 예쁘네요. 이 치마 어때요?",
+      "english": "T his yellow skirt is pretty. What do you think of this"
+    },
+    {
+      "speaker": "딜로바 좀",
+      "korean": "짧아요. 저는 짧은 치마를 안 좋아해요.",
+      "english": ""
+    },
+    {
+      "speaker": "유수프 그럼",
+      "korean": "이 파란색 원피스는 어때요?",
+      "english": "Then how about this blue dress?"
+    },
+    {
+      "speaker": "보라색",
+      "korean": "티셔츠",
+      "english": ""
+    },
+    {
+      "speaker": "저는 밝은",
+      "korean": "색깔을 안 좋아해요.",
+      "english": ""
+    },
+    {
+      "speaker": "빨간색",
+      "korean": "잠바",
+      "english": ""
+    }
+  ],
+  "readingQuestions": [
+    {
+      "id": "ch15_r001",
+      "questionKorean": "읽기 READING\n1. 다음 내용과 관계있는 그림을 고르십시오.\n티셔츠입니다.",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④\n2. 다음 중 밑줄 친 부분이 맞는 문장을 고르십시오"
+      ],
+      "correctAnswer": -1
+    },
+    {
+      "id": "ch15_r002",
+      "questionKorean": "어제 날씨가 아주 더웠어요. 그래서 짧은 바지를 .",
+      "options": [
+        "① 입었어요",
+        "② 버렸어요",
+        "③ 정리했어요",
+        "④ 교환했어요"
+      ],
+      "correctAnswer": -1
+    },
+    {
+      "id": "ch15_r003",
+      "questionKorean": "제 가족사진이에요. 동생은 키가 작고 모자를 .",
+      "options": [
+        "① 입고 있어요",
+        "② 타고 있어요",
+        "③ 신고 있어요",
+        "④ 쓰고 있어요"
+      ],
+      "correctAnswer": -1
+    }
+  ],
+  "listeningQuestions": [
+    {
+      "id": "ch15_l001",
+      "questionKorean": "듣기 LISTENING\n102\n1. 다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④\n[2~3] 다음을 듣고 물음에 알맞은 대답을 고르십시오."
+      ],
+      "correctAnswer": -1,
+      "transcript": "듣기지문\n1. 남 : 이 초록색 운동화는 어때요?\n여 : 좋아요. 색깔이 예쁘네요.\n2. 남 : 모자가 빨간색이에요?\n3. 여 : 구두가 작아요?\n4. 여 : 노란색을 좋아해요?\n남 : 아니요, 파란색을 좋아해요.\n5. 남 : 유수프 씨는 무슨 옷을 입고 있어요?\n15 옷차림 CLOTHING 199"
+    }
+  ]
+}

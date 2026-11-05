@@ -1,0 +1,200 @@
+{
+  "version": 1,
+  "chapterNo": 35,
+  "title": "작업장 관리",
+  "titleEn": "Workplace Management",
+  "learningObjectives": [
+    "작업장의 환경 관리에 대해 말할 수 있다.",
+    "자재 창고 관리 시 주의점에 대해 설명할 수 있다.",
+    "• 작업장의 환경 관리에 대해 말할 수 있다.",
+    "• 자재 창고 관리에 대해 묻고 대답할 수 있다.",
+    "• 행동을 제안하는 표현을 사용할 수 있다."
+  ],
+  "vocabulary": [],
+  "grammar": [
+    {
+      "point": "작업장 관리",
+      "explanation": "Workplace Management 작업장의 환경 관리에 대해 말할 수 있다. 학습 목표 Can talk about managing the workplace environment. LEARNING OBJECTIVES 자재 창고 관리 시 주의점에 대해 설명할 수 있다. Can explain precautions for managing a materials warehouse. CHAPTER 35 EPS-TOPIK 오늘 할 일은 뭐예요? 재고를 파악하는 거예요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -(으)ㅂ시다 작업장 환경 관리 관련 어휘 한국의 산업 구조 -(으)ㄹ Vocabulary Related to Workplace Korea's Industry Structure Environment Management 자재 창고 관리 관련 어휘 Vocabulary Related to Warehouse Management 56 한국어 표준교재 2",
+      "examples": []
+    },
+    {
+      "point": "자신보다 윗사람이나 나이가",
+      "explanation": "‘-(으)ㅂ시다’는 동사에 붙여 격식적 상황에서 어떤 일을 함께 하자고 많은 사람에게 예의를 갖추어 제안할 때 사용한다. 말하는 상황에서는 사용할 수 ‘-(으)ㅂ시다’ is attached to verbs and is used when suggesting doing 없다. something together in formal situations. It cannot be used when speaking politely to a superior 받침 ○ -읍시다 먹다 → 먹읍시다 or an older person. 동사 보다 → 봅시다 예 반 장님, 일하러 갑시다. (X) 받침 , 받침 ‘ㄹ’ -ㅂ시다 × 만들다 → 만듭시다 주말에 다 같이 고향 음식을 만들어 먹읍시다. ※ ‘-(으)ㄹ까요?’가 사용된 질문에 대한 대답으로 ‘-(으)ㅂ시다’가 사용되기도 한다. In response to questions using ‘-(으)ㄹ까요?’, ‘-(으)ㅂ시다’ can also be used. 그림을 보고 [보기]와 같이 문장을 쓰세요.L ook at the pictures and write the sentences as shown in the example. [ 보기 ] 물건이 너무 많아요. 작업장을 치웁시다. ⑴ ⑵ 냄새가 심해요. 바닥이 더러워요. . . ⑶ ⑷ 작업대가 엉망이에요. 쓰레기가 많아요. . .",
+      "examples": [
+        "예 작업할 때는 반드시 작업복을 입읍시다. 작업이 끝나면 작업장을 정리합시다.",
+        "예 가 : 이제 퇴근해도 될까요? 나 : 네, 이제 그만 퇴근합시다."
+      ]
+    },
+    {
+      "point": "관리하다 닦다 덮다 옮기다",
+      "explanation": "[ 보기 ] 가 : 자재 창고 담당자가 바뀐다고 해요. 나 : 맞아요. 내일부터 창고를 관리할 담당자는 마두 씨예요. ⑴ 가 : 곧 비가 올 것 같아요. 나 : 빨리 자재를 덮개를 가져옵시다. ⑵ 가 : 이 자재들을 창고에 보관해야 돼요. 나 : 그럼 자재를 창고로 사람들을 데려올게요. ⑶ 가 : 작업대가 너무 지저분하네요. 나 : 제가 작업대를 걸레를 가져올게요.",
+      "examples": []
+    }
+  ],
+  "conversations": [
+    {
+      "speaker": "자하라",
+      "korean": "작업장이 너무 엉망이네요. 냄새도 심하고요.",
+      "english": "The workplace is such a mess, and it smells bad too."
+    },
+    {
+      "speaker": "마 두 어제",
+      "korean": "늦게까지 작업을 했어요. 너무 피곤해서 정리를 하나도 못 하고 퇴근했어요.",
+      "english": "We worked late last night. We were too tired to clean up before leaving."
+    },
+    {
+      "speaker": "자하라",
+      "korean": "일하기 전에 먼저 청소부터 합시다.",
+      "english": "Let's clean up first before we start working."
+    },
+    {
+      "speaker": "마 두",
+      "korean": "네, 제가 얼른 가서 걸레를 가져올게요.",
+      "english": "Okay. I'll go get a rag right away."
+    },
+    {
+      "speaker": "자하라 그럼",
+      "korean": "저는 작업장을 쓸고 있을게요.",
+      "english": "Then I'll start sweeping the workplace."
+    },
+    {
+      "speaker": "나지 않은",
+      "korean": "일에 대한 추측, 의도의 의미를 나타낸다.",
+      "english": ""
+    },
+    {
+      "speaker": "예 제품을",
+      "korean": "담을 상자가 필요해요.",
+      "english": ""
+    },
+    {
+      "speaker": "작업에",
+      "korean": "사용할 공구를 가져오세요.",
+      "english": ""
+    },
+    {
+      "speaker": "동생과 같이",
+      "korean": "살 집을 찾고 있어요.",
+      "english": ""
+    },
+    {
+      "speaker": "관리하다",
+      "korean": "닦다 덮다 옮기다",
+      "english": ""
+    },
+    {
+      "speaker": "금요일에",
+      "korean": "작업장 청소를 할 거예요.",
+      "english": ""
+    },
+    {
+      "speaker": "금요일 청소",
+      "korean": "담당",
+      "english": ""
+    },
+    {
+      "speaker": "우리가",
+      "korean": "일하는 작업장이니까 깨끗하게 청소합시다.",
+      "english": ""
+    },
+    {
+      "speaker": "아 궁",
+      "korean": "안녕하세요? 내일부터 창고 관리를 담당할 아궁이라고 합니다.",
+      "english": "Hello, I'm Agung, and I will be in charge of managing the warehouse starting tomorrow."
+    },
+    {
+      "speaker": "부장님",
+      "korean": "반갑습니다. 창고 관리를 해 봤어요?",
+      "english": "Nice to meet you. Have you ever managed a warehouse before?"
+    },
+    {
+      "speaker": "아 궁",
+      "korean": "아니요, 안 해 봤지만 열심히 하겠습니다.",
+      "english": "No, I haven't, but I'll work hard."
+    },
+    {
+      "speaker": "부장님 창고",
+      "korean": "관리에서는 재고를 파악하는 게 중요해요.",
+      "english": ""
+    },
+    {
+      "speaker": "그리고 냉동",
+      "korean": "창고는 적정 온도를 유지하는 게",
+      "english": ""
+    },
+    {
+      "speaker": "아주",
+      "korean": "중요하고요.",
+      "english": "C hecking inventory is important in warehouse"
+    },
+    {
+      "speaker": "아 궁",
+      "korean": "네, 알겠습니다.",
+      "english": "Yes, understood."
+    },
+    {
+      "speaker": "부장님 내일",
+      "korean": "창고로 들어올 물건이 많아요.",
+      "english": ""
+    },
+    {
+      "speaker": "잘 정리해",
+      "korean": "주세요. 앞으로 잘 부탁해요.",
+      "english": "T here will be a lot of goods arriving at the warehouse tomorrow. Please organize them well. I look forward to"
+    },
+    {
+      "speaker": "제 생각에도",
+      "korean": "그래요.",
+      "english": ""
+    }
+  ],
+  "readingQuestions": [
+    {
+      "id": "ch35_r001",
+      "questionKorean": "읽기 READING\n1. 다음 내용과 관계있는 그림을 고르십시오.\n덮개를 덮고 있습니다.",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④\n[2~3] 빈칸에 들어갈 가장 알맞은 것을 고르십시오."
+      ],
+      "correctAnswer": -1
+    },
+    {
+      "id": "ch35_r002",
+      "questionKorean": "작업장이 엉망입니다. 로 바닥을 쓸어야겠습니다.",
+      "options": [
+        "① 걸레",
+        "② 빗자루",
+        "③ 쓰레기",
+        "④ 쓰레받기"
+      ],
+      "correctAnswer": -1
+    },
+    {
+      "id": "ch35_r003",
+      "questionKorean": "작업장에 냄새가 심합니다. 창문을 환기를 합시다.",
+      "options": [
+        "① 열고",
+        "② 닦고",
+        "③ 잠그고",
+        "④ 두드리고"
+      ],
+      "correctAnswer": -1
+    }
+  ],
+  "listeningQuestions": [
+    {
+      "id": "ch35_l001",
+      "questionKorean": "듣기 LISTENING\n202\n1. 다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④\n2. 다음을 듣고 물음에 알맞은 대답을 고르십시오."
+      ],
+      "correctAnswer": -1,
+      "transcript": "듣기지문\n1. 여 : 작업장 청소 좀 해야겠어요.\n남 : 그럼 저는 바닥을 닦을게요.\n2. 여 : 작업장 소음이 심해요?\n3. 남 : 왜 온도를 자주 확인하세요?\n여 : 식품 창고는 온도 유지가 중요해요. 온도가 올라가면 안 되니까 자주 확인해야 돼요.\n4. 남 : 이 자재들은 밖에 두면 안 돼요. 창고에 보관해야 돼요.\n5. 여 : 작업장이 엉망이네요. 냄새도 많이 나고요.\n남 : 어제 페인트 작업을 했거든요. 너무 늦어서 청소를 못 하고 퇴근했어요.\n여 : 일 시작하기 전에 환기부터 해야겠어요. 아궁 씨는 청소 도구 좀 가져오세요.\n35 작업장 관리 WORKPLACE MANAGEMENT 65"
+    }
+  ]
+}

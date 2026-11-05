@@ -1,0 +1,188 @@
+{
+  "version": 1,
+  "chapterNo": 50,
+  "title": "산림 자원 조성",
+  "titleEn": "Forest Resource Management",
+  "learningObjectives": [
+    "분 감기 작업의 절차에 대해 말할 수 있다.",
+    "조재 작업에 대해 묻고 대답할 수 있다.",
+    "각 ‘-(느)ㄴ대요/대요’, ‘ ’, ‘-(으)래요’, ‘-재요’로 줄여 사용할 수 있다.",
+    "• 굴취 및 분 감기 작업의 과정에 대해 묻고 답할 수 있다.",
+    "• 벌목 작업에 대해 이야기할 수 있다.",
+    "• 어떤 행동이 중단되고 다른 행동으로 전환됨을 표현할 수 있다."
+  ],
+  "vocabulary": [
+    {
+      "korean": "줄기",
+      "english": "trunk"
+    }
+  ],
+  "grammar": [
+    {
+      "point": "산림 자원 조성",
+      "explanation": "Forest Resource Management 분 감기 작업의 절차에 대해 말할 수 있다. 학습 목표 Can talk about the procedures for root-ball wrapping. LEARNING OBJECTIVES 조재 작업에 대해 묻고 대답할 수 있다. Can ask and answer questions about bucking tasks. 206 한국어 표준교재 2 CHAPTER 50 EPS-TOPIK 나무를 어디로 옮길까요? 영호 씨가 집재장으로 옮기래요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -다가 굴취 및 분 감기 관련 어휘 한국의 산림 자원 간접 인용의 축약형 Vocabulary Related to Trenching Korea's Forest Resources and Root Ball Wrapping 벌목 작업 관련 어휘 Vocabulary Related to Logging Work 206 한국어 표준교재 2",
+      "examples": []
+    },
+    {
+      "point": "회사에 가다, 자하라 씨를 만나다 페인트를 칠하다, 바닥에 쏟다",
+      "explanation": ". . ⑶ ⑷ 기계로 염색을 하다, 원단이 엉키다 기계가 잘 작동하다, 갑자기 멈추다 . .",
+      "examples": []
+    },
+    {
+      "point": "간접 인용의 축약형",
+      "explanation": "간접 인용에 쓰이는 ‘-(느)ㄴ다고/다고 해요’, ‘-느냐고/(으)냐고 해요’, ‘-(으)라고 해요’, ‘-자고 해요’는 구어에서 각 각 ‘-(느)ㄴ대요/대요’, ‘ ’, ‘-(으)래요’, ‘-재요’로 줄여 사용할 수 있다. -느냬요/(으)냬요 The forms used for indirect quotation, ‘-(느)ㄴ다고/다고 해요’, ‘-느냐고/(으)냐고 해요’, ‘-(으)라고 해요’, ‘-자고 해요’, can be shortened in spoken language to ‘-(느)ㄴ대/대요’, ‘-느 요/(으) 요’, ‘-(으)래요’, ‘-재요’. 냬 냬 다라 씨가 주말에 . 바쁘냬요 아궁 씨가 작업장을 청소하래요. 프엉 씨가 창고에 같이 가재요.",
+      "examples": [
+        "예 유수프 씨는 구내식당에서 점심을 먹는대요."
+      ]
+    }
+  ],
+  "conversations": [
+    {
+      "speaker": "톱 뿌리",
+      "korean": "가위",
+      "english": "branch"
+    },
+    {
+      "speaker": "감은 후에",
+      "korean": "밴드로 감아요. 잔뿌리를 정리하고 있어요.",
+      "english": ""
+    },
+    {
+      "speaker": "반 장님",
+      "korean": "오늘은 분 감기 작업을 합시다. 해 본 적 있어요?",
+      "english": "L et's do the root ball wrapping work today. Have you done it before?"
+    },
+    {
+      "speaker": "민민아웅",
+      "korean": "아니요, 분 감기는 해 본 적이 없습니다.",
+      "english": "No, I've never done root ball wrapping before."
+    },
+    {
+      "speaker": "반 장님",
+      "korean": "그럼 내가 보여 줄 테니까 잘 보세요.",
+      "english": ""
+    },
+    {
+      "speaker": "먼저 나무의",
+      "korean": "아랫부분에 있는 가지는",
+      "english": ""
+    },
+    {
+      "speaker": "이렇게 위로",
+      "korean": "올려서 밴드로 묶어야 돼요.",
+      "english": "T hen I'll show you, so watch closely. First, raise the"
+    },
+    {
+      "speaker": "민민아웅",
+      "korean": "아, 네. 그다음에는 뭘 해야 돼요?",
+      "english": "Oh, okay. What should I do next?"
+    },
+    {
+      "speaker": "반 장님",
+      "korean": "밴드로 묶었으면 삽으로 나무 주변을",
+      "english": ""
+    },
+    {
+      "speaker": "둥글게",
+      "korean": "파다가 잔뿌리가 나오면 뿌리 가위로 잘라요. 그리고 마대로 한 번 감은 후에 밴드로",
+      "english": ""
+    },
+    {
+      "speaker": "다시 감아야",
+      "korean": "하는데요. 내가 밴드를 당길 테니까 민민아웅 씨가 한번 감아 볼래요?",
+      "english": "A fter tying with the band, dig around the tree in a circular shape with a shovel. When you encounter fine"
+    },
+    {
+      "speaker": "민민아웅",
+      "korean": "네, 반장님. 알겠습니다.",
+      "english": "Yes, Banjangnim. Understood."
+    },
+    {
+      "speaker": "가지러",
+      "korean": "창고에 갔어요.",
+      "english": ""
+    },
+    {
+      "speaker": "영 호",
+      "korean": "벌채지에서 연락이 왔어요. 벌목이 끝났대요.",
+      "english": "W e got a call from the logging site. They said the"
+    },
+    {
+      "speaker": "민민아웅",
+      "korean": "그럼 조재 작업을 하러 가야겠네요.",
+      "english": "Then we should go to do the bucking work."
+    },
+    {
+      "speaker": "영 호",
+      "korean": "네. 체인톱을 챙겼지요? 참, 말뚝도 가져가야",
+      "english": ""
+    },
+    {
+      "speaker": "민민아웅",
+      "korean": "네, 체인톱이랑 말뚝을 챙기겠습니다. 토막 내기도 벌채지에서 해요?",
+      "english": "Y es, I'll pack the chainsaw and stakes. Do we also cut them into pieces at the logging site?"
+    },
+    {
+      "speaker": "영 호",
+      "korean": "아니요, 반장님이 벌채지에서는 가지치기만 하고 집재장에서 나머지 작업을 하랬어요. 그렇게 해야",
+      "english": ""
+    },
+    {
+      "speaker": "빨리 끝낼",
+      "korean": "수 있대요.",
+      "english": "N o, the banjangnim said to only do the branch trimming at the logging site and do the rest at the log yard. He"
+    },
+    {
+      "speaker": "민민아웅",
+      "korean": "아, 네. 알겠습니다. 얼른 가서 체인톱이랑 말뚝 챙겨 오겠습니다.",
+      "english": "Oh, okay. I'll go grab the chainsaw and stakes right away."
+    },
+    {
+      "speaker": "영호",
+      "korean": "씨",
+      "english": ""
+    },
+    {
+      "speaker": "민민아웅",
+      "korean": "씨, 조재 작업을 하러 가세요.",
+      "english": ""
+    },
+    {
+      "speaker": "체인톱하고",
+      "korean": "말뚝을 가져가야 돼요.",
+      "english": ""
+    },
+    {
+      "speaker": "일할 맛이",
+      "korean": "나요.",
+      "english": ""
+    }
+  ],
+  "readingQuestions": [
+    {
+      "id": "ch50_r001",
+      "questionKorean": "읽기 READING\n1. 다음 그림과 관계있는 내용은 무엇입니까?",
+      "options": [
+        "① 톱 – 나무를 잘라요.",
+        "② 톱 – 구멍을 뚫어요.",
+        "③ 망치 – 나무를 잘라요.",
+        "④ 망치 – 구멍을 뚫어요."
+      ],
+      "correctAnswer": -1
+    }
+  ],
+  "listeningQuestions": [
+    {
+      "id": "ch50_l001",
+      "questionKorean": "듣기 LISTENING\n277\n1. 다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④\n2. 다음을 듣고 물음에 알맞은 대답을 고르십시오."
+      ],
+      "correctAnswer": -1,
+      "transcript": "듣기지문\n1. 남 : 영호 씨는 지금 뭐 하고 있어요?\n여 : 나무를 자르고 있어요.\n2. 남 : 어디에서 토막 내기 작업을 해요?\n3. 남 : 분 감기는 어떻게 해야 돼요?\n여 : 먼저 마대로 분을 감은 후에 밴드로 다시 감아야 해요.\n4. 여 : 삽으로 땅을 파면 시간이 오래 걸릴 것 같아요.\n5. 여 : 민민아웅 씨, 안 바쁘면 영호 씨한테 체인톱 좀 가져다줄 수 있어요?\n남 : 네. 어디로 가면 돼요?\n여 : 벌채지로 가면 돼요. 지금 벌목 작업을 하고 있는데 체인톱이 고장났대요.\n남 : 네. 체인톱을 찾아서 얼른 가 볼게요.\n50 산림 자원 조성 FOREST RESOURCE MANAGEMENT 215"
+    }
+  ]
+}

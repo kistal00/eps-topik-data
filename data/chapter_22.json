@@ -1,0 +1,220 @@
+{
+  "version": 1,
+  "chapterNo": 22,
+  "title": "약국",
+  "titleEn": "Pharmacy",
+  "learningObjectives": [
+    "약에 대해 물어볼 수 있다.",
+    "약 구매를 위하여 증상에 대해 말할 수 있다.",
+    "• 약에 대해 물어볼 수 있다.",
+    "• 약 구매를 위하여 증상에 대해 말할 수 있다.",
+    "• 이유나 판단의 근거에 대해 말할 수 있다."
+  ],
+  "vocabulary": [
+    {
+      "korean": "약국",
+      "english": "Pharmacy"
+    }
+  ],
+  "grammar": [
+    {
+      "point": "약국",
+      "explanation": "Pharmacy 약에 대해 물어볼 수 있다. 학습 목표 Can ask about medication. LEARNING OBJECTIVES 약 구매를 위하여 증상에 대해 말할 수 있다. Can describe symptoms in order to purchase medicine. 260 한국어 표준교재 1 CHAPTER 22 EPS-TOPIK 이 약은 언제 먹어야 해요? 식사하신 후에 드세요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -(으)니까 증상 관련 어휘 2 의약품 구입 -(으)ㄴ 후에 Vocabulary Related to Symptoms 2 Purchasing Medications 의약품 및 치료법 Medications and Treatments 260 한국어 표준교재 1",
+      "examples": []
+    },
+    {
+      "point": "오늘은 피곤하니까 내일 만날까요?",
+      "explanation": "",
+      "examples": []
+    },
+    {
+      "point": "위의 순서를 나타내지만 시간을 나타",
+      "explanation": "일어남을 나타낸다. 내는 명사와 함께 사용하면 시점을 ‘-(으)ㄴ 후에’ attaches to a verb to show that the following action 나타낸다. happens after the completion of the action preceding it. When used with nouns it’s structured as ‘noun 후에’. Generally it shows the 받침 ○ -은 후에 읽다 → 읽은 후에 sequence of actions, but when used 보다 → 본 후에 with a noun that represents time, it 받침 ×, 받침 ‘ㄹ’ -ㄴ 후에 놀다 → 논 후에 indicates a point in time. 한 시간 후에 전화할게요. 저는 매일 샤워한 후에 잠을 자요. 불고기는 고기와 채소를 썬 후에 양념을 넣고 볶아요.",
+      "examples": [
+        "예 식사 후에 회의를 시작할 거예요.",
+        "예 이 약은 밥을 먹은 후에 드세요."
+      ]
+    }
+  ],
+  "conversations": [
+    {
+      "speaker": "어지럽다",
+      "korean": "가렵다 소화가 안 되다 배탈이 나다",
+      "english": "to feel dizzy to feel itchy to have indigestion to have an upset stomach"
+    },
+    {
+      "speaker": "설사를 하다",
+      "korean": "토하다 뼈가 부러지다 손이 베이다",
+      "english": "to have diarrhea to vomit to have a broken bone to cut one's hand"
+    },
+    {
+      "speaker": "결에 제약이",
+      "korean": "없다.",
+      "english": ""
+    },
+    {
+      "speaker": "편의점에 가",
+      "korean": "보세요.",
+      "english": ""
+    },
+    {
+      "speaker": "배가 아파서",
+      "korean": "약을 먹었어요.",
+      "english": ""
+    },
+    {
+      "speaker": "예 그 옷을",
+      "korean": "입으니까 멋있어요.",
+      "english": ""
+    },
+    {
+      "speaker": "열이 많이",
+      "korean": "나니까 기숙사에서 쉬세요.",
+      "english": ""
+    },
+    {
+      "speaker": "오늘은",
+      "korean": "피곤하니까 내일 만날까요?",
+      "english": ""
+    },
+    {
+      "speaker": "설사를",
+      "korean": "하다",
+      "english": ""
+    },
+    {
+      "speaker": "약 사",
+      "korean": "민민아웅 씨, 약 나왔습니다. 이건 기침약이고 이건 콧물약이에요. 하루에 세 번, 식사하고 드세요.",
+      "english": "M in Min Aung, your medication is ready. This is for your cough, and this is for your runny nose. Take it three"
+    },
+    {
+      "speaker": "민민아웅 이",
+      "korean": "약을 먹으면 졸려요?",
+      "english": "Does this medicine make me drowsy?"
+    },
+    {
+      "speaker": "약 사",
+      "korean": "네, 졸리니까 운전하지 마세요.",
+      "english": "Yes, it makes you drowsy, so don't drive."
+    },
+    {
+      "speaker": "민민아웅",
+      "korean": "알겠습니다. 그런데 이 노란색 약은",
+      "english": ""
+    },
+    {
+      "speaker": "약 사",
+      "korean": "아, 이 약은 열이 날 때 먹는 거예요.",
+      "english": ""
+    },
+    {
+      "speaker": "열이 많이",
+      "korean": "나면 드세요. 그리고 물을 많이",
+      "english": ""
+    },
+    {
+      "speaker": "마시면",
+      "korean": "좋아요.",
+      "english": "O h, this medicine is for when you get a fever."
+    },
+    {
+      "speaker": "졸리니까",
+      "korean": "운전하지 마세요.",
+      "english": ""
+    },
+    {
+      "speaker": "약 사 어서",
+      "korean": "오세요. 어떻게 오셨어요?",
+      "english": "Welcome. What brings you here?"
+    },
+    {
+      "speaker": "딜로바",
+      "korean": "어지럽고 소화가 잘 안 돼요.",
+      "english": "I 've been feeling dizzy and I have indigestion."
+    },
+    {
+      "speaker": "약 사",
+      "korean": "병원에는 가셨어요?",
+      "english": "Have you been to the hospital?"
+    },
+    {
+      "speaker": "딜로바",
+      "korean": "아니요, 안 갔어요.",
+      "english": "No, I haven't."
+    },
+    {
+      "speaker": "약 사 그럼",
+      "korean": "이 소화제를 드셔 보세요. 약을 드신 후에",
+      "english": ""
+    },
+    {
+      "speaker": "따뜻한 차를",
+      "korean": "많이 드세요. 그래도 계속 아프면",
+      "english": ""
+    },
+    {
+      "speaker": "병원에 가",
+      "korean": "보세요.",
+      "english": "T hen take this digestive medicine. After taking"
+    },
+    {
+      "speaker": "딜로바",
+      "korean": "네, 알겠습니다. 고맙습니다.",
+      "english": "Okay, thank you very much."
+    },
+    {
+      "speaker": "찜질을",
+      "korean": "하다, 이 파스를 밴드를 붙이세요.",
+      "english": ""
+    }
+  ],
+  "readingQuestions": [
+    {
+      "id": "ch22_r001",
+      "questionKorean": "읽기 READING\n1. 다음 중 밑줄 친 부분이 맞는 문장을 고르십시오.",
+      "options": [
+        "① 기숙사에 살니까 편해요.",
+        "② 상자가 무겁우니까 조심하세요.",
+        "③ 음악을 듣으니까 기분이 좋아요.",
+        "④ 제주도가 유명하니까 가 보세요."
+      ],
+      "correctAnswer": -1
+    },
+    {
+      "id": "ch22_r002",
+      "questionKorean": "",
+      "options": [
+        "① 유지호 씨가 약을 샀습니다.",
+        "② 아궁 씨는 스물다섯 살입니다.",
+        "③ 약은 이틀 동안 먹을 수 있습니다.",
+        "④ 약을 먹고 30분 후에 밥을 먹어야 합니다."
+      ],
+      "correctAnswer": -1
+    },
+    {
+      "id": "ch22_r003",
+      "questionKorean": "늦은 밤이나 주말에 약을 살 수 있는 약국은 ‘휴일지킴이약국’ 사이트에서 찾을 수 있습니다. 이 사이트\n에서는 지역별, 시간대별로 문을 여는 약국을 손쉽게 검색할 수 있습니다. 하지만 집 근처에 가까운 ‘휴일지킴이\n약국’이 없다면 지사제, 진통제 같은 약은 의사의 처방 없이도 편의점에서 살 수 있습니다.",
+      "options": [
+        "① 편의점에서 진통제를 살 수 있습니다.",
+        "② 늦은 밤에는 약을 파는 곳이 없습니다.",
+        "③ 지사제를 사려면 처방전이 있어야 합니다.",
+        "④ ‘휴일지킴이약국’은 주말에만 문을 엽니다."
+      ],
+      "correctAnswer": -1
+    }
+  ],
+  "listeningQuestions": [
+    {
+      "id": "ch22_l001",
+      "questionKorean": "듣기 LISTENING\n137\n1. 다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④\n2. 남자는 왜 여기에 왔습니까?"
+      ],
+      "correctAnswer": -1,
+      "transcript": "듣기지문\n1. 남 : 딜로바 씨, 손가락 다쳤어요?\n여 : 네, 좀 다쳐서 밴드를 붙이고 있어요.\n2. 여 : 어서 오세요. 뭘 드릴까요?\n남 : 소화가 안 되어서요. 소화제 좀 주세요.\n3. 남 : 소독약을 몇 개 샀어요?\n4. 여 : 이 약은 언제 먹어야 돼요?\n5. 여 : 어깨가 좀 아프네요. 파스 좀 주세요.\n남 : 네, 여기 있습니다. 파스를 붙이고 찜질도 해 보세요.\n22 약국 PHARMACY 269"
+    }
+  ]
+}

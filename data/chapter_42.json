@@ -1,0 +1,242 @@
+{
+  "version": 1,
+  "chapterNo": 42,
+  "title": "가구 제작",
+  "titleEn": "Furniture Making",
+  "learningObjectives": [
+    "가구 제작 준비에 대해 말할 수 있다.",
+    "가구 연마 및 도장 작업에 대해 묻고 대답할 수 있다.",
+    "• 가구 연마 작업에 대해 말할 수 있다.",
+    "• 가구 도장 작업에 대해 묻고 대답할 수 있다.",
+    "• 질문을 전달하는 표현을 사용할 수 있다."
+  ],
+  "vocabulary": [
+    {
+      "korean": "길이",
+      "english": "length"
+    },
+    {
+      "korean": "폭",
+      "english": "width"
+    },
+    {
+      "korean": "사포",
+      "english": "puttyhera"
+    },
+    {
+      "korean": "롤러",
+      "english": "roller"
+    }
+  ],
+  "grammar": [
+    {
+      "point": "가구 제작",
+      "explanation": "Furniture Making 가구 제작 준비에 대해 말할 수 있다. 학습 목표 Can talk about preparing for furniture making tasks. LEARNING OBJECTIVES 가구 연마 및 도장 작업에 대해 묻고 대답할 수 있다. Can ask and answer questions about sanding and painting furniture. 126 한국어 표준교재 2 CHAPTER 42 EPS-TOPIK 반장님이 뭐라고 하셨어요? 오늘까지 도장 작업을 끝낼 수 있느냐고 하셨어요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -(으)ㄹ까 봐 가구 제작 준비 관련 어휘 빌트인 가구 -느냐고/(으)냐고 하다 Vocabulary Related to Furniture Built-in Furniture Making Preparation 가구 연마 및 도장 작업 관련 어휘 Vocabulary Related to Sanding and Painting Furniture 126 한국어 표준교재 2",
+      "examples": []
+    },
+    {
+      "point": "고장 나다 기다리다 미끄러지다 지각하다",
+      "explanation": "⑴ 늦게 일어나서 회사에 택시를 탔어요. ⑵ 작업 중에 기계가 매일 꼼꼼하게 점검해요. ⑶ 작업장에서 사람들이 바닥을 깨끗하게 닦았어요. ⑷ 친구가 좀 늦을 거라고 미리 연락했어요.",
+      "examples": []
+    },
+    {
+      "point": "언제 페인트를 칠하면",
+      "explanation": "돼요? 가 : 뭐라고 했어요? 나 : 언제 페인트를 칠하면 되느냐고 했어요. ⑴ ⑵ 도색 작업을 언제 페인트가 다 말랐어요? 시작해요? ⑶ ⑷ 젯소가 몇 통 남았어요? 열풍기를 몇 시간 동안 틀어야 돼요? 42 가구 제작 FURNITURE MAKING 131",
+      "examples": []
+    }
+  ],
+  "conversations": [
+    {
+      "speaker": "황이",
+      "korean": "일어나지 않기를 바랄 때 사용한다.",
+      "english": ""
+    },
+    {
+      "speaker": "예 손을",
+      "korean": "다칠까 봐 장갑을 끼고 사포질을 했어요.",
+      "english": ""
+    },
+    {
+      "speaker": "원목이 비에",
+      "korean": "젖을까 봐 덮개를 덮었어요.",
+      "english": ""
+    },
+    {
+      "speaker": "작업 중에",
+      "korean": "실수를 할까 봐 걱정돼요.",
+      "english": ""
+    },
+    {
+      "speaker": "고장 나다",
+      "korean": "기다리다 미끄러지다 지각하다",
+      "english": ""
+    },
+    {
+      "speaker": "아 궁",
+      "korean": "반장님, 원목 준비해 뒀습니다. 이제 재단하면 되지요?",
+      "english": "Banjangnim, the wood is ready. Shall we start cutting now?"
+    },
+    {
+      "speaker": "반장님",
+      "korean": "잠깐만요. 이건 우리가 작업할 원목이 아닌 것 같아요.",
+      "english": ""
+    },
+    {
+      "speaker": "아 궁",
+      "korean": "그래요? 실수할까 봐 메모를 해 뒀는데 제가 메모를",
+      "english": ""
+    },
+    {
+      "speaker": "잘못 한 것",
+      "korean": "같습니다. 죄송합니다.",
+      "english": ""
+    },
+    {
+      "speaker": "반장님",
+      "korean": "괜찮아요. 이거 갖다 놓고 다시 가져오세요. 그사이에 내가 작업 준비를 하고 있을게요.",
+      "english": ""
+    },
+    {
+      "speaker": "아 궁",
+      "korean": "알겠습니다. 얼른 다시 가져올게요.",
+      "english": ""
+    },
+    {
+      "speaker": "반장님",
+      "korean": "그래도 작업 전에 확인했으니까 다행이에요. 원목 두께가 다른 걸 쓰면 큰일 나거든요.",
+      "english": "Luckily we checked before we started working. If we use the wrong thickness, it could be a big problem."
+    },
+    {
+      "speaker": "분무기",
+      "korean": "퍼티",
+      "english": "groove"
+    },
+    {
+      "speaker": "스프레이 건",
+      "korean": "열풍기",
+      "english": "spray gun hot air fan"
+    },
+    {
+      "speaker": "말리다 홈을",
+      "korean": "메우다 사포질을 하다 마감재를 칠하다",
+      "english": ""
+    },
+    {
+      "speaker": "내용을",
+      "korean": "전달할 때 사용한다.",
+      "english": ""
+    },
+    {
+      "speaker": "가냐고",
+      "korean": "물었어요.",
+      "english": ""
+    },
+    {
+      "speaker": "예 프엉",
+      "korean": "씨가 지금 어디에 있느냐고 했어요.",
+      "english": ""
+    },
+    {
+      "speaker": "아궁 씨가",
+      "korean": "바니시를 언제 주문하느냐고 물었어요.",
+      "english": ""
+    },
+    {
+      "speaker": "반장님께서",
+      "korean": "목재의 먼지를 다 털었느냐고 하셨어요.",
+      "english": ""
+    },
+    {
+      "speaker": "언제",
+      "korean": "페인트를 칠하면",
+      "english": ""
+    },
+    {
+      "speaker": "도색 작업을",
+      "korean": "언제 페인트가 다 말랐어요?",
+      "english": ""
+    },
+    {
+      "speaker": "젯소가 몇",
+      "korean": "통 남았어요? 열풍기를 몇 시간 동안",
+      "english": ""
+    },
+    {
+      "speaker": "틀어야",
+      "korean": "돼요?",
+      "english": ""
+    },
+    {
+      "speaker": "진 수 마두",
+      "korean": "씨, 반장님께서 뭐라고 하셨어요?",
+      "english": "Madhu, what did the banjangnim say?"
+    },
+    {
+      "speaker": "마 두",
+      "korean": "오늘까지 도색 작업을 끝낼 수 있느냐고 물으셨어요.",
+      "english": ""
+    },
+    {
+      "speaker": "야근을 해야",
+      "korean": "될 것 같아요.",
+      "english": "H e asked if we could finish the painting work by today."
+    },
+    {
+      "speaker": "진 수 이건",
+      "korean": "스프레이로 도색하는 거라서 오래 안 걸릴",
+      "english": ""
+    },
+    {
+      "speaker": "마 두 그거",
+      "korean": "말고 의자도 있잖아요. 그것도 도색까지",
+      "english": ""
+    },
+    {
+      "speaker": "하려면",
+      "korean": "시간이 꽤 걸릴 것 같은데요.",
+      "english": "B ut we also have the chairs. It might take some time to"
+    },
+    {
+      "speaker": "진 수 그건",
+      "korean": "바니시로 마감재만 바르면 되는 거라서 젯소나 페인트 작업을 할 필요가 없어요.",
+      "english": ""
+    },
+    {
+      "speaker": "마 두 그럼",
+      "korean": "퇴근 시간 전에 다 끝낼 수 있겠네요. 어서 시작합시다.",
+      "english": ""
+    },
+    {
+      "speaker": "눈코 뜰 새",
+      "korean": "없이 바빠요.",
+      "english": ""
+    }
+  ],
+  "readingQuestions": [
+    {
+      "id": "ch42_r001",
+      "questionKorean": "읽기 READING\n1. 다음 내용과 관계있는 그림을 고르십시오.\n원목을 재단해요.",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④\n2. 다음 중 밑줄 친 부분이 맞는 문장을 고르십시오."
+      ],
+      "correctAnswer": -1
+    }
+  ],
+  "listeningQuestions": [
+    {
+      "id": "ch42_l001",
+      "questionKorean": "듣기 LISTENING\n237\n1. 다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④\n[2~3] 다음을 듣고 물음에 알맞은 대답을 고르십시오."
+      ],
+      "correctAnswer": -1,
+      "transcript": "듣기지문\n1. 남 : 오후에는 무슨 작업을 해야 돼요?\n여 : 도색 작업을 해야 돼요.\n2. 남 : 그라인더를 사용해 봤어요?\n3. 여 : 페인트가 얼마나 있어요?\n4. 남 : 마스크 꼭 쓰고 스프레이를 뿌리세요.\n5. 여 : 작업한 후에 뚜껑을 안 닫아 둬서 페인트가 좀 굳었어요.\n남 : 한번 봐요. 아, 너무 굳어서 새 페인트를 가져와야겠네요.\n여 : 제가 창고에 가서 가져올게요. 빨간색 한 통이랑 흰색 한 통 가져오면 되죠?\n남 : 네, 그러면 될 것 같아요. 전 작업 도구를 준비해 놓을게요.\n42 가구 제작 FURNITURE MAKING 135"
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "version": 1,
+  "chapterNo": 16,
+  "title": "집 구하기",
+  "titleEn": "Finding a House",
+  "learningObjectives": [
+    "구하고 있는 집에 대해 묻고 대답할 수 있다.",
+    "주거 환경에 대해 말할 수 있다.",
+    "략할 수 있다.",
+    "• 구하고 있는 집에 대해 말할 수 있다.",
+    "• 주거 환경에 대해 묻고 대답할 수 있다.",
+    "• 나의 희망이나 바람을 표현할 수 있다."
+  ],
+  "vocabulary": [],
+  "grammar": [
+    {
+      "point": "집 구하기",
+      "explanation": "Finding a House 구하고 있는 집에 대해 묻고 대답할 수 있다. 학습 목표 Can ask and answer questions about the house I am looking for. LEARNING OBJECTIVES 주거 환경에 대해 말할 수 있다. Can talk about a residential environment. CHAPTER 16 EPS-TOPIK 방이 좀 작네요. 방은 작지만 조용하고 깨끗해요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -고 싶다 주거 형태 관련 어휘 한국의 주거 형태 -지만 Vocabulary Related to Types of Housing Korea's Housing Types 주거 환경 관련 어휘 Vocabulary Related to Residential Environment 200 한국어 표준교재 1",
+      "examples": []
+    },
+    {
+      "point": "살다 일하다 구하다 이사하다",
+      "explanation": "⑴ 조용한 주택에서 . ⑵ 월세가 싼 원룸을 . ⑶ 전망이 좋은 빌라로 . ⑷ 우리 고향 사람들은 한국 회사에서 .",
+      "examples": []
+    },
+    {
+      "point": "있다 비싸다 조용하다 불편하다",
+      "explanation": "⑴ 우리 집은 교통이 전망이 좋아요. ⑵ 회사에 휴게실은 매점은 없어요. ⑶ 기숙사 방은 사무실은 시끄러워요. ⑷ 이 원룸은 월세가 넓고 깨끗해요.",
+      "examples": []
+    }
+  ],
+  "conversations": [
+    {
+      "speaker": "아파트 빌라",
+      "korean": "주택 오피스텔",
+      "english": "apartment small apartment house officetel"
+    },
+    {
+      "speaker": "기숙사 원룸",
+      "korean": "고시원",
+      "english": ""
+    },
+    {
+      "speaker": "부동산에",
+      "korean": "가다 집을 알아보다 집을 보다",
+      "english": "to go to a real estate agency to look for a house to view a house"
+    },
+    {
+      "speaker": "자야 다라",
+      "korean": "씨, 부탁이 있어요. 이번 주말에 나하고",
+      "english": ""
+    },
+    {
+      "speaker": "같이",
+      "korean": "부동산에 가 주세요.",
+      "english": "D ara, I have a favor to ask. Can you go to the real"
+    },
+    {
+      "speaker": "다라",
+      "korean": "알겠어요. 그런데 부동산은 왜 가요?",
+      "english": "S ure. But why are you going to the real estate"
+    },
+    {
+      "speaker": "자야 다음",
+      "korean": "달에 원룸 계약이 끝나요. 월세가 비싸",
+      "english": ""
+    },
+    {
+      "speaker": "서 이사하고",
+      "korean": "싶어요.",
+      "english": "M y house contract period ends next month."
+    },
+    {
+      "speaker": "다라 그러면",
+      "korean": "우리 집 근처 부동산에 가요.",
+      "english": ""
+    },
+    {
+      "speaker": "우리 집",
+      "korean": "근처가 월세가 싸요.",
+      "english": ""
+    },
+    {
+      "speaker": "사가",
+      "korean": "지시하는 대상이 어떤 행위를 함께",
+      "english": ""
+    },
+    {
+      "speaker": "략할 수",
+      "korean": "있다.",
+      "english": "When will Jaya go to a real estate agency?"
+    },
+    {
+      "speaker": "예 가족하고",
+      "korean": "같이 한국에 왔어요.",
+      "english": ""
+    },
+    {
+      "speaker": "넓다",
+      "korean": "깨끗하다 조용하다",
+      "english": "to be spacious to be clean to be quiet"
+    },
+    {
+      "speaker": "좁다 더럽다",
+      "korean": "시끄럽다",
+      "english": ""
+    },
+    {
+      "speaker": "편리하다",
+      "korean": "좋다 많다",
+      "english": "to be convenient to be good to be many"
+    },
+    {
+      "speaker": "교통 전망",
+      "korean": "편의 시설",
+      "english": "transportation view facilities"
+    },
+    {
+      "speaker": "불편하다",
+      "korean": "나쁘다 부족하다",
+      "english": "to be inconvenient to be bad to be lacking"
+    },
+    {
+      "speaker": "직 원 어서",
+      "korean": "오세요. 어떻게 오셨어요?",
+      "english": "Welcome. How can I help you?"
+    },
+    {
+      "speaker": "칼 로",
+      "korean": "원룸을 알아보고 싶어서 왔어요.",
+      "english": "I'm here to look for a studio apartment."
+    },
+    {
+      "speaker": "직 원",
+      "korean": "지하철역 근처에 조용한 원룸이 하나 있어요.",
+      "english": "T here is a quiet studio apartment near the subway"
+    },
+    {
+      "speaker": "칼 로",
+      "korean": "월세가 얼마예요?",
+      "english": "H ow much is the monthly rent?"
+    },
+    {
+      "speaker": "점 원",
+      "korean": "오십만 원이에요. 조금 비싸지만 깨끗해요.",
+      "english": ""
+    },
+    {
+      "speaker": "그리고",
+      "korean": "근처에 편의 시설이 많아서 좋아요.",
+      "english": ""
+    },
+    {
+      "speaker": "월세가",
+      "korean": "싸다",
+      "english": ""
+    },
+    {
+      "speaker": "지하철역이",
+      "korean": "가깝다",
+      "english": ""
+    }
+  ],
+  "readingQuestions": [
+    {
+      "id": "ch16_r001",
+      "questionKorean": "조용하다",
+      "options": [
+        "① 크다",
+        "② 나쁘다",
+        "③ 시끄럽다",
+        "④ 부족하다"
+      ],
+      "correctAnswer": -1
+    },
+    {
+      "id": "ch16_r002",
+      "questionKorean": "넓다",
+      "options": [
+        "① 많다",
+        "② 좁다",
+        "③ 깨끗하다",
+        "④ 불편하다"
+      ],
+      "correctAnswer": -1
+    },
+    {
+      "id": "ch16_r003",
+      "questionKorean": "다음 달에 원룸 계약이 끝납니다. 그래서 부동산에 가서 집을 .",
+      "options": [
+        "① 소개해야 합니다",
+        "② 청소해야 합니다",
+        "③ 정리해야 합니다",
+        "④ 알아봐야 합니다"
+      ],
+      "correctAnswer": -1
+    },
+    {
+      "id": "ch16_r004",
+      "questionKorean": "집에서 지하철역이 가깝습니다. 그리고 편의 시설도 많아서 .",
+      "options": [
+        "① 바쁩니다",
+        "② 편리합니다",
+        "③ 시원합니다",
+        "④ 재미있습니다"
+      ],
+      "correctAnswer": -1
+    }
+  ],
+  "listeningQuestions": [
+    {
+      "id": "ch16_l001",
+      "questionKorean": "듣기 LISTENING\n107\n1. 공사하는 곳은 어디입니까?",
+      "options": [
+        "① 옥상 주차장",
+        "② 지하 주차장",
+        "③ 지상 주차장",
+        "④ 전기차 주차장"
+      ],
+      "correctAnswer": -1,
+      "transcript": "듣기지문\n1. 남 : 오늘부터 아파트 지하 주차장 공사를 시작합니다. 주민 여러분께서는 차를 지상 주차장으로 옮겨 주시기 바랍니다.\n2. 여 : 기숙사가 가까워요?\n3. 여 : 언제 이사할 거예요?\n4. 남 : 이 원룸은 한 달에 얼마예요?\n여 : 한 달에 50만 원이에요.\n5. 남 : 아직 집을 못 구했는데 같이 부동산에 가 줄 수 있어요?\n16 집 구하기 FINDING A HOUSE 209"
+    }
+  ]
+}

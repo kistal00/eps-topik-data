@@ -1,0 +1,187 @@
+{
+  "version": 1,
+  "chapterNo": 55,
+  "title": "산업 안전 및 위생 장비",
+  "titleEn": "Industrial Safety and Hygiene Equipment",
+  "learningObjectives": [
+    "보호구의 종류와 기능을 말할 수 있다.",
+    "작업에 필요한 보호 장비에 대해 묻고 대답할 수 있다.",
+    "• 보호구의 종류와 기능을 말할 수 있다.",
+    "• 작업에 필요한 보호 장비의 어휘를 익혀 활용할 수 있다."
+  ],
+  "vocabulary": [
+    {
+      "korean": "안전모",
+      "english": "safety helmet"
+    },
+    {
+      "korean": "작업복",
+      "english": "safety gloves"
+    },
+    {
+      "korean": "안전대",
+      "english": "safety shoes"
+    },
+    {
+      "korean": "방열상의",
+      "english": "hood"
+    }
+  ],
+  "grammar": [
+    {
+      "point": "산업 안전 및 위생 장비",
+      "explanation": "Industrial Safety and Hygiene Equipment 보호구의 종류와 기능을 말할 수 있다. 학습 목표 Can explain the types and functions of protective gear. LEARNING OBJECTIVES 작업에 필요한 보호 장비에 대해 묻고 대답할 수 있다. Can ask and answer questions about protective equipment needed for work. 256 한국어 표준교재 2 CHAPTER 55 EPS-TOPIK 교육받은 대로 안전대를 착용하세요. 네, 귀덮개도 착용할까요? 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -는/(으)ㄴ 대로 안전 장비 지시 표지(강제행동 표지) -(으)ㄹ 테니까 Safety Equipment Directive Signs (Mandatory Action Signs) 안전ㆍ위생 장비 Safety and Hygiene Equipment 256 한국어 표준교재 2",
+      "examples": []
+    },
+    {
+      "point": "동사,",
+      "explanation": "받침 ○ - 은 대로 읽다 → 읽은 대로 있다/없다 과거 받침 ×, 받침 ‘ㄹ’ -ㄴ 대로 배우다 → 배운 대로 받침 ○ -은 대로 좁다 → 좁은 대로 형용사 받침 ×, 받침 ‘ㄹ’ -ㄴ 대로 비싸다 → 비싼 대로 안전 교육 시간에 배운 대로 보호구를 착용하세요. 아침 회의 시간에 들은 대로 오늘은 작업할 게 많네요. ※ 명사와 함께 사용할 때는 ‘명사+대로’로 사용한다. When used with nouns it takes the form ‘noun+대로’.",
+      "examples": [
+        "예 반장님이 하는 대로 따라 하세요.",
+        "예 설명서대로 만들었어요."
+      ]
+    },
+    {
+      "point": "면서 듣는 사람에게 뒤의 내용을 요",
+      "explanation": "사람에게 뒤의 내용을 요청할 때 사용한다. 주어는 1인칭이 된다. 청할 때 사용한다. 주어는 3인칭이 ‘-(으)ㄹ 테니까’ is used is used to express the speaker’s intention 된다. while requesting or instructing the listener to do something in the ‘-(으)ㄹ 테니까’ is also used to express following sentence. The subject must be in the first person. the speaker’s assumption while 받침 ○ -을 테니까 있다 → 있을 테니까 requesting or instructing the listener to do something in the following 받침 , 받침 ‘ㄹ’ -ㄹ 테니까 정리하다 → 정리할 테니까 sentence. The subject must be in the × 3rd person. 내가 작업 도구를 정리할 테니까 마두 씨는 작업장을 청소해 주세요. 제가 오후에 재고를 파악할 테니까 민민아웅 씨가 창고를 정리해 주세요.",
+      "examples": [
+        "예 작업 준비를 하고 있을 테니까 도착하면 연락하세요.",
+        "예 비 가 올 테니까 우산을 가지고 가세요."
+      ]
+    }
+  ],
+  "conversations": [
+    {
+      "speaker": "농약 방제복",
+      "korean": "축산 작업복 안면 보호구 용접면 보안경",
+      "english": "pesticide livestock work face protection welding face safety goggles"
+    },
+    {
+      "speaker": "방진 마스크",
+      "korean": "방독 마스크 송기 마스크 귀마개 귀덮개",
+      "english": "dust mask gas mask air supply mask earplugs earmuffs"
+    },
+    {
+      "speaker": "반장님 어제",
+      "korean": "안전 교육 시간에 배운 대로 필요한 보호구를 정확히 착용해야 돼요. 오늘 용접 작업을 할 때",
+      "english": ""
+    },
+    {
+      "speaker": "필요한",
+      "korean": "보호구가 뭐지요?",
+      "english": "Y ou must wear the required protective gear exactly as you learned in the safety training yesterday. What"
+    },
+    {
+      "speaker": "칼 로 용접",
+      "korean": "작업을 할 때는 용접면과 안전장갑을 착용해야 돼요.",
+      "english": "F or welding we need a welding face shield and safety gloves."
+    },
+    {
+      "speaker": "반장님",
+      "korean": "맞아요. 그리고 호흡용 보호구도 꼭 착용하세요.",
+      "english": ""
+    },
+    {
+      "speaker": "칼 로",
+      "korean": "네, 알겠습니다.",
+      "english": "Got it. I will."
+    },
+    {
+      "speaker": "반장님 작업",
+      "korean": "전에 항상 보호구를 확인하세요. 안전 교육을",
+      "english": ""
+    },
+    {
+      "speaker": "받은 대로만",
+      "korean": "하면 사고를 예방할 수 있어요.",
+      "english": "A lways check your protective gear before work. If you follow"
+    },
+    {
+      "speaker": "면서 듣는",
+      "korean": "사람에게 뒤의 내용을 요",
+      "english": ""
+    },
+    {
+      "speaker": "예 작업",
+      "korean": "준비를 하고 있을 테니까 도착하면 연락하세요.",
+      "english": ""
+    },
+    {
+      "speaker": "예 비 가",
+      "korean": "올 테니까 우산을 가지고 가세요.",
+      "english": ""
+    },
+    {
+      "speaker": "내가 작업",
+      "korean": "도구를 정리할 테니까 마두 씨는 작업장을 청소해 주세요.",
+      "english": ""
+    },
+    {
+      "speaker": "제가 오후에",
+      "korean": "재고를 파악할 테니까 민민아웅 씨가 창고를 정리해 주세요.",
+      "english": ""
+    },
+    {
+      "speaker": "점검하다",
+      "korean": "가져오다 도와주다 확인하다",
+      "english": ""
+    },
+    {
+      "speaker": "반장님",
+      "korean": "오늘은 열처리 작업이 있습니다. 모두 방열복을",
+      "english": ""
+    },
+    {
+      "speaker": "니까 더",
+      "korean": "조심해야 돼요.",
+      "english": "T oday we are doing heat treatment work. Everyone,"
+    },
+    {
+      "speaker": "유수프",
+      "korean": "네, 알겠습니다. 방열장갑과 방열장화도 착용해",
+      "english": ""
+    },
+    {
+      "speaker": "반장님",
+      "korean": "물론이죠. 방열 보호구를 모두 착용하는 것이 아주 중요해요. 모두 착용하고 준비되면 알려 주세요.",
+      "english": ""
+    },
+    {
+      "speaker": "유수프",
+      "korean": "네, 그런데 방열두건은 없는데 방열두건은 안 써도 돼요?",
+      "english": ""
+    },
+    {
+      "speaker": "반장님",
+      "korean": "얼굴이나 목 부분에 화상을 입을 수도 있으니까 써야 돼요. 방열두건을 가지고 올 테니까 잠시만 기다",
+      "english": ""
+    }
+  ],
+  "readingQuestions": [
+    {
+      "id": "ch55_r001",
+      "questionKorean": "읽기 READING\n1. 다음 내용과 관계있는 그림을 고르십시오.\n마스크를 착용하시오.",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④\n2. 다음 중 밑줄 친 부분이 맞는 문장을 고르십시오."
+      ],
+      "correctAnswer": -1
+    }
+  ],
+  "listeningQuestions": [
+    {
+      "id": "ch55_l001",
+      "questionKorean": "듣기 LISTENING\n302\n[1~2] 다음을 듣고 물음에 알맞은 대답을 고르십시오.\n1.",
+      "options": [
+        "① 네, 안전 교육이 어려워요.",
+        "② 네, 안전 교육을 들었어요.",
+        "③ 아니요, 안전 교육이 많아요.",
+        "④ 아니요, 안전 교육이 없어요."
+      ],
+      "correctAnswer": -1,
+      "transcript": "듣기지문\n1. 여 : 오늘 안전 교육이 있어요?\n2. 남 : 몇 시에 전기 작업을 해요?\n3. 남 : 전원을 꼭 차단해야 돼요?\n여 : 그럼요. 전기 작업을 할 때에는 전원을 차단해야 돼요. 그리고 절연 장갑과 절연화도 꼭 착용해야 돼요.\n4. 여 : 안전 교육 시간에 무엇에 대해 배웠어요?\n5. 남 : 반장님, 오늘 작업할 때 마스크도 써야 돼요?\n여 : 네, 작업 중에 먼지가 많이 발생할 테니까 방진 마스크를 꼭 쓰세요. 다른 보호 장비는 다 챙겼어요?\n남 : 네, 안전화는 신었고, 안전모하고 보안경은 챙겼습니다.\n여 : 좋아요. 마스크도 잊지 말고 챙기세요.\n55 산업 안전 및 위생 장비 INDUSTRIAL SAFETY AND HYGIENE EQUIPMENT 265"
+    }
+  ]
+}

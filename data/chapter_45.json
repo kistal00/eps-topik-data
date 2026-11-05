@@ -1,0 +1,295 @@
+{
+  "version": 1,
+  "chapterNo": 45,
+  "title": "농작물 재배",
+  "titleEn": "Crop Cultivation",
+  "learningObjectives": [
+    "농작물 재배에 필요한 어휘와 표현을 사용할 수 있다.",
+    "작업 중 금지 사항에 대해 말할 수 있다.",
+    "• 농작물 재배에 필요한 어휘와 표현을 사용할 수 있다.",
+    "• 작업 중 금지 사항에 대해 말할 수 있다."
+  ],
+  "vocabulary": [
+    {
+      "korean": "비료",
+      "english": "fertilizer"
+    },
+    {
+      "korean": "모판",
+      "english": "seedbed"
+    },
+    {
+      "korean": "호미",
+      "english": "hoe"
+    },
+    {
+      "korean": "곡괭이",
+      "english": "pickaxe"
+    },
+    {
+      "korean": "예초기",
+      "english": "weed cutter"
+    },
+    {
+      "korean": "나르다",
+      "english": "to carry"
+    },
+    {
+      "korean": "스마트팜",
+      "english": "Smart Farms"
+    }
+  ],
+  "grammar": [
+    {
+      "point": "농작물 재배",
+      "explanation": "Crop Cultivation 농작물 재배에 필요한 어휘와 표현을 사용할 수 있다. 학습 목표 Can use the vocabulary and expressions needed for farm work. LEARNING OBJECTIVES 작업 중 금지 사항에 대해 말할 수 있다. Can talk about prohibited actions during work. 156 한국어 표준교재 2 CHAPTER 45 EPS-TOPIK 이것도 딸까요? 아니요. 작은 것은 따지 말고 큰 것만 따세요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -(으)ㄹ까 하다 전작 관련 어휘 스마트팜 -지 말고 Vocabulary Related to Field Crops Smart Farms 과수 재배 관련 어휘 Vocabulary Related to Orchard Cultivation 156 한국어 표준교재 2",
+      "examples": []
+    },
+    {
+      "point": "따다 심다",
+      "explanation": "⑶ ⑷ 가 : 주말에 뭘 하실 거예요? 가 : 뭘 사실 거예요? 나 : 비 닐하우스를 나 : 파 종 상자를 . . 사다 설치하다",
+      "examples": []
+    },
+    {
+      "point": "벗다 두다 뿌리다 올라가다",
+      "explanation": "[보기] 마스크를 벗지 말고 쓰고 하세요. ⑴ 참외를 거기에 저쪽으로 옮기세요. ⑵ 아직 비료를 기다리세요. ⑶ 사다리에 아래에서 따세요.",
+      "examples": []
+    }
+  ],
+  "conversations": [
+    {
+      "speaker": "예 날씨가",
+      "korean": "추우니까 오늘은 따뜻한 음식을 먹을까 해요.",
+      "english": ""
+    },
+    {
+      "speaker": "내일은 밭에",
+      "korean": "씨앗을 뿌릴까 해요.",
+      "english": ""
+    },
+    {
+      "speaker": "따다",
+      "korean": "심다",
+      "english": ""
+    },
+    {
+      "speaker": "사다",
+      "korean": "설치하다",
+      "english": ""
+    },
+    {
+      "speaker": "비료를",
+      "korean": "옮기다 수레",
+      "english": ""
+    },
+    {
+      "speaker": "모판을",
+      "korean": "옮기다 트랙터 감자를 캐다 호미",
+      "english": ""
+    },
+    {
+      "speaker": "벼를 베다",
+      "korean": "낫 밭에 물을 주다 호스",
+      "english": ""
+    },
+    {
+      "speaker": "다린두",
+      "korean": "사장님, 밭이 엉망이에요. 땅도 파이고",
+      "english": ""
+    },
+    {
+      "speaker": "나뭇가지들도",
+      "korean": "다 부러졌어요.",
+      "english": "Sajangnim, the field is a mess. the ground is dug up"
+    },
+    {
+      "speaker": "사장님",
+      "korean": "이런, 밤에 고라니가 내려와서 열매와 잎사귀를",
+      "english": ""
+    },
+    {
+      "speaker": "따 먹은 것",
+      "korean": "같네요.",
+      "english": "O h no, it seems like the water deers came down at"
+    },
+    {
+      "speaker": "다린두 여기",
+      "korean": "보니까 울타리망 밑으로 들어온 것 같아요.",
+      "english": "It looks like they got in under the net fence here."
+    },
+    {
+      "speaker": "사장님",
+      "korean": "그러네요. 울타리망을 튼튼한 것으로 다시",
+      "english": ""
+    },
+    {
+      "speaker": "다린두",
+      "korean": "네. 여기 지주대도 넘어져서 다시 박아야겠어요.",
+      "english": ""
+    },
+    {
+      "speaker": "사장님 그럼",
+      "korean": "망치하고 케이블타이도 같이 가져오세요.",
+      "english": "Then bring the hammer and cable ties as well."
+    },
+    {
+      "speaker": "장갑을",
+      "korean": "끼다",
+      "english": ""
+    },
+    {
+      "speaker": "농약을",
+      "korean": "뿌리다",
+      "english": "to harvest"
+    },
+    {
+      "speaker": "트럭에",
+      "korean": "싣다",
+      "english": "to load onto"
+    },
+    {
+      "speaker": "상자에",
+      "korean": "담다",
+      "english": "to gather"
+    },
+    {
+      "speaker": "복숭아 참외",
+      "korean": "배 감 귤 블루베리 포도",
+      "english": "peach oriental melon pear persimmon tangerine blueberry grape"
+    },
+    {
+      "speaker": "담다 따다",
+      "korean": "씌우다 제거하다",
+      "english": ""
+    },
+    {
+      "speaker": "예 사과를",
+      "korean": "상자에 담지 말고 분류 작업부터 하세요.",
+      "english": ""
+    },
+    {
+      "speaker": "오늘은 너무",
+      "korean": "추우니까 작업을 하지 말고 쉽시다.",
+      "english": ""
+    },
+    {
+      "speaker": "더우니까",
+      "korean": "에어컨을 끄지 말고 켜 두세요.",
+      "english": ""
+    },
+    {
+      "speaker": "벗다 두다",
+      "korean": "뿌리다 올라가다",
+      "english": ""
+    },
+    {
+      "speaker": "호미를",
+      "korean": "사용하세요.",
+      "english": ""
+    },
+    {
+      "speaker": "수레로",
+      "korean": "옮기세요.",
+      "english": ""
+    },
+    {
+      "speaker": "반장님",
+      "korean": "주말에 비가 온다고 하니까 오늘은 복숭아부터 땁시다.",
+      "english": "Let's pick the peaches today since it's supposed to rain on the weekend."
+    },
+    {
+      "speaker": "아지자",
+      "korean": "복숭아를 처음 따 보는데 어떻게 하면 돼요?",
+      "english": "This is my first time picking peaches, how do I do it?"
+    },
+    {
+      "speaker": "반장님 먼저",
+      "korean": "복숭아 나뭇가지를 위로 올리세요. 그리고 초록색 복숭아는",
+      "english": ""
+    },
+    {
+      "speaker": "따지 말고",
+      "korean": "붉은 복숭아만 따면 돼요.",
+      "english": ""
+    },
+    {
+      "speaker": "아지자",
+      "korean": "그런데 복숭아를 손으로 따요?",
+      "english": "Oh, peaches are picked by hand?"
+    },
+    {
+      "speaker": "사장님",
+      "korean": "네. 익은 복숭아는 옆으로 살짝 돌리면 쉽게 딸 수 있어요.",
+      "english": ""
+    },
+    {
+      "speaker": "복숭아에",
+      "korean": "털이 있으니까 장갑을 벗지 말고 꼭 끼고 따세요.",
+      "english": "Y es. You can easily pick ripe peaches by gently turning them sideways."
+    },
+    {
+      "speaker": "아지자",
+      "korean": "이렇게 따면 돼요?",
+      "english": "Is this the right way to pick them?"
+    },
+    {
+      "speaker": "반장님",
+      "korean": "맞아요. 그런데 복숭아를 손으로 세게 누르면 손자국이 남고 검은색으로 변하니까 조심해야 돼요.",
+      "english": "T hat's right. But if you press the peaches too hard with your hand, it will leave handprints and turn black,"
+    },
+    {
+      "speaker": "죽을",
+      "korean": "뻔했어요.",
+      "english": ""
+    }
+  ],
+  "readingQuestions": [
+    {
+      "id": "ch45_r001",
+      "questionKorean": "읽기 READING\n1. 다음 내용과 관계있는 그림을 고르십시오.\n고추를 따고 있습니다.",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④\n[2~3] 빈칸에 들어갈 알맞은 것을 고르십시오."
+      ],
+      "correctAnswer": -1
+    },
+    {
+      "id": "ch45_r002",
+      "questionKorean": "모종을 심기 전에 을 뿌립니다. 그러면 땅에 영양분이 많아져서 작물이 튼튼하게\n자랄 수 있습니다.",
+      "options": [
+        "① 씨앗",
+        "② 농약",
+        "③ 거름",
+        "④ 낙엽"
+      ],
+      "correctAnswer": -1
+    },
+    {
+      "id": "ch45_r003",
+      "questionKorean": "포도에 봉지를 농약이 포도에 닿지 않습니다. 그리고 비에 맞지 않고 새가 먹는 것도\n방지할 수 있어서 좋습니다.",
+      "options": [
+        "① 옮기면",
+        "② 뽑으면",
+        "③ 씌우면",
+        "④ 박으면"
+      ],
+      "correctAnswer": -1
+    }
+  ],
+  "listeningQuestions": [
+    {
+      "id": "ch45_l001",
+      "questionKorean": "듣기 LISTENING\n252\n1. 다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④\n[2~3] 다음을 듣고 물음에 알맞은 대답을 고르십시오."
+      ],
+      "correctAnswer": -1,
+      "transcript": "듣기지문\n1. 여 : 사장님, 이제 뭘 할까요?\n남 : 저쪽에 있는 사과를 따 주세요.\n2. 남 : 배추를 뽑을까요?\n3. 여 : 언제 농약을 칠 거예요?\n4. 여 : 밤마다 야생 동물이 자꾸 내려와서 울타리망을 설치할까 해요.\n5. 남 : 수레 위에 있던 비닐 못 봤어요? 밭에 가져가야 하는데 없네요.\n여 : 제가 미리 가져다 두었어요. 창고에서 삽도 꺼내 놓고요.\n남 : 고마워요. 그럼 삽 챙겨서 밭에 먼저 가 있을게요.\n45 농작물 재배 CROP CULTIVATION 165"
+    }
+  ]
+}

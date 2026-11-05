@@ -1,0 +1,205 @@
+{
+  "version": 1,
+  "chapterNo": 10,
+  "title": "물건 구입",
+  "titleEn": "Shopping",
+  "learningObjectives": [
+    "물건의 상태에 대해 묻고 대답할 수 있다.",
+    "필요한 것을 상대방에게 요청할 수 있다.",
+    "• 물건의 상태에 대해 묻고 대답할 수 있다.",
+    "• 사물의 상태와 관련된 어휘들을 말할 수 있다.",
+    "• 필요한 것을 상대방에게 요청할 수 있다."
+  ],
+  "vocabulary": [],
+  "grammar": [
+    {
+      "point": "물건 구입",
+      "explanation": "Shopping 물건의 상태에 대해 묻고 대답할 수 있다. 학습 목표 Can ask and answer about the descriptions of things. LEARNING OBJECTIVES 필요한 것을 상대방에게 요청할 수 있다. Can request items needed from others. 140 한국어 표준교재 1 CHAPTER 10 EPS-TOPIK 어서 오세요. 과일이 싱싱하네요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -네요 상태 관련 어휘 무인 판매점 -아/어 주세요 Description Words Unmanned Stores 화폐 및 물품 구매 관련 어휘 Vocabulary Related to Currency and Purchasing Items 140 한국어 표준교재 1",
+      "examples": []
+    },
+    {
+      "point": "춥다 예쁘다 어렵다 비싸다",
+      "explanation": "⑴ 가 : 영어 공부가 어때요? ⑵ 가 : 날씨가 어때요? 나 : 조금 . 나 : 오늘 정말 . ⑶ 가 : 이 수박은 삼만 원이에요. ⑷ 가 : 이 사람이 우리 언니예요. 나 : 네? . 나 : 언니가 .",
+      "examples": []
+    },
+    {
+      "point": "들다 바꾸다 만들다 전화하다 청소하다",
+      "explanation": "[ 보기 ] 지금은 일해요. 오후에 전화해 주세요. ⑴ 사과가 상했어요. 사과를 . ⑵ 상자가 너무 무거워요. 상자를 좀 . ⑶ 김치찌개를 좋아해요. 김치찌개를 . ⑷ 사무실이 어지럽네요. 사무실을 좀 .",
+      "examples": []
+    }
+  ],
+  "conversations": [
+    {
+      "speaker": "크다 작다",
+      "korean": "싱싱하다 상하다",
+      "english": "to be big to be small to be fresh to be spoiled"
+    },
+    {
+      "speaker": "많다 적다",
+      "korean": "싸다 비싸다",
+      "english": ""
+    },
+    {
+      "speaker": "가볍다",
+      "korean": "무겁다 길다 짧다",
+      "english": "to be light to be heavy to be long to be short"
+    },
+    {
+      "speaker": "예 신발이",
+      "korean": "정말 커요.",
+      "english": ""
+    },
+    {
+      "speaker": "예 수박이",
+      "korean": "정말 크네요.",
+      "english": ""
+    },
+    {
+      "speaker": "날씨가 정말",
+      "korean": "덥네요.",
+      "english": ""
+    },
+    {
+      "speaker": "닛차난 씨는",
+      "korean": "한국 음식을 잘 만드네요.",
+      "english": ""
+    },
+    {
+      "speaker": "춥다 예쁘다",
+      "korean": "어렵다 비싸다",
+      "english": ""
+    },
+    {
+      "speaker": "예 바지가",
+      "korean": "좀 기네요.",
+      "english": ""
+    },
+    {
+      "speaker": "주 인 어서",
+      "korean": "오세요.",
+      "english": "Welcome."
+    },
+    {
+      "speaker": "프 엉",
+      "korean": "안녕하세요? 과일이 싱싱하네요. 뭐가 맛있어요?",
+      "english": "Hello. The fruit looks fresh! Which ones are tasty?"
+    },
+    {
+      "speaker": "주 인",
+      "korean": "딸기하고 오렌지가 맛있어요.",
+      "english": "Strawberries and oranges are tasty."
+    },
+    {
+      "speaker": "프 엉 그럼",
+      "korean": "딸기 한 상자하고 오렌지 다섯 개 주세요.",
+      "english": "Then give me one box of strawberries and five oranges."
+    },
+    {
+      "speaker": "주 인 이만",
+      "korean": "원이에요.",
+      "english": ""
+    },
+    {
+      "speaker": "세기가 두",
+      "korean": "자음의 중간 정도이다.",
+      "english": ""
+    },
+    {
+      "speaker": "현금",
+      "korean": "신용카드 상품권",
+      "english": "cash credit card gift certificate"
+    },
+    {
+      "speaker": "예 우리",
+      "korean": "집에 와 주세요.",
+      "english": ""
+    },
+    {
+      "speaker": "딸기를 좀",
+      "korean": "씻어 주세요.",
+      "english": ""
+    },
+    {
+      "speaker": "바지가",
+      "korean": "작아요. 교환해 주세요.",
+      "english": ""
+    },
+    {
+      "speaker": "들다 바꾸다",
+      "korean": "만들다 전화하다 청소하다",
+      "english": ""
+    },
+    {
+      "speaker": "지금은",
+      "korean": "일해요. 오후에 전화해 주세요.",
+      "english": ""
+    },
+    {
+      "speaker": "포장을",
+      "korean": "하다",
+      "english": ""
+    },
+    {
+      "speaker": "값을 깎다",
+      "korean": "신발을 가방에 넣다 창문을 닫다",
+      "english": ""
+    },
+    {
+      "speaker": "칼 로",
+      "korean": "사장님, 이 바지 얼마예요?",
+      "english": "Hi, how much are these pants?"
+    },
+    {
+      "speaker": "주 인 사만",
+      "korean": "삼천 원이에요.",
+      "english": ""
+    },
+    {
+      "speaker": "칼 로 사만",
+      "korean": "삼천 원요? 비싸네요. 좀 깎아 주세요.",
+      "english": ""
+    },
+    {
+      "speaker": "주 인",
+      "korean": "알았어요. 사만 원 주세요.",
+      "english": ""
+    },
+    {
+      "speaker": "칼 로",
+      "korean": "감사합니다. 종이 가방에 넣어 주세요.",
+      "english": "Thank you. Please put them in a paper bag."
+    },
+    {
+      "speaker": "이건",
+      "korean": "한국말로",
+      "english": ""
+    }
+  ],
+  "readingQuestions": [
+    {
+      "id": "ch10_r001",
+      "questionKorean": "읽기 READING\n1. 다음 내용과 관계있는 그림을 고르십시오.\n동전입니다.",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④\n2. 다음 단어와 관계있는 것은 무엇입니까?"
+      ],
+      "correctAnswer": -1
+    }
+  ],
+  "listeningQuestions": [
+    {
+      "id": "ch10_l001",
+      "questionKorean": "듣기 LISTENING\n77\n1. 다음을 듣고 빈칸에 알맞은 것을 고르십시오.\n수",
+      "options": [
+        "① 건",
+        "② 박",
+        "③ 업",
+        "④ 술"
+      ],
+      "correctAnswer": -1,
+      "transcript": "듣기지문\n1. 여 : 수박\n2. 남 : 운동화가 얼마예요?\n여 : 사만 오천 원이에요.\n3. 남 : 이 티셔츠는 오만 원이에요.\n여 : 티셔츠가 비싸네요. 좀 깎아 주세요.\n4. 여 : 사장님, 이 바지 다른 색깔도 있어요?\n5. 남 : 어서 오세요. 뭘 찾으세요?\n여 : 바지가 좀 커서 바꾸려고요.\n10 물건 구입 SHOPPING 149"
+    }
+  ]
+}

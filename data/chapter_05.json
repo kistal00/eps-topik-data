@@ -1,0 +1,265 @@
+{
+  "version": 1,
+  "chapterNo": 5,
+  "title": "날짜와 요일",
+  "titleEn": "Dates and Days of the Week",
+  "learningObjectives": [
+    "요일을 말할 수 있다.",
+    "날짜를 묻고 대답할 수 있다.",
+    "• 요일을 묻고 답할 수 있다.",
+    "• 날짜를 묻고 답할 수 있다.",
+    "• 과거의 일에 대해 말할 수 있다."
+  ],
+  "vocabulary": [],
+  "grammar": [
+    {
+      "point": "날짜와 요일",
+      "explanation": "Dates and Days of the Week 요일을 말할 수 있다. 학습 목표 Can name the days of the week. LEARNING OBJECTIVES 날짜를 묻고 대답할 수 있다. Can ask and answer what date it is. 90 한국어 표준교재 1 CHAPTER 05 EPS-TOPIK SUNDAY MONDAY TUESDAY WEDNESDAY THURSDAY FRIDAY SATURDAY 일요일 월요일 화요일 수요일 목요일 금요일 토요일 4월 16일이 무슨 요일이에요? 화요일이에요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION 에(시간) 요일 양력과 음력 -았/었- Days of the Week Solar and Lunar Calendars 날짜 관련 어휘 Vocabulary Related to Dates 90 한국어 표준교재 1",
+      "examples": []
+    },
+    {
+      "point": "어떤 일이 일어나는 때를 나타내고, 장소",
+      "explanation": "나는 때를 나타낸다. 를 나타내는 명사와 결합하면 사람이나 물건이 존재하는 곳을 나타내거나 이동 ‘에’ combines with nouns to show the time when something happens. 의 목적지를 나타낸다. When '에' combines with a noun indicating time, it expresses the time 금요일에 영화를 봐요. when something happens, and when it 주말에 쉬어요. combines with a noun indicating a place, it shows the location where a person or ※ 시 간을 나타내는 ‘어제, 오늘, 내일, 지금’ 등과는 결합 object exists, or the destination of a movement. 하지 않는다. It does not combine with time-related words like 푸캄 씨는 집에 가요. ‘yesterday, today, tomorrow, now’, etc.",
+      "examples": [
+        "예 월요일에 일해요.",
+        "예 다라 씨는 회사에 있어요.",
+        "예 오늘에 영화를 봐요. (X)"
+      ]
+    },
+    {
+      "point": "일요일 월요일 화요일 수요일 목요일 금요일 토요일",
+      "explanation": "1 2 3 4 가 : 5월 27일에 뭐 했어요? 5 6 7 8 9 10 11 나 : 쇼핑했어요. 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 오늘 ⑴ 가 : 5월 6일에 뭐 했어요? ⑵ 가 : 5월 10일에 뭐 했어요? 나 : . 나 : . ⑶ 가 : 지난주 화요일에 뭐 했어요? ⑷ 가 : 어제 뭐 했어요? 나 : . 나 : . 5 날짜와 요일 DATES AND DAYS OF THE WEEK 95",
+      "examples": []
+    }
+  ],
+  "conversations": [
+    {
+      "speaker": "월요일",
+      "korean": "화요일 수요일 목요일 금요일 토요일 일요일",
+      "english": ""
+    },
+    {
+      "speaker": "어제 오늘",
+      "korean": "내일",
+      "english": "yesterday today tomorrow"
+    },
+    {
+      "speaker": "평일",
+      "korean": "주말",
+      "english": "weekday weekend"
+    },
+    {
+      "speaker": "예 무슨",
+      "korean": "운동을 좋아해요? 오늘이 무슨 요일이에요?",
+      "english": ""
+    },
+    {
+      "speaker": "어떤 일이",
+      "korean": "일어나는 때를 나타내고, 장소",
+      "english": ""
+    },
+    {
+      "speaker": "나는 때를",
+      "korean": "나타낸다. 를 나타내는 명사와 결합하면 사람이나",
+      "english": ""
+    },
+    {
+      "speaker": "물건이",
+      "korean": "존재하는 곳을 나타내거나 이동",
+      "english": ""
+    },
+    {
+      "speaker": "예 월요일에",
+      "korean": "일해요.",
+      "english": "indicating time, it expresses the time"
+    },
+    {
+      "speaker": "금요일에",
+      "korean": "영화를 봐요.",
+      "english": "when something happens, and when it"
+    },
+    {
+      "speaker": "하지",
+      "korean": "않는다.",
+      "english": ""
+    },
+    {
+      "speaker": "예 다라",
+      "korean": "씨는 회사에 있어요.",
+      "english": ""
+    },
+    {
+      "speaker": "푸캄 씨는",
+      "korean": "집에 가요.",
+      "english": ""
+    },
+    {
+      "speaker": "월요일",
+      "korean": "화요일 수요일 목요일 금요일 토요일 일요일",
+      "english": ""
+    },
+    {
+      "speaker": "칼로 푸캄",
+      "korean": "씨, 주말에 뭐 해요?",
+      "english": "Phukham, what do you do on the weekend?"
+    },
+    {
+      "speaker": "푸캄",
+      "korean": "토요일에 한국어를 공부해요.",
+      "english": ""
+    },
+    {
+      "speaker": "일요일에",
+      "korean": "운동해요.",
+      "english": "I study Korean on Saturdays."
+    },
+    {
+      "speaker": "칼로 오늘은",
+      "korean": "뭐 해요?",
+      "english": "What are you doing today?"
+    },
+    {
+      "speaker": "푸캄 오늘은",
+      "korean": "영화를 봐요.",
+      "english": "I am watching a movie today."
+    },
+    {
+      "speaker": "텔레비전을",
+      "korean": "보다",
+      "english": ""
+    },
+    {
+      "speaker": "지난달 이번",
+      "korean": "달 다음 달",
+      "english": "last month this month next month"
+    },
+    {
+      "speaker": "일요일",
+      "korean": "월요일 화요일 수요일 목요일 금요일 토요일",
+      "english": ""
+    },
+    {
+      "speaker": "이번 주",
+      "korean": "오늘",
+      "english": ""
+    },
+    {
+      "speaker": "다음",
+      "korean": "주",
+      "english": "next week"
+    },
+    {
+      "speaker": "일 이 삼",
+      "korean": "사 오 육",
+      "english": "one two three four five six"
+    },
+    {
+      "speaker": "칠 팔 구",
+      "korean": "십 이십 삼십",
+      "english": "seven eight nine ten twenty thirty"
+    },
+    {
+      "speaker": "물을 때",
+      "korean": "사용한다.",
+      "english": ""
+    },
+    {
+      "speaker": "예 오 늘이",
+      "korean": "몇 월 며칠이에요?",
+      "english": ""
+    },
+    {
+      "speaker": "시월",
+      "korean": "오일이에요.",
+      "english": ""
+    },
+    {
+      "speaker": "그림을 보고",
+      "korean": "대화를 완성하세요.",
+      "english": "Look at the pictures and complete the conversations."
+    },
+    {
+      "speaker": "예 작년에",
+      "korean": "한국에 왔어요.",
+      "english": ""
+    },
+    {
+      "speaker": "어제 빵을",
+      "korean": "먹었어요.",
+      "english": ""
+    },
+    {
+      "speaker": "지난주에",
+      "korean": "쇼핑했어요.",
+      "english": ""
+    },
+    {
+      "speaker": "어제",
+      "korean": ". 어제 . 어제 . 어제 .",
+      "english": ""
+    },
+    {
+      "speaker": "일요일",
+      "korean": "월요일 화요일 수요일 목요일 금요일 토요일",
+      "english": ""
+    },
+    {
+      "speaker": "프엉 생일이",
+      "korean": "언제예요?",
+      "english": "When is your birthday?"
+    },
+    {
+      "speaker": "프엉 생일에",
+      "korean": "뭐 했어요?",
+      "english": "What did you do on your birthday?"
+    },
+    {
+      "speaker": "다라 친구가",
+      "korean": "기숙사에 왔어요.",
+      "english": "My friend came to the dormitory."
+    },
+    {
+      "speaker": "케이크를",
+      "korean": "먹었어요.",
+      "english": "We ate cake."
+    }
+  ],
+  "readingQuestions": [
+    {
+      "id": "ch05_r001",
+      "questionKorean": "7월 15일",
+      "options": [
+        "① 이름",
+        "② 계절",
+        "③ 날짜",
+        "④ 시간"
+      ],
+      "correctAnswer": -1
+    },
+    {
+      "id": "ch05_r002",
+      "questionKorean": "토요일, 일요일",
+      "options": [
+        "① 평일",
+        "② 장소",
+        "③ 주말",
+        "④ 물건"
+      ],
+      "correctAnswer": -1
+    }
+  ],
+  "listeningQuestions": [
+    {
+      "id": "ch05_l001",
+      "questionKorean": "듣기 LISTENING\n52\n1. 다음을 듣고 빈칸에 알맞은 것을 고르십시오.\n오늘은 입니다.",
+      "options": [
+        "① 월요일",
+        "② 목요일",
+        "③ 금요일",
+        "④ 일요일"
+      ],
+      "correctAnswer": -1,
+      "transcript": "듣기지문\n1. 여 : 오늘은 목요일입니다.\n2. 남 : 내일이 몇 월 며칠이에요?\n여 : 10월 17일이에요.\n3. 남 : 수요일에 일해요?\n4. 남 : 오늘이 무슨 요일이에요?\n5. 여 : 8월 7일이 무슨 요일이에요?\n남 : 월요일이에요.\n5 날짜와 요일 DATES AND DAYS OF THE WEEK 99"
+    }
+  ]
+}

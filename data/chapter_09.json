@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "chapterNo": 9,
+  "title": "음식 주문",
+  "titleEn": "Ordering Food",
+  "learningObjectives": [
+    "음식을 주문할 수 있다.",
+    "물건의 개수를 말할 수 있다.",
+    "• 음식을 주문할 수 있다.",
+    "• 물건의 개수를 말할 수 있다.",
+    "• 두 개 이상의 물건을 나열해서 말할 수 있다."
+  ],
+  "vocabulary": [],
+  "grammar": [
+    {
+      "point": "음식 주문",
+      "explanation": "Ordering Food 음식을 주문할 수 있다. 학습 목표 Can order food. LEARNING OBJECTIVES 물건의 개수를 말할 수 있다. Can say how many items there are. CHAPTER 09 EPS-TOPIK 메 뉴 비빔밥 불고기 된장찌개 김치찌개 뭐 드시겠어요? 비빔밥 주세요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION 주세요 음식 한국인의 식사 하고 Food Korean Meals 숫자와 분류사 Numbers and Classifiers 130 한국어 표준교재 1",
+      "examples": []
+    },
+    {
+      "point": "주세요",
+      "explanation": "‘주세요’는 명사 뒤에 쓰여 그 명사가 지시하는 대상을 달라는 요청이나 명령을 나타낸다. The phrase ‘주세요’ is placed after a noun to express a request or command for the item indicated by the noun. 비빔밥 주세요. 김치찌개 주세요.",
+      "examples": [
+        "예 물 주세요."
+      ]
+    },
+    {
+      "point": "하고",
+      "explanation": "과/와 ‘하고’는 명사와 결합하여 그 명사를 다른 명사와 연결하거나 주로 구어에서 사용하는 ‘하고’와 달리 그 명사가 지시하는 대상이 어떤 일을 함께 하는 대상임을 ‘과/와’는 대개 격식적 상황이나 문어에 나타낸다. 서 사용한다. 앞에 오는 명사의 마지막 음절에 받침이 있으면 ‘과’, 받침이 없으 ‘하고’ combines with nouns to link them to other nouns or 면 ‘와’를 붙인다. to show that the noun it is attached to is participating in Unlike the colloquial ‘하고’, ‘와/과’ is used an action with another noun. in formal situations or written language. 연필하고 지우개가 있어요. has a final consonant, use ‘과’. If it does 토요일에 친구하고 축구했어요. not, use ‘와’. 날씨와 계절",
+      "examples": [
+        "예 우유하고 빵을 사요. If the last syllable of the preceding noun",
+        "예 빵과 우유"
+      ]
+    }
+  ],
+  "conversations": [
+    {
+      "speaker": "비빔밥 김밥",
+      "korean": "우동 라면",
+      "english": "bibimbap gimbap udon ramen"
+    },
+    {
+      "speaker": "김치찌개",
+      "korean": "된장찌개 불고기 돈가스",
+      "english": ""
+    },
+    {
+      "speaker": "자장면",
+      "korean": "탕수육 피자 치킨",
+      "english": ""
+    },
+    {
+      "speaker": "예 물",
+      "korean": "주세요.",
+      "english": ""
+    },
+    {
+      "speaker": "비빔밥",
+      "korean": "주세요.",
+      "english": ""
+    },
+    {
+      "speaker": "김치찌개",
+      "korean": "주세요.",
+      "english": ""
+    },
+    {
+      "speaker": "돈가스",
+      "korean": "주세요.",
+      "english": ""
+    },
+    {
+      "speaker": "점 원 어서",
+      "korean": "오세요. 뭐 드시겠어요?",
+      "english": "Welcome! What would you like to eat?"
+    },
+    {
+      "speaker": "아 궁 저는",
+      "korean": "비빔밥 주세요.",
+      "english": "I would like bibimbap, please."
+    },
+    {
+      "speaker": "아미나 저는",
+      "korean": "김치찌개 주세요.",
+      "english": "I would like kimchi stew, please."
+    },
+    {
+      "speaker": "점 원",
+      "korean": "네, 알겠습니다.",
+      "english": "Okay, understood."
+    },
+    {
+      "speaker": "아 궁 물도",
+      "korean": "좀 주세요.",
+      "english": "Please give us some water as well."
+    },
+    {
+      "speaker": "점 원 어서",
+      "korean": "오세요. 뭐 드시겠어요?",
+      "english": "Welcome! What would you like?"
+    },
+    {
+      "speaker": "민민아웅",
+      "korean": "커피 두 잔 주세요. 빵 있어요?",
+      "english": "Two cups of coffee, please. Do you have bread?"
+    },
+    {
+      "speaker": "점 원",
+      "korean": "아니요, 없어요. 케이크는 있어요.",
+      "english": ""
+    },
+    {
+      "speaker": "민민아웅",
+      "korean": "그럼 커피 두 잔하고 케이크 주세요.",
+      "english": "T hen, two cups of coffee and some cake, please."
+    },
+    {
+      "speaker": "점 원",
+      "korean": "네, 알겠습니다.",
+      "english": "Okay, understood."
+    }
+  ],
+  "readingQuestions": [
+    {
+      "id": "ch09_r001",
+      "questionKorean": "읽기 READING\n1. 다음 내용과 관계있는 그림을 고르십시오.\n김밥입니다.",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④\n2. 다음 단어와 관계있는 것은 무엇입니까?"
+      ],
+      "correctAnswer": -1
+    }
+  ],
+  "listeningQuestions": [
+    {
+      "id": "ch09_l001",
+      "questionKorean": "듣기 LISTENING\n72\n1. 다음을 듣고 빈칸에 알맞은 것을 고르십시오.\n이것은 입니다.",
+      "options": [
+        "① 탕수육",
+        "② 비빔밥",
+        "③ 자장면",
+        "④ 불고기"
+      ],
+      "correctAnswer": -1,
+      "transcript": "듣기지문\n1. 여 : 이것은 비빔밥입니다.\n2. 남 : 뭐 드시겠어요?\n여 : 치킨 주세요.\n3. 남 : 피자를 좋아해요?\n4. 여 : 어제 뭐 먹었어요?\n5. 남 : 뭐가 맛있어요?\n여 : 불고기가 맛있어요.\n9 음식 주문 ORDERING FOOD 139"
+    }
+  ]
+}

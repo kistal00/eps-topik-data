@@ -1,0 +1,545 @@
+{
+  "version": 1,
+  "chapters": [
+    {
+      "chapterNo": 1,
+      "title": "자기소개",
+      "titleEn": "Self Introduction",
+      "vocabCount": 2,
+      "readingQs": 5,
+      "listenQs": 1,
+      "jsonFile": "chapter_01.json"
+    },
+    {
+      "chapterNo": 2,
+      "title": "생활용품",
+      "titleEn": "Daily Necessities",
+      "vocabCount": 1,
+      "readingQs": 1,
+      "listenQs": 2,
+      "jsonFile": "chapter_02.json"
+    },
+    {
+      "chapterNo": 3,
+      "title": "위치와 장소",
+      "titleEn": "Locations and Places",
+      "vocabCount": 1,
+      "readingQs": 1,
+      "listenQs": 1,
+      "jsonFile": "chapter_03.json"
+    },
+    {
+      "chapterNo": 4,
+      "title": "동작과 사물",
+      "titleEn": "Actions and Objects",
+      "vocabCount": 0,
+      "readingQs": 1,
+      "listenQs": 1,
+      "jsonFile": "chapter_04.json"
+    },
+    {
+      "chapterNo": 5,
+      "title": "날짜와 요일",
+      "titleEn": "Dates and Days of the Week",
+      "vocabCount": 0,
+      "readingQs": 2,
+      "listenQs": 1,
+      "jsonFile": "chapter_05.json"
+    },
+    {
+      "chapterNo": 6,
+      "title": "하루 일과",
+      "titleEn": "Daily Routine",
+      "vocabCount": 0,
+      "readingQs": 1,
+      "listenQs": 1,
+      "jsonFile": "chapter_06.json"
+    },
+    {
+      "chapterNo": 7,
+      "title": "계절과 날씨",
+      "titleEn": "Seasons and the Weather",
+      "vocabCount": 2,
+      "readingQs": 1,
+      "listenQs": 1,
+      "jsonFile": "chapter_07.json"
+    },
+    {
+      "chapterNo": 8,
+      "title": "가족과 친구",
+      "titleEn": "Family and Friends",
+      "vocabCount": 2,
+      "readingQs": 1,
+      "listenQs": 1,
+      "jsonFile": "chapter_08.json"
+    },
+    {
+      "chapterNo": 9,
+      "title": "음식 주문",
+      "titleEn": "Ordering Food",
+      "vocabCount": 0,
+      "readingQs": 1,
+      "listenQs": 1,
+      "jsonFile": "chapter_09.json"
+    },
+    {
+      "chapterNo": 10,
+      "title": "물건 구입",
+      "titleEn": "Shopping",
+      "vocabCount": 0,
+      "readingQs": 1,
+      "listenQs": 1,
+      "jsonFile": "chapter_10.json"
+    },
+    {
+      "chapterNo": 11,
+      "title": "집안일",
+      "titleEn": "Household Chores",
+      "vocabCount": 2,
+      "readingQs": 1,
+      "listenQs": 1,
+      "jsonFile": "chapter_11.json"
+    },
+    {
+      "chapterNo": 12,
+      "title": "대중교통",
+      "titleEn": "Public Transportation",
+      "vocabCount": 2,
+      "readingQs": 1,
+      "listenQs": 1,
+      "jsonFile": "chapter_12.json"
+    },
+    {
+      "chapterNo": 13,
+      "title": "주말 활동",
+      "titleEn": "Weekend Activities",
+      "vocabCount": 0,
+      "readingQs": 1,
+      "listenQs": 1,
+      "jsonFile": "chapter_13.json"
+    },
+    {
+      "chapterNo": 14,
+      "title": "길 찾기",
+      "titleEn": "Getting Directions",
+      "vocabCount": 1,
+      "readingQs": 1,
+      "listenQs": 1,
+      "jsonFile": "chapter_14.json"
+    },
+    {
+      "chapterNo": 15,
+      "title": "옷차림",
+      "titleEn": "Clothing",
+      "vocabCount": 3,
+      "readingQs": 3,
+      "listenQs": 1,
+      "jsonFile": "chapter_15.json"
+    },
+    {
+      "chapterNo": 16,
+      "title": "집 구하기",
+      "titleEn": "Finding a House",
+      "vocabCount": 0,
+      "readingQs": 4,
+      "listenQs": 1,
+      "jsonFile": "chapter_16.json"
+    },
+    {
+      "chapterNo": 17,
+      "title": "휴가",
+      "titleEn": "Vacation",
+      "vocabCount": 2,
+      "readingQs": 1,
+      "listenQs": 1,
+      "jsonFile": "chapter_17.json"
+    },
+    {
+      "chapterNo": 18,
+      "title": "취미",
+      "titleEn": "Hobbies",
+      "vocabCount": 1,
+      "readingQs": 3,
+      "listenQs": 1,
+      "jsonFile": "chapter_18.json"
+    },
+    {
+      "chapterNo": 19,
+      "title": "요리",
+      "titleEn": "Cooking",
+      "vocabCount": 1,
+      "readingQs": 1,
+      "listenQs": 1,
+      "jsonFile": "chapter_19.json"
+    },
+    {
+      "chapterNo": 20,
+      "title": "인터넷과 스마트폰",
+      "titleEn": "The Internet and Smartphones",
+      "vocabCount": 0,
+      "readingQs": 3,
+      "listenQs": 1,
+      "jsonFile": "chapter_20.json"
+    },
+    {
+      "chapterNo": 21,
+      "title": "병원",
+      "titleEn": "Hospital",
+      "vocabCount": 1,
+      "readingQs": 3,
+      "listenQs": 1,
+      "jsonFile": "chapter_21.json"
+    },
+    {
+      "chapterNo": 22,
+      "title": "약국",
+      "titleEn": "Pharmacy",
+      "vocabCount": 1,
+      "readingQs": 3,
+      "listenQs": 1,
+      "jsonFile": "chapter_22.json"
+    },
+    {
+      "chapterNo": 23,
+      "title": "우체국",
+      "titleEn": "Post Office",
+      "vocabCount": 4,
+      "readingQs": 3,
+      "listenQs": 1,
+      "jsonFile": "chapter_23.json"
+    },
+    {
+      "chapterNo": 24,
+      "title": "은행",
+      "titleEn": "Bank",
+      "vocabCount": 4,
+      "readingQs": 5,
+      "listenQs": 1,
+      "jsonFile": "chapter_24.json"
+    },
+    {
+      "chapterNo": 25,
+      "title": "외국인 근로자 지원기관",
+      "titleEn": "Foreign Workers Support Center",
+      "vocabCount": 1,
+      "readingQs": 3,
+      "listenQs": 1,
+      "jsonFile": "chapter_25.json"
+    },
+    {
+      "chapterNo": 26,
+      "title": "한국의 주거 문화와 음식 문화",
+      "titleEn": "Korean Housing Culture and Food Culture",
+      "vocabCount": 7,
+      "readingQs": 2,
+      "listenQs": 1,
+      "jsonFile": "chapter_26.json"
+    },
+    {
+      "chapterNo": 27,
+      "title": "한국의 기념일",
+      "titleEn": "Korean Commemorative Days",
+      "vocabCount": 0,
+      "readingQs": 3,
+      "listenQs": 1,
+      "jsonFile": "chapter_27.json"
+    },
+    {
+      "chapterNo": 28,
+      "title": "한국의 명절",
+      "titleEn": "Korean Traditional Holidays",
+      "vocabCount": 0,
+      "readingQs": 3,
+      "listenQs": 1,
+      "jsonFile": "chapter_28.json"
+    },
+    {
+      "chapterNo": 29,
+      "title": "한국의 예절",
+      "titleEn": "Korean Etiquette",
+      "vocabCount": 0,
+      "readingQs": 3,
+      "listenQs": 1,
+      "jsonFile": "chapter_29.json"
+    },
+    {
+      "chapterNo": 30,
+      "title": "한국의 대중문화",
+      "titleEn": "Korean Popular Culture",
+      "vocabCount": 0,
+      "readingQs": 3,
+      "listenQs": 1,
+      "jsonFile": "chapter_30.json"
+    },
+    {
+      "chapterNo": 31,
+      "title": "복장과 근무 태도",
+      "titleEn": "Attire and Work Attitude",
+      "vocabCount": 0,
+      "readingQs": 3,
+      "listenQs": 1,
+      "jsonFile": "chapter_31.json"
+    },
+    {
+      "chapterNo": 32,
+      "title": "회사 시설 이용",
+      "titleEn": "Use of Company Facilities",
+      "vocabCount": 0,
+      "readingQs": 1,
+      "listenQs": 1,
+      "jsonFile": "chapter_32.json"
+    },
+    {
+      "chapterNo": 33,
+      "title": "동료와의 관계",
+      "titleEn": "Colleague Relationships",
+      "vocabCount": 0,
+      "readingQs": 1,
+      "listenQs": 1,
+      "jsonFile": "chapter_33.json"
+    },
+    {
+      "chapterNo": 34,
+      "title": "성희롱 및 성추행 예방",
+      "titleEn": "Sexual Harassment and Assault Prevention",
+      "vocabCount": 0,
+      "readingQs": 3,
+      "listenQs": 1,
+      "jsonFile": "chapter_34.json"
+    },
+    {
+      "chapterNo": 35,
+      "title": "작업장 관리",
+      "titleEn": "Workplace Management",
+      "vocabCount": 0,
+      "readingQs": 3,
+      "listenQs": 1,
+      "jsonFile": "chapter_35.json"
+    },
+    {
+      "chapterNo": 36,
+      "title": "출하 관리",
+      "titleEn": "Shipment Management",
+      "vocabCount": 0,
+      "readingQs": 1,
+      "listenQs": 1,
+      "jsonFile": "chapter_36.json"
+    },
+    {
+      "chapterNo": 37,
+      "title": "기계 가공",
+      "titleEn": "Machine Processing",
+      "vocabCount": 1,
+      "readingQs": 1,
+      "listenQs": 1,
+      "jsonFile": "chapter_37.json"
+    },
+    {
+      "chapterNo": 38,
+      "title": "기계 조립",
+      "titleEn": "Machine Assembly",
+      "vocabCount": 0,
+      "readingQs": 1,
+      "listenQs": 1,
+      "jsonFile": "chapter_38.json"
+    },
+    {
+      "chapterNo": 39,
+      "title": "금속 가공",
+      "titleEn": "Metal Processing",
+      "vocabCount": 0,
+      "readingQs": 3,
+      "listenQs": 1,
+      "jsonFile": "chapter_39.json"
+    },
+    {
+      "chapterNo": 40,
+      "title": "플라스틱 고무 성형",
+      "titleEn": "Plastic and Rubber Molding",
+      "vocabCount": 3,
+      "readingQs": 1,
+      "listenQs": 1,
+      "jsonFile": "chapter_40.json"
+    },
+    {
+      "chapterNo": 41,
+      "title": "섬유 제조",
+      "titleEn": "Textile Manufacturing",
+      "vocabCount": 0,
+      "readingQs": 1,
+      "listenQs": 1,
+      "jsonFile": "chapter_41.json"
+    },
+    {
+      "chapterNo": 42,
+      "title": "가구 제작",
+      "titleEn": "Furniture Making",
+      "vocabCount": 4,
+      "readingQs": 1,
+      "listenQs": 1,
+      "jsonFile": "chapter_42.json"
+    },
+    {
+      "chapterNo": 43,
+      "title": "건축 시공",
+      "titleEn": "Building Construction",
+      "vocabCount": 2,
+      "readingQs": 3,
+      "listenQs": 1,
+      "jsonFile": "chapter_43.json"
+    },
+    {
+      "chapterNo": 44,
+      "title": "토목 시공",
+      "titleEn": "Civil Engineering",
+      "vocabCount": 0,
+      "readingQs": 1,
+      "listenQs": 1,
+      "jsonFile": "chapter_44.json"
+    },
+    {
+      "chapterNo": 45,
+      "title": "농작물 재배",
+      "titleEn": "Crop Cultivation",
+      "vocabCount": 7,
+      "readingQs": 3,
+      "listenQs": 1,
+      "jsonFile": "chapter_45.json"
+    },
+    {
+      "chapterNo": 46,
+      "title": "사육 관리",
+      "titleEn": "Livestock Management",
+      "vocabCount": 3,
+      "readingQs": 1,
+      "listenQs": 1,
+      "jsonFile": "chapter_46.json"
+    },
+    {
+      "chapterNo": 47,
+      "title": "연안 어업과 양식",
+      "titleEn": "Coastal Fishery and Aquaculture",
+      "vocabCount": 0,
+      "readingQs": 1,
+      "listenQs": 1,
+      "jsonFile": "chapter_47.json"
+    },
+    {
+      "chapterNo": 48,
+      "title": "선체 건조",
+      "titleEn": "Ship Hull Construction",
+      "vocabCount": 3,
+      "readingQs": 1,
+      "listenQs": 1,
+      "jsonFile": "chapter_48.json"
+    },
+    {
+      "chapterNo": 49,
+      "title": "광물 자원 개발 생산",
+      "titleEn": "Mineral Resource Development and Production",
+      "vocabCount": 3,
+      "readingQs": 3,
+      "listenQs": 1,
+      "jsonFile": "chapter_49.json"
+    },
+    {
+      "chapterNo": 50,
+      "title": "산림 자원 조성",
+      "titleEn": "Forest Resource Management",
+      "vocabCount": 1,
+      "readingQs": 1,
+      "listenQs": 1,
+      "jsonFile": "chapter_50.json"
+    },
+    {
+      "chapterNo": 51,
+      "title": "숙박 서비스",
+      "titleEn": "Accomodation Services",
+      "vocabCount": 7,
+      "readingQs": 3,
+      "listenQs": 1,
+      "jsonFile": "chapter_51.json"
+    },
+    {
+      "chapterNo": 52,
+      "title": "음식 조리",
+      "titleEn": "Food Preparation",
+      "vocabCount": 4,
+      "readingQs": 1,
+      "listenQs": 1,
+      "jsonFile": "chapter_52.json"
+    },
+    {
+      "chapterNo": 53,
+      "title": "산업 안전 및 보건 표지",
+      "titleEn": "Industrial Safety and Health Signs",
+      "vocabCount": 0,
+      "readingQs": 1,
+      "listenQs": 1,
+      "jsonFile": "chapter_53.json"
+    },
+    {
+      "chapterNo": 54,
+      "title": "산업 안전 및 보건 수칙",
+      "titleEn": "Industrial Safety and Health Regulations",
+      "vocabCount": 1,
+      "readingQs": 1,
+      "listenQs": 1,
+      "jsonFile": "chapter_54.json"
+    },
+    {
+      "chapterNo": 55,
+      "title": "산업 안전 및 위생 장비",
+      "titleEn": "Industrial Safety and Hygiene Equipment",
+      "vocabCount": 4,
+      "readingQs": 1,
+      "listenQs": 1,
+      "jsonFile": "chapter_55.json"
+    },
+    {
+      "chapterNo": 56,
+      "title": "산업 재해 및 응급 처치",
+      "titleEn": "Industrial Accidents and First Aid",
+      "vocabCount": 2,
+      "readingQs": 1,
+      "listenQs": 1,
+      "jsonFile": "chapter_56.json"
+    },
+    {
+      "chapterNo": 57,
+      "title": "고용허가제",
+      "titleEn": "Employment Permit System",
+      "vocabCount": 1,
+      "readingQs": 1,
+      "listenQs": 1,
+      "jsonFile": "chapter_57.json"
+    },
+    {
+      "chapterNo": 58,
+      "title": "근로기준법",
+      "titleEn": "Labor Standards Act",
+      "vocabCount": 1,
+      "readingQs": 1,
+      "listenQs": 1,
+      "jsonFile": "chapter_58.json"
+    },
+    {
+      "chapterNo": 59,
+      "title": "출입국관리법",
+      "titleEn": "Immigration Act",
+      "vocabCount": 1,
+      "readingQs": 1,
+      "listenQs": 1,
+      "jsonFile": "chapter_59.json"
+    },
+    {
+      "chapterNo": 60,
+      "title": "근로자 보험",
+      "titleEn": "Employment Insurance",
+      "vocabCount": 0,
+      "readingQs": 1,
+      "listenQs": 1,
+      "jsonFile": "chapter_60.json"
+    }
+  ]
+}

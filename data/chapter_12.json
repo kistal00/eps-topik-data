@@ -1,0 +1,197 @@
+{
+  "version": 1,
+  "chapterNo": 12,
+  "title": "대중교통",
+  "titleEn": "Public Transportation",
+  "learningObjectives": [
+    "대중교통 이용에 대해 묻고 대답할 수 있다.",
+    "행동의 이유를 말할 수 있다.",
+    "• 교통수단과 관련된 어휘들을 말할 수 있다.",
+    "• 대중교통 이용에 대해 묻고 대답할 수 있다.",
+    "• 행동의 이유를 말할 수 있다."
+  ],
+  "vocabulary": [
+    {
+      "korean": "대중교통",
+      "english": "Public Transportation"
+    },
+    {
+      "korean": "타다",
+      "english": "to ride"
+    }
+  ],
+  "grammar": [
+    {
+      "point": "대중교통",
+      "explanation": "Public Transportation 대중교통 이용에 대해 묻고 대답할 수 있다. 학습 목표 Can ask and answer questions about using public transportation. LEARNING OBJECTIVES 행동의 이유를 말할 수 있다. Can express the reason for an action. 160 한국어 표준교재 1 CHAPTER 12 EPS-TOPIK 회사에서 시내까지 어떻게 가요? 버스로 가요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION (으)로(수단) 교통수단 관련 어휘 한국의 대중교통 -아서/어서(이유) Vocabulary Related to Public Transportation in Korea Transportation 이동 관련 어휘 Vocabulary Related to Movement 160 한국어 표준교재 1",
+      "examples": []
+    },
+    {
+      "point": "사와 결합하여 시작점과 종착점을",
+      "explanation": "또는 사용되는 도구나 재료를 나타낸다. 나타낸다. ‘(으)로’ combines with nouns to show the means or method of ‘~에서 ~까지’ combines with nouns an action, or the tool or material used. indicating places that show the starting point and destination. 받침 ○ 으로 트럭으로 받침 ×, 받침 ‘ㄹ’ 로 기차로, 지하철로 나 : 15분쯤 걸려요. 회사에 지하철로 가요. 가 : 한국에서 중국까지 어떻게 갔어요? 나 : 배로 갔어요.",
+      "examples": [
+        "예 가 : 여기에서 약국까지 얼마나 걸려요?",
+        "예 여기까지 마을버스로 왔어요."
+      ]
+    },
+    {
+      "point": "멀다 좋다 비싸다 친절하다 좋아하다",
+      "explanation": "[ 보기 ] 회사가 멀어서 차를 타고 가야 합니다. ⑴ 저는 커피를 매일 마십니다. ⑵ 날씨가 집까지 걸어갔습니다. ⑶ 수박이 너무 사지 않았습니다. ⑷ 다라 씨는 사람들이 다라 씨를 좋아합니다.",
+      "examples": []
+    }
+  ],
+  "conversations": [
+    {
+      "speaker": "사와",
+      "korean": "결합하여 시작점과 종착점을",
+      "english": ""
+    },
+    {
+      "speaker": "또는",
+      "korean": "사용되는 도구나 재료를 나타낸다.",
+      "english": ""
+    },
+    {
+      "speaker": "예 여기까지",
+      "korean": "마을버스로 왔어요.",
+      "english": ""
+    },
+    {
+      "speaker": "회사에",
+      "korean": "지하철로 가요.",
+      "english": ""
+    },
+    {
+      "speaker": "마 두 내일",
+      "korean": "공항에 가야 돼요.",
+      "english": ""
+    },
+    {
+      "speaker": "회사에서",
+      "korean": "공항까지 어떻게 가요?",
+      "english": "I need to go to the airport tomorrow."
+    },
+    {
+      "speaker": "진 수",
+      "korean": "버스로 가요.",
+      "english": "You can go by bus."
+    },
+    {
+      "speaker": "마 두 몇",
+      "korean": "번 버스를 타야 돼요?",
+      "english": "Which bus should I take?"
+    },
+    {
+      "speaker": "마 두",
+      "korean": "공항까지 버스로 얼마나 걸려요?",
+      "english": "How long does it take to get to the airport by bus?"
+    },
+    {
+      "speaker": "타고 가다",
+      "korean": "타고 오다 걸어가다 걸어오다",
+      "english": "to go by to come by to go on foot to come on foot"
+    },
+    {
+      "speaker": "출근 시간",
+      "korean": "퇴근 시간 출퇴근 시간 차가 막히다",
+      "english": "work start time work end time rush hour to have a traffic jam"
+    },
+    {
+      "speaker": "예 비가",
+      "korean": "와서 우산을 샀어요.",
+      "english": ""
+    },
+    {
+      "speaker": "할머니께서",
+      "korean": "편찮으셔서 병원에 모시고 갔어요.",
+      "english": ""
+    },
+    {
+      "speaker": "과일이",
+      "korean": "싱싱해서 몇 개 샀어요.",
+      "english": ""
+    },
+    {
+      "speaker": "멀다 좋다",
+      "korean": "비싸다 친절하다 좋아하다",
+      "english": ""
+    },
+    {
+      "speaker": "값이 싸다",
+      "korean": "날씨가 덥다 차가 막히다",
+      "english": ""
+    },
+    {
+      "speaker": "날씨가 좋다",
+      "korean": "회사에 늦다 집이 가깝다",
+      "english": ""
+    },
+    {
+      "speaker": "음식이",
+      "korean": "맛있다 비가 많이 오다",
+      "english": ""
+    },
+    {
+      "speaker": "아 궁",
+      "korean": "늦어서 미안해요. 퇴근 시간이라서",
+      "english": ""
+    },
+    {
+      "speaker": "차가 조금",
+      "korean": "막혔어요.",
+      "english": "S orry for being late. The traffic was a bit heavy"
+    },
+    {
+      "speaker": "자하라",
+      "korean": "괜찮아요. 여기까지 버스를 타고 왔어요?",
+      "english": "It's okay. Did you come by bus?"
+    },
+    {
+      "speaker": "아 궁",
+      "korean": "네. 자하라 씨는 어떻게 왔어요?",
+      "english": "Yes. How did you come, Zahara?"
+    },
+    {
+      "speaker": "자하라 저는",
+      "korean": "회사가 가까워서 걸어왔어요.",
+      "english": "My workplace is close, so I walked."
+    },
+    {
+      "speaker": "아 궁",
+      "korean": "회사에서 얼마나 걸렸어요?",
+      "english": "How long did it take from work?"
+    },
+    {
+      "speaker": "말씀해",
+      "korean": "주세요.",
+      "english": ""
+    }
+  ],
+  "readingQuestions": [
+    {
+      "id": "ch12_r001",
+      "questionKorean": "읽기 READING\n1. 다음 내용과 관계있는 그림을 고르십시오.\n버스입니다.",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④\n2. 다음 중 밑줄 친 부분이 맞는 것을 고르십시오."
+      ],
+      "correctAnswer": -1
+    }
+  ],
+  "listeningQuestions": [
+    {
+      "id": "ch12_l001",
+      "questionKorean": "듣기 LISTENING\n87\n1. 이 기차는 어디에서 출발합니까?",
+      "options": [
+        "① 광주역",
+        "② 대구역",
+        "③ 대전역",
+        "④ 서울역"
+      ],
+      "correctAnswer": -1,
+      "transcript": "듣기지문\n1. 남 : 우 리 열차는 6시 57분에 서울역을 출발해 대전역까지 가는 KTX 233호 열차입니다. 가지고 계신 승차권을 확인해 주시기\n바랍니다.\n2. 여 : 이 비행기는 하노이에서 인천까지 가는 한국항공 754편입니다. 목적지인 인천공항까지 약 4시간 20분 걸릴 것으로 예상\n됩니다.\n3. 남 : 회사에서 기차역까지 어떻게 가요?\n4. 여 : 근 처에 지하철역이 있어요?\n5. 남 : 다라 씨, 오늘 회사에 왜 늦었어요?\n12 대중교통 PUBLIC TRANSPORTATION 169"
+    }
+  ]
+}

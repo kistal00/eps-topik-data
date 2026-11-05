@@ -1,0 +1,227 @@
+{
+  "version": 1,
+  "chapterNo": 39,
+  "title": "금속 가공",
+  "titleEn": "Metal Processing",
+  "learningObjectives": [
+    "공구의 이름과 사용 방법을 말할 수 있다.",
+    "절단과 용접 작업에 대해 이야기할 수 있다.",
+    "• 공구의 이름과 사용 방법을 말할 수 있다.",
+    "• 절단과 용접 작업에 대해 이야기할 수 있다.",
+    "• 지시받은 내용을 다른 사람에게 전달할 수 있다."
+  ],
+  "vocabulary": [],
+  "grammar": [
+    {
+      "point": "금속 가공",
+      "explanation": "Metal Processing 공구의 이름과 사용 방법을 말할 수 있다. 학습 목표 Can talk about the names and usages of tools. LEARNING OBJECTIVES 절단과 용접 작업에 대해 이야기할 수 있다. Can talk about cutting and welding work. CHAPTER 39 EPS-TOPIK 오늘은 무슨 일을 해요? 반장님이 용접 작업을 하라고 했어요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -(으)라고 하다 작업용 공구 관련 어휘 그라인더 사용 시 주의 사항 -기 전에 Vocabulary Related to Workplace Safety Precautions When Using a Tools Grinder 절단 및 용접 관련 어휘 Vocabulary Related to Cutting and Welding 96 한국어 표준교재 2",
+      "examples": []
+    },
+    {
+      "point": "자를 곳에",
+      "explanation": "가 : 진수 씨가 뭐라고 했어요? 금을 그으세요. 나 : 자를 곳에 금을 그으라고 했어요. ⑴ ⑵ 못을 가 : 진 수 씨가 뭐라고 파이프를 가 : 진 수 씨가 뭐라고 박으세요. 자르세요. 했어요? 했어요? 나 : . 나 : . ⑶ ⑷ 바이스로 물체를 가 : 진 수 씨가 뭐라고 전기 드릴로 가 : 진 수 씨가 뭐라고 고정하세요. 구멍을 뚫으세요. 했어요? 했어요? 나 : . 나 : .",
+      "examples": []
+    }
+  ],
+  "conversations": [
+    {
+      "speaker": "예 닛차난",
+      "korean": "씨가 자재에 덮개를 덮으라고 했어요.",
+      "english": ""
+    },
+    {
+      "speaker": "마두 씨가",
+      "korean": "작업장을 청소하라고 했어요.",
+      "english": ""
+    },
+    {
+      "speaker": "반장님이",
+      "korean": "내일까지 제품을 다 만들라고 했어요.",
+      "english": ""
+    },
+    {
+      "speaker": "예 아궁",
+      "korean": "씨가 출근 시간에 늦지 말라고 했어요.",
+      "english": ""
+    },
+    {
+      "speaker": "자를",
+      "korean": "곳에",
+      "english": ""
+    },
+    {
+      "speaker": "금을",
+      "korean": "그으세요.",
+      "english": ""
+    },
+    {
+      "speaker": "반장님이",
+      "korean": "도면을 보고 부품을 가져오라고 했어요.",
+      "english": ""
+    },
+    {
+      "speaker": "부품을",
+      "korean": "가져오세요.",
+      "english": ""
+    },
+    {
+      "speaker": "공구가",
+      "korean": "미끄러우니까",
+      "english": ""
+    },
+    {
+      "speaker": "밀링 작업을",
+      "korean": "할 때",
+      "english": ""
+    },
+    {
+      "speaker": "사용한",
+      "korean": "공구는",
+      "english": ""
+    },
+    {
+      "speaker": "마 두 아궁",
+      "korean": "씨, 바쁘지 않으면 나 좀 도와줄래요?",
+      "english": ""
+    },
+    {
+      "speaker": "아 궁",
+      "korean": "네, 무슨 일이에요?",
+      "english": "Sure, what's up?"
+    },
+    {
+      "speaker": "마 두",
+      "korean": "반장님이 여기 있는 파이프를 자르라고 했어요.",
+      "english": ""
+    },
+    {
+      "speaker": "그런데 잘",
+      "korean": "못 자르겠어요.",
+      "english": "Banjangnim told me to cut the pipes here,"
+    },
+    {
+      "speaker": "아 궁 먼저",
+      "korean": "파이프를 바이스로 고정하세요. 그러면",
+      "english": ""
+    },
+    {
+      "speaker": "움직이지",
+      "korean": "않아서 자르기 쉬울 거예요.",
+      "english": "F irst, secure the pipe with a vise. That way,"
+    },
+    {
+      "speaker": "마 두",
+      "korean": "아, 그러면 얼른 바이스를 가져올게요. 알려 줘서 고마워요.",
+      "english": ""
+    },
+    {
+      "speaker": "아 궁",
+      "korean": "아니에요. 그런데 쇠톱으로 작업할 때에는 장갑을 꼭 끼고 하세요.",
+      "english": "No problem. Also, make sure to wear gloves when working with the hacksaw."
+    },
+    {
+      "speaker": "마 두",
+      "korean": "반장님, 오늘 용접 작업을 해야 되는데요. 전기 용접기와 가스 용접기 중에서 어느 게 좋을까요?",
+      "english": "Banjangnim, I need to do welding today. Should I use the electric welder or the gas welder?"
+    },
+    {
+      "speaker": "반장님 철판",
+      "korean": "두께가 어떻게 돼요?",
+      "english": ""
+    },
+    {
+      "speaker": "반장님",
+      "korean": "그러면 가스 용접기로 합시다. 얇은 철판은",
+      "english": ""
+    },
+    {
+      "speaker": "가스",
+      "korean": "용접기로 작업하는 게 더 좋아요.",
+      "english": ""
+    },
+    {
+      "speaker": "마 두",
+      "korean": "알겠습니다. 용접 방향은 오른쪽에서 왼쪽으로",
+      "english": ""
+    },
+    {
+      "speaker": "해야",
+      "korean": "되지요?",
+      "english": "G ot it. The welding direction should be from right to"
+    },
+    {
+      "speaker": "반장님",
+      "korean": "맞아요. 얇은 철판은 그렇게 하는 게 좋아요. 그리고 작업을 시작하기 전에 가스가 새는지",
+      "english": ""
+    },
+    {
+      "speaker": "불꽃에",
+      "korean": "다치다",
+      "english": ""
+    },
+    {
+      "speaker": "손을",
+      "korean": "다치다",
+      "english": ""
+    },
+    {
+      "speaker": "불꽃에",
+      "korean": "다치지 않게 조심하세요.",
+      "english": ""
+    },
+    {
+      "speaker": "그게",
+      "korean": "정말이에요?",
+      "english": ""
+    }
+  ],
+  "readingQuestions": [
+    {
+      "id": "ch39_r001",
+      "questionKorean": "읽기 READING\n1. 다음 내용과 관계있는 그림을 고르십시오.\n쇠톱입니다.",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④\n2. 다음 단어와 의미가 비슷한 말은 무엇입니까?"
+      ],
+      "correctAnswer": -1
+    },
+    {
+      "id": "ch39_r002",
+      "questionKorean": "가 얇은 철판은 판금 가위로 자르면 됩니다. 그러나 두꺼운 철판은 전기 절단기로\n잘라야 합니다.",
+      "options": [
+        "① 두께",
+        "② 깊이",
+        "③ 길이",
+        "④ 무게"
+      ],
+      "correctAnswer": -1
+    },
+    {
+      "id": "ch39_r003",
+      "questionKorean": "파이프가 움직이면 자르기 힘듭니다. 움직이지 않게 파이프를 .",
+      "options": [
+        "① 깎아야 합니다",
+        "② 고정해야 합니다",
+        "③ 끊어야 합니다",
+        "④ 측정해야 합니다"
+      ],
+      "correctAnswer": -1
+    }
+  ],
+  "listeningQuestions": [
+    {
+      "id": "ch39_l001",
+      "questionKorean": "듣기 LISTENING\n222\n1. 다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④\n2. 다음을 듣고 물음에 알맞은 대답을 고르십시오."
+      ],
+      "correctAnswer": -1,
+      "transcript": "듣기지문\n1. 여 : 공구함에 망치가 있을 거예요. 몇 개 갖다줄까요?\n남 : 두 개 갖다주세요. 고맙습니다.\n2. 여 : 용접이 힘들어요?\n3. 남 : 반장님이 표면을 깎으라고 하셨는데, 뭘로 깎아야 돼요?\n여 : 이건 금속이라서 줄로 깎아야 돼요. 공구함에 줄이 있을 거예요.\n4. 남 : 용접할 때 불꽃이 튈 수 있으니까 조심하세요.\n5. 여 : 마두 씨, 절단 작업은 다 끝났어요?\n남 : 네, 방금 다 했어요.\n여 : 그럼 자하라 씨한테 용접봉 좀 가져다주세요. 아까부터 찾고 있었어요.\n39 금속 가공 METAL PROCESSING 105"
+    }
+  ]
+}

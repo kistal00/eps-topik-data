@@ -1,0 +1,208 @@
+{
+  "version": 1,
+  "chapterNo": 2,
+  "title": "생활용품",
+  "titleEn": "Daily Necessities",
+  "learningObjectives": [
+    "물건의 이름을 묻고 대답할 수 있다.",
+    "지시어로 묻고 대답할 수 있다.",
+    "• 물건의 이름을 묻고 대답할 수 있다.",
+    "• 사무실 물건, 생활용품과 관련된 어휘들을 말할 수 있다.",
+    "• 지시어로 묻고 대답할 수 있다."
+  ],
+  "vocabulary": [
+    {
+      "korean": "생활용품",
+      "english": "Daily Necessities"
+    }
+  ],
+  "grammar": [
+    {
+      "point": "생활용품",
+      "explanation": "Daily Necessities 물건의 이름을 묻고 대답할 수 있다. 학습 목표 Can ask and answer the names of objects. LEARNING OBJECTIVES 지시어로 묻고 대답할 수 있다. Can ask and answer questions using demonstratives. 60 한국어 표준교재 1 CHAPTER 02 EPS-TOPIK 이건 뭐예요? 시계예요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION 이에요/예요 사무실 물건 한국에서 알뜰하게 이/가 아니에요 Office Supplies 생필품을 구입하는 팁 생활용품 Tips for Buying Daily Necessities Cheaply in Korea Daily Necessities 60 한국어 표준교재 1",
+      "examples": []
+    },
+    {
+      "point": "이에요/예요",
+      "explanation": "‘이에요/예요’는 격식을 차리지 ‘이에요/예요’는 주어의 속성을 나타내는 명사와 결합하여, 비격식적 않아도 되는 상황에서 친근하 게 말할 때 사용한다. ‘입니다’ 상황에서 듣는 사람을 높여 말하는 문장의 서술어가 된다. 는 회의나 발표와 같이 공식적 주어의 속성에 대하여 물을 때는 ‘이에요/예요?’를 사용하고 문장의 인 자리에서 예의를 갖추고 말 끝 부분을 올려 발음한다. 할 때 사용한다. ‘이에요/예요’ is combined with a noun that expresses the attribute ‘이에요/예요’ is used in friendly, of the subject and functions as the predicate in a sentence where informal situations. ‘입니다’ is the speaker elevates the listener in an informal setting. When used in formal settings like asking about the subject's attribute, ‘이에요/예요?’ is used, and the meetings or presentations. end of the sentence is pronounced with a rising intonation. 받침 ○ 이에요 컵 → 컵이에요 받침 × 예요 시계 → 시계예요 그건 안경이에요. 가 : 어느 나라 사람이에요? 나 : 베트남 사람이에요.",
+      "examples": [
+        "예 프엉 씨는 베트남 사람입니다.",
+        "예 이건 계산기예요."
+      ]
+    },
+    {
+      "point": "이/가 아니에요",
+      "explanation": "‘아니에요’는 ‘이에요’의 부정 표현 ‘이/가 아니에요’는 주어의 속성을 나타내는 명사와 결합하여 그 이다. ‘이/가 아니에요’는 격식적인 속성이 사실이 아님을 나타낸다. 상황에서는 ‘이/가 아닙니다’로 사용 된다. ‘이/가 아니에요’ combines with a noun that shows that an ‘이/가 아니에요’ is the negative form attribute of the subject is not true. of ‘이에요’. In formal situations ‘이/ 가 아닙니다’ is used. 받침 ○ 이 아니에요 지갑 → 지갑이 아니에요 받침 × 가 아니에요 의사 → 의사가 아니에요 그건 휴지가 아니에요. 가 : 이건 유수프 씨 우산이에요? 나 : 아니요, 유수프 씨 우산이 아니에요.",
+      "examples": [
+        "예 이건 화장품이 아닙니다.",
+        "예 저는 인도 사람이 아니에요."
+      ]
+    }
+  ],
+  "conversations": [
+    {
+      "speaker": "상황에서",
+      "korean": "듣는 사람을 높여 말하는 문장의 서술어가 된다.",
+      "english": ""
+    },
+    {
+      "speaker": "는 회의나",
+      "korean": "발표와 같이 공식적",
+      "english": ""
+    },
+    {
+      "speaker": "인 자리에서",
+      "korean": "예의를 갖추고 말",
+      "english": ""
+    },
+    {
+      "speaker": "끝 부분을",
+      "korean": "올려 발음한다.",
+      "english": ""
+    },
+    {
+      "speaker": "할 때",
+      "korean": "사용한다.",
+      "english": ""
+    },
+    {
+      "speaker": "예 프엉",
+      "korean": "씨는 베트남 사람입니다.",
+      "english": ""
+    },
+    {
+      "speaker": "예 이건",
+      "korean": "계산기예요.",
+      "english": ""
+    },
+    {
+      "speaker": "그건",
+      "korean": "안경이에요.",
+      "english": ""
+    },
+    {
+      "speaker": "자하라 유진",
+      "korean": "씨, 이건 뭐예요?",
+      "english": "Yujin, what is this?"
+    },
+    {
+      "speaker": "유 진",
+      "korean": "달력이에요.",
+      "english": ""
+    },
+    {
+      "speaker": "자하라 저건",
+      "korean": "뭐예요?",
+      "english": "What is that?"
+    },
+    {
+      "speaker": "유 진",
+      "korean": "아, 저건 시계예요.",
+      "english": ""
+    },
+    {
+      "speaker": "아래와 같은",
+      "korean": "줄임말을 주로 사용한다.",
+      "english": ""
+    },
+    {
+      "speaker": "예 이게",
+      "korean": "휴대폰이에요.",
+      "english": ""
+    },
+    {
+      "speaker": "예 이건",
+      "korean": "화장품이 아닙니다.",
+      "english": ""
+    },
+    {
+      "speaker": "예 저는",
+      "korean": "인도 사람이 아니에요.",
+      "english": ""
+    },
+    {
+      "speaker": "그건 휴지가",
+      "korean": "아니에요.",
+      "english": ""
+    },
+    {
+      "speaker": "유수프 아궁",
+      "korean": "씨, 이건 마두 씨의 가방이에요?",
+      "english": ""
+    },
+    {
+      "speaker": "아 궁",
+      "korean": "아니요, 제 가방이에요.",
+      "english": ""
+    },
+    {
+      "speaker": "유수프 이건",
+      "korean": "뭐예요?",
+      "english": "What is this?"
+    },
+    {
+      "speaker": "아 궁 마두",
+      "korean": "씨의 가족사진이에요.",
+      "english": ""
+    },
+    {
+      "speaker": "앞 명사가",
+      "korean": "뒤 명사의 소유주, 소속 기관임을",
+      "english": ""
+    },
+    {
+      "speaker": "나타내거나",
+      "korean": "앞뒤 명사 간에 관계가 있음을 나",
+      "english": ""
+    },
+    {
+      "speaker": "예 그건 제",
+      "korean": "열쇠예요.",
+      "english": ""
+    },
+    {
+      "speaker": "내일",
+      "korean": "뵙겠습니다.",
+      "english": ""
+    }
+  ],
+  "readingQuestions": [
+    {
+      "id": "ch02_r001",
+      "questionKorean": "연필입니다.",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④\n3. 다음 단어와 관계있는 것은 무엇입니까?"
+      ],
+      "correctAnswer": -1
+    }
+  ],
+  "listeningQuestions": [
+    {
+      "id": "ch02_l001",
+      "questionKorean": "시",
+      "options": [
+        "① 도",
+        "② 계",
+        "③ 내",
+        "④ 차"
+      ],
+      "correctAnswer": -1,
+      "transcript": "듣기지문\n1. 남 : 시계\n2. 여 : 이것은 달력입니다.\n3. 남 : 이건 휴대폰이에요?\n4. 여 : 이건 한국어로 뭐예요?\n5. 남 : 가방에 뭐가 있어요?\n여 : 열쇠하고 지갑이 있어요. 그리고 여권도 있어요.\n2 생활용품 DAILY NECESSITIES 69"
+    },
+    {
+      "id": "ch02_l002",
+      "questionKorean": "이것은 입니다.",
+      "options": [
+        "① 침대",
+        "② 달력",
+        "③ 지폐",
+        "④ 여권"
+      ],
+      "correctAnswer": -1,
+      "transcript": "듣기지문\n1. 남 : 시계\n2. 여 : 이것은 달력입니다.\n3. 남 : 이건 휴대폰이에요?\n4. 여 : 이건 한국어로 뭐예요?\n5. 남 : 가방에 뭐가 있어요?\n여 : 열쇠하고 지갑이 있어요. 그리고 여권도 있어요.\n2 생활용품 DAILY NECESSITIES 69"
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "version": 1,
+  "chapterNo": 43,
+  "title": "건축 시공",
+  "titleEn": "Building Construction",
+  "learningObjectives": [
+    "철근을 결속하는 방법과 이유에 대해 묻고 대답할 수 있다.",
+    "거푸집 설치 방법에 대해 묻고 대답할 수 있다.",
+    "• 철근을 결속하는 방법과 이유에 대해 묻고 대답할 수 있다.",
+    "• 거푸집 설치 방법에 대해 묻고 대답할 수 있다.",
+    "• 어떤 상황에 대한 추측을 말할 수 있다."
+  ],
+  "vocabulary": [
+    {
+      "korean": "거푸집",
+      "english": "formwork"
+    },
+    {
+      "korean": "공사장",
+      "english": "construction site"
+    }
+  ],
+  "grammar": [
+    {
+      "point": "건축 시공",
+      "explanation": "Building Construction CHAPTER 43 EPS-TOPIK 거푸집을 설치하고 나면 바로 콘크리트를 타설해요? 체결 상태를 점검해야 되니까 하루 이틀 정도는 기다려야 할걸요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -(으)ㄹ 텐데 철근 결속 관련 어휘 건설 현장의 중장비 -(으)ㄹ걸요 Vocabulary Related to Rebar Heavy Machinery at Construction Reinforcement Sites 거푸집 설치 관련 어휘 Vocabulary Related to Formwork Assembly 철근을 결속하는 방법과 이유에 대해 묻고 대답할 수 있다. 학습 목표 Can ask and answer questions about the methods and reasons for binding rebar. LEARNING OBJECTIVES 거푸집 설치 방법에 대해 묻고 대답할 수 있다. Can ask and answer questions about how to assemble formwork. 136 한국어 표준교재 2",
+      "examples": []
+    },
+    {
+      "point": "있다 춥다 비가 오다 실어야 하다 콘크리트를 타설하다",
+      "explanation": "[ 보기 ] 가 : 내일 콘크리트를 타설할 텐데 준비를 잘해 주세요. 나 : 네, 철근 결속 상태를 한 번 더 점검하겠습니다. ⑴ 가 : 결속선이 더 필요할 것 같은데 재고가 있어요? 나 : 창고에 결속선이 제가 확인해 보겠습니다. ⑵ 가 : 마두 씨, 냉동 창고에 들어가면 옷을 따뜻하게 입으세요. 나 : 네, 그럼 옷을 갈아입고 올게요. ⑶ 가 : 저녁에 시멘트를 옮겨야 하지 않을까요? 나 : 그래요? 그럼 제가 시멘트를 창고로 옮기고 퇴근하겠습니다. ⑷ 가 : 지금 차에 철근을 누가 좀 도와줄 수 있어요? 나 : 제가 방금 작업이 끝나 쉬고 있는데 도와드릴게요. 138 한국어 표준교재 2",
+      "examples": []
+    },
+    {
+      "point": "있다 되다 걸리다 식사하다 도착하다",
+      "explanation": "[ 보기 ] 가 : 콘크리트 믹서는 언제 와요? 나 : 오전에 출발했으니까 곧 도착할걸요. ⑴ 가 : 웨지핀이 부족한데 더 있을까요? 나 : 웨지핀은 창고에 더 . 창고에서 가져오면 될 거예요. ⑵ 가 : 기둥 거푸집 설치는 혼자 하면 되나요? 나 : 혼자 하면 오래 . 유수프 씨하고 같이 하세요. ⑶ 가 : 유수프 씨가 안 보이는데 어디에서 뭘 하고 있어요? 나 : 아마 식당에서 . 너무 바빠서 점심시간에 밥을 못 먹었거든요. ⑷ 가 : 다음에 무슨 작업을 할지 누구한테 물어보면 될까요? 나 : 반장님이 알고 있을 테니까 반장님한테 물어보면 .",
+      "examples": []
+    }
+  ],
+  "conversations": [
+    {
+      "speaker": "경이 됨을",
+      "korean": "나타낸다.",
+      "english": ""
+    },
+    {
+      "speaker": "예 내일은",
+      "korean": "타설 작업이 많을 텐데 미리 배근 상태를 확인해 봅시다.",
+      "english": ""
+    },
+    {
+      "speaker": "결속선을",
+      "korean": "두는 곳은 아미나 씨가 알 텐데 한번 물어보세요.",
+      "english": ""
+    },
+    {
+      "speaker": "날씨가 추울",
+      "korean": "텐데 옷을 따뜻하게 입고 가세요.",
+      "english": ""
+    },
+    {
+      "speaker": "있다 춥다",
+      "korean": "비가 오다 실어야 하다 콘크리트를 타설하다",
+      "english": ""
+    },
+    {
+      "speaker": "반장님",
+      "korean": "유수프 씨, 지금부터 철근을 결속해야 되는데 결속하는 방법은 알고 있죠?",
+      "english": "Yusuf, we will need to tie the rebar now. You know how to do it, right?"
+    },
+    {
+      "speaker": "유수프",
+      "korean": "네, 지난번에 해 봤습니다. 가로 철근과 세로 철근이 만나는",
+      "english": ""
+    },
+    {
+      "speaker": "교차점에",
+      "korean": "결속선을 묶으면 되죠?",
+      "english": ""
+    },
+    {
+      "speaker": "반장님",
+      "korean": "맞아요. 철근이 움직이지 않게 결속선을 꽉 묶어야 돼요.",
+      "english": ""
+    },
+    {
+      "speaker": "잘못 묶으면",
+      "korean": "콘크리트 무게 때문에 철근이 움직여요.",
+      "english": ""
+    },
+    {
+      "speaker": "결속",
+      "korean": "핸들하고 결속선은 가져왔죠?",
+      "english": ""
+    },
+    {
+      "speaker": "유수프",
+      "korean": "아, 아직 안 들고 왔습니다. 지금 바로 가지러 가겠습니다.",
+      "english": ""
+    },
+    {
+      "speaker": "반장님 창고",
+      "korean": "안이 복잡해서 찾기 힘들 텐데 내가 다녀올게요.",
+      "english": ""
+    },
+    {
+      "speaker": "며 문장의",
+      "korean": "끝부분을 올려 발음한다.",
+      "english": ""
+    },
+    {
+      "speaker": "예 오늘",
+      "korean": "작업한 상품은 내일 오전에 출고할걸요.",
+      "english": "light regret when spoken to oneself."
+    },
+    {
+      "speaker": "방금 염색",
+      "korean": "작업이 끝나서 작업장이 더러울걸요.",
+      "english": ""
+    },
+    {
+      "speaker": "있다 되다",
+      "korean": "걸리다 식사하다 도착하다",
+      "english": ""
+    },
+    {
+      "speaker": "콘크리트를",
+      "korean": "거푸집을",
+      "english": ""
+    },
+    {
+      "speaker": "타설하다",
+      "korean": "체결하다",
+      "english": ""
+    },
+    {
+      "speaker": "반장님",
+      "korean": "오늘은 거푸집을 설치해야 할 텐데 웨지핀하고",
+      "english": ""
+    },
+    {
+      "speaker": "플랫타이는",
+      "korean": "가져왔죠?",
+      "english": "T oday we need to assemble the formwork. Did you bring"
+    },
+    {
+      "speaker": "유수프",
+      "korean": "네, 가져왔습니다. 그런데 웨지핀하고 플랫타이를 어",
+      "english": ""
+    },
+    {
+      "speaker": "떻게",
+      "korean": "사용해야 돼요?",
+      "english": "Y es, I brought them. But how do I use the wedge pins and"
+    },
+    {
+      "speaker": "반장님 양",
+      "korean": "옆의 거푸집은 웨지핀으로 고정하고 마주보는",
+      "english": ""
+    },
+    {
+      "speaker": "거푸집은",
+      "korean": "플랫타이로 고정하면 돼요. 그리고 가장",
+      "english": ""
+    },
+    {
+      "speaker": "아래에 있는",
+      "korean": "거푸집은 콘크리트를 타설할 때 하중을",
+      "english": ""
+    },
+    {
+      "speaker": "많이",
+      "korean": "받으니까 플랫타이를 두 개씩 쓰고요.",
+      "english": "U se the wedge pins to fasten the formwork on both sides and the flat ties for the facing formwork."
+    },
+    {
+      "speaker": "유수프",
+      "korean": "알겠습니다. 그런데 거푸집을 설치하고 나면 바로 콘크리트를 타설해요?",
+      "english": "Got it. After fastening the formwork, do we pour the concrete right away?"
+    },
+    {
+      "speaker": "반장님 체결",
+      "korean": "상태도 확인하고, 타설 준비도 해야 되니까 하루이틀 정도는 기다려야 할걸요.",
+      "english": ""
+    },
+    {
+      "speaker": "잘 보고",
+      "korean": "따라 해 봐요.",
+      "english": ""
+    }
+  ],
+  "readingQuestions": [
+    {
+      "id": "ch43_r001",
+      "questionKorean": "읽기 READING\n1. 다음 그림과 관계있는 내용은 무엇입니까?",
+      "options": [
+        "① 굴착기 - 땅을 파요.",
+        "② 굴착기 - 흙을 깎아요.",
+        "③ 콘크리트 믹서 - 콘크리트를 다져요.",
+        "④ 콘크리트 믹서 - 콘크리트를 운반해요."
+      ],
+      "correctAnswer": -1
+    },
+    {
+      "id": "ch43_r002",
+      "questionKorean": "이제 을/를 설치해야 합니다. 이 작업에는 플랫타이와 웨지핀이 필요합니다.",
+      "options": [
+        "① 철근",
+        "② 건물",
+        "③ 시멘트",
+        "④ 거푸집"
+      ],
+      "correctAnswer": -1
+    },
+    {
+      "id": "ch43_r003",
+      "questionKorean": "오늘은 콘크리트를 날입니다. 곧 공사장에 콘크리트 믹서 트럭이 도착할 겁니다.",
+      "options": [
+        "① 타설하는",
+        "② 해체하는",
+        "③ 검사하는",
+        "④ 체결하는"
+      ],
+      "correctAnswer": -1
+    }
+  ],
+  "listeningQuestions": [
+    {
+      "id": "ch43_l001",
+      "questionKorean": "듣기 LISTENING\n242\n1. 다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④\n[2~3] 다음을 듣고 물음에 알맞은 대답을 고르십시오."
+      ],
+      "correctAnswer": -1,
+      "transcript": "듣기지문\n1. 남 : 유수프 씨는 지금 무슨 일을 하고 있어요?\n여 : 철근을 배근하고 있어요.\n2. 남 : 거푸집 설치하는 방법을 알아요?\n3. 여 : 철근을 묶을 때 뭐가 필요해요?\n4. 남 : 가장 아래층 거푸집을 설치할 때에는 플랫타이가 여러 개 필요해요.\n5. 여 : 거푸집 설치 작업도 끝났으니까 이제 콘크리트를 타설하겠네요.\n남 : 네, 내일 오후에 콘크리트 믹서가 도착할걸요.\n여 : 아, 그럼 오늘은 콘크리트 타설 작업이 없는 거네요.\n43 건축 시공 BUILDING CONSTRUCTION 145"
+    }
+  ]
+}

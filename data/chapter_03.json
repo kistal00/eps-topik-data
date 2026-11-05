@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "chapterNo": 3,
+  "title": "위치와 장소",
+  "titleEn": "Locations and Places",
+  "learningObjectives": [
+    "집에 있는 물건에 대해 말할 수 있다.",
+    "사람이나 물건이 있는 장소에 대해 말할 수 있다.",
+    "• 사람이나 물건이 있는 장소를 말할 수 있다.",
+    "• 장소를 묻고 대답할 수 있다."
+  ],
+  "vocabulary": [
+    {
+      "korean": "장소",
+      "english": "Places"
+    }
+  ],
+  "grammar": [
+    {
+      "point": "위치와 장소",
+      "explanation": "Locations and Places 집에 있는 물건에 대해 말할 수 있다. 학습 목표 Can talk about items at home. LEARNING OBJECTIVES 사람이나 물건이 있는 장소에 대해 말할 수 있다. Can talk about where a person or object is. CHAPTER 03 EPS-TOPIK 텔레비전은 어디에 있어요? 거실에 있어요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION 이/가 있어요, 없어요 가구와 전자제품 한국의 도시 에(장소) Furniture and Electronics Korea's Cities 장소 Places 70 한국어 표준교재 1",
+      "examples": []
+    },
+    {
+      "point": "이/가 있어요, 없어요",
+      "explanation": "‘이/가’는 명사와 결합하여 ‘이/가 있어요’는 사람이나 물건의 존재, 소유를 나타낸다. ‘이/가 없어요’는 문장의 주어임을 나타낸다. 존재하지 않거나 소유하고 있지 않을 때 사용한다. ‘이/가’ combines with a noun to indicate the subject of a ‘이/가 있어요’ shows the existence or possession of a person or object. sentence. ‘이/가 없어요’ is used when something does not exist or is not possessed. 책상 → 책상이 있어요 받침 ○ 이 있어요, 없어요 텔레비전 → 텔레비전이 없어요 소파 → 소파가 있어요 받침 × 가 있어요, 없어요 냉장고 → 냉장고가 없어요 의자가 있어요. 컴퓨터가 없어요. ※ 존 재나 소유에 대하여 물을 때는 형태 변화 없이 ‘이/가 있어요?, 없어요?’를 사용한다. When asking about the existence or possession of something, ‘이/가 있어요?, 없어요?’ is used.",
+      "examples": [
+        "예 이름이 뭐예요?",
+        "예 옷장이 있어요."
+      ]
+    }
+  ],
+  "conversations": [
+    {
+      "speaker": "예 이름이",
+      "korean": "뭐예요?",
+      "english": ""
+    },
+    {
+      "speaker": "예 옷장이",
+      "korean": "있어요.",
+      "english": ""
+    },
+    {
+      "speaker": "의자가",
+      "korean": "있어요.",
+      "english": ""
+    },
+    {
+      "speaker": "컴퓨터가",
+      "korean": "없어요.",
+      "english": ""
+    },
+    {
+      "speaker": "다라 침대가",
+      "korean": "있어요?",
+      "english": "Is there a bed?"
+    },
+    {
+      "speaker": "프엉",
+      "korean": "네, 침대가 있어요.",
+      "english": "Yes, there is a bed."
+    },
+    {
+      "speaker": "다라 옷장도",
+      "korean": "있어요?",
+      "english": "Is there also a closet?"
+    },
+    {
+      "speaker": "프엉",
+      "korean": "아니요, 옷장은 없어요. 소파가 있어요.",
+      "english": "No, there is no closet. There is a sofa."
+    },
+    {
+      "speaker": "어떤 것에",
+      "korean": "다른 것이 추가적으로",
+      "english": ""
+    },
+    {
+      "speaker": "의자도",
+      "korean": "있어요.",
+      "english": ""
+    },
+    {
+      "speaker": "예 왕민은",
+      "korean": "사무실에 있어요.",
+      "english": ""
+    },
+    {
+      "speaker": "침대는 방에",
+      "korean": "있어요.",
+      "english": ""
+    },
+    {
+      "speaker": "거실에",
+      "korean": "소파가 있어요.",
+      "english": ""
+    },
+    {
+      "speaker": "마 두",
+      "korean": "닛차난 씨는 어디에 있어요?",
+      "english": "Where is Nitchanan?"
+    },
+    {
+      "speaker": "자하라",
+      "korean": "식당에 있어요.",
+      "english": "She is at the restaurant."
+    },
+    {
+      "speaker": "마 두",
+      "korean": "아지자 씨도 식당에 있어요?",
+      "english": "Is Aziza also at the restaurant?"
+    },
+    {
+      "speaker": "자하라",
+      "korean": "아니요, 아지자 씨는 미용실에 있어요.",
+      "english": "No, Aziza is at the hair salon."
+    }
+  ],
+  "readingQuestions": [
+    {
+      "id": "ch03_r001",
+      "questionKorean": "읽기 READING\n1. 다음 내용과 관계있는 그림을 고르십시오.\n의자입니다.",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④\n2. 다음 단어와 관계있는 것은 무엇입니까?"
+      ],
+      "correctAnswer": -1
+    }
+  ],
+  "listeningQuestions": [
+    {
+      "id": "ch03_l001",
+      "questionKorean": "듣기 LISTENING\n42\n1. 다음을 듣고 빈칸에 알맞은 것을 고르십시오.\n여기는 입니다.",
+      "options": [
+        "① 은행",
+        "② 식당",
+        "③ 시장",
+        "④ 약국"
+      ],
+      "correctAnswer": -1,
+      "transcript": "듣기지문\n1. 남 : 여기는 은행입니다.\n2. 남 : 의자가 있어요?\n3. 여 : 시장에 어떻게 갔어요?\n4. 남 : 집에 에어컨이 있어요?\n여 : 에어컨은 없어요. 선풍기가 있어요.\n5. 남 : 근처에 시장이 있어요?\n3 위치와 장소 LOCATIONS AND PLACES 79"
+    }
+  ]
+}

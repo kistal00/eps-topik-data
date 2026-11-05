@@ -1,0 +1,170 @@
+{
+  "version": 1,
+  "chapterNo": 36,
+  "title": "출하 관리",
+  "titleEn": "Shipment Management",
+  "learningObjectives": [
+    "포장 작업 과정에 대해 듣고 이해할 수 있다.",
+    "출하 작업 진행 상황에 대해 말할 수 있다.",
+    "• 포장 작업 과정에 대해 듣고 이해할 수 있다.",
+    "• 출하 작업 진행 상황에 대해 말할 수 있다.",
+    "• 자신이 할 일에 대해 상대방에게 말할 수 있다."
+  ],
+  "vocabulary": [],
+  "grammar": [
+    {
+      "point": "출하 관리",
+      "explanation": "Shipment Management 포장 작업 과정에 대해 듣고 이해할 수 있다. 학습 목표 Can listen to and understand the elements of the packaging process. LEARNING OBJECTIVES 출하 작업 진행 상황에 대해 말할 수 있다. Can talk about the progress of the shipping process. CHAPTER 36 EPS-TOPIK 출하 준비를 아주 잘했네요. 감사합니다. 그럼, 출하 시간에 맞춰 차에 실어 놓겠습니다. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -(으)ㄴ 포장 및 적재 작업 관련 어휘 한국의 무역 특성 -겠- Vocabulary Related to Packaging Characteristics of Korean Trade and Loading Work 출하 관리 관련 어휘 Vocabulary Related to Shipment Management 66 한국어 표준교재 2",
+      "examples": []
+    },
+    {
+      "point": "제가 여기에 둔 포장 기준서 못 봤어요?",
+      "explanation": "파렛트에 쌓아 놓은 물건을 창고로 옮기세요.",
+      "examples": []
+    },
+    {
+      "point": "아궁 씨, 좀 도와주시겠습니까?",
+      "explanation": "",
+      "examples": []
+    }
+  ],
+  "conversations": [
+    {
+      "speaker": "아 궁",
+      "korean": "반장님, 이제 포장 작업을 시작하면 될까요?",
+      "english": "Banjangnim, can we start the packaging process now?"
+    },
+    {
+      "speaker": "반장님",
+      "korean": "상자하고 포장지, 완충재 모두 갖다 놓았지요?",
+      "english": "You have prepared the boxes, packaging material,"
+    },
+    {
+      "speaker": "아 궁",
+      "korean": "네, 작업장에 준비해 놓았어요.",
+      "english": "Y es, I have prepared and put everything on the work space."
+    },
+    {
+      "speaker": "반장님",
+      "korean": "포장할 때 완충재로 제품을 꼼꼼하게 싸는 게",
+      "english": ""
+    },
+    {
+      "speaker": "손상될 수",
+      "korean": "있어요.",
+      "english": ""
+    },
+    {
+      "speaker": "반장님",
+      "korean": "맞아요. 포장이 끝난 상자는 크기별로 분류해서 파렛트에 쌓아 놓으세요 .",
+      "english": ""
+    },
+    {
+      "speaker": "음은",
+      "korean": "된소리로 발음한다.",
+      "english": ""
+    },
+    {
+      "speaker": "입고하다",
+      "korean": "출고하다 검수하다 운반하다",
+      "english": ""
+    },
+    {
+      "speaker": "지게차 핸드",
+      "korean": "파렛트 핸드 카트 대차",
+      "english": "forklift hand pallet hand trolley dolly"
+    },
+    {
+      "speaker": "예 재 고",
+      "korean": "정리를 잘해서 재고 파악이 쉽겠어요.",
+      "english": ""
+    },
+    {
+      "speaker": "예 처음",
+      "korean": "뵙겠습니다.",
+      "english": ""
+    },
+    {
+      "speaker": "아궁",
+      "korean": "씨, 좀 도와주시겠습니까?",
+      "english": ""
+    },
+    {
+      "speaker": "옮겨야",
+      "korean": "돼요.",
+      "english": ""
+    },
+    {
+      "speaker": "관리자 오늘",
+      "korean": "납품할 상품은 모두 준비됐지요?",
+      "english": "Are all the products ready for delivery today?"
+    },
+    {
+      "speaker": "마 두",
+      "korean": "네, 이쪽에 있는 물건들이 오늘 출하할",
+      "english": ""
+    },
+    {
+      "speaker": "관리자 한번",
+      "korean": "봅시다. 수량도 맞고 상자에 라벨도",
+      "english": ""
+    },
+    {
+      "speaker": "빠짐없이",
+      "korean": "붙여 놓았네요. 수고했어요.",
+      "english": ""
+    },
+    {
+      "speaker": "마 두",
+      "korean": "아닙니다. 그럼, 출하 시간에 맞춰서",
+      "english": ""
+    },
+    {
+      "speaker": "상자를 차에",
+      "korean": "실어 놓겠습니다.",
+      "english": "Thank you. Then, I will load the boxes onto the vehicle in time for the shipping."
+    },
+    {
+      "speaker": "관리자",
+      "korean": "출하량이 많으니까 지게차로 옮기는 게 좋겠어요. 그리고 차에 상자를 실을 때 너무 높게 쌓지 마세요.",
+      "english": ""
+    },
+    {
+      "speaker": "운송할 때",
+      "korean": "위험할 수 있어요.",
+      "english": ""
+    },
+    {
+      "speaker": "안부 전해",
+      "korean": "주세요.",
+      "english": ""
+    }
+  ],
+  "readingQuestions": [
+    {
+      "id": "ch36_r001",
+      "questionKorean": "읽기 READING\n1. 다음 내용과 관계있는 그림을 고르십시오.\n지게차입니다.",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④\n2. 다음 중 밑줄 친 부분이 맞는 문장을 고르십시오."
+      ],
+      "correctAnswer": -1
+    }
+  ],
+  "listeningQuestions": [
+    {
+      "id": "ch36_l001",
+      "questionKorean": "듣기 LISTENING\n207\n1. 다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④\n2. 다음을 듣고 물음에 알맞은 대답을 고르십시오."
+      ],
+      "correctAnswer": -1,
+      "transcript": "듣기지문\n1. 여 : 오전에 무슨 작업을 했어요?\n남 : 납품할 물건을 트럭에 실었어요.\n2. 여 : 어떻게 상자를 운반했어요?\n3. 남 : 상자를 차에 옮겨 실으면 될까요?\n여 : 네, 위험할 수 있으니까 너무 높게 쌓지 않도록 하세요.\n4. 여 : 상자와 완충재를 얼마나 준비할까요?\n5. 남 : 아까 부탁한 방청지 갖다 놓았지요?\n여 : 죄송해요. 제품을 분류하느라 아직 준비 못 했어요.\n남 : 곧 포장 작업을 시작해야 되니까 얼른 가져오세요.\n여 : 네, 바로 가서 준비하겠습니다.\n36 출하 관리 SHIPMENT MANAGEMENT 75"
+    }
+  ]
+}

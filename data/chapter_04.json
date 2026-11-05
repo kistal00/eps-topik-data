@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "chapterNo": 4,
+  "title": "동작과 사물",
+  "titleEn": "Actions and Objects",
+  "learningObjectives": [
+    "하고 있는 일을 말할 수 있다.",
+    "무엇을 하는지 묻고 대답할 수 있다.",
+    "질문, 명령, 요청의 상황에서 모두 사용할 수 있다.",
+    "사용할 수 있다.",
+    "• 지금 하고 있는 일을 말할 수 있다.",
+    "• 동작 및 사물에 관한 어휘들을 말할 수 있다.",
+    "• 무엇을 하는지 묻고 대답할 수 있다."
+  ],
+  "vocabulary": [],
+  "grammar": [
+    {
+      "point": "동작과 사물",
+      "explanation": "Actions and Objects 하고 있는 일을 말할 수 있다. 학습 목표 Can talk about what someone is doing. LEARNING OBJECTIVES 무엇을 하는지 묻고 대답할 수 있다. Can ask and answer what someone is doing. 80 한국어 표준교재 1 CHAPTER 04 EPS-TOPIK 지금 뭐 해요? 쇼핑해요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -아요/어요 일상 관련 동작 동사 한국의 좌식 문화 을/를 Verbs Related to Everyday Life Korea's Floor-sitting Culture 일상 관련 명사 Nouns Related to Everyday Life 80 한국어 표준교재 1",
+      "examples": []
+    },
+    {
+      "point": "을/를",
+      "explanation": "‘동작 명사+-하다’ 용언은 의미 변화 ‘을/를’은 명사와 결합하여 문장의 목적어임을 나타낸다. 없이 ‘동작 명사+을/를 하다’의 형태로 사용할 수 있다. ‘을/를’ combines with a noun to show the object of a sentence. The verb form ‘(action noun)+ -하다’ can be used as ‘(action noun)+을/를 하다’ 받침 ○ 을 밥을 without changing the meaning. 받침 × 를 사과를 전화해요 → 전화를 해요. 자야 씨는 지금 책을 읽어요. 민민아웅 씨는 오늘 영화를 봐요.",
+      "examples": [
+        "예 운동해요 → 운동을 해요.",
+        "예 왕민 씨는 밥을 먹어요."
+      ]
+    }
+  ],
+  "conversations": [
+    {
+      "speaker": "예 칼로",
+      "korean": "씨는 자요.",
+      "english": ""
+    },
+    {
+      "speaker": "프엉 씨는",
+      "korean": "일해요.",
+      "english": ""
+    },
+    {
+      "speaker": "유수프 씨는",
+      "korean": "공부해요.",
+      "english": ""
+    },
+    {
+      "speaker": "진수 다라",
+      "korean": "씨는 뭐 해요?",
+      "english": "What is Dara doing?"
+    },
+    {
+      "speaker": "프엉 다라",
+      "korean": "씨는 요리해요.",
+      "english": "Dara is cooking."
+    },
+    {
+      "speaker": "진수 닛차난",
+      "korean": "씨도 요리해요?",
+      "english": "Is Nitchanan also cooking?"
+    },
+    {
+      "speaker": "프엉",
+      "korean": "아니요, 닛차난 씨는 운동해요.",
+      "english": "No, Nitchanan is exercising."
+    },
+    {
+      "speaker": "물을 물을",
+      "korean": "때 사용한다.",
+      "english": ""
+    },
+    {
+      "speaker": "예 지금 뭐",
+      "korean": "해요?",
+      "english": ""
+    },
+    {
+      "speaker": "사용할 수",
+      "korean": "있다.",
+      "english": ""
+    },
+    {
+      "speaker": "예 왕민",
+      "korean": "씨는 밥을 먹어요.",
+      "english": ""
+    },
+    {
+      "speaker": "자야 씨는",
+      "korean": "지금 책을 읽어요.",
+      "english": ""
+    },
+    {
+      "speaker": "민민아웅",
+      "korean": "씨는 오늘 영화를 봐요.",
+      "english": ""
+    },
+    {
+      "speaker": "신문 물 책",
+      "korean": "밥 주스 텔레비전",
+      "english": ""
+    },
+    {
+      "speaker": "물 책 과자",
+      "korean": "영화",
+      "english": ""
+    },
+    {
+      "speaker": "커피 사과",
+      "korean": "신문 우유",
+      "english": ""
+    },
+    {
+      "speaker": "프엉 왕민",
+      "korean": "씨, 지금 뭐 해요?",
+      "english": "Wangmin, what are you doing now?"
+    },
+    {
+      "speaker": "왕민 저는",
+      "korean": "텔레비전을 봐요.",
+      "english": ""
+    },
+    {
+      "speaker": "프엉 씨도",
+      "korean": "지금 텔레비전을 봐요?",
+      "english": "I'm watching TV."
+    },
+    {
+      "speaker": "프엉",
+      "korean": "아니요. 저는 밥을 먹어요.",
+      "english": "No, I'm eating."
+    }
+  ],
+  "readingQuestions": [
+    {
+      "id": "ch04_r001",
+      "questionKorean": "공부를 하고 있습니다.",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④\n[3~4] 다음 중 밑줄 친 부분이 맞는 문장을 고르십시오."
+      ],
+      "correctAnswer": -1
+    }
+  ],
+  "listeningQuestions": [
+    {
+      "id": "ch04_l001",
+      "questionKorean": "듣기 LISTENING\n47\n1. 다음을 듣고 빈칸에 알맞은 것을 고르십시오.\n이것은 입니다.",
+      "options": [
+        "① 사과",
+        "② 바지",
+        "③ 과자",
+        "④ 소파"
+      ],
+      "correctAnswer": -1,
+      "transcript": "듣기지문\n1. 남 : 이것은 사과입니다.\n2. 여 : 지금 뭐 해요?\n남 : 운동해요.\n3. 여 : 지금 뭐 해요?\n남 : 텔레비전을 봐요.\n4. 남 : 주스를 마셔요?\n5. 남 : 유진 씨는 뭐 해요?\n4 동작과 사물 ACTIONS AND OBJECTS 89"
+    }
+  ]
+}

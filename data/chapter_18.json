@@ -1,0 +1,278 @@
+{
+  "version": 1,
+  "chapterNo": 18,
+  "title": "취미",
+  "titleEn": "Hobbies",
+  "learningObjectives": [
+    "취미에 대해 말할 수 있다.",
+    "좋아하는 운동에 대해 말할 수 있다.",
+    "‘-는 거예요’로 줄여서 사용할 수 있다.",
+    "종성에만 올 수 있다.",
+    "때 사용할 수 있다.",
+    "• 취미에 대해 말할 수 있다.",
+    "• 좋아하는 운동에 대해 말할 수 있다.",
+    "• 어떤 일을 함께 할 것을 제안할 수 있다."
+  ],
+  "vocabulary": [
+    {
+      "korean": "취미",
+      "english": "Hobbies"
+    }
+  ],
+  "grammar": [
+    {
+      "point": "취미",
+      "explanation": "Hobbies 취미에 대해 말할 수 있다. 학습 목표 Can talk about hobbies. LEARNING OBJECTIVES 좋아하는 운동에 대해 말할 수 있다. Can talk about favorite sports. 220 한국어 표준교재 1 CHAPTER 18 EPS-TOPIK 저는 축구하는 것을 좋아해요. 저도 축구를 좋아해요. 이번 주말에 같이 축구할까요? 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -는 것 취미 관련 어휘 한국인의 여가 생활 -(으)ㄹ까요? Vocabulary Related to Hobbies Korea People's Leisure Activities 운동 관련 어휘 Vocabulary Related to Sports 220 한국어 표준교재 1",
+      "examples": []
+    },
+    {
+      "point": "여행하다 외국어를 배우다",
+      "explanation": "⑵ ⑶ 가 : 같이 사진을 찍을래요? 가 : 왜 기숙사에 살아요? 나 : 저는 을 나 : 기숙사가 편해서 안 좋아해요. 이 좋아요. 사진을 찍다 기숙사에 살다",
+      "examples": []
+    },
+    {
+      "point": "나 상대방의 제안을 승낙할",
+      "explanation": "‘-(으)ㄹ까요?’ is attached to a verb to suggest something or ask for 때 사용할 수 있다. someone’s opinion. ‘-아요/어요’ is also attached 받침 ○ -을까요? 먹다 → 먹을까요? to a verb to suggest doing something together or to 받침 , 받침 ‘ㄹ’ -ㄹ까요? 가다 → 갈까요? accept a suggestion. × 만들다 → 만들까요? 우리 주말에 뭐 할까요? 가 : 같이 저녁을 만들까요? 나 : 네, 좋아요.",
+      "examples": [
+        "예 우리 같이 저녁을 먹어요.",
+        "예 내일 같이 점심 먹을까요?"
+      ]
+    }
+  ],
+  "conversations": [
+    {
+      "speaker": "독서하다",
+      "korean": "외국어를 배우다 음악을 듣다 낚시하다 여행하다",
+      "english": ""
+    },
+    {
+      "speaker": "노래하다",
+      "korean": "영화를 보다 그림을 그리다 등산하다 사진을 찍다",
+      "english": "to sing to watch movies to draw to hike to take photos"
+    },
+    {
+      "speaker": "기타를 치다",
+      "korean": "피아노를 치다 춤을 추다 운동 경기를 보다 콘서트를 보다",
+      "english": "to play the guitar to play the piano to dance to watch sports to go to concerts"
+    },
+    {
+      "speaker": "저는 한국",
+      "korean": "음식을 만드는 것이 재미있어요.",
+      "english": ""
+    },
+    {
+      "speaker": "예 영 화",
+      "korean": "보는 거 좋아해요.",
+      "english": ""
+    },
+    {
+      "speaker": "예 저는",
+      "korean": "친구하고 여행하는 게 좋아요.",
+      "english": ""
+    },
+    {
+      "speaker": "여행하다",
+      "korean": "외국어를 배우다",
+      "english": ""
+    },
+    {
+      "speaker": "사진을 찍다",
+      "korean": "기숙사에 살다",
+      "english": ""
+    },
+    {
+      "speaker": "왕 민 자야",
+      "korean": "씨는 취미가 뭐예요?",
+      "english": "Jaya, what is your hobby?"
+    },
+    {
+      "speaker": "자 야 제",
+      "korean": "취미는 등산이에요. 왕민 씨는 시간이",
+      "english": ""
+    },
+    {
+      "speaker": "있을 때 뭐",
+      "korean": "해요?",
+      "english": "M y hobby is hiking. What do you do in your free"
+    },
+    {
+      "speaker": "왕 민 전",
+      "korean": "영화 보는 것을 좋아해서 영화관에",
+      "english": ""
+    },
+    {
+      "speaker": "자주",
+      "korean": "가요.",
+      "english": "I like watching movies, so I often go to the cinema."
+    },
+    {
+      "speaker": "자 야 저도",
+      "korean": "영화 보는 것을 좋아해요.",
+      "english": "I like watching movies too."
+    },
+    {
+      "speaker": "왕 민 그럼",
+      "korean": "자야 씨도 영화관에 자주 가요?",
+      "english": "Then do you often go to the cinema too, Jaya?"
+    },
+    {
+      "speaker": "자 야",
+      "korean": "아니요, 저는 보통 집에서 인터넷으로 영화를 봐요.",
+      "english": "N o, I usually watch movies at home on the internet."
+    },
+    {
+      "speaker": "종성에만 올",
+      "korean": "수 있다.",
+      "english": ""
+    },
+    {
+      "speaker": "축구 농구",
+      "korean": "야구 수영 조깅",
+      "english": "soccer basketball baseball swimming jogging"
+    },
+    {
+      "speaker": "테니스",
+      "korean": "배드민턴 볼링 골프",
+      "english": "tennis badminton bowling golf"
+    },
+    {
+      "speaker": "스케이트",
+      "korean": "스키 자전거",
+      "english": "skate ski bicycle"
+    },
+    {
+      "speaker": "물을 때",
+      "korean": "사용한다. 같이 행동할 것을 제안하거",
+      "english": ""
+    },
+    {
+      "speaker": "나 상대방의",
+      "korean": "제안을 승낙할",
+      "english": ""
+    },
+    {
+      "speaker": "때 사용할",
+      "korean": "수 있다.",
+      "english": ""
+    },
+    {
+      "speaker": "예 우리",
+      "korean": "같이 저녁을 먹어요.",
+      "english": ""
+    },
+    {
+      "speaker": "예 내일",
+      "korean": "같이 점심 먹을까요?",
+      "english": ""
+    },
+    {
+      "speaker": "우리 주말에",
+      "korean": "뭐 할까요?",
+      "english": ""
+    },
+    {
+      "speaker": "영화를 보다",
+      "korean": "점심을 먹다",
+      "english": ""
+    },
+    {
+      "speaker": "볼링을 치다",
+      "korean": "만나다",
+      "english": ""
+    },
+    {
+      "speaker": "민 수 아궁",
+      "korean": "씨, 무슨 운동을 좋아해요?",
+      "english": "Agung, what sports do you like?"
+    },
+    {
+      "speaker": "아 궁 저는",
+      "korean": "축구를 좋아해요. 민수 씨는요?",
+      "english": "I like soccer. What about you, Minsu?"
+    },
+    {
+      "speaker": "민 수 저도",
+      "korean": "축구를 좋아해요. 그래서 토요일마다",
+      "english": ""
+    },
+    {
+      "speaker": "동호회",
+      "korean": "친구들하고 같이 축구를 해요.",
+      "english": "I like soccer too, so I play soccer with my soccer"
+    },
+    {
+      "speaker": "아 궁",
+      "korean": "그래요? 저도 같이 하고 싶어요.",
+      "english": ""
+    },
+    {
+      "speaker": "민 수 그럼",
+      "korean": "이번 주말에 같이 축구할까요?",
+      "english": "Then shall we play soccer together this weekend?"
+    },
+    {
+      "speaker": "아 궁",
+      "korean": "네, 좋아요. 이번 주말에 만나요.",
+      "english": "Yes, sounds good. See you this weekend."
+    },
+    {
+      "speaker": "치다 이번",
+      "korean": "주말에 같이 농구할까요?",
+      "english": ""
+    },
+    {
+      "speaker": "먼저",
+      "korean": "들어가세요.",
+      "english": ""
+    }
+  ],
+  "readingQuestions": [
+    {
+      "id": "ch18_r001",
+      "questionKorean": "읽기 READING\n1. 다음 내용과 관계있는 그림을 고르십시오.\n영화를 보고 있습니다.",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④\n2. 다음 중 밑줄 친 부분이 맞는 문장을 고르십시오."
+      ],
+      "correctAnswer": -1
+    },
+    {
+      "id": "ch18_r002",
+      "questionKorean": "제 취미는 입니다. 그래서 저는 시간이 있을 때마다 바다에 가서 물고기를\n잡습니다.",
+      "options": [
+        "① 여행",
+        "② 등산",
+        "③ 낚시",
+        "④ 독서"
+      ],
+      "correctAnswer": -1
+    },
+    {
+      "id": "ch18_r003",
+      "questionKorean": "저는 을/를 좋아합니다. 주말마다 회사 동료들과 축구를 하거나 배드민턴을\n칩니다.",
+      "options": [
+        "① 운동",
+        "② 음식",
+        "③ 날씨",
+        "④ 쇼핑"
+      ],
+      "correctAnswer": -1
+    }
+  ],
+  "listeningQuestions": [
+    {
+      "id": "ch18_l001",
+      "questionKorean": "듣기 LISTENING\n117\n1. 다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④\n[2~3] 다음을 듣고 물음에 알맞은 대답을 고르십시오."
+      ],
+      "correctAnswer": -1,
+      "transcript": "듣기지문\n1. 여 : 왕민 씨, 무슨 운동을 좋아해요?\n남 : 저는 축구를 좋아해요.\n2. 남 : 영화가 재미있어요?\n3. 남 : 언제 운동 경기를 봐요?\n4. 남 : 저는 영화 보는 것을 좋아해서 영화관에 자주 가요. 딜로바 씨는요?\n여 : 저는 등산을 좋아해요.\n5. 남 : 자야 씨, 주말에 뭐 했어요?\n여 : 저는 콘서트를 봤어요. 마두 씨는요?\n남 : 저는 친구를 만났어요. 친구랑 점심을 먹고 공원에 가서 배드민턴을 쳤어요.\n18 취미 HOBBIES 229"
+    }
+  ]
+}

@@ -1,0 +1,301 @@
+{
+  "version": 1,
+  "chapterNo": 8,
+  "title": "가족과 친구",
+  "titleEn": "Family and Friends",
+  "learningObjectives": [
+    "가족과 친구에 대해 묻고 대답할 수 있다.",
+    "외모와 성격에 대해 말할 수 있다.",
+    "• 가족과 친구에 대해 묻고 대답할 수 있다.",
+    "• 외모와 성격에 대해 말할 수 있다.",
+    "• 높임말을 사용하여 말할 수 있다."
+  ],
+  "vocabulary": [
+    {
+      "korean": "자매",
+      "english": "sisters"
+    },
+    {
+      "korean": "남매",
+      "english": "brother"
+    }
+  ],
+  "grammar": [
+    {
+      "point": "가족과 친구",
+      "explanation": "Family and Friends 가족과 친구에 대해 묻고 대답할 수 있다. 학습 목표 Can ask and answer questions about family and friends. LEARNING OBJECTIVES 외모와 성격에 대해 말할 수 있다. Can talk about appearance and personality. CHAPTER 08 EPS-TOPIK 아버지께서 키가 크시네요. 키가 크고 멋있으세요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -(으)시- 가족 높임말과 반말 -고 Family Honorific Language and Non- honorific (Banmal) 외모와 성격 Appearances and Personality 120 한국어 표준교재 1",
+      "examples": []
+    },
+    {
+      "point": "두 가지 이상의 행위를 시간적인 순서",
+      "explanation": "‘-고’는 동사, 형용사에 붙여 두 가지 이상의 상태, 행위, 사실을 대로 연결할 때에도 ‘-고’를 사용한다. 나열함을 나타낸다. ‘-고’ is also used to connect two or more actions in chronological order. ‘-고’ is attached to verbs and adjectives to list two or more states, actions, or facts. 예 카림 씨는 운동을 하고 샤워했어요. 저는 음식을 만들고 민민아웅 씨는 설거지를 해요. 다라 씨는 캄보디아 사람이고 칼로 씨는 필리핀 사람이에요.",
+      "examples": [
+        "예 닛차난 씨는 키가 크고 머리가 길어요."
+      ]
+    }
+  ],
+  "conversations": [
+    {
+      "speaker": "예 아",
+      "korean": "버지께서는 회사원이십니다.",
+      "english": ""
+    },
+    {
+      "speaker": "어머니께서",
+      "korean": "음식을 만드십니다.",
+      "english": ""
+    },
+    {
+      "speaker": "할아버지께서",
+      "korean": "신문을 읽으십니다.",
+      "english": ""
+    },
+    {
+      "speaker": "왕민 씨는",
+      "korean": "기숙사에 있어요. 반장님께서는 사무실에 계세요.",
+      "english": ""
+    },
+    {
+      "speaker": "마 두 프엉",
+      "korean": "씨, 어머니께서 한국에 계세요?",
+      "english": "Phuong, is your mother in Korea?"
+    },
+    {
+      "speaker": "프 엉",
+      "korean": "네, 같이 살아요.",
+      "english": "Yes, she lives with me."
+    },
+    {
+      "speaker": "마 두",
+      "korean": "어머니께서는 한국에서 무슨 일을 하세요?",
+      "english": "What does your mother do in Korea?"
+    },
+    {
+      "speaker": "프 엉",
+      "korean": "베트남 식당에서 일하세요. 어머니께서",
+      "english": ""
+    },
+    {
+      "speaker": "요리를",
+      "korean": "잘하세요.",
+      "english": "She works at a Vietnamese restaurant. She is good"
+    },
+    {
+      "speaker": "두 자음의",
+      "korean": "중간 정도이다.",
+      "english": ""
+    },
+    {
+      "speaker": "예쁘다",
+      "korean": "멋있다 귀엽다 잘생기다",
+      "english": "to be pretty to be goodlooking to be cute to be handsome"
+    },
+    {
+      "speaker": "키가 크다",
+      "korean": "키가 작다 머리가 길다 머리가 짧다",
+      "english": "to be tall to be short to have long hair to have short hair"
+    },
+    {
+      "speaker": "재미있다",
+      "korean": "친절하다 착하다 부지런하다",
+      "english": "to be interesting to be kind to be nice to be diligent"
+    },
+    {
+      "speaker": "활발하다",
+      "korean": "얌전하다 똑똑하다 성격이 급하다",
+      "english": "to be active to be calm to be smart to be impatient"
+    },
+    {
+      "speaker": "두 가지",
+      "korean": "이상의 행위를 시간적인 순서",
+      "english": ""
+    },
+    {
+      "speaker": "예 닛차난",
+      "korean": "씨는 키가 크고 머리가 길어요.",
+      "english": ""
+    },
+    {
+      "speaker": "저는 음식을",
+      "korean": "만들고 민민아웅 씨는 설거지를 해요.",
+      "english": ""
+    },
+    {
+      "speaker": "다라 씨는",
+      "korean": "캄보디아 사람이고 칼로 씨는 필리핀 사람이에요.",
+      "english": ""
+    },
+    {
+      "speaker": "싸다",
+      "korean": "춥다",
+      "english": ""
+    },
+    {
+      "speaker": "재미있다",
+      "korean": "빨래하다",
+      "english": ""
+    },
+    {
+      "speaker": "똑똑하다",
+      "korean": "쉽다",
+      "english": ""
+    },
+    {
+      "speaker": "제 친구",
+      "korean": "닛차난은 태국 사람입니다.",
+      "english": ""
+    },
+    {
+      "speaker": "닛차난은",
+      "korean": "키가 크고 예쁩니다.",
+      "english": ""
+    },
+    {
+      "speaker": "그리고",
+      "korean": "친절합니다.",
+      "english": ""
+    },
+    {
+      "speaker": "친구",
+      "korean": "이름",
+      "english": ""
+    },
+    {
+      "speaker": "외모 키가",
+      "korean": "크다, 예쁘다",
+      "english": ""
+    },
+    {
+      "speaker": "성격",
+      "korean": "친절하다",
+      "english": ""
+    },
+    {
+      "speaker": "왕 민",
+      "korean": "가족사진이네요. 이분이 어머니세요?",
+      "english": "Oh, a family photo. Is this your mother?"
+    },
+    {
+      "speaker": "닛차난",
+      "korean": "네, 이분이 어머니시고, 이분이 아버지세요.",
+      "english": "Yes, this is my mother, and this is my father."
+    },
+    {
+      "speaker": "왕 민",
+      "korean": "아버지께서 키가 크고 멋있으세요.",
+      "english": ""
+    },
+    {
+      "speaker": "아버지께서는",
+      "korean": "무슨 일을 하세요?",
+      "english": ""
+    },
+    {
+      "speaker": "닛차난",
+      "korean": "아버지께서는 경찰관이세요.",
+      "english": "My father is a police officer."
+    },
+    {
+      "speaker": "제 동생은",
+      "korean": "똑똑하고 활발해요.",
+      "english": ""
+    },
+    {
+      "speaker": "한 번",
+      "korean": "더",
+      "english": ""
+    },
+    {
+      "speaker": "말씀해",
+      "korean": "주시겠어요?",
+      "english": ""
+    },
+    {
+      "speaker": "높임말과",
+      "korean": "반말",
+      "english": ""
+    },
+    {
+      "speaker": "지위가 높은",
+      "korean": "사람에게 사용하며, 반말은 나",
+      "english": ""
+    },
+    {
+      "speaker": "이가 적은",
+      "korean": "사람에게 사용합니다. 그러나 자",
+      "english": ""
+    },
+    {
+      "speaker": "신보다",
+      "korean": "나이가 적어도 처음 만난 사람이나",
+      "english": ""
+    },
+    {
+      "speaker": "가깝지 않은",
+      "korean": "사람에게는 상대방을 존중하",
+      "english": ""
+    },
+    {
+      "speaker": "는 의미로",
+      "korean": "높임말을 사용하는 것이 좋습니",
+      "english": ""
+    },
+    {
+      "speaker": "한국어로",
+      "korean": "말할 때는 대화 상대방이나 대화 상황에 따라 높임말과 반말을 잘 구별해서 사용해야 합니다. 그렇지 않",
+      "english": ""
+    },
+    {
+      "speaker": "으면",
+      "korean": "상대방을 불편하게 할 수 있습니다.",
+      "english": ""
+    },
+    {
+      "speaker": "이 아주",
+      "korean": "가까운 관계라면 반말을 사용하기",
+      "english": ""
+    },
+    {
+      "speaker": "하는 것을",
+      "korean": "쉽게 들을 수 있는 것도 이 때문",
+      "english": ""
+    },
+    {
+      "speaker": "정도뿐만",
+      "korean": "아니라 친밀감의 정도를 드러내",
+      "english": ""
+    },
+    {
+      "speaker": "는 중요한",
+      "korean": "역할을 합니다.",
+      "english": ""
+    }
+  ],
+  "readingQuestions": [
+    {
+      "id": "ch08_r001",
+      "questionKorean": "읽기 READING\n1. 다음 내용과 관계있는 그림을 고르십시오.\n할머니입니다.",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④\n2. 다음 단어와 의미가 비슷한 말은 무엇입니까?"
+      ],
+      "correctAnswer": -1
+    }
+  ],
+  "listeningQuestions": [
+    {
+      "id": "ch08_l001",
+      "questionKorean": "듣기 LISTENING\n67\n[1~2] 다음을 듣고 물음에 알맞은 대답을 고르십시오.\n1.",
+      "options": [
+        "① 네, 아버지께서는 집에 계세요.",
+        "② 네, 아버지께서는 키가 크세요.",
+        "③ 아니요, 아버지께서는 회사원이세요.",
+        "④ 아니요, 아버지께서는 네팔에 사세요."
+      ],
+      "correctAnswer": -1,
+      "transcript": "듣기지문\n1. 여 : 아버지께서 키가 크세요?\n2. 남 : 여동생이 몇 명이에요?\n3. 남 : 이분이 딜로바 씨 아버지세요?\n여 : 네. 그리고 그 옆에 계신 분은 제 어머니세요.\n4. 남 : 동생도 닛차난 씨처럼 키가 커요?\n여 : 아니요. 제 동생은 키가 작아요.\n5. 남 : 프엉 씨는 남동생이 있어요?\n8 가족과 친구 FAMILY AND FRIENDS 129"
+    }
+  ]
+}

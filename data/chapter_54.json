@@ -1,0 +1,212 @@
+{
+  "version": 1,
+  "chapterNo": 54,
+  "title": "산업 안전 및 보건 수칙",
+  "titleEn": "Industrial Safety and Health Regulations",
+  "learningObjectives": [
+    "안전 및 보건 수칙에 대해 묻고 대답할 수 있다.",
+    "산업 재해 예방을 위한 준수 사항을 말할 수 있다.",
+    "• 작업장의 안전을 위한 준수 사항에 대해 말할 수 있다."
+  ],
+  "vocabulary": [
+    {
+      "korean": "공사중",
+      "english": "to not smoke or eat"
+    }
+  ],
+  "grammar": [
+    {
+      "point": "산업 안전 및 보건 수칙",
+      "explanation": "Industrial Safety and Health Regulations 안전 및 보건 수칙에 대해 묻고 대답할 수 있다. 학습 목표 Can ask and answer questions about safety and health preservation regulations. LEARNING OBJECTIVES 산업 재해 예방을 위한 준수 사항을 말할 수 있다. Can talk about terms of compliance for preventing industrial accidents. CHAPTER 54 EPS-TOPIK 보호구를 착용하니까 좀 답답해요. 폐 질환 등을 예방하기 위한 것이니까 꼭 착용하세요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -도록 하다 안전 및 보건 수칙 대피로 표지 -기 위해 Safety and Health Preservation Evacuation Route Signs Regulations 산업 재해 예방을 위한 준수 사항 Terms of Compliance for Industrial Accident Prevention 246 한국어 표준교재 2",
+      "examples": []
+    },
+    {
+      "point": "시킴을 당하는 사람이 드러",
+      "explanation": "‘-도록 하다’는 동사에 붙어 다른 사람에게 어떤 일을 하게 함을 나타 나지 않으면 사동의 의미가 낸다. 없어진다. ‘-도록 하다’ is attached to verbs to indicate making another person do If the person being directed something. isn’t specified, the causative meaning disappears. 10일까지 휴가를 신청하도록 하세요. 습니다. 안전 규칙을 지키도록 하세요. ※ 부정적인 내용을 서술할 때에는 ‘-지 않도록 하다’를 사용한다. To state negative contents, it takes the form ‘-지 않도록 하다’. 출근 시간에 늦지 않도록 하세요.",
+      "examples": [
+        "예 작업을 할 때는 개인 보호구를 착용하도록 하세요.",
+        "예 제 가 현장에 가 보도록 하겠",
+        "예 이곳에는 들어가지 않도록 하세요."
+      ]
+    }
+  ],
+  "conversations": [
+    {
+      "speaker": "흡연이나",
+      "korean": "음식물 섭취를 환기 장치를 켜다 개인 보호구를 착용하다",
+      "english": ""
+    },
+    {
+      "speaker": "출입 금지",
+      "korean": "장소에 들어가지 않다",
+      "english": "to not enter restricted areas"
+    },
+    {
+      "speaker": "흡연이나",
+      "korean": "음식물 섭취를",
+      "english": ""
+    },
+    {
+      "speaker": "하지",
+      "korean": "않다",
+      "english": ""
+    },
+    {
+      "speaker": "관계자",
+      "korean": "외",
+      "english": ""
+    },
+    {
+      "speaker": "작업 후에",
+      "korean": "샤워하다 출입 금지",
+      "english": ""
+    },
+    {
+      "speaker": "밀폐공간",
+      "korean": "출입 금지",
+      "english": ""
+    },
+    {
+      "speaker": "귀마개를",
+      "korean": "착용하다",
+      "english": ""
+    },
+    {
+      "speaker": "환기 장치를",
+      "korean": "켜다",
+      "english": "areas"
+    },
+    {
+      "speaker": "산소 부족",
+      "korean": "시 작업을",
+      "english": ""
+    },
+    {
+      "speaker": "중단하고",
+      "korean": "대피하다",
+      "english": "to stop work and"
+    },
+    {
+      "speaker": "반장님 마두",
+      "korean": "씨, 오늘은 화학물질을 혼합하는 작업을 할 거예요. 개인 보호구는 다 착용했지요?",
+      "english": ""
+    },
+    {
+      "speaker": "마 두",
+      "korean": "네, 모두 착용했습니다.",
+      "english": ""
+    },
+    {
+      "speaker": "반장님",
+      "korean": "잘했어요. 작업을 시작하기 전에 먼저 환기 장치를",
+      "english": ""
+    },
+    {
+      "speaker": "켜도록",
+      "korean": "하세요.",
+      "english": "Good. Before you start, turn on the ventilator first."
+    },
+    {
+      "speaker": "마 두",
+      "korean": "네, 알겠습니다.",
+      "english": "Yes, got it."
+    },
+    {
+      "speaker": "반장님",
+      "korean": "여기는 화학물질이 많으니까 절대 담배를 피우면",
+      "english": ""
+    },
+    {
+      "speaker": "마 두",
+      "korean": "네, 주의하도록 하겠습니다.",
+      "english": ""
+    },
+    {
+      "speaker": "예 돈을",
+      "korean": "벌기 위해 한국에 가려고 해요. 음식을 만들기 위해 장을 봤어요.",
+      "english": ""
+    },
+    {
+      "speaker": "혼합 작업을",
+      "korean": "하기 위해 기계를 켰어요.",
+      "english": ""
+    },
+    {
+      "speaker": "예 부모님의",
+      "korean": "건강을 위해 인삼을 사 드렸어요. 아버지는 가족을 위해 일하십니다.",
+      "english": ""
+    },
+    {
+      "speaker": "김진수",
+      "korean": "오늘은 사고 예방을 위한 안전보건교육을",
+      "english": ""
+    },
+    {
+      "speaker": "작업 중",
+      "korean": "사고가 나는 것을 막기 위해서는",
+      "english": ""
+    },
+    {
+      "speaker": "반드시",
+      "korean": "작업안전보건 수칙을 준수해야 합니다.",
+      "english": ""
+    },
+    {
+      "speaker": "먼저 손이나",
+      "korean": "발이 끼일 수 있는 곳에는 덮개를",
+      "english": ""
+    },
+    {
+      "speaker": "설치해야",
+      "korean": "합니다. 그리고 동작 중인 기계에는",
+      "english": ""
+    },
+    {
+      "speaker": "가까이",
+      "korean": "접근하지 않아야 합니다. 떨어질 위험이",
+      "english": ""
+    },
+    {
+      "speaker": "있는",
+      "korean": "장소에는 안전 난간을 설치해야 합니다.",
+      "english": ""
+    },
+    {
+      "speaker": "그리고",
+      "korean": "작업자는 반드시 안전대를 착용해야",
+      "english": ""
+    },
+    {
+      "speaker": "준수하여",
+      "korean": "사고를 예방하도록 합시다.",
+      "english": "T oday, we will be conducting safety and health"
+    }
+  ],
+  "readingQuestions": [
+    {
+      "id": "ch54_r001",
+      "questionKorean": "읽기 READING\n1. 다음 내용과 관계있는 그림을 고르십시오.\n음식물을 먹지 마십시오.",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④\n2. 다음 중 밑줄 친 부분이 맞는 문장을 고르십시오."
+      ],
+      "correctAnswer": -1
+    }
+  ],
+  "listeningQuestions": [
+    {
+      "id": "ch54_l001",
+      "questionKorean": "듣기 LISTENING\n297\n[1~2] 다음을 듣고 물음에 알맞은 대답을 고르십시오.\n1.",
+      "options": [
+        "① 네, 안전모를 쓰세요.",
+        "② 네, 안전모를 벗으세요.",
+        "③ 아니요, 안전모를 써야 해요.",
+        "④ 아니요, 안전모를 벗지 마세요."
+      ],
+      "correctAnswer": -1,
+      "transcript": "듣기지문\n1. 여 : 안전모를 착용할까요?\n2. 남 : 어디에 표지판을 설치할까요?\n3. 남 : 산소가 얼마나 있는지 자주 확인하도록 하세요.\n여 : 알겠습니다. 산소가 부족하면 작업을 중단하도록 하겠습니다.\n4. 남 : 높은 곳에서 작업할 때는 떨어지는 사고가 날 수 있어요.\n5. 여 : 오늘은 화학물질을 혼합하는 작업을 할 거예요. 작업복으로 갈아입으셨지요?\n남 : 네, 그런데 작업장에서 커피를 마셔도 돼요?\n여 : 아니요, 음식물은 안 돼요. 그리고 작업 시작하기 전에 환기 장치부터 켜도록 하세요.\n남 : 알겠습니다.\n54 산업 안전 및 보건 수칙 INDUSTRIAL SAFETY AND HEALTH REGULATIONS 255"
+    }
+  ]
+}

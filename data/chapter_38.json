@@ -1,0 +1,235 @@
+{
+  "version": 1,
+  "chapterNo": 38,
+  "title": "기계 조립",
+  "titleEn": "Machine Assembly",
+  "learningObjectives": [
+    "조립 공구와 부품에 대해 말할 수 있다.",
+    "공구 사용법에 대해 묻고 대답할 수 있다.",
+    "• 조립 공구와 부품의 명칭을 활용하여 대화할 수 있다.",
+    "• 공구 사용법에 대해 묻고 대답할 수 있다.",
+    "• 지금 하고 있는 일을 표현할 수 있다."
+  ],
+  "vocabulary": [],
+  "grammar": [
+    {
+      "point": "기계 조립",
+      "explanation": "Machine Assembly CHAPTER 38 EPS-TOPIK 조립할 때 쓸 부품하고 공구는 준비됐어요? 네, 도면을 보면서 필요한 부품하고 공구도 챙겨 놓고 작업 순서도 확인했어요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -(으)면서 조립 공구와 부품 한국의 자동차 산업 -는 중이다 Assembly Tools and Parts Korea’s Automobile Industry 조립 및 분해 작업 관련 어휘 Vocabulary Related to the Assembly and Disassembly Process 조립 공구와 부품에 대해 말할 수 있다. 학습 목표 Can talk about assembly tools and parts. LEARNING OBJECTIVES 공구 사용법에 대해 묻고 대답할 수 있다. Can ask and answer questions about how to use tools. 86 한국어 표준교재 2",
+      "examples": []
+    },
+    {
+      "point": "돕다 당기다 조이다 확인하다",
+      "explanation": "⑴ 스패너를 앞쪽으로 돌려야 조립이 잘돼요. ⑵ 직장에서는 서로 사이좋게 일해야 돼요. ⑶ 재작업하지 않게 작업 도면을 부품을 조립하세요. ⑷ 멍키 스패너로 부품의 고정 상태를 확인했어요.",
+      "examples": []
+    },
+    {
+      "point": "풀다 조이다 가져오다 포장하다 분해하다",
+      "explanation": "[ 보기 ] 생산된 제품을 출하하려고 지금 포장하는 중입니다. ⑴ 조립이 잘못되어서 지금 제품을 . ⑵ 지금 스패너로 너트를 단단하게 . ⑶ 고장난 제품을 수리하려고 일자 드라이버로 나사못을 . ⑷ 조립할 부품을 창고에서 .",
+      "examples": []
+    }
+  ],
+  "conversations": [
+    {
+      "speaker": "플라이어 롱",
+      "korean": "노즈 플라이어 펜치 니퍼",
+      "english": ""
+    },
+    {
+      "speaker": "스패너 멍키",
+      "korean": "스패너 토크 렌치 육각 렌치 파이프 렌치",
+      "english": "wrench adjustable wrench torque wrench hex key pipe wrench"
+    },
+    {
+      "speaker": "볼트 너트",
+      "korean": "나사못 조이다 풀다",
+      "english": "bolt nut screw to tighten to loosen"
+    },
+    {
+      "speaker": "반장님",
+      "korean": "조립할 때 쓸 부품하고 공구는 준비됐어요?",
+      "english": "Are the parts and tools ready for assembly?"
+    },
+    {
+      "speaker": "마 두",
+      "korean": "네, 볼트하고 너트, 토크 렌치를 준비해 놓았습니다.",
+      "english": ""
+    },
+    {
+      "speaker": "그리고 이게",
+      "korean": "오늘 조립할 기계의 도면입니다.",
+      "english": ""
+    },
+    {
+      "speaker": "그런데",
+      "korean": "반장님, 여기 있는 토크 값이 뭐예요?",
+      "english": ""
+    },
+    {
+      "speaker": "반장님",
+      "korean": "볼트를 돌릴 때 들어가는 힘을 말해요. 여기 있는",
+      "english": ""
+    },
+    {
+      "speaker": "토크 값대로",
+      "korean": "조여야 볼트가 파손되지 않아요.",
+      "english": "I t refers to the amount of force needed to tighten the bolt. You must tighten it according to the torque value"
+    },
+    {
+      "speaker": "마 두",
+      "korean": "아, 그래서 토크 렌치가 있어야 되네요.",
+      "english": ""
+    },
+    {
+      "speaker": "반장님",
+      "korean": "네, 맞아요. 토크 렌치가 있으면 토크 값을 미리 설정해서 볼트를 조일 수 있어요.",
+      "english": "Y es, with the torque wrench, you can set the torque value in advance and tighten the bolt accordingly."
+    },
+    {
+      "speaker": "마 두",
+      "korean": "아, 이제 이해했습니다. 그럼 도면을 보면서 토크 값을 먼저 확인하겠습니다.",
+      "english": "I understand now. I will check the torque value first while reading the blueprint."
+    },
+    {
+      "speaker": "예 지금",
+      "korean": "트럭에 제품을 싣는 중입니다.",
+      "english": ""
+    },
+    {
+      "speaker": "반장님은",
+      "korean": "지금 사장님과 이야기를 나누는 중이에요.",
+      "english": ""
+    },
+    {
+      "speaker": "도면을",
+      "korean": "보면서 작업 순서를 확인하는 중이니까 잠시만 기다려 주세요.",
+      "english": ""
+    },
+    {
+      "speaker": "예 기계가",
+      "korean": "작동 중일 때는 전원을 끄지 마세요.",
+      "english": ""
+    },
+    {
+      "speaker": "풀다 조이다",
+      "korean": "가져오다 포장하다 분해하다",
+      "english": ""
+    },
+    {
+      "speaker": "생산된",
+      "korean": "제품을 출하하려고 지금 포장하는 중입니다.",
+      "english": ""
+    },
+    {
+      "speaker": "분류하다",
+      "korean": "교체하다 확인하다 점검하다",
+      "english": ""
+    },
+    {
+      "speaker": "반장님 지금",
+      "korean": "무슨 작업을 하고 있어요?",
+      "english": "What task are you doing right now?"
+    },
+    {
+      "speaker": "아 궁",
+      "korean": "나사못을 조이는 중입니다. 방금 조립이 끝났는데 이 부분이 단단하게 고정이 안 되어 있어서요.",
+      "english": ""
+    },
+    {
+      "speaker": "반장님",
+      "korean": "여기는 공간이 좁아서 자석식 드라이버로 조립해야 될 거예요. 한 손으로 나사와 드라이버를",
+      "english": ""
+    },
+    {
+      "speaker": "다룰 수",
+      "korean": "있어서 좁은 곳에 있는 나사를 쉽게 조일 수 있어요. 공구함에 있으니까 그걸로",
+      "english": ""
+    },
+    {
+      "speaker": "작업해",
+      "korean": "보세요.",
+      "english": ""
+    },
+    {
+      "speaker": "아 궁",
+      "korean": "네, 자석식 드라이버로 다시 조립해 보겠습니다.",
+      "english": ""
+    },
+    {
+      "speaker": "반장님",
+      "korean": "아, 그리고 작업할 때 이물질을 자주 제거해 주세요.",
+      "english": ""
+    },
+    {
+      "speaker": "자석에 금속",
+      "korean": "이물질이 쉽게 붙어요.",
+      "english": "A lso, when you are working, please frequently remove any"
+    },
+    {
+      "speaker": "지금 통화",
+      "korean": "괜찮으세요?",
+      "english": ""
+    },
+    {
+      "speaker": "한국의",
+      "korean": "자동차 산업",
+      "english": ""
+    },
+    {
+      "speaker": "친환경",
+      "korean": "자동차 분야의 기술 개발에 많은 투자를 하고 있습니다.",
+      "english": ""
+    },
+    {
+      "speaker": "친환경",
+      "korean": "자동차 분야의 기술 혁신을 바탕으로 현대자동차와 기",
+      "english": ""
+    },
+    {
+      "speaker": "인 자율주행",
+      "korean": "기술의 연구와 개발에도 투자를 아끼지 않고 있습",
+      "english": ""
+    },
+    {
+      "speaker": "자동차",
+      "korean": "산업은 한국의 주요 성장 동력 산업의 하나입니다. 한",
+      "english": ""
+    },
+    {
+      "speaker": "한국의 주요",
+      "korean": "자동차 회사들은 글로벌 경쟁력을 바탕으로 현",
+      "english": ""
+    },
+    {
+      "speaker": "재 세계",
+      "korean": "시장에서 선도적인 역할을 하고 있습니다. 한국에는 현",
+      "english": ""
+    }
+  ],
+  "readingQuestions": [
+    {
+      "id": "ch38_r001",
+      "questionKorean": "읽기 READING\n1. 다음 내용과 관계있는 그림을 고르십시오.\n드라이버입니다.",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④\n2. 다음 단어와 관계있는 것은 무엇입니까?"
+      ],
+      "correctAnswer": -1
+    }
+  ],
+  "listeningQuestions": [
+    {
+      "id": "ch38_l001",
+      "questionKorean": "듣기 LISTENING\n217\n1. 다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④\n2. 다음을 듣고 물음에 알맞은 대답을 고르십시오."
+      ],
+      "correctAnswer": -1,
+      "transcript": "듣기지문\n1. 여 : 플라이어가 의자 위에 있어요.\n2. 남 : 언제 부품 조립을 시작할 거예요?\n3. 여 : 이 나사는 뭐로 조여야 돼요?\n남 : 나사가 커서 제일 큰 드라이버로 조여야 돼요.\n4. 남 : 기계에서 소음이 나요.\n5. 남 : 지금 무슨 작업을 하고 있어요?\n여 : 이 부품을 조여야 되는데 잘 안 되네요.\n남 : 스패너 치수가 안 맞는 것 같아요. 아주 작은 치수의 스패너로 해 보세요.\n여 : 알겠어요. 작은 스패너로 해 볼게요.\n38 기계 조립 MACHINE ASSEMBLY 95"
+    }
+  ]
+}

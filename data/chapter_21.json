@@ -1,0 +1,207 @@
+{
+  "version": 1,
+  "chapterNo": 21,
+  "title": "병원",
+  "titleEn": "Hospital",
+  "learningObjectives": [
+    "병원 접수에 필요한 표현을 사용할 수 있다.",
+    "증상에 대해 묻고 대답할 수 있다.",
+    "• 병원 접수 시 필요한 표현을 사용할 수 있다.",
+    "• 증상에 대해 묻고 대답할 수 있다.",
+    "• 금지 표현을 사용할 수 있다."
+  ],
+  "vocabulary": [
+    {
+      "korean": "병원",
+      "english": "Hospital"
+    }
+  ],
+  "grammar": [
+    {
+      "point": "병원",
+      "explanation": "Hospital 병원 접수에 필요한 표현을 사용할 수 있다. 학습 목표 Can use expressions needed for hospital registration. LEARNING OBJECTIVES 증상에 대해 묻고 대답할 수 있다. Can ask and answer questions about symptoms. CHAPTER 21 EPS-TOPIK 목이 너무 아파요. 목이 아프면 말을 많이 하지 마세요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -(으)면 접수 및 진료 관련 어휘 한국의 의료 체계 -지 마세요 Vocabulary Related to Hospital The Korean Medical System Registration and Consultations 신체 및 증상 관련 어휘 1 Vocabulary Related to Body Parts and Symptoms 1 250 한국어 표준교재 1",
+      "examples": []
+    },
+    {
+      "point": "받다 불다 도착하다 피곤하다",
+      "explanation": "[보기] 피곤하면 좀 쉬세요. ⑴ 월급을 제가 저녁을 살게요. ⑵ 사무실에 전화해 주세요. ⑶ 바람이 많이 문을 닫으세요.",
+      "examples": []
+    }
+  ],
+  "conversations": [
+    {
+      "speaker": "예 시간이",
+      "korean": "있으면 공원에서 축구해요.",
+      "english": ""
+    },
+    {
+      "speaker": "아지자 씨",
+      "korean": "전화번호를 알면 가르쳐 주세요.",
+      "english": ""
+    },
+    {
+      "speaker": "받다 불다",
+      "korean": "도착하다 피곤하다",
+      "english": ""
+    },
+    {
+      "speaker": "간호사",
+      "korean": "안녕하세요? 저희 병원에 처음 오셨어요?",
+      "english": "Hello. Is this your first time at our hospital?"
+    },
+    {
+      "speaker": "아지자",
+      "korean": "네, 처음이에요.",
+      "english": ""
+    },
+    {
+      "speaker": "간호사 그럼",
+      "korean": "여기에 이름과 전화번호를 써 주세요.",
+      "english": ""
+    },
+    {
+      "speaker": "그리고",
+      "korean": "신분증을 보여 주세요.",
+      "english": "T hen please write your name and phone number"
+    },
+    {
+      "speaker": "아지자",
+      "korean": "신분증 여기 있어요.",
+      "english": ""
+    },
+    {
+      "speaker": "간호사",
+      "korean": "잠시만 기다리세요.",
+      "english": ""
+    },
+    {
+      "speaker": "그리고",
+      "korean": "이름을 부르면 진료실로 들어가세요.",
+      "english": "P lease wait a moment. Please go into the consultation room when your name is called."
+    },
+    {
+      "speaker": "아지자",
+      "korean": "네, 감사합니다.",
+      "english": "Alright, thank you."
+    },
+    {
+      "speaker": "수술을 못",
+      "korean": "받다, 보호자",
+      "english": ""
+    },
+    {
+      "speaker": "감기에",
+      "korean": "걸리다 머리가 아프다 배가 아프다 다리를 다치다 눈병이 나다",
+      "english": "to catch a cold to have a headache to have a stomachache to injure one's leg to get an eye infection"
+    },
+    {
+      "speaker": "예 여기에",
+      "korean": "앉지 마세요.",
+      "english": ""
+    },
+    {
+      "speaker": "신발을 신고",
+      "korean": "방에 들어가지 마세요.",
+      "english": ""
+    },
+    {
+      "speaker": "눈이 많이",
+      "korean": "올 때는 등산하지 마세요.",
+      "english": ""
+    },
+    {
+      "speaker": "의 사",
+      "korean": "어디가 아프세요?",
+      "english": "Where does it hurt?"
+    },
+    {
+      "speaker": "자 야 목이",
+      "korean": "너무 아프고 머리도 아파요.",
+      "english": "My throat hurts a lot and I have a headache, too."
+    },
+    {
+      "speaker": "의 사 요즘",
+      "korean": "감기 환자가 많아요. 언제부터 아프셨",
+      "english": ""
+    },
+    {
+      "speaker": "자 야",
+      "korean": "어제부터 아팠어요.",
+      "english": "Since yesterday."
+    },
+    {
+      "speaker": "의 사",
+      "korean": "처방전을 드릴게요. 약을 드시고 따뜻한 물을",
+      "english": ""
+    },
+    {
+      "speaker": "많이",
+      "korean": "드세요. 그리고 말을 많이 하지 마세요.",
+      "english": ""
+    },
+    {
+      "speaker": "자 야",
+      "korean": "네, 알겠습니다.",
+      "english": "Yes, I understand."
+    },
+    {
+      "speaker": "찬 음식을",
+      "korean": "먹다",
+      "english": ""
+    },
+    {
+      "speaker": "많이",
+      "korean": "걷다",
+      "english": ""
+    }
+  ],
+  "readingQuestions": [
+    {
+      "id": "ch21_r001",
+      "questionKorean": "읽기 READING\n1. 다음 단어와 관계있는 것은 무엇입니까?\n신체",
+      "options": [
+        "① 딸기",
+        "② 가슴",
+        "③ 지폐",
+        "④ 시장"
+      ],
+      "correctAnswer": -1
+    },
+    {
+      "id": "ch21_r002",
+      "questionKorean": "어제 다리를 다쳤습니다. 걸으면 다리가 너무 아픕니다. 그래서 병원에 가서 치료를 .",
+      "options": [
+        "① 보내려고 합니다",
+        "② 시키려고 합니다",
+        "③ 받으려고 합니다",
+        "④ 만들려고 합니다"
+      ],
+      "correctAnswer": -1
+    },
+    {
+      "id": "ch21_r003",
+      "questionKorean": "한국에서 처음 병원에 가면 신분증을 . 신분증이 없으면 접수를 할 수 없습니다.",
+      "options": [
+        "① 알아봐야 합니다",
+        "② 기다려야 합니다",
+        "③ 신청해야 합니다",
+        "④ 보여 줘야 합니다"
+      ],
+      "correctAnswer": -1
+    }
+  ],
+  "listeningQuestions": [
+    {
+      "id": "ch21_l001",
+      "questionKorean": "듣기 LISTENING\n132\n1. 다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④\n2. 여자는 왜 전화를 했습니까?"
+      ],
+      "correctAnswer": -1,
+      "transcript": "듣기지문\n1. 여 : 민민아웅 씨, 옷을 어깨 위로 올려 주세요.\n남 : 네, 그런데 주사가 많이 아파요?\n2. 남 : 네, 우리 병원입니다.\n여 : 저, 토요일로 예약을 하고 싶은데 주말에도 진료하나요?\n3. 남 : 요즘 병원에 환자가 많아요?\n4. 여 : 어디가 아프세요?\n5. 남 : 아지자 씨, 눈이 아파요? 눈이 빨개요.\n여 : 네, 아침부터 눈이 아프고 눈물이 나요.\n21 병원 HOSPITAL 259"
+    }
+  ]
+}

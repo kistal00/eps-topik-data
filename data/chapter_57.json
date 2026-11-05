@@ -1,0 +1,210 @@
+{
+  "version": 1,
+  "chapterNo": 57,
+  "title": "고용허가제",
+  "titleEn": "Employment Permit System",
+  "learningObjectives": [
+    "고용허가제의 업종에 대해 말할 수 있다.",
+    "고용허가제 취업 절차에 대해 묻고 대답할 수 있다.",
+    "• 고용허가제의 업종에 대해 말할 수 있다.",
+    "• 고용허가제 취업 절차에 대해 묻고 대답할 수 있다.",
+    "• 상황이나 상태의 변화에 대해 묻고 대답할 수 있다."
+  ],
+  "vocabulary": [
+    {
+      "korean": "고용허가제",
+      "english": "Employment Permit System"
+    }
+  ],
+  "grammar": [
+    {
+      "point": "고용허가제",
+      "explanation": "Employment Permit System 고용허가제의 업종에 대해 말할 수 있다. 학습 목표 Can talk about the industries under the employment permit system. LEARNING OBJECTIVES 고용허가제 취업 절차에 대해 묻고 대답할 수 있다. Can ask and answer questions about the employment permit system job procedures. 276 한국어 표준교재 2 CHAPTER 57 EPS-TOPIK 한국에 일하러 가게 되었어요. 정말 축하해요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -는/(으)ㄴ 줄 알았다, 몰랐다 고용허가제의 업종 고용허가제 -게 되다 Employment Permit System Industries Employment Permit System (EPS) 고용허가제 취업 절차 Procedures to Gain Employment through the Employment Permit System 276 한국어 표준교재 2",
+      "examples": []
+    },
+    {
+      "point": "퇴근하다 되다 신청하다 부르다",
+      "explanation": "[ 보기 ] 일하느라고 벌써 점심시간이 된 줄 몰랐어요. ⑴ 아까는 너무 시끄러워서 반장님이 저를 . ⑵ 칼로 씨는 농업을 신청했대요. 나처럼 제조업을 . ⑶ 아지자 씨가 안 보여서 오늘은 일찍 .",
+      "examples": []
+    },
+    {
+      "point": "컴퓨터 교육 안내",
+      "explanation": "모집 기간 •8/11 ~ 8/20 가 : 어떻게 알고 컴퓨터 교육을 신청했어요? •9 /1(일) ~ 11/24(일) 교육 기간 오후 1:00~3:00 나 : 포스터를 보고 신청하게 되었어요. 신청 방법 •방문 신청 문의/상담 031-555-4512 ⑴ ⑵ 가 : 우 리 회사가 신입 사원을 뽑는 가 : 왜 한국어 공부를 시작했어요? 것을 어떻게 알았어요? 나 : 한국에서 일하고 싶어서 나 : 홈 페이지 공지를 보고 . . ⑶ ⑷ 가 : 고 용허가제에 대해 어떻게 가 : 어떻게 프엉 씨를 만났어요? EPS 알았어요? 나 : 친 구의 소개로 나 : 신문을 보고 . . 57 고용허가제 EMPLOYMENT PERMIT SYSTEM 281",
+      "examples": []
+    }
+  ],
+  "conversations": [
+    {
+      "speaker": "제조업",
+      "korean": "건설업 농업 축산업",
+      "english": "manufacturing construction agriculture livestock"
+    },
+    {
+      "speaker": "어업 조선업",
+      "korean": "임업 광업",
+      "english": "fishery shipbuilding forestry mining"
+    },
+    {
+      "speaker": "예 택배",
+      "korean": "일이 서비스업에 포함되는 줄 몰랐어요.",
+      "english": ""
+    },
+    {
+      "speaker": "칼로 씨가",
+      "korean": "조선업을 신청한 줄 알았어요.",
+      "english": ""
+    },
+    {
+      "speaker": "한국의",
+      "korean": "여름이 이렇게 더운 줄 몰랐어요.",
+      "english": ""
+    },
+    {
+      "speaker": "퇴근하다",
+      "korean": "되다 신청하다 부르다",
+      "english": ""
+    },
+    {
+      "speaker": "일하느라고",
+      "korean": "벌써 점심시간이 된 줄 몰랐어요.",
+      "english": ""
+    },
+    {
+      "speaker": "유수프",
+      "korean": "안녕하세요? 저, 한국에서 일하고 싶어서 왔는데요.",
+      "english": ""
+    },
+    {
+      "speaker": "직 원",
+      "korean": "그래요? 이쪽으로 앉으세요. 무슨 업종에서 일하고 싶으세요?",
+      "english": ""
+    },
+    {
+      "speaker": "유수프",
+      "korean": "어, 건설업이 있는 줄 몰랐어요. 건설업을 신청해도 돼요?",
+      "english": ""
+    },
+    {
+      "speaker": "직 원",
+      "korean": "그럼요. 혹시 비슷한 일을 해 본 적이 있어요?",
+      "english": "Of course. Do you by chance have similar work experience?"
+    },
+    {
+      "speaker": "유수프",
+      "korean": "네, 예전에 건물을 짓는 일을 해 본 적이 있어서 잘할 수 있을 것 같아요.",
+      "english": "Y es, I worked in constructing buildings before, so I think I'll do well."
+    },
+    {
+      "speaker": "직 원",
+      "korean": "잘됐네요. 같은 업종에서 일해 본 경험이 있으면 가산점을 받을 수 있어요.",
+      "english": ""
+    },
+    {
+      "speaker": "예 디안 씨",
+      "korean": "옆 방에서 살게 되었어요.",
+      "english": ""
+    },
+    {
+      "speaker": "프엉 씨하고",
+      "korean": "같은 회사에서 일하게 되었어요.",
+      "english": ""
+    },
+    {
+      "speaker": "한국에 온",
+      "korean": "후 한국에 대해 더 많이 알게 되었습니다.",
+      "english": ""
+    },
+    {
+      "speaker": "혼자 방을",
+      "korean": "쓰다 안전 수칙을 알다 일을 시작하다 한국에서 일할 기회를 얻다",
+      "english": ""
+    },
+    {
+      "speaker": "컴퓨터 교육",
+      "korean": "안내",
+      "english": ""
+    },
+    {
+      "speaker": "것을 어떻게",
+      "korean": "알았어요?",
+      "english": ""
+    },
+    {
+      "speaker": "칼 로",
+      "korean": "선생님, 저 시험에 합격해서 한국에 일하러 가게",
+      "english": ""
+    },
+    {
+      "speaker": "선생님 정말",
+      "korean": "축하해요. 그런데 어디에서 일하게",
+      "english": ""
+    },
+    {
+      "speaker": "칼 로 어제",
+      "korean": "부산에 있는 조선소하고 근로계약을 했어요.",
+      "english": "Y esterday I signed a contract with a shipyard in Busan."
+    },
+    {
+      "speaker": "선생님",
+      "korean": "한국에 가기 전에 비자도 신청하고 교육도",
+      "english": ""
+    },
+    {
+      "speaker": "받아야 해서",
+      "korean": "정말 바쁘겠네요.",
+      "english": "Y ou must be really busy since you need to apply"
+    },
+    {
+      "speaker": "칼 로",
+      "korean": "네, 한국 생활이 너무 기대돼요. 한국에서 살면 한국어도 더 잘하게 되겠죠?",
+      "english": "Yes, I'm really excited for Korean life. While living in Korea I'm sure my Korean will get better, right?"
+    },
+    {
+      "speaker": "선생님",
+      "korean": "그럼요. 지금보다 훨씬 잘하게 될 거예요.",
+      "english": "Of course. Your Korean will get much better than now."
+    },
+    {
+      "speaker": "부지런히",
+      "korean": "배우다",
+      "english": ""
+    },
+    {
+      "speaker": "그런데 저는",
+      "korean": "축사에서 한 번도 일을 해 본 적이 없어요.",
+      "english": ""
+    },
+    {
+      "speaker": "큰일 날",
+      "korean": "뻔했네요.",
+      "english": "I fell down on the bus on my way to work."
+    }
+  ],
+  "readingQuestions": [
+    {
+      "id": "ch57_r001",
+      "questionKorean": "읽기 READING\n1. 다음 중 밑줄 친 부분이 맞는 문장을 고르십시오.",
+      "options": [
+        "① 작업장이 더럽은 줄 몰랐어요.",
+        "② 지금 밖에 비가 오는 줄 몰랐어요.",
+        "③ 벌써 퇴근 시간이 되는 줄 몰랐어요.",
+        "④ 왕민 씨가 키가 작는 줄 몰랐어요."
+      ],
+      "correctAnswer": -1
+    }
+  ],
+  "listeningQuestions": [
+    {
+      "id": "ch57_l001",
+      "questionKorean": "듣기 LISTENING\n312\n[1~2] 다음을 듣고 물음에 알맞은 대답을 고르십시오.\n1.",
+      "options": [
+        "① 네, 어제 비자를 받았어요.",
+        "② 네, 비자를 신청할 거예요.",
+        "③ 아니요, 비자를 신청하세요",
+        "④ 아니요, 비자가 빨리 나왔어요."
+      ],
+      "correctAnswer": -1,
+      "transcript": "듣기지문\n1. 남 : 신청한 비자가 나왔어요?\n2. 남 : 언제 한국에 가요?\n3. 여 : 고용허가제를 신청하고 싶은데 어떻게 하면 돼요?\n남 : 이 신청서를 작성해 주시면 됩니다.\n4. 남 : 선생님, 저 이번에 고용허가제 시험에 합격했어요.\n여 : 그래요? 연락이 없어서 시험에 떨어진 줄 알았어요. 정말 축하해요.\n남 : 감사합니다. 선생님께서 한국어를 잘 가르쳐 주신 덕분입니다.\n5. 여 : 안녕하세요? 이번에 고용허가제 시험에 합격한 칼로 씨 되십니까?\n남 : 안녕하세요? 무슨 일이시죠?\n여 : 칼로 씨와 고용 계약을 하고 싶다는 회사가 있어서 연락드립니다.\n남 : 정말요? 지금 바로 센터로 가겠습니다.\n57 고용허가제 EMPLOYMENT PERMIT SYSTEM 285"
+    }
+  ]
+}

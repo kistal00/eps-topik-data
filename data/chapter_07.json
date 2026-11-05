@@ -1,0 +1,199 @@
+{
+  "version": 1,
+  "chapterNo": 7,
+  "title": "계절과 날씨",
+  "titleEn": "Seasons and the Weather",
+  "learningObjectives": [
+    "좋아하는 계절에 대해 말할 수 있다.",
+    "날씨에 대해 묻고 대답할 수 있다.",
+    "[ㅔ]로도 발음할 수 있다.",
+    "나타낼 수 있다.",
+    "• 좋아하는 계절에 대해 이야기할 수 있다.",
+    "• 날씨에 대해 묻고 대답할 수 있다.",
+    "• 부정 표현을 사용하여 말할 수 있다."
+  ],
+  "vocabulary": [
+    {
+      "korean": "날씨",
+      "english": "Weather"
+    },
+    {
+      "korean": "계절",
+      "english": "seasons"
+    }
+  ],
+  "grammar": [
+    {
+      "point": "계절과 날씨",
+      "explanation": "Seasons and the Weather 좋아하는 계절에 대해 말할 수 있다. 학습 목표 Can talk about one's favorite season. LEARNING OBJECTIVES 날씨에 대해 묻고 대답할 수 있다. Can ask and answer questions about the weather. 110 한국어 표준교재 1 CHAPTER 07 EPS-TOPIK 오늘은 날씨가 어때요? 너무 더워요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION ‘ㅂ’ 불규칙 활용 계절 날씨 안 Seasons Weather 날씨 Weather 110 한국어 표준교재 1",
+      "examples": []
+    },
+    {
+      "point": "여름 겨울 주스 일",
+      "explanation": "춥다 덥다 쉽다 차갑다 ⑴ ⑵ ⑶ 112 한국어 표준교재 1",
+      "examples": []
+    },
+    {
+      "point": "안",
+      "explanation": "‘안’ 대신에 ‘-지 않다’를 동사, ‘안’은 동사, 형용사의 앞에 놓여 행위나 상태를 단순히 부정함을 형용사 뒤에 붙여 부정의 뜻을 나타낼 수 있다. 나타내거나 주어가 의지를 가지고 하지 않음을 나타낸다. Instead of ‘안’, ‘-지 않다’ can be ‘안’ is placed before verbs and adjectives to simply negate the action attached after verbs and or state or to show the subject does not want to do something. adjectives to show negation. 흐엉은 기분이 안 좋아요. ※ 명 사와 ‘-하다’가 결합된 동사를 부정할 때는 명사와 ‘하다’ 사이에 ‘안’을 쓴다. When negating verbs that combine a noun and ‘-하다’, ‘안’ is placed between the noun and ‘하다’. 나는 운동 안 해요.",
+      "examples": [
+        "예 비가 안 와요. 예 비가 오지 않아요.",
+        "예 오늘은 일 안 해요."
+      ]
+    }
+  ],
+  "conversations": [
+    {
+      "speaker": "따뜻하다",
+      "korean": "덥다",
+      "english": "to be warm to be hot"
+    },
+    {
+      "speaker": "춥다",
+      "korean": "시원하다",
+      "english": "to be cold to be cool"
+    },
+    {
+      "speaker": "예 날씨가",
+      "korean": "너무 더워요.",
+      "english": ""
+    },
+    {
+      "speaker": "여름 겨울",
+      "korean": "주스 일",
+      "english": ""
+    },
+    {
+      "speaker": "춥다 덥다",
+      "korean": "쉽다 차갑다",
+      "english": ""
+    },
+    {
+      "speaker": "칼로 자야",
+      "korean": "씨는 무슨 계절을 좋아해요?",
+      "english": "Jaya, what season do you like?"
+    },
+    {
+      "speaker": "자야 저는",
+      "korean": "여름을 좋아해요.",
+      "english": "I like summer."
+    },
+    {
+      "speaker": "칼로 몽골의",
+      "korean": "겨울은 어때요?",
+      "english": "How is winter in Mongolia?"
+    },
+    {
+      "speaker": "자야 몽골의",
+      "korean": "겨울은 너무 추워요.",
+      "english": "Winter in Mongolia is very cold."
+    },
+    {
+      "speaker": "날씨가",
+      "korean": "좋다",
+      "english": ""
+    },
+    {
+      "speaker": "눈이 오다",
+      "korean": "비가 오다",
+      "english": "to snow to rain"
+    },
+    {
+      "speaker": "눈이 그치다",
+      "korean": "비가 그치다",
+      "english": "to stop snowing to stop raining"
+    },
+    {
+      "speaker": "나타낼 수",
+      "korean": "있다.",
+      "english": ""
+    },
+    {
+      "speaker": "나타내거나",
+      "korean": "주어가 의지를 가지고 하지 않음을 나타낸다.",
+      "english": ""
+    },
+    {
+      "speaker": "예 비가 안",
+      "korean": "와요. 예 비가 오지 않아요.",
+      "english": ""
+    },
+    {
+      "speaker": "흐엉은",
+      "korean": "기분이 안 좋아요.",
+      "english": ""
+    },
+    {
+      "speaker": "예 오늘은",
+      "korean": "일 안 해요.",
+      "english": ""
+    },
+    {
+      "speaker": "나는 운동",
+      "korean": "안 해요.",
+      "english": ""
+    },
+    {
+      "speaker": "커피",
+      "korean": ", 주스 책 , 신문 청소 , 게임 일하다 , 쉬다",
+      "english": ""
+    },
+    {
+      "speaker": "다라",
+      "korean": "여보세요?",
+      "english": ""
+    },
+    {
+      "speaker": "투이",
+      "korean": "씨, 하노이는 지금 날씨가 어때요?",
+      "english": "Hello? Thuy, how is the weather in Hanoi now?"
+    },
+    {
+      "speaker": "투이 비가",
+      "korean": "많이 와요. 서울에도 비가 와요?",
+      "english": ""
+    },
+    {
+      "speaker": "다라",
+      "korean": "아니요, 비가 안 와요.",
+      "english": ""
+    },
+    {
+      "speaker": "투이 그럼",
+      "korean": "많이 더워요?",
+      "english": "Then is it very hot?"
+    },
+    {
+      "speaker": "다라 오늘은",
+      "korean": "바람이 불어요. 별로 안 더워요.",
+      "english": ""
+    }
+  ],
+  "readingQuestions": [
+    {
+      "id": "ch07_r001",
+      "questionKorean": "읽기 READING\n1. 다음 단어와 관계있는 것은 무엇입니까?\n여름",
+      "options": [
+        "① 계절",
+        "② 여행",
+        "③ 장소",
+        "④ 명절"
+      ],
+      "correctAnswer": -1
+    }
+  ],
+  "listeningQuestions": [
+    {
+      "id": "ch07_l001",
+      "questionKorean": "듣기 LISTENING\n62\n1. 다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④\n2. 두 사람은 무엇에 대해 말하고 있습니까?"
+      ],
+      "correctAnswer": -1,
+      "transcript": "듣기지문\n1. 남 : 날씨가 너무 덥네요. 우리 바다에 갈까요?\n여 : 좋아요. 바다에 가서 수영해요.\n2. 여 : 비가 계속 오네요.\n남 : 일기예보에서 밤까지 비가 올 거라고 했어요.\n3. 여 : 커피가 많이 뜨거워요?\n4. 남 : 우산을 언제 샀어요?\n5. 여 : 한국의 봄은 어때요?\n7 계절과 날씨 SEASONS AND THE WEATHER 119"
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "version": 1,
+  "chapterNo": 37,
+  "title": "기계 가공",
+  "titleEn": "Machine Processing",
+  "learningObjectives": [
+    "기계 작동 방법에 대해 말할 수 있다.",
+    "기구와 작업에 대해 묻고 대답할 수 있다.",
+    "• 기계 작동 방법에 대해 말할 수 있다.",
+    "• 기구의 용도에 대해 묻고 대답할 수 있다.",
+    "• 제안하거나 권유하는 말을 듣고 다른 사람에게 전달할 수 있다."
+  ],
+  "vocabulary": [
+    {
+      "korean": "압축하다",
+      "english": "to compress"
+    }
+  ],
+  "grammar": [
+    {
+      "point": "기계 가공",
+      "explanation": "Machine Processing 기계 작동 방법에 대해 말할 수 있다. 학습 목표 Can talk about how to operate a machine. LEARNING OBJECTIVES 기구와 작업에 대해 묻고 대답할 수 있다. Can ask and answer questions about tools and tasks. 76 한국어 표준교재 2 CHAPTER 37 EPS-TOPIK 무슨 일이에요? 전원을 켜도 기계가 작동하지 않아요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -아도/어도 기계 작동 관련 어휘 한국의 가전제품 -자고 하다 Vocabulary Related to Korea's Home Appliances Operating Machines 기구와 용도 관련 어휘 Vocabulary Related to Tools and their Uses 76 한국어 표준교재 2",
+      "examples": []
+    },
+    {
+      "point": "전원을 켜다 여러 번 읽다 계속 전화하다 오랫동안 환기를 하다",
+      "explanation": "⑴ 늦은 밤이라서 받지 않아요. ⑵ 기계가 작동되지 않으면 점검을 하세요. ⑶ 한국어 실력이 부족해서 설명서를 이해하지 못했어요. ⑷ 환풍기를 안 켜서 냄새가 없어지지 않아요.",
+      "examples": []
+    }
+  ],
+  "conversations": [
+    {
+      "speaker": "작동하다",
+      "korean": "멈추다 전원을 켜다 전원을 끄다",
+      "english": "to operate to stop to turn on the power to turn off the power"
+    },
+    {
+      "speaker": "스위치를",
+      "korean": "올리다 스위치를 내리다 레버를 당기다 레버를 밀다",
+      "english": "to turn on the switch to turn off the switch to pull the lever to push the lever"
+    },
+    {
+      "speaker": "좌 우 상",
+      "korean": "하 회전",
+      "english": "left right up down rotation"
+    },
+    {
+      "speaker": "예 잔업",
+      "korean": "후에는 늦잠을 자도 피곤해요.",
+      "english": ""
+    },
+    {
+      "speaker": "버튼을",
+      "korean": "눌러도 작동하지 않아서 수리를 맡겼습니다.",
+      "english": ""
+    },
+    {
+      "speaker": "작업이",
+      "korean": "끝나면 피곤해도 작업장 정리를 해야 해요.",
+      "english": ""
+    },
+    {
+      "speaker": "전원을 켜다",
+      "korean": "여러 번 읽다 계속 전화하다 오랫동안 환기를 하다",
+      "english": ""
+    },
+    {
+      "speaker": "작동이 안",
+      "korean": "되다",
+      "english": ""
+    },
+    {
+      "speaker": "기계가",
+      "korean": "멈추지 않다 전원이 안 켜지다 냄새가 나다 꼼꼼하게 점검해야 되다",
+      "english": ""
+    },
+    {
+      "speaker": "마 두",
+      "korean": "반장님, 기계가 자꾸 멈춰서 작업이 많이 밀렸어요.",
+      "english": "Banjangnim, the machine keeps stopping, so it's delaying"
+    },
+    {
+      "speaker": "반장님",
+      "korean": "어제까지는 괜찮았는데 갑자기 왜요? 우선 전원부터",
+      "english": ""
+    },
+    {
+      "speaker": "마 두",
+      "korean": "오전에는 문제가 없었는데 오후 작업 때부터",
+      "english": ""
+    },
+    {
+      "speaker": "작동이 잘",
+      "korean": "안 돼요.",
+      "english": "T here was no problem in the morning, but since the"
+    },
+    {
+      "speaker": "반장님",
+      "korean": "아, 여기에 이물질이 껴 있네요. 작업 전에 점검 안 했어요?",
+      "english": ""
+    },
+    {
+      "speaker": "마 두",
+      "korean": "죄송합니다. 오늘은 작업할 게 많아서 제대로 점검을 못 했어요.",
+      "english": ""
+    },
+    {
+      "speaker": "반장님",
+      "korean": "아무리 바빠도 작업 전에 꼼꼼하게 점검해야 돼요. 잘못하면 사고가 날 수 있어요.",
+      "english": "N o matter how busy you are, you need to inspect the machine thoroughly before starting. Otherwise, it could"
+    },
+    {
+      "speaker": "예 민민아웅",
+      "korean": "씨가 오늘 저녁에 같이 퇴근하자고 했어요.",
+      "english": ""
+    },
+    {
+      "speaker": "프엉 씨가",
+      "korean": "오전에 작업이 끝나면 같이 점심을 먹자고 했어요.",
+      "english": ""
+    },
+    {
+      "speaker": "반장님께서",
+      "korean": "다음 주에 회식을 하자고 하셨어요.",
+      "english": ""
+    },
+    {
+      "speaker": "진 수 아궁",
+      "korean": "씨, 반장님이 오후에 철판에 구멍 뚫는 작업을 하자고 하셨어요. 여기 이 도면을 보고",
+      "english": ""
+    },
+    {
+      "speaker": "구멍 좀",
+      "korean": "뚫어 주세요.",
+      "english": "A gung, the banjangnim said we should work on drilling holes in the metal plate this afternoon."
+    },
+    {
+      "speaker": "아 궁",
+      "korean": "네, 알겠습니다. 밀링 머신으로 하면 되지요?",
+      "english": "Yes, understood. I should use the milling machine, right?"
+    },
+    {
+      "speaker": "진 수 이건",
+      "korean": "밀링 머신보다 드릴링머신으로 하는 게 좋을 거예요.",
+      "english": ""
+    },
+    {
+      "speaker": "아 궁",
+      "korean": "그래요? 밀링 머신이 정확하지 않아요?",
+      "english": ""
+    },
+    {
+      "speaker": "진 수",
+      "korean": "네, 맞아요. 그런데 오늘은 양이 많고 구멍을 뚫기만",
+      "english": ""
+    },
+    {
+      "speaker": "하면 되니까",
+      "korean": "드릴링머신으로 하는 게 나아요.",
+      "english": "Y es, it is, but since we have a large quantity today and"
+    },
+    {
+      "speaker": "아 궁",
+      "korean": "아, 밀링 머신은 꼼꼼하게 작업할 때 쓰는 게 좋다고",
+      "english": ""
+    }
+  ],
+  "readingQuestions": [
+    {
+      "id": "ch37_r001",
+      "questionKorean": "읽기 READING\n1. 다음 그림과 관계있는 내용은 무엇입니까?",
+      "options": [
+        "① 밀링 머신 – 철판을 구부려요.",
+        "② 밀링 머신 – 공작물을 갈아요.",
+        "③ 프레스 기계 – 철판을 구부려요.",
+        "④ 프레스 기계 – 공작물을 갈아요."
+      ],
+      "correctAnswer": -1
+    }
+  ],
+  "listeningQuestions": [
+    {
+      "id": "ch37_l001",
+      "questionKorean": "듣기 LISTENING\n212\n1. 다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④\n[2~3] 다음을 듣고 이어지는 말로 가장 알맞은 것을 고르십시오."
+      ],
+      "correctAnswer": -1,
+      "transcript": "듣기지문\n1. 남 : 무슨 버튼을 눌러야 돼요?\n여 : 빨간색 버튼을 누르세요.\n2. 남 : 커터를 좀 교체해 주세요.\n3. 남 : 작업하고 나서 칩을 안 치웠네요.\n4. 여 : 반장님, 밀링 머신의 먼지를 털고 작업해야 되지요?\n남 : 그럼요, 밀링 작업을 할 때는 작업대 위를 깨끗이 치우고 해야 돼요.\n5. 여 : 마두 씨, 손 괜찮아요? 프레스 기계는 조금만 방심해도 큰 사고가 날 수 있어요.\n남 : 네, 괜찮아요. 잠깐 딴 생각을 했어요. 다칠 뻔했네요.\n여 : 많이 놀랐죠? 좀 쉬었다가 하세요.\n37 기계 가공 MACHINE PROCESSING 85"
+    }
+  ]
+}

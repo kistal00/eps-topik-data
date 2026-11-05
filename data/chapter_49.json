@@ -1,0 +1,244 @@
+{
+  "version": 1,
+  "chapterNo": 49,
+  "title": "광물 자원 개발 생산",
+  "titleEn": "Mineral Resource Development and Production",
+  "learningObjectives": [
+    "갱도 시설에 대해 말할 수 있다.",
+    "채광 및 광석 운반 작업에 대해 묻고 대답할 수 있다.",
+    "• 갱도 시설에 대해 말할 수 있다.",
+    "• 부정적인 결과의 이유나 원인을 설명할 수 있다."
+  ],
+  "vocabulary": [
+    {
+      "korean": "갱도",
+      "english": "tunnel"
+    },
+    {
+      "korean": "인차",
+      "english": "tippling room"
+    },
+    {
+      "korean": "광차",
+      "english": "mine cart"
+    }
+  ],
+  "grammar": [
+    {
+      "point": "광물 자원 개발 생산",
+      "explanation": "Mineral Resource Development and Production 갱도 시설에 대해 말할 수 있다. 학습 목표 Can talk about tunnel facilities. LEARNING OBJECTIVES 채광 및 광석 운반 작업에 대해 묻고 대답할 수 있다. Can ask and answer questions about mining and ore transport operations. CHAPTER 49 EPS-TOPIK 반장님을 모셔 올까요? 반장님은 폭약 작업을 하느라고 바쁘실 거예요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -던 갱도 시설 관련 어휘 전선 접속 방법 -느라고 Vocabulary Related to Tunnel Method of Connecting Electric Wires Facilities 채광 및 광석 운반 작업 관련 어휘 Vocabulary Related to Mining and Ore Transport Operations 196 한국어 표준교재 2",
+      "examples": []
+    },
+    {
+      "point": "일하다 있다 사용하다 싣다",
+      "explanation": "⑴ 막장에서 광차에 석탄을 분이 반장님이에요. ⑵ 저기가 제가 탄광이에요. ⑶ 휴게실에 선풍기는 어디로 가져갔어요? ⑷ 이 컴퓨터는 아궁 씨가 거예요.",
+      "examples": []
+    },
+    {
+      "point": "도와주다 받다 깔다 깨다",
+      "explanation": "⑴ 어제는 프엉 씨를 늦게 퇴근했어요. ⑵ 큰 석탄을 왕민 씨가 부르는 걸 못 들었어요. ⑶ 오전에는 안전 교육을 일을 못 했어요. ⑷ 왕민 씨는 지금 레일을 바쁜 것 같아요.",
+      "examples": []
+    }
+  ],
+  "conversations": [
+    {
+      "speaker": "동사에",
+      "korean": "붙으면 과거의 어떤 일이 완료되지 않았음을 나타내고, 형용사에 붙으면 과거의 어떤 상태를 나타낸다.",
+      "english": ""
+    },
+    {
+      "speaker": "예 작업대",
+      "korean": "위에 있던 플라이어가 안 보여요.",
+      "english": ""
+    },
+    {
+      "speaker": "새 기계는",
+      "korean": "전에 쓰던 것보다 작동이 잘 돼요.",
+      "english": ""
+    },
+    {
+      "speaker": "사장님이",
+      "korean": "부르셔서 하던 일을 멈추고 사무실로 갔어요.",
+      "english": ""
+    },
+    {
+      "speaker": "일하다 있다",
+      "korean": "사용하다 싣다",
+      "english": ""
+    },
+    {
+      "speaker": "권양기를",
+      "korean": "타고 내려가다",
+      "english": ""
+    },
+    {
+      "speaker": "티플링실에서",
+      "korean": "일하다 울타리망을 치다",
+      "english": ""
+    },
+    {
+      "speaker": "왕민",
+      "korean": "다린두",
+      "english": ""
+    },
+    {
+      "speaker": "아까 용접을",
+      "korean": "하다 콘크리트를 타설하다",
+      "english": ""
+    },
+    {
+      "speaker": "아궁",
+      "korean": "유수프",
+      "english": ""
+    },
+    {
+      "speaker": "반장님",
+      "korean": "아니요, 왕민 씨하고 장웨이 씨는 선탄장으로 가세요. 내일 석탄 출하를 해야 돼서 일손이 더 필요하대요.",
+      "english": "N o, could you and Zhangwei please go to the coal washery? They said they need more workers because they"
+    },
+    {
+      "speaker": "왕 민",
+      "korean": "선탄장요? 거기서는 뭘 하면 돼요?",
+      "english": "The coal washery? What shall we do there?"
+    },
+    {
+      "speaker": "반장님",
+      "korean": "선탄장에서는 큰 석탄을 부수고 불순물을 골라내야",
+      "english": ""
+    },
+    {
+      "speaker": "왕 민",
+      "korean": "알겠습니다. 그런데 선탄장은 어디 있어요?",
+      "english": "Got it. But where is the coal washery?"
+    },
+    {
+      "speaker": "반장님 갱구",
+      "korean": "오른쪽에 있어요.",
+      "english": "It's on the right side of the tunnel entrance."
+    },
+    {
+      "speaker": "그런데",
+      "korean": "왜요?",
+      "english": ""
+    },
+    {
+      "speaker": "채광 및",
+      "korean": "광석 운반 작업 관련 어휘",
+      "english": "Mining and Ore Transport Operations"
+    },
+    {
+      "speaker": "예 작업장을",
+      "korean": "정리하느라고 조금 늦게 퇴근했어요.",
+      "english": ""
+    },
+    {
+      "speaker": "오전에는",
+      "korean": "장비를 고치느라고 다른 일을 못 했어요.",
+      "english": ""
+    },
+    {
+      "speaker": "아지자 씨는",
+      "korean": "밭에서 잡초를 뽑느라고 바쁜 것 같아요.",
+      "english": ""
+    },
+    {
+      "speaker": "도와주다",
+      "korean": "받다 깔다 깨다",
+      "english": ""
+    },
+    {
+      "speaker": "지 훈 왕민",
+      "korean": "씨, 이제 폭약을 설치해도 되겠지요?",
+      "english": "Wangmin, is it okay to install the explosives now?"
+    },
+    {
+      "speaker": "왕 민",
+      "korean": "네, 석탄이 거의 다 나온 것 같아요. 오늘은 석탄 덩어리가 크네요. 버력도 많고요.",
+      "english": "Y es, it looks like we've gottan almost all of the coal out. The coal lumps are quite large today, and there are"
+    },
+    {
+      "speaker": "지 훈",
+      "korean": "그렇죠? 그러면 이번에는 폭약 설치 간격을 좀 좁게 해야 될 것 같네요.",
+      "english": "Yeah, right? Then this time I think we need to shorten the space between each explosive when we install them."
+    },
+    {
+      "speaker": "왕 민",
+      "korean": "과장님이 폭약을 설치하시죠? 과장님 모시고 올까요?",
+      "english": "S houldn't the gwajangnim install the explosives?"
+    },
+    {
+      "speaker": "지 훈",
+      "korean": "과장님은 지금 식사 중이세요. 다른 막장의",
+      "english": ""
+    },
+    {
+      "speaker": "지주가",
+      "korean": "흔들려서 다시 설치하느라고 점심을",
+      "english": ""
+    },
+    {
+      "speaker": "왕 민 그럼",
+      "korean": "기다리는 동안 버력을 좀 골라내고 있을게요.",
+      "english": ""
+    },
+    {
+      "speaker": "같이",
+      "korean": "가다",
+      "english": ""
+    },
+    {
+      "speaker": "같이",
+      "korean": "작업하다",
+      "english": ""
+    }
+  ],
+  "readingQuestions": [
+    {
+      "id": "ch49_r001",
+      "questionKorean": "읽기 READING\n1. 다음 내용과 관계있는 그림을 고르십시오.\n스크레이퍼",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④\n2. 다음 그림과 관계있는 내용은 무엇입니까?"
+      ],
+      "correctAnswer": -1
+    },
+    {
+      "id": "ch49_r002",
+      "questionKorean": "발파 작업 후에는 먼저 석탄으로 사용할 수 없는 을 골라내야 합니다.",
+      "options": [
+        "① 버력",
+        "② 폭약",
+        "③ 전선",
+        "④ 레일"
+      ],
+      "correctAnswer": -1
+    },
+    {
+      "id": "ch49_r003",
+      "questionKorean": "컨베이어에 퍼 올릴 수 없을 정도로 큰 석탄은 함마를 이용해서 됩 니다.",
+      "options": [
+        "① 붙이면",
+        "② 부수면",
+        "③ 고르면",
+        "④ 박으면"
+      ],
+      "correctAnswer": -1
+    }
+  ],
+  "listeningQuestions": [
+    {
+      "id": "ch49_l001",
+      "questionKorean": "듣기 LISTENING\n272\n1. 다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④\n[2~3] 다음을 듣고 이어지는 말로 가장 알맞은 것을 고르십시오."
+      ],
+      "correctAnswer": -1,
+      "transcript": "듣기지문\n1. 남 : 작업장까지 어떻게 가요?\n여 : 인차를 타고 갈 거예요.\n2. 남 : 지금 발파할 거예요?\n3. 남 : 석탄을 너무 많이 실으면 안 돼요.\n4. 여 : 반장님, 레일을 깔기 시작할까요?\n남 : 지주부터 세우고 레일을 깔아야 해요.\n5. 여 : 왕민 씨, 발파한다는 소리 못 들었어요?\n남 : 죄송합니다, 반장님. 기계 소리 때문에 못 들었어요.\n여 : 5분 후에 발파할 거니까 하던 일 멈추고 얼른 나가세요.\n49 광물 자원 개발 생산 MINERAL RESOURCE DEVELOPMENT AND PRODUCTION 205"
+    }
+  ]
+}

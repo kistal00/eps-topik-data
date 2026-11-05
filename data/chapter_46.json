@@ -1,0 +1,234 @@
+{
+  "version": 1,
+  "chapterNo": 46,
+  "title": "사육 관리",
+  "titleEn": "Livestock Management",
+  "learningObjectives": [
+    "사료 급여 방법에 대해 묻고 대답할 수 있다.",
+    "축사 청소 방법 및 순서에 대해 말할 수 있다.",
+    "모음과 공명음(ㄴ, ㅁ, ㅇ, ㄹ) 뒤의 ‘ㅎ’는 약하게 발음할 수 있다.",
+    "• 사료 급여 방법에 대해 묻고 대답할 수 있다.",
+    "• 축사 청소 방법 및 순서에 대해 말할 수 있다.",
+    "• 어떤 일의 경험 유무에 대해 이야기할 수 있다."
+  ],
+  "vocabulary": [
+    {
+      "korean": "양",
+      "english": "sheep"
+    },
+    {
+      "korean": "말",
+      "english": "horse"
+    },
+    {
+      "korean": "토끼",
+      "english": "rabbit"
+    }
+  ],
+  "grammar": [
+    {
+      "point": "사육 관리",
+      "explanation": "Livestock Management 사료 급여 방법에 대해 묻고 대답할 수 있다. 학습 목표 Can ask and answer questions about the methods of feeding livestock. LEARNING OBJECTIVES 축사 청소 방법 및 순서에 대해 말할 수 있다. Can talk about the methods and procedures for cleaning a barn. CHAPTER 46 EPS-TOPIK 소를 키워 본 적이 있어요? 아니요, 키워 본 적이 없어요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -(으)ㄴ 적이 있다, 없다 사료 급여 관련 어휘 한국의 육류 소비 -게 하다 Vocabulary Related to Feeding Korea's Meat Consumption Livestock 축사 청소 관련 어휘 Vocabulary Related to Barn Cleaning 166 한국어 표준교재 2",
+      "examples": []
+    },
+    {
+      "point": "모내기를 해 보다 전기 용접기를 사용하다",
+      "explanation": "○ × . . ⑶ ⑷ 밀링 작업을 해 보다 양계장에서 일하다 × ○ . .",
+      "examples": []
+    },
+    {
+      "point": "다라 씨는",
+      "explanation": "그동안 ⑵ 톱밥을 프엉 씨, 가져오세요. 바트 씨는 ⑴ 분뇨를 ⑶ 톱밥을 바닥에 까세요. 치우세요. 축사가 엉망이네요. 청소가 끝나면 청소 도구를 청소하세요. 정리하세요. 어제 축사를 치우지 않고 퇴근해서 축사가 엉망이었습니다. 그래서 상우 씨가 축사를 청소하라고 했습니다. 프엉 씨에게는 ⑴ . 다라 씨에게는 그동안 ⑵ . 바트 씨에게는 다라 씨가 가져온 ⑶ . 그리고 청소가 끝나면 청소 도구를 정리하라고 했습니다. 46 사육 관리 LIVESTOCK MANAGEMENT 171",
+      "examples": []
+    }
+  ],
+  "conversations": [
+    {
+      "speaker": "양우 양돈",
+      "korean": "양계",
+      "english": "cattle farming pig farming poultry farming"
+    },
+    {
+      "speaker": "급이기",
+      "korean": "사료조",
+      "english": "feeder feed bin"
+    },
+    {
+      "speaker": "급수기 배합",
+      "korean": "사료",
+      "english": "waterer compound feed"
+    },
+    {
+      "speaker": "조사료",
+      "korean": "계량컵",
+      "english": ""
+    },
+    {
+      "speaker": "예 떡볶이를",
+      "korean": "먹어 본 적이 없어요.",
+      "english": ""
+    },
+    {
+      "speaker": "고향에서",
+      "korean": "닭을 키운 적이 있어요.",
+      "english": ""
+    },
+    {
+      "speaker": "양우",
+      "korean": "농가에서 일해 본 적이 있어요.",
+      "english": ""
+    },
+    {
+      "speaker": "고향에서",
+      "korean": "소를 키우다 고향에서 소를 키운 적이 있어요.",
+      "english": ""
+    },
+    {
+      "speaker": "모내기를 해",
+      "korean": "보다 전기 용접기를 사용하다",
+      "english": ""
+    },
+    {
+      "speaker": "밀링 작업을",
+      "korean": "해 보다 양계장에서 일하다",
+      "english": ""
+    },
+    {
+      "speaker": "급이기 작동",
+      "korean": "방법을",
+      "english": ""
+    },
+    {
+      "speaker": "급이기를 쓴",
+      "korean": "후",
+      "english": ""
+    },
+    {
+      "speaker": "세척을 해",
+      "korean": "보다",
+      "english": ""
+    },
+    {
+      "speaker": "사장님 다라",
+      "korean": "씨, 사료를 줘 본 적이 있어요?",
+      "english": "D ara, have you ever fed animals before?"
+    },
+    {
+      "speaker": "다 라",
+      "korean": "아니요, 사료를 줘 본 적이 없습니다 .",
+      "english": "No. I have never fed them."
+    },
+    {
+      "speaker": "사장님 그럼",
+      "korean": "오늘 한번 해 보세요. 사료를 줄 때는 항상 먼저",
+      "english": ""
+    },
+    {
+      "speaker": "저울로",
+      "korean": "무게를 재서 양을 맞추세요. 그리고 바가지에",
+      "english": ""
+    },
+    {
+      "speaker": "담아서",
+      "korean": "주세요.",
+      "english": "T hen give it a try today. When feeding, always weigh the"
+    },
+    {
+      "speaker": "다 라",
+      "korean": "네, 해 보겠습니다. 그런데 배합 사료랑 조사료를",
+      "english": ""
+    },
+    {
+      "speaker": "같이 주면",
+      "korean": "될까요?",
+      "english": "Alright, I will try. Should I give them both compound feed and coarse forage together?"
+    },
+    {
+      "speaker": "사장님",
+      "korean": "조사료를 먼저 주고 배합 사료는 나중에 주세요. 두 개를 같이 주면 배합 사료만 골라 먹거든요.",
+      "english": "G ive them the coarse forage first and then the compound feed later. If you give them both together, they will"
+    },
+    {
+      "speaker": "다 라",
+      "korean": "네. 그럼 조사료를 먼저 준 후에 소가 다 먹으면 배합 사료를 주겠습니다 .",
+      "english": "Okay. I will give them the coarse forage first and then after they finish give them the compound feed."
+    },
+    {
+      "speaker": "사장님 프엉",
+      "korean": "씨, 오후에는 축사 청소를 해야 돼요.",
+      "english": "Phuong, we need to clean the barn this afternoon."
+    },
+    {
+      "speaker": "프 엉 그럼",
+      "korean": "지금 소들을 다른 우방으로 이동시킬까요?",
+      "english": "Then should we move the cows to another stall now?"
+    },
+    {
+      "speaker": "사장님 혼자",
+      "korean": "하기 힘드니까 다라 씨랑 같이 하세요.",
+      "english": ""
+    },
+    {
+      "speaker": "나는",
+      "korean": "트랙터로 톱밥 좀 가져올게요. 참, 소독도",
+      "english": ""
+    },
+    {
+      "speaker": "프 엉",
+      "korean": "소독이요? 지난주에 소독을 했는데요.",
+      "english": "Disinfect? But we disinfected last week."
+    },
+    {
+      "speaker": "사장님",
+      "korean": "일주일에 한 번씩 소독해야 소들이 병에 걸리지 않아요. 소 이동시키고 다라 씨한테",
+      "english": ""
+    },
+    {
+      "speaker": "청소 도구",
+      "korean": "좀 가져오게 하고, 프엉 씨는 소독할 준비를 좀 해 주세요. 다라 씨는 소독을",
+      "english": ""
+    },
+    {
+      "speaker": "해 본 적이",
+      "korean": "없거든요.",
+      "english": ""
+    },
+    {
+      "speaker": "프 엉",
+      "korean": "네, 사장님. 알겠습니다.",
+      "english": "Yes, Sajangnim. Understood."
+    },
+    {
+      "speaker": "그동안에",
+      "korean": "프엉 씨는 창고에 가서 바가지를 가져오세요.",
+      "english": ""
+    }
+  ],
+  "readingQuestions": [
+    {
+      "id": "ch46_r001",
+      "questionKorean": "읽기 READING\n1. 다음 내용과 관계있는 그림을 고르십시오.\n소입니다.",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④\n2. 다음 중 밑줄 친 부분이 맞는 문장을 고르십시오."
+      ],
+      "correctAnswer": -1
+    }
+  ],
+  "listeningQuestions": [
+    {
+      "id": "ch46_l001",
+      "questionKorean": "듣기 LISTENING\n257\n1. 다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④\n2. 다음을 듣고 물음에 알맞은 대답을 고르십시오."
+      ],
+      "correctAnswer": -1,
+      "transcript": "듣기지문\n1. 남 : 사장님, 이제 뭘 할까요?\n여 : 축사에 가서 분뇨 좀 치워 주세요.\n2. 남 : 누가 축사 청소를 했어요?\n3. 남 : 축사 청소는 다 했어요?\n여 : 아니요, 아직 분뇨를 치우고 있어요.\n4. 남 : 물청소를 했으니까 축사 소독을 시작합시다.\n5. 남 : 사료 정리하느라 고생했어요. 내일은 축사 청소한 후에 소독도 할 거니까 준비해 주세요.\n여 : 소독이요? 지난주에 했는데 또 소독을 해야 돼요?\n남 : 일주일에 한 번씩 해야 소들이 병에 걸리지 않거든요.\n여 : 네, 알겠어요. 이따가 창고에 가서 소독약을 준비해 놓을게요.\n46 사육 관리 LIVESTOCK MANAGEMENT 175"
+    }
+  ]
+}
