@@ -16,12 +16,14 @@
     {
       "point": "성희롱 및 성추행 예방",
       "explanation": "Sexual Harassment and Assault Prevention 성희롱 예방법에 대해 설명할 수 있다. 학습 목표 Can explain how to prevent sexual harassment. LEARNING OBJECTIVES 성희롱 대처 방법에 대해 묻고 대답할 수 있다. Can talk about how to handle sexual harassment. 46 한국어 표준교재 2 CHAPTER 34 EPS-TOPIK 아까 유진 씨 표정이 안 좋아 보이던데요. 마두 씨의 성적 농담 때문에 불쾌했어요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -던데요 성희롱 관련 어휘 직장 내 성희롱 -(느)ㄴ다고/다고 하다 Vocabulary Related to Sexual Workplace Sexual Harassment Harassment 성희롱 예방과 대처 방법 관련 어휘 Vocabulary Related to the Prevention and Handling of Sexual Harassment 46 한국어 표준교재 2",
-      "examples": []
+      "examples": [],
+      "explanationNp": "성희롱 및 성추행 예방 सम्बन्धी व्याकरण नियम र प्रयोग।"
     },
     {
       "point": "표정이 어둡다",
       "explanation": "나 : 부장님이 성적 농담을 하셨거든요. 가 : 자야 씨가 . ⑴ 소리를 지르다 나 : 손님이 불쾌한 신체 접촉을 한 것 같아요. 가 : 아궁 씨가 . ⑵ 화를 내다 나 : 어떤 직원이 회사에서 음란물을 보고 있었거든요. 가 : 유수프 씨가 . ⑶ 기분이 나빠 보이다 나 : 동료가 심한 음담패설을 했거든요.",
-      "examples": []
+      "examples": [],
+      "explanationNp": "표정이 어둡다 सम्बन्धी व्याकरण नियम र प्रयोग।"
     }
   ],
   "conversations": [
@@ -171,7 +173,8 @@
         "③ 나의 농담에 상대방은 불쾌감을 느낄 수 있다고 합니다.",
         "④ 직장 내 성희롱 예방을 위해 성 인지 감수성이 필요한다고 합니다."
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     },
     {
       "id": "ch34_r002",
@@ -182,7 +185,8 @@
         "③ 초대",
         "④ 이사"
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     },
     {
       "id": "ch34_r003",
@@ -193,7 +197,8 @@
         "③ 증거",
         "④ 재료"
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
   "listeningQuestions": [
@@ -207,7 +212,10 @@
         "④ 푸캄 씨도 같이 들었어요."
       ],
       "correctAnswer": -1,
-      "transcript": "듣기지문\n1. 여 : 마두 씨가 무슨 농담을 했어요?\n2. 여 : 성희롱 때문에 너무 기분 나쁜데 어떻게 해야 될지 모르겠어요.\n3. 남 : 오늘 성희롱 예방 교육이 있으니까 꼭 참석하세요.\n4. 여 : 푸캄 씨, 그런 말은 상대방에게 불쾌감을 줄 수 있어요.\n5. 여 : 어제 회의 중에 김 대리님이 제 옷차림에 대해 농담을 했어요.\n남 : 그랬어요? 불쾌하다고 말했어요?\n여 : 네, 김 대리님은 농담이라고 말했지만 기분이 안 좋았어요.\n남 : 다음에 그런 농담을 또 하면 회사에 바로 이야기하세요.\n34 성희롱 및 성추행 예방 SEXUAL HARASSMENT AND ASSAULT PREVENTION 55"
+      "transcript": "듣기지문\n1. 여 : 마두 씨가 무슨 농담을 했어요?\n2. 여 : 성희롱 때문에 너무 기분 나쁜데 어떻게 해야 될지 모르겠어요.\n3. 남 : 오늘 성희롱 예방 교육이 있으니까 꼭 참석하세요.\n4. 여 : 푸캄 씨, 그런 말은 상대방에게 불쾌감을 줄 수 있어요.\n5. 여 : 어제 회의 중에 김 대리님이 제 옷차림에 대해 농담을 했어요.\n남 : 그랬어요? 불쾌하다고 말했어요?\n여 : 네, 김 대리님은 농담이라고 말했지만 기분이 안 좋았어요.\n남 : 다음에 그런 농담을 또 하면 회사에 바로 이야기하세요.\n34 성희롱 및 성추행 예방 SEXUAL HARASSMENT AND ASSAULT PREVENTION 55",
+      "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
-  ]
+  ],
+  "titleNp": "कार्यस्थलमा यौन दुर्व्यवहार रोकथाम",
+  "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_34.pdf"
 }

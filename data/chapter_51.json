@@ -12,43 +12,52 @@
   "vocabulary": [
     {
       "korean": "마른걸레",
-      "english": "dry cloth"
+      "english": "dry cloth",
+      "nepali": "सुख्खा कपडा"
     },
     {
       "korean": "수건",
-      "english": "towel"
+      "english": "towel",
+      "nepali": "तौलिया"
     },
     {
       "korean": "시트",
-      "english": "mop"
+      "english": "mop",
+      "nepali": "MOP"
     },
     {
       "korean": "생수",
-      "english": "collection bin soap toothpaste toothbrush"
+      "english": "collection bin soap toothpaste toothbrush",
+      "nepali": "संग्रह बिन साबुन टूथपेस्ट टूथब्रश"
     },
     {
       "korean": "전등",
-      "english": "light"
+      "english": "light",
+      "nepali": "खुशी"
     },
     {
       "korean": "이불보",
-      "english": "duvet cover"
+      "english": "duvet cover",
+      "nepali": "डुभेट कभर"
     },
     {
       "korean": "침대보",
-      "english": "bed sheet"
+      "english": "bed sheet",
+      "nepali": "तन्ना"
     }
   ],
   "grammar": [
     {
       "point": "숙박 서비스",
       "explanation": "Accomodation Services 객실 정비 업무와 관련한 대화를 할 수 있다. 학습 목표 Can engage in conversations related to room cleaning tasks. LEARNING OBJECTIVES 객실 정비 중 발생한 문제점에 대해 묻고 대답할 수 있다. Can ask and answer questions about problems encountered during room cleaning. CHAPTER 51 EPS-TOPIK 하우스키핑 카트가 안 움직여. 살짝 당겼다가 앞으로 밀어 봐. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -았다가/었다가 호텔 비품실 물품 관련 어휘 한국의 관광지 반말 Vocabulary Related to Hotel Tourist Spots in Korea Supplies Room Items 객실 정비 관련 어휘 Vocabulary Related to Room Cleaning 216 한국어 표준교재 2",
-      "examples": []
+      "examples": [],
+      "explanationNp": "숙박 서비스 सम्बन्धी व्याकरण नियम र प्रयोग।"
     },
     {
       "point": "/ 끄다",
       "explanation": "나 : 네, 잘 작동하는지 확인하려고 . ⑵ 커튼을 열다 가 : 청소 마치고 객실 커튼을 쳤어요? / 다시 치다 나 : 네, 청소할 때 . ⑶ 가 : 왜 수거함에서 시트를 다시 꺼내요? 시트를 수거함에 넣다 / 다시 꺼내다 나 : 손 님이 잃어버린 물건이 있는지 확인하려고 . 218 한국어 표준교재 2",
-      "examples": []
+      "examples": [],
+      "explanationNp": "/ 끄다 सम्बन्धी व्याकरण नियम र प्रयोग।"
     },
     {
       "point": "반말",
@@ -56,7 +65,8 @@
       "examples": [
         "예 시트를 새것으로 교체해.",
         "예 여기는 비품실이야. 이건 대걸레야."
-      ]
+      ],
+      "explanationNp": "반말 सम्बन्धी व्याकरण नियम र प्रयोग।"
     }
   ],
   "conversations": [
@@ -291,7 +301,8 @@
         "③",
         "④\n[2~3] 빈칸에 들어갈 가장 알맞은 것을 고르십시오."
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     },
     {
       "id": "ch51_r002",
@@ -302,7 +313,8 @@
         "③ 물건",
         "④ 칫솔"
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     },
     {
       "id": "ch51_r003",
@@ -313,7 +325,8 @@
         "③ 요청해야 합니다",
         "④ 확인해야 합니다"
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
   "listeningQuestions": [
@@ -327,7 +340,10 @@
         "④\n2. 다음을 듣고 물음에 알맞은 대답을 고르십시오."
       ],
       "correctAnswer": -1,
-      "transcript": "듣기지문\n1. 여 : 객실에 생수를 몇 병씩 두면 돼요?\n남 : 삼 층 객실은 두 병씩이에요.\n2. 남 : 청소기 플러그를 꽂았어요?\n3. 여 : 객실에 올라가면 욕실부터 청소하면 되지요?\n남 : 아니요, 창문을 열어 환기를 시키고 객실 청소부터 하세요. 욕실 청소는 마지막에 하세요.\n4. 남 : 곧 객실 점검인데 쓰레기통을 못 비웠어요.\n5. 남 : 유니폼이 잘 어울리네요. 오늘이 청소하는 첫날이지요?\n여 : 네. 그런데 제가 청소할 오 층 객실 출입 열쇠는 누구에게서 받아요?\n남 : 이따가 실장님이 주실 거예요. 그전에 하우스키핑 카트 정리부터 하세요.\n51 숙박 서비스 ACCOMODATION SERVICES 225"
+      "transcript": "듣기지문\n1. 여 : 객실에 생수를 몇 병씩 두면 돼요?\n남 : 삼 층 객실은 두 병씩이에요.\n2. 남 : 청소기 플러그를 꽂았어요?\n3. 여 : 객실에 올라가면 욕실부터 청소하면 되지요?\n남 : 아니요, 창문을 열어 환기를 시키고 객실 청소부터 하세요. 욕실 청소는 마지막에 하세요.\n4. 남 : 곧 객실 점검인데 쓰레기통을 못 비웠어요.\n5. 남 : 유니폼이 잘 어울리네요. 오늘이 청소하는 첫날이지요?\n여 : 네. 그런데 제가 청소할 오 층 객실 출입 열쇠는 누구에게서 받아요?\n남 : 이따가 실장님이 주실 거예요. 그전에 하우스키핑 카트 정리부터 하세요.\n51 숙박 서비스 ACCOMODATION SERVICES 225",
+      "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
-  ]
+  ],
+  "titleNp": "होटल तथा आवास सेवा",
+  "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_51.pdf"
 }

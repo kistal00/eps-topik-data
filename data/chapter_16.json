@@ -16,17 +16,20 @@
     {
       "point": "집 구하기",
       "explanation": "Finding a House 구하고 있는 집에 대해 묻고 대답할 수 있다. 학습 목표 Can ask and answer questions about the house I am looking for. LEARNING OBJECTIVES 주거 환경에 대해 말할 수 있다. Can talk about a residential environment. CHAPTER 16 EPS-TOPIK 방이 좀 작네요. 방은 작지만 조용하고 깨끗해요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -고 싶다 주거 형태 관련 어휘 한국의 주거 형태 -지만 Vocabulary Related to Types of Housing Korea's Housing Types 주거 환경 관련 어휘 Vocabulary Related to Residential Environment 200 한국어 표준교재 1",
-      "examples": []
+      "examples": [],
+      "explanationNp": "집 구하기 सम्बन्धी व्याकरण नियम र प्रयोग।"
     },
     {
       "point": "살다 일하다 구하다 이사하다",
       "explanation": "⑴ 조용한 주택에서 . ⑵ 월세가 싼 원룸을 . ⑶ 전망이 좋은 빌라로 . ⑷ 우리 고향 사람들은 한국 회사에서 .",
-      "examples": []
+      "examples": [],
+      "explanationNp": "살다 일하다 구하다 이사하다 सम्बन्धी व्याकरण नियम र प्रयोग।"
     },
     {
       "point": "있다 비싸다 조용하다 불편하다",
       "explanation": "⑴ 우리 집은 교통이 전망이 좋아요. ⑵ 회사에 휴게실은 매점은 없어요. ⑶ 기숙사 방은 사무실은 시끄러워요. ⑷ 이 원룸은 월세가 넓고 깨끗해요.",
-      "examples": []
+      "examples": [],
+      "explanationNp": "있다 비싸다 조용하다 불편하다 सम्बन्धी व्याकरण नियम र प्रयोग।"
     }
   ],
   "conversations": [
@@ -171,7 +174,8 @@
         "③ 시끄럽다",
         "④ 부족하다"
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     },
     {
       "id": "ch16_r002",
@@ -182,7 +186,8 @@
         "③ 깨끗하다",
         "④ 불편하다"
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     },
     {
       "id": "ch16_r003",
@@ -193,7 +198,8 @@
         "③ 정리해야 합니다",
         "④ 알아봐야 합니다"
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     },
     {
       "id": "ch16_r004",
@@ -204,7 +210,8 @@
         "③ 시원합니다",
         "④ 재미있습니다"
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
   "listeningQuestions": [
@@ -218,7 +225,10 @@
         "④ 전기차 주차장"
       ],
       "correctAnswer": -1,
-      "transcript": "듣기지문\n1. 남 : 오늘부터 아파트 지하 주차장 공사를 시작합니다. 주민 여러분께서는 차를 지상 주차장으로 옮겨 주시기 바랍니다.\n2. 여 : 기숙사가 가까워요?\n3. 여 : 언제 이사할 거예요?\n4. 남 : 이 원룸은 한 달에 얼마예요?\n여 : 한 달에 50만 원이에요.\n5. 남 : 아직 집을 못 구했는데 같이 부동산에 가 줄 수 있어요?\n16 집 구하기 FINDING A HOUSE 209"
+      "transcript": "듣기지문\n1. 남 : 오늘부터 아파트 지하 주차장 공사를 시작합니다. 주민 여러분께서는 차를 지상 주차장으로 옮겨 주시기 바랍니다.\n2. 여 : 기숙사가 가까워요?\n3. 여 : 언제 이사할 거예요?\n4. 남 : 이 원룸은 한 달에 얼마예요?\n여 : 한 달에 50만 원이에요.\n5. 남 : 아직 집을 못 구했는데 같이 부동산에 가 줄 수 있어요?\n16 집 구하기 FINDING A HOUSE 209",
+      "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
-  ]
+  ],
+  "titleNp": "कोठा वा घर खोज्ने तरिका",
+  "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_16.pdf"
 }

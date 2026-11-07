@@ -14,17 +14,20 @@
     {
       "point": "동료와의 관계",
       "explanation": "Colleague Relationships 직장의 분위기에 대해 말할 수 있다. 학습 목표 Can talk about the atmosphere at the workplace. LEARNING OBJECTIVES 동료와의 관계에 대해 말할 수 있다. Can talk about colleague relationships. CHAPTER 33 회사 분위기는 어때요? 좋은 편이에요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -는/(으)ㄴ 편이다 직장의 분위기 관련 어휘 한국의 회식 문화 -거든요 Vocabulary Related to Workplace Korea's Hoesik (Company Dinner) Atmosphere Culture 동료와의 관계 관련 어휘 Vocabulary Related to Colleague Relationships 36 한국어 표준교재 2",
-      "examples": []
+      "examples": [],
+      "explanationNp": "동료와의 관계 सम्बन्धी व्याकरण नियम र प्रयोग।"
     },
     {
       "point": "읽다 가깝다 싸다 작다",
       "explanation": "[ 보기 ] 이 농구 선수는 키가 작은 편이에요. ⑴ 저는 책을 많이 . ⑵ 회사가 집에서 . ⑶ 이 커피숍은 커피 값이 .",
-      "examples": []
+      "examples": [],
+      "explanationNp": "읽다 가깝다 싸다 작다 सम्बन्धी व्याकरण नियम र प्रयोग।"
     },
     {
       "point": "분위기가 좋다 오늘은 특별한 날이다 물건값이 싸다 감기에 걸렸다",
       "explanation": "[ 보기 ] 저는 보통 시장에서 장을 봐요. 물건값이 싸거든요 . ⑴ 저는 우리 회사가 좋아요. . ⑵ 약을 먹어야 해요. . ⑶ 친구에게 줄 꽃을 샀어요. .",
-      "examples": []
+      "examples": [],
+      "explanationNp": "समय वा स्थान जनाउने प्रत्यय हो। नेपालीमा 'मा' वा 'तिर' भन्ने अर्थ लाग्दछ।"
     }
   ],
   "conversations": [
@@ -354,7 +357,8 @@
         "③ 너무 더워서 짜증이 질렀어요.",
         "④ 작업복을 입을 때는 지퍼를 매세요."
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
   "listeningQuestions": [
@@ -368,7 +372,10 @@
         "④ 아니요, 칼로 씨와 화해했어요."
       ],
       "correctAnswer": -1,
-      "transcript": "듣기지문\n1. 여 : 칼로 씨한테 미안하다고 말했어요?\n2. 남 : 아궁 씨가 누구예요?\n3. 여 : 마두 씨 회사 동료들은 서로 친하게 잘 지내요?\n남 : 네, 서로 위해 주면서 즐겁게 일해요.\n4. 남 : 공장장님이 닛차난 씨를 많이 아끼는 것 같아요.\n5. 여 : 푸캄 씨, 조금 전에 다라 씨하고 왜 싸운 거예요?\n남 : 다라 씨가 내 말에 대답을 안 해서 저를 무시하는 줄 알았어요.\n여 : 아마 기계 소리 때문에 못 들었을 거예요.\n남 : 맞아요. 제가 오해를 했어요. 그래서 다라 씨한테 미안하다고 말했어요.\n33 동료와의 관계 COLLEAGUE RELATIONSHIPS 45"
+      "transcript": "듣기지문\n1. 여 : 칼로 씨한테 미안하다고 말했어요?\n2. 남 : 아궁 씨가 누구예요?\n3. 여 : 마두 씨 회사 동료들은 서로 친하게 잘 지내요?\n남 : 네, 서로 위해 주면서 즐겁게 일해요.\n4. 남 : 공장장님이 닛차난 씨를 많이 아끼는 것 같아요.\n5. 여 : 푸캄 씨, 조금 전에 다라 씨하고 왜 싸운 거예요?\n남 : 다라 씨가 내 말에 대답을 안 해서 저를 무시하는 줄 알았어요.\n여 : 아마 기계 소리 때문에 못 들었을 거예요.\n남 : 맞아요. 제가 오해를 했어요. 그래서 다라 씨한테 미안하다고 말했어요.\n33 동료와의 관계 COLLEAGUE RELATIONSHIPS 45",
+      "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
-  ]
+  ],
+  "titleNp": "सहकर्मीहरूसँगको सम्बन्ध",
+  "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_33.pdf"
 }

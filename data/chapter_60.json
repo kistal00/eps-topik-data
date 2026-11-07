@@ -15,17 +15,20 @@
     {
       "point": "근로자 보험",
       "explanation": "Employment Insurance 가입한 보험의 보험금에 대해 묻고 대답할 수 있다. 학습 목표 Can ask and answer questions about the insurance benefits of an insurance policy one has signed up for. LEARNING OBJECTIVES 외국인 근로자 관련 보험에 대해 묻고 대답할 수 있다. Can ask and answer questions about insurance for foreign workers. 306 한국어 표준교재 2 CHAPTER 60 EPS-TOPIK 상해 보험금을 신청하고 싶어요. 보험금을 신청하려면 병원 진단서가 필요합니다. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -는 바람에 보험 및 보험금 관련 어휘 외국인 근로자 관련 보험 -(으)려면 Vocabulary Related to Insurance and Insurance for Foreign Workers Insurance Benefits 외국인 근로자 전용 보험 관련 어휘 Vocabulary Related to Insurance Exclusive to Foreign Workers 306 한국어 표준교재 2",
-      "examples": []
+      "examples": [],
+      "explanationNp": "근로자 보험 सम्बन्धी व्याकरण नियम र प्रयोग।"
     },
     {
       "point": "밥을 너무 빨리 원목에 구멍을 잘못",
       "explanation": "체한 것 같아요. (먹다) 다시 작업해야 돼요. (뚫다) ⑶ ⑷ 계단에서 페인트를 잘못 다리를 다쳤어요. (넘어지다) 다시 작업해야 돼요. (칠하다)",
-      "examples": []
+      "examples": [],
+      "explanationNp": "समय वा स्थान जनाउने प्रत्यय हो। नेपालीमा 'मा' वा 'तिर' भन्ने अर्थ लाग्दछ।"
     },
     {
       "point": "진단서를 제출하다 귀국비용보험에 가입하다",
       "explanation": "같은 업종에서 새 회사를 찾다 출국예정신고를 하다 [ 보기 ] 가 : 작업장을 옮기고 싶어요. 나 : 작업장을 옮기려면 같은 업종에서 새 회사를 찾아야 돼요. 60 근로자 보험 EMPLOYMENT INSURANCE 311",
-      "examples": []
+      "examples": [],
+      "explanationNp": "समय वा स्थान जनाउने प्रत्यय हो। नेपालीमा 'मा' वा 'तिर' भन्ने अर्थ लाग्दछ।"
     }
   ],
   "conversations": [
@@ -200,7 +203,8 @@
         "③ 체류 기간을 연장해려면 신청서를 내야 돼요.",
         "④ 보험금을 받으려면 통장 사본을 주셔야 해요."
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
   "listeningQuestions": [
@@ -214,7 +218,10 @@
         "④ 아니요, 보험금이 많지 않아요."
       ],
       "correctAnswer": -1,
-      "transcript": "듣기지문\n1. 여 : 보험금은 받았어요?\n2. 남 : 누가 보험금을 청구했어요?\n3. 남 : 귀국비용보험에 가입하고 싶은데 몇 번을 내야 돼요?\n여 : 세 번에 나눠서 내거나 한꺼번에 낼 수도 있어요.\n4. 여 : 회사 사정이 어려워져서 문을 닫았어요. 그래서 두 달째 월급을 못 받고 있어요.\n남 : 그 럼 고용노동부에 가서 신고 접수부터 하세요. 회사에서 임금체불보증보험에 가입해 두었으면 밀린 월급을 받을 수 있을\n거예요.\n5. 남 : 외국인 근로자도 한 회사에서 일 년 이상 일하면 퇴직금을 받을 수 있어요?\n여 : 그럼요. 외국인 근로자라도 퇴직금을 받을 수 있어요.\n남 : 제가 지난달에 회사를 옮겼는데 어떻게 신청하면 돼요?\n여 : 일하던 회사에 가서 직접 요청하셔야 돼요.\n60 근로자 보험 EMPLOYMENT INSURANCE 315"
+      "transcript": "듣기지문\n1. 여 : 보험금은 받았어요?\n2. 남 : 누가 보험금을 청구했어요?\n3. 남 : 귀국비용보험에 가입하고 싶은데 몇 번을 내야 돼요?\n여 : 세 번에 나눠서 내거나 한꺼번에 낼 수도 있어요.\n4. 여 : 회사 사정이 어려워져서 문을 닫았어요. 그래서 두 달째 월급을 못 받고 있어요.\n남 : 그 럼 고용노동부에 가서 신고 접수부터 하세요. 회사에서 임금체불보증보험에 가입해 두었으면 밀린 월급을 받을 수 있을\n거예요.\n5. 남 : 외국인 근로자도 한 회사에서 일 년 이상 일하면 퇴직금을 받을 수 있어요?\n여 : 그럼요. 외국인 근로자라도 퇴직금을 받을 수 있어요.\n남 : 제가 지난달에 회사를 옮겼는데 어떻게 신청하면 돼요?\n여 : 일하던 회사에 가서 직접 요청하셔야 돼요.\n60 근로자 보험 EMPLOYMENT INSURANCE 315",
+      "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
-  ]
+  ],
+  "titleNp": "कामदार बीमा र क्षतिपूर्ति",
+  "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_60.pdf"
 }

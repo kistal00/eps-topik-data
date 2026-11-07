@@ -14,32 +14,38 @@
   "vocabulary": [
     {
       "korean": "양",
-      "english": "sheep"
+      "english": "sheep",
+      "nepali": "भेडा"
     },
     {
       "korean": "말",
-      "english": "horse"
+      "english": "horse",
+      "nepali": "घोडा"
     },
     {
       "korean": "토끼",
-      "english": "rabbit"
+      "english": "rabbit",
+      "nepali": "खरायो"
     }
   ],
   "grammar": [
     {
       "point": "사육 관리",
       "explanation": "Livestock Management 사료 급여 방법에 대해 묻고 대답할 수 있다. 학습 목표 Can ask and answer questions about the methods of feeding livestock. LEARNING OBJECTIVES 축사 청소 방법 및 순서에 대해 말할 수 있다. Can talk about the methods and procedures for cleaning a barn. CHAPTER 46 EPS-TOPIK 소를 키워 본 적이 있어요? 아니요, 키워 본 적이 없어요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -(으)ㄴ 적이 있다, 없다 사료 급여 관련 어휘 한국의 육류 소비 -게 하다 Vocabulary Related to Feeding Korea's Meat Consumption Livestock 축사 청소 관련 어휘 Vocabulary Related to Barn Cleaning 166 한국어 표준교재 2",
-      "examples": []
+      "examples": [],
+      "explanationNp": "사육 관리 सम्बन्धी व्याकरण नियम र प्रयोग।"
     },
     {
       "point": "모내기를 해 보다 전기 용접기를 사용하다",
       "explanation": "○ × . . ⑶ ⑷ 밀링 작업을 해 보다 양계장에서 일하다 × ○ . .",
-      "examples": []
+      "examples": [],
+      "explanationNp": "모내기를 해 보다 전기 용접기를 사용하다 सम्बन्धी व्याकरण नियम र प्रयोग।"
     },
     {
       "point": "다라 씨는",
       "explanation": "그동안 ⑵ 톱밥을 프엉 씨, 가져오세요. 바트 씨는 ⑴ 분뇨를 ⑶ 톱밥을 바닥에 까세요. 치우세요. 축사가 엉망이네요. 청소가 끝나면 청소 도구를 청소하세요. 정리하세요. 어제 축사를 치우지 않고 퇴근해서 축사가 엉망이었습니다. 그래서 상우 씨가 축사를 청소하라고 했습니다. 프엉 씨에게는 ⑴ . 다라 씨에게는 그동안 ⑵ . 바트 씨에게는 다라 씨가 가져온 ⑶ . 그리고 청소가 끝나면 청소 도구를 정리하라고 했습니다. 46 사육 관리 LIVESTOCK MANAGEMENT 171",
-      "examples": []
+      "examples": [],
+      "explanationNp": "다라 씨는 सम्बन्धी व्याकरण नियम र प्रयोग।"
     }
   ],
   "conversations": [
@@ -214,7 +220,8 @@
         "③",
         "④\n2. 다음 중 밑줄 친 부분이 맞는 문장을 고르십시오."
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
   "listeningQuestions": [
@@ -228,7 +235,10 @@
         "④\n2. 다음을 듣고 물음에 알맞은 대답을 고르십시오."
       ],
       "correctAnswer": -1,
-      "transcript": "듣기지문\n1. 남 : 사장님, 이제 뭘 할까요?\n여 : 축사에 가서 분뇨 좀 치워 주세요.\n2. 남 : 누가 축사 청소를 했어요?\n3. 남 : 축사 청소는 다 했어요?\n여 : 아니요, 아직 분뇨를 치우고 있어요.\n4. 남 : 물청소를 했으니까 축사 소독을 시작합시다.\n5. 남 : 사료 정리하느라 고생했어요. 내일은 축사 청소한 후에 소독도 할 거니까 준비해 주세요.\n여 : 소독이요? 지난주에 했는데 또 소독을 해야 돼요?\n남 : 일주일에 한 번씩 해야 소들이 병에 걸리지 않거든요.\n여 : 네, 알겠어요. 이따가 창고에 가서 소독약을 준비해 놓을게요.\n46 사육 관리 LIVESTOCK MANAGEMENT 175"
+      "transcript": "듣기지문\n1. 남 : 사장님, 이제 뭘 할까요?\n여 : 축사에 가서 분뇨 좀 치워 주세요.\n2. 남 : 누가 축사 청소를 했어요?\n3. 남 : 축사 청소는 다 했어요?\n여 : 아니요, 아직 분뇨를 치우고 있어요.\n4. 남 : 물청소를 했으니까 축사 소독을 시작합시다.\n5. 남 : 사료 정리하느라 고생했어요. 내일은 축사 청소한 후에 소독도 할 거니까 준비해 주세요.\n여 : 소독이요? 지난주에 했는데 또 소독을 해야 돼요?\n남 : 일주일에 한 번씩 해야 소들이 병에 걸리지 않거든요.\n여 : 네, 알겠어요. 이따가 창고에 가서 소독약을 준비해 놓을게요.\n46 사육 관리 LIVESTOCK MANAGEMENT 175",
+      "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
-  ]
+  ],
+  "titleNp": "पशुपालन व्यवस्थापन",
+  "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_46.pdf"
 }

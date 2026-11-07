@@ -14,30 +14,35 @@
   "vocabulary": [
     {
       "korean": "휴가",
-      "english": "Vacation"
+      "english": "Vacation",
+      "nepali": "बिदा"
     },
     {
       "korean": "콘도",
-      "english": "membership resort"
+      "english": "membership resort",
+      "nepali": "सदस्यता रिसोर्ट"
     }
   ],
   "grammar": [
     {
       "point": "휴가",
       "explanation": "Vacation 휴가 계획을 말할 수 있다. 학습 목표 Can talk about vacation plans. LEARNING OBJECTIVES 여행 경험에 대해 묻고 대답할 수 있다. Can ask and answer questions about travel experiences. 210 한국어 표준교재 1 CHAPTER 17 EPS-TOPIK 휴가 때 뭐 하려고 해요? 부산에 가려고 해요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -(으)ㄹ 때 여행 관련 어휘 한국의 문화유산 -(으)려고 하다 Vocabulary Related to Travel Korea's Cultural Heritage 여행지 관련 어휘 Vocabulary Related to Travel Destinations 210 한국어 표준교재 1",
-      "examples": []
+      "examples": [],
+      "explanationNp": "휴가 सम्बन्धी व्याकरण नियम र प्रयोग।"
     },
     {
       "point": "때",
       "explanation": "‘-(으)ㄹ 때’는 동사, 형용사에 붙어 어떤 일이 일어나는 시간을 나타내는 명사와 함께 사용할 때는 순간이나 계속되는 동안을 나타낸다. ‘명사 때’의 구성으로 사용할 수 있다. 단, ‘주말’, ‘요일’, ‘오전’, ‘오후’ 등의 명사와는 ‘-(으)ㄹ 때’ is attached to verbs and adjectives to 사용할 수 없다. indicate the moment when something happens or the duration during which something continues. When used with nouns indicating time, However, it cannot be used with nouns like 받침 ○ -을 때 먹다 → 먹을 때 ‘주말 (weekend)’, ‘요일 (day of the week)’, ‘오전 (AM)’, or ‘오후 (PM)’. 가다 → 갈 때 받침 ×, 받침 ‘ㄹ’ -ㄹ 때 만들다 → 만들 때 예 휴가 때 부산에 갈 거예요. 제주도에 갈 때 비행기를 타요. 음식을 만들 때 기분이 좋아요.",
       "examples": [
         "예 시간이 있을 때 여행을 가요."
-      ]
+      ],
+      "explanationNp": "कुनै कार्य वा अवस्था भइरहेको समय जनाउँछ। नेपालीमा '... गर्दाको समयमा / बखत' भन्ने अर्थ लाग्छ।"
     },
     {
       "point": "친구를 만나다 책을 읽다",
       "explanation": "⑵ ⑶ 가 : 주말에 뭐 하려고 해요? 가 : 휴가 때 뭐 하려고 해요? 나 : . 나 : . 쇼핑하다 제주도에 가다",
-      "examples": []
+      "examples": [],
+      "explanationNp": "친구를 만나다 책을 읽다 सम्बन्धी व्याकरण नियम र प्रयोग।"
     }
   ],
   "conversations": [
@@ -222,7 +227,8 @@
         "③",
         "④\n2. 다음 단어와 관계있는 것은 무엇입니까?"
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
   "listeningQuestions": [
@@ -236,7 +242,10 @@
         "④\nAugust 8월 August 8월 August 8월 August 8월"
       ],
       "correctAnswer": -1,
-      "transcript": "듣기지문\n1. 여 : 여름휴가는 언제예요?\n남 : 8월 1일부터 5일까지예요.\n2. 남 : 경주에 가면 뭘 하고 싶어요?\n여 : 박물관을 관람하고 싶어요.\n3. 여 : 제주도는 어땠어요?\n남 : 아주 좋았어요. 경치도 좋고 음식도 맛있었어요.\n4. 여 : 무엇을 타고 가려고 해요?\n5. 남 : 이번 휴가 때 뭐 할 거예요?\n17 휴가 VACATION 219"
+      "transcript": "듣기지문\n1. 여 : 여름휴가는 언제예요?\n남 : 8월 1일부터 5일까지예요.\n2. 남 : 경주에 가면 뭘 하고 싶어요?\n여 : 박물관을 관람하고 싶어요.\n3. 여 : 제주도는 어땠어요?\n남 : 아주 좋았어요. 경치도 좋고 음식도 맛있었어요.\n4. 여 : 무엇을 타고 가려고 해요?\n5. 남 : 이번 휴가 때 뭐 할 거예요?\n17 휴가 VACATION 219",
+      "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
-  ]
+  ],
+  "titleNp": "बिदा तथा छुट्टी",
+  "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_17.pdf"
 }

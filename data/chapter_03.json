@@ -12,14 +12,16 @@
   "vocabulary": [
     {
       "korean": "장소",
-      "english": "Places"
+      "english": "Places",
+      "nepali": "स्थान"
     }
   ],
   "grammar": [
     {
       "point": "위치와 장소",
       "explanation": "Locations and Places 집에 있는 물건에 대해 말할 수 있다. 학습 목표 Can talk about items at home. LEARNING OBJECTIVES 사람이나 물건이 있는 장소에 대해 말할 수 있다. Can talk about where a person or object is. CHAPTER 03 EPS-TOPIK 텔레비전은 어디에 있어요? 거실에 있어요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION 이/가 있어요, 없어요 가구와 전자제품 한국의 도시 에(장소) Furniture and Electronics Korea's Cities 장소 Places 70 한국어 표준교재 1",
-      "examples": []
+      "examples": [],
+      "explanationNp": "위치와 장소 सम्बन्धी व्याकरण नियम र प्रयोग।"
     },
     {
       "point": "이/가 있어요, 없어요",
@@ -27,7 +29,8 @@
       "examples": [
         "예 이름이 뭐예요?",
         "예 옷장이 있어요."
-      ]
+      ],
+      "explanationNp": "कर्ता (Subject) कारक जनाउने प्रत्यय हो। बाच्छिम भए '이', बाच्छिम नभए '가' जोडिन्छ।"
     }
   ],
   "conversations": [
@@ -127,7 +130,8 @@
         "③",
         "④\n2. 다음 단어와 관계있는 것은 무엇입니까?"
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
   "listeningQuestions": [
@@ -141,7 +145,10 @@
         "④ 약국"
       ],
       "correctAnswer": -1,
-      "transcript": "듣기지문\n1. 남 : 여기는 은행입니다.\n2. 남 : 의자가 있어요?\n3. 여 : 시장에 어떻게 갔어요?\n4. 남 : 집에 에어컨이 있어요?\n여 : 에어컨은 없어요. 선풍기가 있어요.\n5. 남 : 근처에 시장이 있어요?\n3 위치와 장소 LOCATIONS AND PLACES 79"
+      "transcript": "듣기지문\n1. 남 : 여기는 은행입니다.\n2. 남 : 의자가 있어요?\n3. 여 : 시장에 어떻게 갔어요?\n4. 남 : 집에 에어컨이 있어요?\n여 : 에어컨은 없어요. 선풍기가 있어요.\n5. 남 : 근처에 시장이 있어요?\n3 위치와 장소 LOCATIONS AND PLACES 79",
+      "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
-  ]
+  ],
+  "titleNp": "स्थान र ठाउँहरू",
+  "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_03.pdf"
 }

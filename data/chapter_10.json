@@ -15,17 +15,20 @@
     {
       "point": "물건 구입",
       "explanation": "Shopping 물건의 상태에 대해 묻고 대답할 수 있다. 학습 목표 Can ask and answer about the descriptions of things. LEARNING OBJECTIVES 필요한 것을 상대방에게 요청할 수 있다. Can request items needed from others. 140 한국어 표준교재 1 CHAPTER 10 EPS-TOPIK 어서 오세요. 과일이 싱싱하네요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -네요 상태 관련 어휘 무인 판매점 -아/어 주세요 Description Words Unmanned Stores 화폐 및 물품 구매 관련 어휘 Vocabulary Related to Currency and Purchasing Items 140 한국어 표준교재 1",
-      "examples": []
+      "examples": [],
+      "explanationNp": "물건 구입 सम्बन्धी व्याकरण नियम र प्रयोग।"
     },
     {
       "point": "춥다 예쁘다 어렵다 비싸다",
       "explanation": "⑴ 가 : 영어 공부가 어때요? ⑵ 가 : 날씨가 어때요? 나 : 조금 . 나 : 오늘 정말 . ⑶ 가 : 이 수박은 삼만 원이에요. ⑷ 가 : 이 사람이 우리 언니예요. 나 : 네? . 나 : 언니가 .",
-      "examples": []
+      "examples": [],
+      "explanationNp": "춥다 예쁘다 어렵다 비싸다 सम्बन्धी व्याकरण नियम र प्रयोग।"
     },
     {
       "point": "들다 바꾸다 만들다 전화하다 청소하다",
       "explanation": "[ 보기 ] 지금은 일해요. 오후에 전화해 주세요. ⑴ 사과가 상했어요. 사과를 . ⑵ 상자가 너무 무거워요. 상자를 좀 . ⑶ 김치찌개를 좋아해요. 김치찌개를 . ⑷ 사무실이 어지럽네요. 사무실을 좀 .",
-      "examples": []
+      "examples": [],
+      "explanationNp": "들다 바꾸다 만들다 전화하다 청소하다 सम्बन्धी व्याकरण नियम र प्रयोग।"
     }
   ],
   "conversations": [
@@ -185,7 +188,8 @@
         "③",
         "④\n2. 다음 단어와 관계있는 것은 무엇입니까?"
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
   "listeningQuestions": [
@@ -199,7 +203,10 @@
         "④ 술"
       ],
       "correctAnswer": -1,
-      "transcript": "듣기지문\n1. 여 : 수박\n2. 남 : 운동화가 얼마예요?\n여 : 사만 오천 원이에요.\n3. 남 : 이 티셔츠는 오만 원이에요.\n여 : 티셔츠가 비싸네요. 좀 깎아 주세요.\n4. 여 : 사장님, 이 바지 다른 색깔도 있어요?\n5. 남 : 어서 오세요. 뭘 찾으세요?\n여 : 바지가 좀 커서 바꾸려고요.\n10 물건 구입 SHOPPING 149"
+      "transcript": "듣기지문\n1. 여 : 수박\n2. 남 : 운동화가 얼마예요?\n여 : 사만 오천 원이에요.\n3. 남 : 이 티셔츠는 오만 원이에요.\n여 : 티셔츠가 비싸네요. 좀 깎아 주세요.\n4. 여 : 사장님, 이 바지 다른 색깔도 있어요?\n5. 남 : 어서 오세요. 뭘 찾으세요?\n여 : 바지가 좀 커서 바꾸려고요.\n10 물건 구입 SHOPPING 149",
+      "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
-  ]
+  ],
+  "titleNp": "सामान खरिद गर्ने",
+  "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_10.pdf"
 }

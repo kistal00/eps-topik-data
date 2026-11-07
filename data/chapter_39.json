@@ -15,12 +15,14 @@
     {
       "point": "금속 가공",
       "explanation": "Metal Processing 공구의 이름과 사용 방법을 말할 수 있다. 학습 목표 Can talk about the names and usages of tools. LEARNING OBJECTIVES 절단과 용접 작업에 대해 이야기할 수 있다. Can talk about cutting and welding work. CHAPTER 39 EPS-TOPIK 오늘은 무슨 일을 해요? 반장님이 용접 작업을 하라고 했어요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -(으)라고 하다 작업용 공구 관련 어휘 그라인더 사용 시 주의 사항 -기 전에 Vocabulary Related to Workplace Safety Precautions When Using a Tools Grinder 절단 및 용접 관련 어휘 Vocabulary Related to Cutting and Welding 96 한국어 표준교재 2",
-      "examples": []
+      "examples": [],
+      "explanationNp": "금속 가공 सम्बन्धी व्याकरण नियम र प्रयोग।"
     },
     {
       "point": "자를 곳에",
       "explanation": "가 : 진수 씨가 뭐라고 했어요? 금을 그으세요. 나 : 자를 곳에 금을 그으라고 했어요. ⑴ ⑵ 못을 가 : 진 수 씨가 뭐라고 파이프를 가 : 진 수 씨가 뭐라고 박으세요. 자르세요. 했어요? 했어요? 나 : . 나 : . ⑶ ⑷ 바이스로 물체를 가 : 진 수 씨가 뭐라고 전기 드릴로 가 : 진 수 씨가 뭐라고 고정하세요. 구멍을 뚫으세요. 했어요? 했어요? 나 : . 나 : .",
-      "examples": []
+      "examples": [],
+      "explanationNp": "समय वा स्थान जनाउने प्रत्यय हो। नेपालीमा 'मा' वा 'तिर' भन्ने अर्थ लाग्दछ।"
     }
   ],
   "conversations": [
@@ -185,7 +187,8 @@
         "③",
         "④\n2. 다음 단어와 의미가 비슷한 말은 무엇입니까?"
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     },
     {
       "id": "ch39_r002",
@@ -196,7 +199,8 @@
         "③ 길이",
         "④ 무게"
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     },
     {
       "id": "ch39_r003",
@@ -207,7 +211,8 @@
         "③ 끊어야 합니다",
         "④ 측정해야 합니다"
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
   "listeningQuestions": [
@@ -221,7 +226,10 @@
         "④\n2. 다음을 듣고 물음에 알맞은 대답을 고르십시오."
       ],
       "correctAnswer": -1,
-      "transcript": "듣기지문\n1. 여 : 공구함에 망치가 있을 거예요. 몇 개 갖다줄까요?\n남 : 두 개 갖다주세요. 고맙습니다.\n2. 여 : 용접이 힘들어요?\n3. 남 : 반장님이 표면을 깎으라고 하셨는데, 뭘로 깎아야 돼요?\n여 : 이건 금속이라서 줄로 깎아야 돼요. 공구함에 줄이 있을 거예요.\n4. 남 : 용접할 때 불꽃이 튈 수 있으니까 조심하세요.\n5. 여 : 마두 씨, 절단 작업은 다 끝났어요?\n남 : 네, 방금 다 했어요.\n여 : 그럼 자하라 씨한테 용접봉 좀 가져다주세요. 아까부터 찾고 있었어요.\n39 금속 가공 METAL PROCESSING 105"
+      "transcript": "듣기지문\n1. 여 : 공구함에 망치가 있을 거예요. 몇 개 갖다줄까요?\n남 : 두 개 갖다주세요. 고맙습니다.\n2. 여 : 용접이 힘들어요?\n3. 남 : 반장님이 표면을 깎으라고 하셨는데, 뭘로 깎아야 돼요?\n여 : 이건 금속이라서 줄로 깎아야 돼요. 공구함에 줄이 있을 거예요.\n4. 남 : 용접할 때 불꽃이 튈 수 있으니까 조심하세요.\n5. 여 : 마두 씨, 절단 작업은 다 끝났어요?\n남 : 네, 방금 다 했어요.\n여 : 그럼 자하라 씨한테 용접봉 좀 가져다주세요. 아까부터 찾고 있었어요.\n39 금속 가공 METAL PROCESSING 105",
+      "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
-  ]
+  ],
+  "titleNp": "धातु प्रशोधन र वेल्डिङ",
+  "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_39.pdf"
 }

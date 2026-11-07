@@ -15,7 +15,8 @@
     {
       "point": "날짜와 요일",
       "explanation": "Dates and Days of the Week 요일을 말할 수 있다. 학습 목표 Can name the days of the week. LEARNING OBJECTIVES 날짜를 묻고 대답할 수 있다. Can ask and answer what date it is. 90 한국어 표준교재 1 CHAPTER 05 EPS-TOPIK SUNDAY MONDAY TUESDAY WEDNESDAY THURSDAY FRIDAY SATURDAY 일요일 월요일 화요일 수요일 목요일 금요일 토요일 4월 16일이 무슨 요일이에요? 화요일이에요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION 에(시간) 요일 양력과 음력 -았/었- Days of the Week Solar and Lunar Calendars 날짜 관련 어휘 Vocabulary Related to Dates 90 한국어 표준교재 1",
-      "examples": []
+      "examples": [],
+      "explanationNp": "날짜와 요일 सम्बन्धी व्याकरण नियम र प्रयोग।"
     },
     {
       "point": "어떤 일이 일어나는 때를 나타내고, 장소",
@@ -24,12 +25,14 @@
         "예 월요일에 일해요.",
         "예 다라 씨는 회사에 있어요.",
         "예 오늘에 영화를 봐요. (X)"
-      ]
+      ],
+      "explanationNp": "어떤 일이 일어나는 때를 나타내고, 장소 सम्बन्धी व्याकरण नियम र प्रयोग।"
     },
     {
       "point": "일요일 월요일 화요일 수요일 목요일 금요일 토요일",
       "explanation": "1 2 3 4 가 : 5월 27일에 뭐 했어요? 5 6 7 8 9 10 11 나 : 쇼핑했어요. 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 오늘 ⑴ 가 : 5월 6일에 뭐 했어요? ⑵ 가 : 5월 10일에 뭐 했어요? 나 : . 나 : . ⑶ 가 : 지난주 화요일에 뭐 했어요? ⑷ 가 : 어제 뭐 했어요? 나 : . 나 : . 5 날짜와 요일 DATES AND DAYS OF THE WEEK 95",
-      "examples": []
+      "examples": [],
+      "explanationNp": "일요일 월요일 화요일 수요일 목요일 금요일 토요일 सम्बन्धी व्याकरण नियम र प्रयोग।"
     }
   ],
   "conversations": [
@@ -234,7 +237,8 @@
         "③ 날짜",
         "④ 시간"
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     },
     {
       "id": "ch05_r002",
@@ -245,7 +249,8 @@
         "③ 주말",
         "④ 물건"
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
   "listeningQuestions": [
@@ -259,7 +264,10 @@
         "④ 일요일"
       ],
       "correctAnswer": -1,
-      "transcript": "듣기지문\n1. 여 : 오늘은 목요일입니다.\n2. 남 : 내일이 몇 월 며칠이에요?\n여 : 10월 17일이에요.\n3. 남 : 수요일에 일해요?\n4. 남 : 오늘이 무슨 요일이에요?\n5. 여 : 8월 7일이 무슨 요일이에요?\n남 : 월요일이에요.\n5 날짜와 요일 DATES AND DAYS OF THE WEEK 99"
+      "transcript": "듣기지문\n1. 여 : 오늘은 목요일입니다.\n2. 남 : 내일이 몇 월 며칠이에요?\n여 : 10월 17일이에요.\n3. 남 : 수요일에 일해요?\n4. 남 : 오늘이 무슨 요일이에요?\n5. 여 : 8월 7일이 무슨 요일이에요?\n남 : 월요일이에요.\n5 날짜와 요일 DATES AND DAYS OF THE WEEK 99",
+      "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
-  ]
+  ],
+  "titleNp": "मिति र बारहरू",
+  "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_05.pdf"
 }

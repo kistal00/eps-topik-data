@@ -14,40 +14,47 @@
   "vocabulary": [
     {
       "korean": "우체국",
-      "english": "Post Office"
+      "english": "Post Office",
+      "nepali": "पोस्ट अफिस"
     },
     {
       "korean": "한국산업인력공단",
-      "english": "post code"
+      "english": "post code",
+      "nepali": "पोस्ट कोड"
     },
     {
       "korean": "부치다",
-      "english": "to send"
+      "english": "to send",
+      "nepali": "पठाउन"
     },
     {
       "korean": "배송하다",
-      "english": "to deliver"
+      "english": "to deliver",
+      "nepali": "डेलिभर गर्न"
     }
   ],
   "grammar": [
     {
       "point": "우체국",
       "explanation": "Post Office 소포 발송에 대해 묻고 대답할 수 있다. 학습 목표 Can ask and answer questions about sending packages. LEARNING OBJECTIVES 국제 우편 업무 처리에 필요한 표현을 사용할 수 있다. Can use expressions needed to handle international postal services. 270 한국어 표준교재 1 CHAPTER 23 EPS-TOPIK EMS로 보내실 거지요? 네, 요금이 얼마예요? 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -는데/(으)ㄴ데(배경) 우편 관련 어휘 한국의 우체국 서비스 -지요? Vocabulary Related to Postal Mail Korean Postal Service 우체국 업무 관련 어휘 Vocabulary Related to the Post Office 270 한국어 표준교재 1",
-      "examples": []
+      "examples": [],
+      "explanationNp": "우체국 सम्बन्धी व्याकरण नियम र प्रयोग।"
     },
     {
       "point": "형용사",
       "explanation": "크다 → 큰데 받침 , 받침 ‘ㄹ’ -ㄴ데 × 길다 → 긴데 배가 아픈데 약이 있어요? 가 : 월요일인데 회사에 안 가요? 나 : 네, 오늘부터 휴가예요.",
       "examples": [
         "예 퇴근하는데 비가 왔어요."
-      ]
+      ],
+      "explanationNp": "형용사 सम्बन्धी व्याकरण नियम र प्रयोग।"
     },
     {
       "point": "예 매운 음식을 좋아하지요?",
       "explanation": "한국은 겨울에 춥지요? 가 : 아궁 씨 생일이 내일이지요? 나 : 아니요, 토요일이에요. ※ 말할 때는 ‘-죠?’와 같은 축약 형태로 사용할 수 있다. In conversation, it can be shortened to ‘-죠?’.",
       "examples": [
         "예 등기 우편으로 보내면 내일 도착하죠?"
-      ]
+      ],
+      "explanationNp": "예 매운 음식을 좋아하지요? सम्बन्धी व्याकरण नियम र प्रयोग।"
     }
   ],
   "conversations": [
@@ -157,7 +164,8 @@
         "③ 기숙사에 가은데 같이 갈까요?",
         "④ 오늘은 덥은데 내일 만날까요?"
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     },
     {
       "id": "ch23_r002",
@@ -168,7 +176,8 @@
         "③ 부칠 겁니다",
         "④ 바꿀 겁니다"
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     },
     {
       "id": "ch23_r003",
@@ -179,7 +188,8 @@
         "③ 가지고 와야 합니다",
         "④ 저울에 올려야 합니다"
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
   "listeningQuestions": [
@@ -193,7 +203,10 @@
         "④ 상자 무게를 재려고"
       ],
       "correctAnswer": -1,
-      "transcript": "듣기지문\n1. 남 : 이걸 울산에 보내고 싶은데요.\n여 : 봉투에 이름과 주소를 쓰셨지요?\n2. 여 : 마두 씨, 서류를 보냈지요?\n남 : 네, 등기 우편으로 보냈습니다.\n3. 여 : 우편 요금이 얼마예요?\n4. 남 : 택배를 언제 받을 수 있어요?\n5. 남 : 이 서류를 부산으로 보내고 싶은데 뭐가 가장 빨라요?\n여 : 익일 특급이 가장 빠릅니다. 지금 보내면 내일 도착합니다.\n23 우체국 POST OFFICE 279"
+      "transcript": "듣기지문\n1. 남 : 이걸 울산에 보내고 싶은데요.\n여 : 봉투에 이름과 주소를 쓰셨지요?\n2. 여 : 마두 씨, 서류를 보냈지요?\n남 : 네, 등기 우편으로 보냈습니다.\n3. 여 : 우편 요금이 얼마예요?\n4. 남 : 택배를 언제 받을 수 있어요?\n5. 남 : 이 서류를 부산으로 보내고 싶은데 뭐가 가장 빨라요?\n여 : 익일 특급이 가장 빠릅니다. 지금 보내면 내일 도착합니다.\n23 우체국 POST OFFICE 279",
+      "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
-  ]
+  ],
+  "titleNp": "हुलाक कार्यालय र पार्सल",
+  "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_23.pdf"
 }

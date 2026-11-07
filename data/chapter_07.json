@@ -15,23 +15,27 @@
   "vocabulary": [
     {
       "korean": "날씨",
-      "english": "Weather"
+      "english": "Weather",
+      "nepali": "मौसम"
     },
     {
       "korean": "계절",
-      "english": "seasons"
+      "english": "seasons",
+      "nepali": "ऋतुहरू"
     }
   ],
   "grammar": [
     {
       "point": "계절과 날씨",
       "explanation": "Seasons and the Weather 좋아하는 계절에 대해 말할 수 있다. 학습 목표 Can talk about one's favorite season. LEARNING OBJECTIVES 날씨에 대해 묻고 대답할 수 있다. Can ask and answer questions about the weather. 110 한국어 표준교재 1 CHAPTER 07 EPS-TOPIK 오늘은 날씨가 어때요? 너무 더워요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION ‘ㅂ’ 불규칙 활용 계절 날씨 안 Seasons Weather 날씨 Weather 110 한국어 표준교재 1",
-      "examples": []
+      "examples": [],
+      "explanationNp": "계절과 날씨 सम्बन्धी व्याकरण नियम र प्रयोग।"
     },
     {
       "point": "여름 겨울 주스 일",
       "explanation": "춥다 덥다 쉽다 차갑다 ⑴ ⑵ ⑶ 112 한국어 표준교재 1",
-      "examples": []
+      "examples": [],
+      "explanationNp": "여름 겨울 주스 일 सम्बन्धी व्याकरण नियम र प्रयोग।"
     },
     {
       "point": "안",
@@ -39,7 +43,8 @@
       "examples": [
         "예 비가 안 와요. 예 비가 오지 않아요.",
         "예 오늘은 일 안 해요."
-      ]
+      ],
+      "explanationNp": "안 सम्बन्धी व्याकरण नियम र प्रयोग।"
     }
   ],
   "conversations": [
@@ -179,7 +184,8 @@
         "③ 장소",
         "④ 명절"
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
   "listeningQuestions": [
@@ -193,7 +199,10 @@
         "④\n2. 두 사람은 무엇에 대해 말하고 있습니까?"
       ],
       "correctAnswer": -1,
-      "transcript": "듣기지문\n1. 남 : 날씨가 너무 덥네요. 우리 바다에 갈까요?\n여 : 좋아요. 바다에 가서 수영해요.\n2. 여 : 비가 계속 오네요.\n남 : 일기예보에서 밤까지 비가 올 거라고 했어요.\n3. 여 : 커피가 많이 뜨거워요?\n4. 남 : 우산을 언제 샀어요?\n5. 여 : 한국의 봄은 어때요?\n7 계절과 날씨 SEASONS AND THE WEATHER 119"
+      "transcript": "듣기지문\n1. 남 : 날씨가 너무 덥네요. 우리 바다에 갈까요?\n여 : 좋아요. 바다에 가서 수영해요.\n2. 여 : 비가 계속 오네요.\n남 : 일기예보에서 밤까지 비가 올 거라고 했어요.\n3. 여 : 커피가 많이 뜨거워요?\n4. 남 : 우산을 언제 샀어요?\n5. 여 : 한국의 봄은 어때요?\n7 계절과 날씨 SEASONS AND THE WEATHER 119",
+      "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
-  ]
+  ],
+  "titleNp": "ऋतु र मौसम",
+  "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_07.pdf"
 }

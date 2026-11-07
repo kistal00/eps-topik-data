@@ -15,17 +15,20 @@
     {
       "point": "출하 관리",
       "explanation": "Shipment Management 포장 작업 과정에 대해 듣고 이해할 수 있다. 학습 목표 Can listen to and understand the elements of the packaging process. LEARNING OBJECTIVES 출하 작업 진행 상황에 대해 말할 수 있다. Can talk about the progress of the shipping process. CHAPTER 36 EPS-TOPIK 출하 준비를 아주 잘했네요. 감사합니다. 그럼, 출하 시간에 맞춰 차에 실어 놓겠습니다. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -(으)ㄴ 포장 및 적재 작업 관련 어휘 한국의 무역 특성 -겠- Vocabulary Related to Packaging Characteristics of Korean Trade and Loading Work 출하 관리 관련 어휘 Vocabulary Related to Shipment Management 66 한국어 표준교재 2",
-      "examples": []
+      "examples": [],
+      "explanationNp": "출하 관리 सम्बन्धी व्याकरण नियम र प्रयोग।"
     },
     {
       "point": "제가 여기에 둔 포장 기준서 못 봤어요?",
       "explanation": "파렛트에 쌓아 놓은 물건을 창고로 옮기세요.",
-      "examples": []
+      "examples": [],
+      "explanationNp": "समय वा स्थान जनाउने प्रत्यय हो। नेपालीमा 'मा' वा 'तिर' भन्ने अर्थ लाग्दछ।"
     },
     {
       "point": "아궁 씨, 좀 도와주시겠습니까?",
       "explanation": "",
-      "examples": []
+      "examples": [],
+      "explanationNp": "아궁 씨, 좀 도와주시겠습니까? सम्बन्धी व्याकरण नियम र प्रयोग।"
     }
   ],
   "conversations": [
@@ -150,7 +153,8 @@
         "③",
         "④\n2. 다음 중 밑줄 친 부분이 맞는 문장을 고르십시오."
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
   "listeningQuestions": [
@@ -164,7 +168,10 @@
         "④\n2. 다음을 듣고 물음에 알맞은 대답을 고르십시오."
       ],
       "correctAnswer": -1,
-      "transcript": "듣기지문\n1. 여 : 오전에 무슨 작업을 했어요?\n남 : 납품할 물건을 트럭에 실었어요.\n2. 여 : 어떻게 상자를 운반했어요?\n3. 남 : 상자를 차에 옮겨 실으면 될까요?\n여 : 네, 위험할 수 있으니까 너무 높게 쌓지 않도록 하세요.\n4. 여 : 상자와 완충재를 얼마나 준비할까요?\n5. 남 : 아까 부탁한 방청지 갖다 놓았지요?\n여 : 죄송해요. 제품을 분류하느라 아직 준비 못 했어요.\n남 : 곧 포장 작업을 시작해야 되니까 얼른 가져오세요.\n여 : 네, 바로 가서 준비하겠습니다.\n36 출하 관리 SHIPMENT MANAGEMENT 75"
+      "transcript": "듣기지문\n1. 여 : 오전에 무슨 작업을 했어요?\n남 : 납품할 물건을 트럭에 실었어요.\n2. 여 : 어떻게 상자를 운반했어요?\n3. 남 : 상자를 차에 옮겨 실으면 될까요?\n여 : 네, 위험할 수 있으니까 너무 높게 쌓지 않도록 하세요.\n4. 여 : 상자와 완충재를 얼마나 준비할까요?\n5. 남 : 아까 부탁한 방청지 갖다 놓았지요?\n여 : 죄송해요. 제품을 분류하느라 아직 준비 못 했어요.\n남 : 곧 포장 작업을 시작해야 되니까 얼른 가져오세요.\n여 : 네, 바로 가서 준비하겠습니다.\n36 출하 관리 SHIPMENT MANAGEMENT 75",
+      "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
-  ]
+  ],
+  "titleNp": "ढुवानी तथा सामान निकासी व्यवस्थापन",
+  "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_36.pdf"
 }

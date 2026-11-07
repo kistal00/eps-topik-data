@@ -13,23 +13,27 @@
   "vocabulary": [
     {
       "korean": "화재",
-      "english": "try to extinguish and"
+      "english": "try to extinguish and",
+      "nepali": "बुझ्ने प्रयास गर्नुहोस् र"
     },
     {
       "korean": "무너짐",
-      "english": "stop work, oxidizing material prohibit use of open"
+      "english": "stop work, oxidizing material prohibit use of open",
+      "nepali": "काम रोक्नुहोस्, अक्सीकरण सामग्री खुला प्रयोग निषेध गर्नुहोस्"
     }
   ],
   "grammar": [
     {
       "point": "산업 재해 및 응급 처치",
       "explanation": "Industrial Accidents and First Aid 사고 상황별 초기 대응 요령에 대해 말할 수 있다. 학습 목표 Can talk about how to respond to different types of accidents. LEARNING OBJECTIVES 응급 상황 대처 방법에 대해 말할 수 있다. Can talk about how to respond to emergency situations. CHAPTER 56 EPS-TOPIK 불이 나자마자 소화기로 껐어요. 정말 큰일 날 뻔했네요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -(으)ㄹ 뻔하다 소방 장비 표지 비상 상황 표지 -자마자 Fire Safety Equipment Signs Emergency Situation Signs 응급 상황 대처 요령 Emergency Response Guidelines 266 한국어 표준교재 2",
-      "examples": []
+      "examples": [],
+      "explanationNp": "산업 재해 및 응급 처치 सम्बन्धी व्याकरण नियम र प्रयोग।"
     },
     {
       "point": "삐다 데다 베이다 넘어지다",
       "explanation": "⑴ ⑵ 손가락이 베일 뻔했어요. 손을 . ⑶ ⑷ 발목을 . 빨리 걷다가 .",
-      "examples": []
+      "examples": [],
+      "explanationNp": "삐다 데다 베이다 넘어지다 सम्बन्धी व्याकरण नियम र प्रयोग।"
     },
     {
       "point": "이어서 일어났을 때는 사용할 수 없",
@@ -37,7 +41,8 @@
       "examples": [
         "예 집 에 도착하자마자 회사에서 전화가",
         "예 회사에 도착하자마자 전화할게요."
-      ]
+      ],
+      "explanationNp": "이어서 일어났을 때는 사용할 수 없 सम्बन्धी व्याकरण नियम र प्रयोग।"
     }
   ],
   "conversations": [
@@ -132,7 +137,8 @@
         "③",
         "④\n3. 빈칸에 들어갈 가장 알맞은 것을 고르십시오."
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
   "listeningQuestions": [
@@ -146,7 +152,10 @@
         "④ 아니요, 사용법을 몰라요."
       ],
       "correctAnswer": -1,
-      "transcript": "듣기지문\n1. 남 : 소화기 사용법을 알아요?\n2. 여 : 왜 손을 다쳤어요?\n3. 여 : 가스 냄새가 나는 것 같아요.\n남 : 정말 냄새가 나네요. 빨리 밸브를 잠그고 창문을 엽시다.\n4. 남 : 철근에 걸려서 넘어질 뻔했어요.\n5. 남 : 자하라 씨, 큰일 났어요. 용접하다가 불꽃이 상자에 튀었어요.\n여 : 용접기부터 끄세요. 어, 저기 불이 붙은 것 같아요. 소화기 가져와서 얼른 불을 끄세요.\n남 : 네, 빨리 가져올게요.\n여 : 저는 반장님을 불러올게요.\n56 산업 재해 및 응급 처치 INDUSTRIAL ACCIDENTS AND FIRST AID 275"
+      "transcript": "듣기지문\n1. 남 : 소화기 사용법을 알아요?\n2. 여 : 왜 손을 다쳤어요?\n3. 여 : 가스 냄새가 나는 것 같아요.\n남 : 정말 냄새가 나네요. 빨리 밸브를 잠그고 창문을 엽시다.\n4. 남 : 철근에 걸려서 넘어질 뻔했어요.\n5. 남 : 자하라 씨, 큰일 났어요. 용접하다가 불꽃이 상자에 튀었어요.\n여 : 용접기부터 끄세요. 어, 저기 불이 붙은 것 같아요. 소화기 가져와서 얼른 불을 끄세요.\n남 : 네, 빨리 가져올게요.\n여 : 저는 반장님을 불러올게요.\n56 산업 재해 및 응급 처치 INDUSTRIAL ACCIDENTS AND FIRST AID 275",
+      "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
-  ]
+  ],
+  "titleNp": "औद्योगिक दुर्घटना र प्राथमिक उपचार",
+  "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_56.pdf"
 }

@@ -13,25 +13,29 @@
   "vocabulary": [
     {
       "korean": "자매",
-      "english": "sisters"
+      "english": "sisters",
+      "nepali": "बहिनीहरू"
     },
     {
       "korean": "남매",
-      "english": "brother"
+      "english": "brother",
+      "nepali": "achu"
     }
   ],
   "grammar": [
     {
       "point": "가족과 친구",
       "explanation": "Family and Friends 가족과 친구에 대해 묻고 대답할 수 있다. 학습 목표 Can ask and answer questions about family and friends. LEARNING OBJECTIVES 외모와 성격에 대해 말할 수 있다. Can talk about appearance and personality. CHAPTER 08 EPS-TOPIK 아버지께서 키가 크시네요. 키가 크고 멋있으세요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -(으)시- 가족 높임말과 반말 -고 Family Honorific Language and Non- honorific (Banmal) 외모와 성격 Appearances and Personality 120 한국어 표준교재 1",
-      "examples": []
+      "examples": [],
+      "explanationNp": "가족과 친구 सम्बन्धी व्याकरण नियम र प्रयोग।"
     },
     {
       "point": "두 가지 이상의 행위를 시간적인 순서",
       "explanation": "‘-고’는 동사, 형용사에 붙여 두 가지 이상의 상태, 행위, 사실을 대로 연결할 때에도 ‘-고’를 사용한다. 나열함을 나타낸다. ‘-고’ is also used to connect two or more actions in chronological order. ‘-고’ is attached to verbs and adjectives to list two or more states, actions, or facts. 예 카림 씨는 운동을 하고 샤워했어요. 저는 음식을 만들고 민민아웅 씨는 설거지를 해요. 다라 씨는 캄보디아 사람이고 칼로 씨는 필리핀 사람이에요.",
       "examples": [
         "예 닛차난 씨는 키가 크고 머리가 길어요."
-      ]
+      ],
+      "explanationNp": "두 가지 이상의 행위를 시간적인 순서 सम्बन्धी व्याकरण नियम र प्रयोग।"
     }
   ],
   "conversations": [
@@ -281,7 +285,8 @@
         "③",
         "④\n2. 다음 단어와 의미가 비슷한 말은 무엇입니까?"
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
   "listeningQuestions": [
@@ -295,7 +300,10 @@
         "④ 아니요, 아버지께서는 네팔에 사세요."
       ],
       "correctAnswer": -1,
-      "transcript": "듣기지문\n1. 여 : 아버지께서 키가 크세요?\n2. 남 : 여동생이 몇 명이에요?\n3. 남 : 이분이 딜로바 씨 아버지세요?\n여 : 네. 그리고 그 옆에 계신 분은 제 어머니세요.\n4. 남 : 동생도 닛차난 씨처럼 키가 커요?\n여 : 아니요. 제 동생은 키가 작아요.\n5. 남 : 프엉 씨는 남동생이 있어요?\n8 가족과 친구 FAMILY AND FRIENDS 129"
+      "transcript": "듣기지문\n1. 여 : 아버지께서 키가 크세요?\n2. 남 : 여동생이 몇 명이에요?\n3. 남 : 이분이 딜로바 씨 아버지세요?\n여 : 네. 그리고 그 옆에 계신 분은 제 어머니세요.\n4. 남 : 동생도 닛차난 씨처럼 키가 커요?\n여 : 아니요. 제 동생은 키가 작아요.\n5. 남 : 프엉 씨는 남동생이 있어요?\n8 가족과 친구 FAMILY AND FRIENDS 129",
+      "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
-  ]
+  ],
+  "titleNp": "परिवार र साथीहरू",
+  "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_08.pdf"
 }

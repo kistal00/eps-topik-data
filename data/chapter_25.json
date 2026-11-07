@@ -14,24 +14,28 @@
   "vocabulary": [
     {
       "korean": "외국인",
-      "english": "K"
+      "english": "K",
+      "nepali": "K"
     }
   ],
   "grammar": [
     {
       "point": "외국인 근로자 지원기관",
       "explanation": "Foreign Workers Support Center 교육 프로그램에 대해 말할 수 있다. 학습 목표 Can talk about educational programs. LEARNING OBJECTIVES 프로그램 신청에 필요한 표현을 사용할 수 있다. Can use expressions needed for program applications. 290 한국어 표준교재 1 CHAPTER 25 EPS-TOPIK 어떻게 오셨어요? 한국어 수업을 신청하러 왔어요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -(으)러 교육 프로그램 관련 어휘 외국인력상담센터 -기 때문에 Vocabulary Related to Educational Foreign Workers Counseling Center Programs 프로그램 이용 방법 관련 어휘 Vocabulary Related to Program Participation 290 한국어 표준교재 1",
-      "examples": []
+      "examples": [],
+      "explanationNp": "외국인 근로자 지원기관 सम्बन्धी व्याकरण नियम र प्रयोग।"
     },
     {
       "point": "한국 회사에서 일하다 텔레비전을 보다 배드민턴을 치다 법률 교육을 받다",
       "explanation": "⑴ 한국에 가요. ⑵ 휴게실에 가요. ⑶ 공원에 가요. ⑷ 센터에 가요.",
-      "examples": []
+      "examples": [],
+      "explanationNp": "समय वा स्थान जनाउने प्रत्यय हो। नेपालीमा 'मा' वा 'तिर' भन्ने अर्थ लाग्दछ।"
     },
     {
       "point": "한국어 수업을 듣다",
       "explanation": "⑴ ⑵ ⑶ ⑷ 자원 봉사를 하다 진료를 받다 콘서트에 가다 친구를 만나다 25 외국인 근로자 지원기관 FOREIGN WORKERS SUPPORT CENTER 295",
-      "examples": []
+      "examples": [],
+      "explanationNp": "한국어 수업을 듣다 सम्बन्धी व्याकरण नियम र प्रयोग।"
     }
   ],
   "conversations": [
@@ -276,7 +280,8 @@
         "③ 5월 1일~7월 31일",
         "④ 매주 일요일 오후 2시"
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     },
     {
       "id": "ch25_r002",
@@ -287,7 +292,8 @@
         "③ 모집하기 때문에",
         "④ 방문하기 때문에"
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     },
     {
       "id": "ch25_r003",
@@ -298,7 +304,8 @@
         "③ 접수 장소를 확인하면 됩니다",
         "④ 원하는 수업을 신청하면 됩니다"
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
   "listeningQuestions": [
@@ -312,7 +319,10 @@
         "④\n2. 여자는 왜 전화를 했습니까?"
       ],
       "correctAnswer": -1,
-      "transcript": "듣기지문\n1. 남 : 컴퓨터 교육은 언제까지 해요?\n여 : 11월 20일까지 해요.\n2. 남 : 네, 외국인근로자지원센터입니다.\n여 : 오늘 토픽 수업은 몇 시에 시작해요?\n3. 여 : 안녕하세요? 어떻게 오셨어요?\n남 : 법률 교육을 들으러 왔습니다.\n4. 남 : 디안 씨는 노래 대회에 안 나가요?\n5. 남 : 다라 씨는 어느 반이에요?\n25 외국인 근로자 지원기관 FOREIGN WORKERS SUPPORT CENTER 299"
+      "transcript": "듣기지문\n1. 남 : 컴퓨터 교육은 언제까지 해요?\n여 : 11월 20일까지 해요.\n2. 남 : 네, 외국인근로자지원센터입니다.\n여 : 오늘 토픽 수업은 몇 시에 시작해요?\n3. 여 : 안녕하세요? 어떻게 오셨어요?\n남 : 법률 교육을 들으러 왔습니다.\n4. 남 : 디안 씨는 노래 대회에 안 나가요?\n5. 남 : 다라 씨는 어느 반이에요?\n25 외국인 근로자 지원기관 FOREIGN WORKERS SUPPORT CENTER 299",
+      "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
-  ]
+  ],
+  "titleNp": "विदेशी कामदार सहयोग केन्द्र",
+  "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_25.pdf"
 }

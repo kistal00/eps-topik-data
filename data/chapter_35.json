@@ -15,7 +15,8 @@
     {
       "point": "작업장 관리",
       "explanation": "Workplace Management 작업장의 환경 관리에 대해 말할 수 있다. 학습 목표 Can talk about managing the workplace environment. LEARNING OBJECTIVES 자재 창고 관리 시 주의점에 대해 설명할 수 있다. Can explain precautions for managing a materials warehouse. CHAPTER 35 EPS-TOPIK 오늘 할 일은 뭐예요? 재고를 파악하는 거예요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -(으)ㅂ시다 작업장 환경 관리 관련 어휘 한국의 산업 구조 -(으)ㄹ Vocabulary Related to Workplace Korea's Industry Structure Environment Management 자재 창고 관리 관련 어휘 Vocabulary Related to Warehouse Management 56 한국어 표준교재 2",
-      "examples": []
+      "examples": [],
+      "explanationNp": "작업장 관리 सम्बन्धी व्याकरण नियम र प्रयोग।"
     },
     {
       "point": "자신보다 윗사람이나 나이가",
@@ -23,12 +24,14 @@
       "examples": [
         "예 작업할 때는 반드시 작업복을 입읍시다. 작업이 끝나면 작업장을 정리합시다.",
         "예 가 : 이제 퇴근해도 될까요? 나 : 네, 이제 그만 퇴근합시다."
-      ]
+      ],
+      "explanationNp": "자신보다 윗사람이나 나이가 सम्बन्धी व्याकरण नियम र प्रयोग।"
     },
     {
       "point": "관리하다 닦다 덮다 옮기다",
       "explanation": "[ 보기 ] 가 : 자재 창고 담당자가 바뀐다고 해요. 나 : 맞아요. 내일부터 창고를 관리할 담당자는 마두 씨예요. ⑴ 가 : 곧 비가 올 것 같아요. 나 : 빨리 자재를 덮개를 가져옵시다. ⑵ 가 : 이 자재들을 창고에 보관해야 돼요. 나 : 그럼 자재를 창고로 사람들을 데려올게요. ⑶ 가 : 작업대가 너무 지저분하네요. 나 : 제가 작업대를 걸레를 가져올게요.",
-      "examples": []
+      "examples": [],
+      "explanationNp": "관리하다 닦다 덮다 옮기다 सम्बन्धी व्याकरण नियम र प्रयोग।"
     }
   ],
   "conversations": [
@@ -158,7 +161,8 @@
         "③",
         "④\n[2~3] 빈칸에 들어갈 가장 알맞은 것을 고르십시오."
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     },
     {
       "id": "ch35_r002",
@@ -169,7 +173,8 @@
         "③ 쓰레기",
         "④ 쓰레받기"
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     },
     {
       "id": "ch35_r003",
@@ -180,7 +185,8 @@
         "③ 잠그고",
         "④ 두드리고"
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
   "listeningQuestions": [
@@ -194,7 +200,10 @@
         "④\n2. 다음을 듣고 물음에 알맞은 대답을 고르십시오."
       ],
       "correctAnswer": -1,
-      "transcript": "듣기지문\n1. 여 : 작업장 청소 좀 해야겠어요.\n남 : 그럼 저는 바닥을 닦을게요.\n2. 여 : 작업장 소음이 심해요?\n3. 남 : 왜 온도를 자주 확인하세요?\n여 : 식품 창고는 온도 유지가 중요해요. 온도가 올라가면 안 되니까 자주 확인해야 돼요.\n4. 남 : 이 자재들은 밖에 두면 안 돼요. 창고에 보관해야 돼요.\n5. 여 : 작업장이 엉망이네요. 냄새도 많이 나고요.\n남 : 어제 페인트 작업을 했거든요. 너무 늦어서 청소를 못 하고 퇴근했어요.\n여 : 일 시작하기 전에 환기부터 해야겠어요. 아궁 씨는 청소 도구 좀 가져오세요.\n35 작업장 관리 WORKPLACE MANAGEMENT 65"
+      "transcript": "듣기지문\n1. 여 : 작업장 청소 좀 해야겠어요.\n남 : 그럼 저는 바닥을 닦을게요.\n2. 여 : 작업장 소음이 심해요?\n3. 남 : 왜 온도를 자주 확인하세요?\n여 : 식품 창고는 온도 유지가 중요해요. 온도가 올라가면 안 되니까 자주 확인해야 돼요.\n4. 남 : 이 자재들은 밖에 두면 안 돼요. 창고에 보관해야 돼요.\n5. 여 : 작업장이 엉망이네요. 냄새도 많이 나고요.\n남 : 어제 페인트 작업을 했거든요. 너무 늦어서 청소를 못 하고 퇴근했어요.\n여 : 일 시작하기 전에 환기부터 해야겠어요. 아궁 씨는 청소 도구 좀 가져오세요.\n35 작업장 관리 WORKPLACE MANAGEMENT 65",
+      "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
-  ]
+  ],
+  "titleNp": "कार्यस्थल व्यवस्थापन र सरसफाइ",
+  "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_35.pdf"
 }

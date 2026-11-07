@@ -13,36 +13,43 @@
   "vocabulary": [
     {
       "korean": "대용량",
-      "english": "bulk"
+      "english": "bulk",
+      "nepali": "थोक"
     },
     {
       "korean": "소스",
-      "english": "sauce"
+      "english": "sauce",
+      "nepali": "चटनी"
     },
     {
       "korean": "통조림",
-      "english": "canned food"
+      "english": "canned food",
+      "nepali": "डिब्बाबंद खाना"
     },
     {
       "korean": "식자재",
-      "english": "food ingredients"
+      "english": "food ingredients",
+      "nepali": "खाद्य सामग्रीहरू"
     }
   ],
   "grammar": [
     {
       "point": "음식 조리",
       "explanation": "Food Preparation 식재료 관리 방법에 대해 묻고 대답할 수 있다. 학습 목표 Can ask and answer questions about how to manage ingredients. LEARNING OBJECTIVES 음식을 안전하게 보관하는 방법에 대해 설명할 수 있다. Can explain how to store food safely. 226 한국어 표준교재 2 CHAPTER 52 EPS-TOPIK 고기를 해동한 지 얼마나 되었어요? 세 시간이 되었습니다. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -았어야/었어야 했는데 식재료 관리 관련 어휘 K-푸드 산업 -(으)ㄴ 지 Vocabulary Related to Managing K-Food Industry Ingredients 음식 안전 관리 관련 어휘 Vocabulary Related to Food Safety Management 226 한국어 표준교재 2",
-      "examples": []
+      "examples": [],
+      "explanationNp": "음식 조리 सम्बन्धी व्याकरण नियम र प्रयोग।"
     },
     {
       "point": "식재료가 아직",
       "explanation": "도착을 안 했어요. •식 재료가 아직 도착을 안 했다 미리 주문했어야 •미 리 주문하다 했는데……. ⑴ ⑵ ⑶ •마 늘이 썩어서 사용할 •대 용량 제품이라서 •창 고에 있는 소스의 수 없다 사용하기 불편하다 소비 기한이 지났다 •바 람이 잘 통하는 곳에 •나 누어서 보관하다 •날 짜를 확인하다 두다 228 한국어 표준교재 2",
-      "examples": []
+      "examples": [],
+      "explanationNp": "식재료가 아직 सम्बन्धी व्याकरण नियम र प्रयोग।"
     },
     {
       "point": "꺼낸 지 얼마나 되었지요?",
       "explanation": "2개월이 되었어요. [보기] ⑴ 쌀에 벌레가 생겼다 빵에 곰팡이가 피었다 냉장 창고에서 꺼내다 빵을 만들다 2개월 일주일 ⑵ ⑶ 채소가 시들었다 고기에 핏물이 아직도 있다 창고에 보관하다 핏물을 빼다 5일 1시간 52 음식 조리 FOOD PREPARATION 231",
-      "examples": []
+      "examples": [],
+      "explanationNp": "꺼낸 지 얼마나 되었지요? सम्बन्धी व्याकरण नियम र प्रयोग।"
     }
   ],
   "conversations": [
@@ -217,7 +224,8 @@
         "③ 국자 - 채소를 갈아요.",
         "④ 국자 - 국물을 담아요."
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
   "listeningQuestions": [
@@ -231,7 +239,10 @@
         "④\n2. 다음을 듣고 물음에 알맞은 대답을 고르십시오."
       ],
       "correctAnswer": -1,
-      "transcript": "듣기지문\n1. 남 : 딜로바 씨가 지금 무슨 일을 하고 있어요?\n여 : 양파를 다듬고 있어요.\n2. 남 : 지퍼백이 얼마나 있어요?\n3. 여 : 며칠 전에 만든 빵인데 벌써 곰팡이가 폈어요.\n남 : 빵은 실온에 오래 두면 안 돼요. 밀봉해서 냉동실에 보관해야 돼요.\n4. 여 : 채소를 썬 칼로 고기를 손질하면 안 돼요.\n5. 남 : 오전에 배달된 상추는 어디에 있어요?\n여 : 씻어서 바구니에 담아 냉장고에 넣어 두었습니다.\n남 : 씻은 상추는 밀폐용기에 담아서 보관해야 돼요.\n여 : 몰랐습니다. 다음부터 주의하겠습니다.\n52 음식 조리 FOOD PREPARATION 235"
+      "transcript": "듣기지문\n1. 남 : 딜로바 씨가 지금 무슨 일을 하고 있어요?\n여 : 양파를 다듬고 있어요.\n2. 남 : 지퍼백이 얼마나 있어요?\n3. 여 : 며칠 전에 만든 빵인데 벌써 곰팡이가 폈어요.\n남 : 빵은 실온에 오래 두면 안 돼요. 밀봉해서 냉동실에 보관해야 돼요.\n4. 여 : 채소를 썬 칼로 고기를 손질하면 안 돼요.\n5. 남 : 오전에 배달된 상추는 어디에 있어요?\n여 : 씻어서 바구니에 담아 냉장고에 넣어 두었습니다.\n남 : 씻은 상추는 밀폐용기에 담아서 보관해야 돼요.\n여 : 몰랐습니다. 다음부터 주의하겠습니다.\n52 음식 조리 FOOD PREPARATION 235",
+      "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
-  ]
+  ],
+  "titleNp": "खाना तयारी तथा भान्छा व्यवस्थापन",
+  "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_52.pdf"
 }

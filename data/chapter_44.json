@@ -15,7 +15,8 @@
     {
       "point": "토목 시공",
       "explanation": "Civil Engineering 준설 작업에 대해 묻고 대답할 수 있다. 학습 목표 Can ask and answer questions about dredging work. LEARNING OBJECTIVES 상하수도 시공 과정에 대해 말할 수 있다. Can talk about the process of constructing water supply and sewage systems. CHAPTER 44 EPS-TOPIK 상수도관을 설치할 때 뭘 주의해야 돼요? 누수가 발생하지 않도록 관을 잘 연결해야 돼요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -아야겠/어야겠- 준설 관련 어휘 한국의 대규모 토목 공사 -도록 Vocabulary Related to Dredging Korea's Large-scale Civil Engineering Construction 상하수도 시공 관련 어휘 Vocabulary Related to Water Supply and Sewage Systems Construction 146 한국어 표준교재 2",
-      "examples": []
+      "examples": [],
+      "explanationNp": "토목 시공 सम्बन्धी व्याकरण नियम र प्रयोग।"
     },
     {
       "point": "어 말하는 사람의 강한 의지를",
@@ -23,12 +24,14 @@
       "examples": [
         "예 재 고 정리할 사람이 부족하니까",
         "예 작업장에 냄새가 좀 심해서 창문을 열어야겠어요."
-      ]
+      ],
+      "explanationNp": "어 말하는 사람의 강한 의지를 सम्बन्धी व्याकरण नियम र प्रयोग।"
     },
     {
       "point": "물이 잘 흐르다 원사가 변색되지 않다 원단이 오염되지 않다",
       "explanation": "땅을 메울 때 사용할 수 있다 제시간에 작업을 시작할 수 있다 [ 보기 ] 원단이 오염되지 않도록 조심해서 옮겨 주세요. ⑴ 하천을 준설해야겠어요. ⑵ 온도 관리에 신경 쓰세요. ⑶ 자재를 미리 갖다 놓을게요. ⑷ 흙을 수로 가까이에 쌓아 두세요.",
-      "examples": []
+      "examples": [],
+      "explanationNp": "물이 잘 흐르다 원사가 변색되지 않다 원단이 오염되지 않다 सम्बन्धी व्याकरण नियम र प्रयोग।"
     }
   ],
   "conversations": [
@@ -183,7 +186,8 @@
         "③",
         "④\n2. 다음 중 밑줄 친 부분이 맞는 문장을 고르십시오."
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
   "listeningQuestions": [
@@ -197,7 +201,10 @@
         "④\n2. 다음을 듣고 물음에 알맞은 대답을 고르십시오."
       ],
       "correctAnswer": -1,
-      "transcript": "듣기지문\n1. 여 : 반장님, 뭐부터 해야 돼요?\n남 : 굴착기로 흙부터 깎읍시다.\n2. 남 : 무엇으로 땅을 다질까요?\n3. 여 : 관을 모두 설치했는데 이제 땅을 메우면 되지요?\n남 : 아니요, 먼저 모래와 자갈로 관 주변을 채우세요.\n4. 여 : 이따가 저하고 관 연결 작업을 좀 같이 해요.\n5. 남 : 하천에 토사가 많이 쌓였네요. 얼른 작업을 시작합시다.\n여 : 수풀이 많은데 흙을 퍼내기 전에 수풀부터 제거하는 게 어떨까요?\n남 : 좋아요. 굴착기 기사님한테 작업을 시작하시라고 전해 주세요.\n여 : 네, 바로 갔다 오겠습니다.\n44 토목 시공 CIVIL ENGINEERING 155"
+      "transcript": "듣기지문\n1. 여 : 반장님, 뭐부터 해야 돼요?\n남 : 굴착기로 흙부터 깎읍시다.\n2. 남 : 무엇으로 땅을 다질까요?\n3. 여 : 관을 모두 설치했는데 이제 땅을 메우면 되지요?\n남 : 아니요, 먼저 모래와 자갈로 관 주변을 채우세요.\n4. 여 : 이따가 저하고 관 연결 작업을 좀 같이 해요.\n5. 남 : 하천에 토사가 많이 쌓였네요. 얼른 작업을 시작합시다.\n여 : 수풀이 많은데 흙을 퍼내기 전에 수풀부터 제거하는 게 어떨까요?\n남 : 좋아요. 굴착기 기사님한테 작업을 시작하시라고 전해 주세요.\n여 : 네, 바로 갔다 오겠습니다.\n44 토목 시공 CIVIL ENGINEERING 155",
+      "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
-  ]
+  ],
+  "titleNp": "सिभिल इन्जिनियरिङ तथा सडक निर्माण",
+  "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_44.pdf"
 }

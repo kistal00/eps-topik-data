@@ -13,32 +13,37 @@
   "vocabulary": [
     {
       "korean": "자기소개",
-      "english": "Self Introduction"
+      "english": "Self Introduction",
+      "nepali": "आत्म परिचय"
     },
     {
       "korean": "직업명",
-      "english": "Occupations"
+      "english": "Occupations",
+      "nepali": "पेशाहरू"
     }
   ],
   "grammar": [
     {
       "point": "자기소개",
       "explanation": "Self Introduction 어느 나라 사람인지 묻고 대답할 수 있다. 학습 목표 Can ask and answer questions about where someone is from. LEARNING OBJECTIVES 직업이 무엇인지 묻고 대답할 수 있다. Can ask and answer questions about what someone's occupation is. CHAPTER 01 EPS-TOPIK 어느 나라 사람입니까? 저는 네팔 사람입니다. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION 입니다, 입니까? 나라 이름 한국의 인사 예절 은/는 Countries Korean Greeting Etiquette 직업명 Occupations 50 한국어 표준교재 1",
-      "examples": []
+      "examples": [],
+      "explanationNp": "자기소개 सम्बन्धी व्याकरण नियम र प्रयोग।"
     },
     {
       "point": "입니다, 입니까?",
       "explanation": "‘입니다’는 주어의 속성을 나타내는 명사와 결합하여, 격식적 상황에서 듣는 사람을 높여 말하는 문장의 서술어가 된다. ‘입니까?’는 ‘입니다’의 의문형으로 주어의 속성에 대하여 물을 때 사용한다. ‘입니다’ combines with a noun that shows an attribute of the subject and is the predicate of a sentence in formal situations, making the listener higher. ‘입니까?’ is the question form of ‘입니다’ and is used when asking about an attribute of the subject. 왕민입니다. 가 : 어느 나라 사람입니까? 나 : (저는) 라오스 사람입니다.",
       "examples": [
         "예 (저는) 유수프입니다."
-      ]
+      ],
+      "explanationNp": "‘입니다’ संज्ञासँग जोडेर औपचारिक अवस्थामा 'हो' भन्ने अर्थ दिन्छ। ‘입니까?’ यसको प्रश्न रूप 'हो र?' वा 'हो?' हो।"
     },
     {
       "point": "은/는",
       "explanation": "‘은/는’은 명사와 결합하여 문장의 주제나 화제를 나타낸다. ‘은/는’ combines with a noun to show the topic of a sentence. 받침 ○ 은 푸캄은 받침 × 는 자야는 진수 씨는 회사원입니다. 자하라 씨는 파키스탄 사람입니다.",
       "examples": [
         "예 투안은 목수입니다."
-      ]
+      ],
+      "explanationNp": "वाक्यको मुख्य विषय (Topic) चिनाउने प्रत्यय हो। बाच्छिम भए '은', बाच्छिम नभए '는' जोडिन्छ। नेपालीमा 'चाहिं' भन्ने अर्थ दिन्छ।"
     }
   ],
   "conversations": [
@@ -118,7 +123,8 @@
         "③ 30세",
         "④ 회사원"
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     },
     {
       "id": "ch01_r002",
@@ -129,7 +135,8 @@
         "③ 농부",
         "④ 대구시"
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     },
     {
       "id": "ch01_r003",
@@ -140,7 +147,8 @@
         "③ 베트남",
         "④ 부산시"
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     },
     {
       "id": "ch01_r004",
@@ -151,7 +159,8 @@
         "③ 7월에 외국인 등록증을 받았습니다.",
         "④ 서울출입국 · 외국인청에서 일합니다."
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     },
     {
       "id": "ch01_r005",
@@ -162,7 +171,8 @@
         "③ 자신보다 나이가 많은 사람과는 악수를 하지 않습니다.",
         "④ 지위가 높은 사람과 악수할 때는 왼손으로 오른팔을 받칩니다."
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
   "listeningQuestions": [
@@ -176,7 +186,10 @@
         "④ 조"
       ],
       "correctAnswer": -1,
-      "transcript": "듣기지문\n1. 남 : 태국\n2. 여 : 회사원입니까?\n3. 여 : 어느 나라 사람입니까?\n4. 여 : 안녕하세요? 저는 네팔 사람입니다.\n남 : 안녕하세요? 저는 몽골 사람입니다.\n5. 남 : 어부입니까?\n여 : 아니요. 저는 농부입니다.\n1 자기소개 SELF INTRODUCTION 59"
+      "transcript": "듣기지문\n1. 남 : 태국\n2. 여 : 회사원입니까?\n3. 여 : 어느 나라 사람입니까?\n4. 여 : 안녕하세요? 저는 네팔 사람입니다.\n남 : 안녕하세요? 저는 몽골 사람입니다.\n5. 남 : 어부입니까?\n여 : 아니요. 저는 농부입니다.\n1 자기소개 SELF INTRODUCTION 59",
+      "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
-  ]
+  ],
+  "titleNp": "आत्म परिचय",
+  "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_01.pdf"
 }

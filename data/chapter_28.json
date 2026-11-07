@@ -15,17 +15,20 @@
     {
       "point": "한국의 명절",
       "explanation": "Korean Traditional Holidays 설날에 뭐 했어요? 세배를 하고 나서 윷놀이를 했어요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -고 나서 설날 관련 어휘 한국의 명절 -(으)ㄹ 줄 알다, 모르다 Vocabulary Related to Korea's Traditional Holidays Lunar New Year 추석 관련 어휘 Vocabulary Related to Chuseok 설날과 추석에 하는 일에 대해 말할 수 있다. 학습 목표 Can talk about activities done on Lunar New Year and Chuseok. LEARNING OBJECTIVES 어떤 일을 하는 방법을 아는지 묻고 대답할 수 있다. Can ask and answer questions about knowing how to do something. 320 한국어 표준교재 1 CHAPTER 28 EPS-TOPIK 320 한국어 표준교재 1",
-      "examples": []
+      "examples": [],
+      "explanationNp": "한국의 명절 सम्बन्धी व्याकरण नियम र प्रयोग।"
     },
     {
       "point": "산책을 한국어를 다라 씨를 저녁을 샤워를",
       "explanation": "했어요. 공부했어요. 만났어요. 먹었어요. 했어요. 08:00 09:00 10:00 13:00 14:00 17:00 18:00 19:00 21:00 21:30 ⑵ ⑷ ⑹ ⑻ 잠을 아침을 점심을 장을 봤어요. 텔레비전을 잤어요. 먹었어요. 먹었어요. 봤어요. ⑴ 마두 씨는 산책하고 나서 ⑵ 마두 씨는 아침을 먹고 나서 아침을 먹었어요. 한국어를 공부했어요. 322 한국어 표준교재 1",
-      "examples": []
+      "examples": [],
+      "explanationNp": "산책을 한국어를 다라 씨를 저녁을 샤워를 सम्बन्धी व्याकरण नियम र प्रयोग।"
     },
     {
       "point": "외국어",
       "explanation": "나 : 저는 한국어를 할 줄 알아요. 할 줄 알아요 한국어 가 : 영어도 할 줄 알아요? 할 줄 몰라요 영어 나 : 아니요, 영어는 할 줄 몰라요. 외국어 운동 요리 할 줄 알아요 할 줄 몰라요 28 한국의 명절 KOREAN TRADITIONAL HOLIDAYS 325",
-      "examples": []
+      "examples": [],
+      "explanationNp": "외국어 सम्बन्धी व्याकरण नियम र प्रयोग।"
     }
   ],
   "conversations": [
@@ -180,7 +183,8 @@
         "③ 윷놀이를 하을 줄 알아요.",
         "④ 불고기를 만들을 줄 알아요."
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     },
     {
       "id": "ch28_r002",
@@ -191,7 +195,8 @@
         "③ 끝냈습니다",
         "④ 읽었습니다"
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     },
     {
       "id": "ch28_r003",
@@ -202,7 +207,8 @@
         "③ 장만했습니다",
         "④ 만들었습니다"
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
   "listeningQuestions": [
@@ -216,7 +222,10 @@
         "④\n2. 두 사람은 무엇에 대해 말하고 있습니까?"
       ],
       "correctAnswer": -1,
-      "transcript": "듣기지문\n1. 남 : 추석에 뭐 했어요?\n여 : 가족들과 같이 성묘를 하러 갔어요.\n2. 여 : 한국 사람들은 설날에 뭐 해요?\n남 : 차례를 지내고 떡국을 먹어요.\n3. 남 : 떡국을 끓일 줄 알아요?\n4. 여 : 다라 씨, 이거 한번 먹어 보세요. 제가 어머니하고 같이 만든 송편이에요.\n남 : 고마워요. 맛있겠어요. 그런데 추석이 아닌데 왜 송편을 만들었어요?\n여 : 제가 송편을 좋아해서 가끔 만들어 먹어요.\n5. 남 : 사장님, 안녕하세요? 새해 복 많이 받으세요.\n여 : 고마워요. 다린두 씨는 설날에 뭐 했어요?\n남 : 기숙사에서 친구들하고 윷놀이도 하고 떡국도 만들어 먹었어요.\n28 한국의 명절 KOREAN TRADITIONAL HOLIDAYS 329"
+      "transcript": "듣기지문\n1. 남 : 추석에 뭐 했어요?\n여 : 가족들과 같이 성묘를 하러 갔어요.\n2. 여 : 한국 사람들은 설날에 뭐 해요?\n남 : 차례를 지내고 떡국을 먹어요.\n3. 남 : 떡국을 끓일 줄 알아요?\n4. 여 : 다라 씨, 이거 한번 먹어 보세요. 제가 어머니하고 같이 만든 송편이에요.\n남 : 고마워요. 맛있겠어요. 그런데 추석이 아닌데 왜 송편을 만들었어요?\n여 : 제가 송편을 좋아해서 가끔 만들어 먹어요.\n5. 남 : 사장님, 안녕하세요? 새해 복 많이 받으세요.\n여 : 고마워요. 다린두 씨는 설날에 뭐 했어요?\n남 : 기숙사에서 친구들하고 윷놀이도 하고 떡국도 만들어 먹었어요.\n28 한국의 명절 KOREAN TRADITIONAL HOLIDAYS 329",
+      "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
-  ]
+  ],
+  "titleNp": "कोरियाली चाडपर्वहरू (छ्हूषक र सल्नाल)",
+  "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_28.pdf"
 }

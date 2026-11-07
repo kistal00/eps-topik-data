@@ -12,48 +12,58 @@
   "vocabulary": [
     {
       "korean": "비료",
-      "english": "fertilizer"
+      "english": "fertilizer",
+      "nepali": "स्थानीय सहजकर्ता"
     },
     {
       "korean": "모판",
-      "english": "seedbed"
+      "english": "seedbed",
+      "nepali": "अंकुरित शयनकक्ष"
     },
     {
       "korean": "호미",
-      "english": "hoe"
+      "english": "hoe",
+      "nepali": "हो"
     },
     {
       "korean": "곡괭이",
-      "english": "pickaxe"
+      "english": "pickaxe",
+      "nepali": "पिक्याक्स"
     },
     {
       "korean": "예초기",
-      "english": "weed cutter"
+      "english": "weed cutter",
+      "nepali": "खरबुजा काट्ने"
     },
     {
       "korean": "나르다",
-      "english": "to carry"
+      "english": "to carry",
+      "nepali": "बोक्ने"
     },
     {
       "korean": "스마트팜",
-      "english": "Smart Farms"
+      "english": "Smart Farms",
+      "nepali": "स्मार्ट फार्महरू"
     }
   ],
   "grammar": [
     {
       "point": "농작물 재배",
       "explanation": "Crop Cultivation 농작물 재배에 필요한 어휘와 표현을 사용할 수 있다. 학습 목표 Can use the vocabulary and expressions needed for farm work. LEARNING OBJECTIVES 작업 중 금지 사항에 대해 말할 수 있다. Can talk about prohibited actions during work. 156 한국어 표준교재 2 CHAPTER 45 EPS-TOPIK 이것도 딸까요? 아니요. 작은 것은 따지 말고 큰 것만 따세요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -(으)ㄹ까 하다 전작 관련 어휘 스마트팜 -지 말고 Vocabulary Related to Field Crops Smart Farms 과수 재배 관련 어휘 Vocabulary Related to Orchard Cultivation 156 한국어 표준교재 2",
-      "examples": []
+      "examples": [],
+      "explanationNp": "농작물 재배 सम्बन्धी व्याकरण नियम र प्रयोग।"
     },
     {
       "point": "따다 심다",
       "explanation": "⑶ ⑷ 가 : 주말에 뭘 하실 거예요? 가 : 뭘 사실 거예요? 나 : 비 닐하우스를 나 : 파 종 상자를 . . 사다 설치하다",
-      "examples": []
+      "examples": [],
+      "explanationNp": "따다 심다 सम्बन्धी व्याकरण नियम र प्रयोग।"
     },
     {
       "point": "벗다 두다 뿌리다 올라가다",
       "explanation": "[보기] 마스크를 벗지 말고 쓰고 하세요. ⑴ 참외를 거기에 저쪽으로 옮기세요. ⑵ 아직 비료를 기다리세요. ⑶ 사다리에 아래에서 따세요.",
-      "examples": []
+      "examples": [],
+      "explanationNp": "벗다 두다 뿌리다 올라가다 सम्बन्धी व्याकरण नियम र प्रयोग।"
     }
   ],
   "conversations": [
@@ -253,7 +263,8 @@
         "③",
         "④\n[2~3] 빈칸에 들어갈 알맞은 것을 고르십시오."
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     },
     {
       "id": "ch45_r002",
@@ -264,7 +275,8 @@
         "③ 거름",
         "④ 낙엽"
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     },
     {
       "id": "ch45_r003",
@@ -275,7 +287,8 @@
         "③ 씌우면",
         "④ 박으면"
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
   "listeningQuestions": [
@@ -289,7 +302,10 @@
         "④\n[2~3] 다음을 듣고 물음에 알맞은 대답을 고르십시오."
       ],
       "correctAnswer": -1,
-      "transcript": "듣기지문\n1. 여 : 사장님, 이제 뭘 할까요?\n남 : 저쪽에 있는 사과를 따 주세요.\n2. 남 : 배추를 뽑을까요?\n3. 여 : 언제 농약을 칠 거예요?\n4. 여 : 밤마다 야생 동물이 자꾸 내려와서 울타리망을 설치할까 해요.\n5. 남 : 수레 위에 있던 비닐 못 봤어요? 밭에 가져가야 하는데 없네요.\n여 : 제가 미리 가져다 두었어요. 창고에서 삽도 꺼내 놓고요.\n남 : 고마워요. 그럼 삽 챙겨서 밭에 먼저 가 있을게요.\n45 농작물 재배 CROP CULTIVATION 165"
+      "transcript": "듣기지문\n1. 여 : 사장님, 이제 뭘 할까요?\n남 : 저쪽에 있는 사과를 따 주세요.\n2. 남 : 배추를 뽑을까요?\n3. 여 : 언제 농약을 칠 거예요?\n4. 여 : 밤마다 야생 동물이 자꾸 내려와서 울타리망을 설치할까 해요.\n5. 남 : 수레 위에 있던 비닐 못 봤어요? 밭에 가져가야 하는데 없네요.\n여 : 제가 미리 가져다 두었어요. 창고에서 삽도 꺼내 놓고요.\n남 : 고마워요. 그럼 삽 챙겨서 밭에 먼저 가 있을게요.\n45 농작물 재배 CROP CULTIVATION 165",
+      "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
-  ]
+  ],
+  "titleNp": "कृषि तथा बालीनाली खेती",
+  "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_45.pdf"
 }

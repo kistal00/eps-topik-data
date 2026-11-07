@@ -13,19 +13,22 @@
   "vocabulary": [
     {
       "korean": "병원",
-      "english": "Hospital"
+      "english": "Hospital",
+      "nepali": "अस्पताल"
     }
   ],
   "grammar": [
     {
       "point": "병원",
       "explanation": "Hospital 병원 접수에 필요한 표현을 사용할 수 있다. 학습 목표 Can use expressions needed for hospital registration. LEARNING OBJECTIVES 증상에 대해 묻고 대답할 수 있다. Can ask and answer questions about symptoms. CHAPTER 21 EPS-TOPIK 목이 너무 아파요. 목이 아프면 말을 많이 하지 마세요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -(으)면 접수 및 진료 관련 어휘 한국의 의료 체계 -지 마세요 Vocabulary Related to Hospital The Korean Medical System Registration and Consultations 신체 및 증상 관련 어휘 1 Vocabulary Related to Body Parts and Symptoms 1 250 한국어 표준교재 1",
-      "examples": []
+      "examples": [],
+      "explanationNp": "병원 सम्बन्धी व्याकरण नियम र प्रयोग।"
     },
     {
       "point": "받다 불다 도착하다 피곤하다",
       "explanation": "[보기] 피곤하면 좀 쉬세요. ⑴ 월급을 제가 저녁을 살게요. ⑵ 사무실에 전화해 주세요. ⑶ 바람이 많이 문을 닫으세요.",
-      "examples": []
+      "examples": [],
+      "explanationNp": "받다 불다 도착하다 피곤하다 सम्बन्धी व्याकरण नियम र प्रयोग।"
     }
   ],
   "conversations": [
@@ -165,7 +168,8 @@
         "③ 지폐",
         "④ 시장"
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     },
     {
       "id": "ch21_r002",
@@ -176,7 +180,8 @@
         "③ 받으려고 합니다",
         "④ 만들려고 합니다"
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     },
     {
       "id": "ch21_r003",
@@ -187,7 +192,8 @@
         "③ 신청해야 합니다",
         "④ 보여 줘야 합니다"
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
   "listeningQuestions": [
@@ -201,7 +207,10 @@
         "④\n2. 여자는 왜 전화를 했습니까?"
       ],
       "correctAnswer": -1,
-      "transcript": "듣기지문\n1. 여 : 민민아웅 씨, 옷을 어깨 위로 올려 주세요.\n남 : 네, 그런데 주사가 많이 아파요?\n2. 남 : 네, 우리 병원입니다.\n여 : 저, 토요일로 예약을 하고 싶은데 주말에도 진료하나요?\n3. 남 : 요즘 병원에 환자가 많아요?\n4. 여 : 어디가 아프세요?\n5. 남 : 아지자 씨, 눈이 아파요? 눈이 빨개요.\n여 : 네, 아침부터 눈이 아프고 눈물이 나요.\n21 병원 HOSPITAL 259"
+      "transcript": "듣기지문\n1. 여 : 민민아웅 씨, 옷을 어깨 위로 올려 주세요.\n남 : 네, 그런데 주사가 많이 아파요?\n2. 남 : 네, 우리 병원입니다.\n여 : 저, 토요일로 예약을 하고 싶은데 주말에도 진료하나요?\n3. 남 : 요즘 병원에 환자가 많아요?\n4. 여 : 어디가 아프세요?\n5. 남 : 아지자 씨, 눈이 아파요? 눈이 빨개요.\n여 : 네, 아침부터 눈이 아프고 눈물이 나요.\n21 병원 HOSPITAL 259",
+      "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
-  ]
+  ],
+  "titleNp": "अस्पताल तथा उपचार",
+  "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_21.pdf"
 }

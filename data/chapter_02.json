@@ -13,14 +13,16 @@
   "vocabulary": [
     {
       "korean": "생활용품",
-      "english": "Daily Necessities"
+      "english": "Daily Necessities",
+      "nepali": "दैनिक आवश्यकताहरू"
     }
   ],
   "grammar": [
     {
       "point": "생활용품",
       "explanation": "Daily Necessities 물건의 이름을 묻고 대답할 수 있다. 학습 목표 Can ask and answer the names of objects. LEARNING OBJECTIVES 지시어로 묻고 대답할 수 있다. Can ask and answer questions using demonstratives. 60 한국어 표준교재 1 CHAPTER 02 EPS-TOPIK 이건 뭐예요? 시계예요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION 이에요/예요 사무실 물건 한국에서 알뜰하게 이/가 아니에요 Office Supplies 생필품을 구입하는 팁 생활용품 Tips for Buying Daily Necessities Cheaply in Korea Daily Necessities 60 한국어 표준교재 1",
-      "examples": []
+      "examples": [],
+      "explanationNp": "생활용품 सम्बन्धी व्याकरण नियम र प्रयोग।"
     },
     {
       "point": "이에요/예요",
@@ -28,7 +30,8 @@
       "examples": [
         "예 프엉 씨는 베트남 사람입니다.",
         "예 이건 계산기예요."
-      ]
+      ],
+      "explanationNp": "समय वा स्थान जनाउने प्रत्यय हो। नेपालीमा 'मा' वा 'तिर' भन्ने अर्थ लाग्दछ।"
     },
     {
       "point": "이/가 아니에요",
@@ -36,7 +39,8 @@
       "examples": [
         "예 이건 화장품이 아닙니다.",
         "예 저는 인도 사람이 아니에요."
-      ]
+      ],
+      "explanationNp": "कर्ता (Subject) कारक जनाउने प्रत्यय हो। बाच्छिम भए '이', बाच्छिम नभए '가' जोडिन्छ।"
     }
   ],
   "conversations": [
@@ -176,7 +180,8 @@
         "③",
         "④\n3. 다음 단어와 관계있는 것은 무엇입니까?"
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
   "listeningQuestions": [
@@ -190,7 +195,8 @@
         "④ 차"
       ],
       "correctAnswer": -1,
-      "transcript": "듣기지문\n1. 남 : 시계\n2. 여 : 이것은 달력입니다.\n3. 남 : 이건 휴대폰이에요?\n4. 여 : 이건 한국어로 뭐예요?\n5. 남 : 가방에 뭐가 있어요?\n여 : 열쇠하고 지갑이 있어요. 그리고 여권도 있어요.\n2 생활용품 DAILY NECESSITIES 69"
+      "transcript": "듣기지문\n1. 남 : 시계\n2. 여 : 이것은 달력입니다.\n3. 남 : 이건 휴대폰이에요?\n4. 여 : 이건 한국어로 뭐예요?\n5. 남 : 가방에 뭐가 있어요?\n여 : 열쇠하고 지갑이 있어요. 그리고 여권도 있어요.\n2 생활용품 DAILY NECESSITIES 69",
+      "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     },
     {
       "id": "ch02_l002",
@@ -202,7 +208,10 @@
         "④ 여권"
       ],
       "correctAnswer": -1,
-      "transcript": "듣기지문\n1. 남 : 시계\n2. 여 : 이것은 달력입니다.\n3. 남 : 이건 휴대폰이에요?\n4. 여 : 이건 한국어로 뭐예요?\n5. 남 : 가방에 뭐가 있어요?\n여 : 열쇠하고 지갑이 있어요. 그리고 여권도 있어요.\n2 생활용품 DAILY NECESSITIES 69"
+      "transcript": "듣기지문\n1. 남 : 시계\n2. 여 : 이것은 달력입니다.\n3. 남 : 이건 휴대폰이에요?\n4. 여 : 이건 한국어로 뭐예요?\n5. 남 : 가방에 뭐가 있어요?\n여 : 열쇠하고 지갑이 있어요. 그리고 여권도 있어요.\n2 생활용품 DAILY NECESSITIES 69",
+      "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
-  ]
+  ],
+  "titleNp": "दैनिक उपभोग्य वस्तुहरू",
+  "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_02.pdf"
 }

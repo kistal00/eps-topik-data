@@ -13,26 +13,30 @@
   "vocabulary": [
     {
       "korean": "건너가다",
-      "english": "to cross"
+      "english": "to cross",
+      "nepali": "पार गर्न"
     }
   ],
   "grammar": [
     {
       "point": "길 찾기",
       "explanation": "Getting Directions 위치와 방향에 대해 묻고 대답할 수 있다. 학습 목표 Can ask and answer questions about location and directions. LEARNING OBJECTIVES 명령형 문장을 사용해 다른 사람에게 지시할 수 있다. Can use imperative sentences to give instructions to others. 180 한국어 표준교재 1 CHAPTER 14 EPS-TOPIK 이 근처에 약국이 있어요? 네, 사거리에서 오른쪽으로 가세요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION (으)로(방향) 위치와 방향 도로명 주소 -(으)세요 Location and Directions Street Addresses 이동 동사 Movement Verbs 180 한국어 표준교재 1",
-      "examples": []
+      "examples": [],
+      "explanationNp": "길 찾기 सम्बन्धी व्याकरण नियम र प्रयोग।"
     },
     {
       "point": "아래로",
       "explanation": "받침 ×, 받침 ‘ㄹ’ 로 서울로 마두 씨는 어디로 갔어요? 이 기차는 서울로 가요.",
       "examples": [
         "예 여기에서 오른쪽으로 가야 해요."
-      ]
+      ],
+      "explanationNp": "아래로 सम्बन्धी व्याकरण नियम र प्रयोग।"
     },
     {
       "point": "오다 들어가다 건너가다 내려가다",
       "explanation": "⑴ 약국은 건물 안에 있어요. 건물 안으로 . ⑵ 4층에는 화장실이 없어요. 3층으로 . ⑶ 편의점은 맞은편에 있어요. 횡단보도를 . ⑷ 내일 우리 집에서 프엉 씨 생일 파티를 할 거예요. 6시에 우리 집에 .",
-      "examples": []
+      "examples": [],
+      "explanationNp": "오다 들어가다 건너가다 내려가다 सम्बन्धी व्याकरण नियम र प्रयोग।"
     }
   ],
   "conversations": [
@@ -202,7 +206,8 @@
         "③",
         "④\n3. 다음 내용과 관계있는 것을 고르십시오."
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
   "listeningQuestions": [
@@ -216,7 +221,10 @@
         "④ 마트는 여기에서 멀어요."
       ],
       "correctAnswer": -1,
-      "transcript": "듣기지문\n1. 남 : 병원이 어디에 있어요?\n2. 남 : 은행에 어떻게 가요?\n3. 남 : 식당은 몇 층에 있어요?\n여 : 식당은 2층에 있어요.\n4. 남 : 자동차가 어디에 있어요?\n여 : 건물 사이에 있어요.\n5. 남 : 약국이 어디에 있어요?\n여 : 약국이 병원 옆에 있어요.\n14 길 찾기 GETTING DIRECTIONS 189"
+      "transcript": "듣기지문\n1. 남 : 병원이 어디에 있어요?\n2. 남 : 은행에 어떻게 가요?\n3. 남 : 식당은 몇 층에 있어요?\n여 : 식당은 2층에 있어요.\n4. 남 : 자동차가 어디에 있어요?\n여 : 건물 사이에 있어요.\n5. 남 : 약국이 어디에 있어요?\n여 : 약국이 병원 옆에 있어요.\n14 길 찾기 GETTING DIRECTIONS 189",
+      "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
-  ]
+  ],
+  "titleNp": "बाटो खोज्ने तरिका",
+  "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_14.pdf"
 }

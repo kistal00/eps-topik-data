@@ -13,28 +13,33 @@
   "vocabulary": [
     {
       "korean": "거푸집",
-      "english": "formwork"
+      "english": "formwork",
+      "nepali": "फारमवर्क"
     },
     {
       "korean": "공사장",
-      "english": "construction site"
+      "english": "construction site",
+      "nepali": "निर्माण स्थल"
     }
   ],
   "grammar": [
     {
       "point": "건축 시공",
       "explanation": "Building Construction CHAPTER 43 EPS-TOPIK 거푸집을 설치하고 나면 바로 콘크리트를 타설해요? 체결 상태를 점검해야 되니까 하루 이틀 정도는 기다려야 할걸요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -(으)ㄹ 텐데 철근 결속 관련 어휘 건설 현장의 중장비 -(으)ㄹ걸요 Vocabulary Related to Rebar Heavy Machinery at Construction Reinforcement Sites 거푸집 설치 관련 어휘 Vocabulary Related to Formwork Assembly 철근을 결속하는 방법과 이유에 대해 묻고 대답할 수 있다. 학습 목표 Can ask and answer questions about the methods and reasons for binding rebar. LEARNING OBJECTIVES 거푸집 설치 방법에 대해 묻고 대답할 수 있다. Can ask and answer questions about how to assemble formwork. 136 한국어 표준교재 2",
-      "examples": []
+      "examples": [],
+      "explanationNp": "건축 시공 सम्बन्धी व्याकरण नियम र प्रयोग।"
     },
     {
       "point": "있다 춥다 비가 오다 실어야 하다 콘크리트를 타설하다",
       "explanation": "[ 보기 ] 가 : 내일 콘크리트를 타설할 텐데 준비를 잘해 주세요. 나 : 네, 철근 결속 상태를 한 번 더 점검하겠습니다. ⑴ 가 : 결속선이 더 필요할 것 같은데 재고가 있어요? 나 : 창고에 결속선이 제가 확인해 보겠습니다. ⑵ 가 : 마두 씨, 냉동 창고에 들어가면 옷을 따뜻하게 입으세요. 나 : 네, 그럼 옷을 갈아입고 올게요. ⑶ 가 : 저녁에 시멘트를 옮겨야 하지 않을까요? 나 : 그래요? 그럼 제가 시멘트를 창고로 옮기고 퇴근하겠습니다. ⑷ 가 : 지금 차에 철근을 누가 좀 도와줄 수 있어요? 나 : 제가 방금 작업이 끝나 쉬고 있는데 도와드릴게요. 138 한국어 표준교재 2",
-      "examples": []
+      "examples": [],
+      "explanationNp": "있다 춥다 비가 오다 실어야 하다 콘크리트를 타설하다 सम्बन्धी व्याकरण नियम र प्रयोग।"
     },
     {
       "point": "있다 되다 걸리다 식사하다 도착하다",
       "explanation": "[ 보기 ] 가 : 콘크리트 믹서는 언제 와요? 나 : 오전에 출발했으니까 곧 도착할걸요. ⑴ 가 : 웨지핀이 부족한데 더 있을까요? 나 : 웨지핀은 창고에 더 . 창고에서 가져오면 될 거예요. ⑵ 가 : 기둥 거푸집 설치는 혼자 하면 되나요? 나 : 혼자 하면 오래 . 유수프 씨하고 같이 하세요. ⑶ 가 : 유수프 씨가 안 보이는데 어디에서 뭘 하고 있어요? 나 : 아마 식당에서 . 너무 바빠서 점심시간에 밥을 못 먹었거든요. ⑷ 가 : 다음에 무슨 작업을 할지 누구한테 물어보면 될까요? 나 : 반장님이 알고 있을 테니까 반장님한테 물어보면 .",
-      "examples": []
+      "examples": [],
+      "explanationNp": "있다 되다 걸리다 식사하다 도착하다 सम्बन्धी व्याकरण नियम र प्रयोग।"
     }
   ],
   "conversations": [
@@ -199,7 +204,8 @@
         "③ 콘크리트 믹서 - 콘크리트를 다져요.",
         "④ 콘크리트 믹서 - 콘크리트를 운반해요."
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     },
     {
       "id": "ch43_r002",
@@ -210,7 +216,8 @@
         "③ 시멘트",
         "④ 거푸집"
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     },
     {
       "id": "ch43_r003",
@@ -221,7 +228,8 @@
         "③ 검사하는",
         "④ 체결하는"
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
   "listeningQuestions": [
@@ -235,7 +243,10 @@
         "④\n[2~3] 다음을 듣고 물음에 알맞은 대답을 고르십시오."
       ],
       "correctAnswer": -1,
-      "transcript": "듣기지문\n1. 남 : 유수프 씨는 지금 무슨 일을 하고 있어요?\n여 : 철근을 배근하고 있어요.\n2. 남 : 거푸집 설치하는 방법을 알아요?\n3. 여 : 철근을 묶을 때 뭐가 필요해요?\n4. 남 : 가장 아래층 거푸집을 설치할 때에는 플랫타이가 여러 개 필요해요.\n5. 여 : 거푸집 설치 작업도 끝났으니까 이제 콘크리트를 타설하겠네요.\n남 : 네, 내일 오후에 콘크리트 믹서가 도착할걸요.\n여 : 아, 그럼 오늘은 콘크리트 타설 작업이 없는 거네요.\n43 건축 시공 BUILDING CONSTRUCTION 145"
+      "transcript": "듣기지문\n1. 남 : 유수프 씨는 지금 무슨 일을 하고 있어요?\n여 : 철근을 배근하고 있어요.\n2. 남 : 거푸집 설치하는 방법을 알아요?\n3. 여 : 철근을 묶을 때 뭐가 필요해요?\n4. 남 : 가장 아래층 거푸집을 설치할 때에는 플랫타이가 여러 개 필요해요.\n5. 여 : 거푸집 설치 작업도 끝났으니까 이제 콘크리트를 타설하겠네요.\n남 : 네, 내일 오후에 콘크리트 믹서가 도착할걸요.\n여 : 아, 그럼 오늘은 콘크리트 타설 작업이 없는 거네요.\n43 건축 시공 BUILDING CONSTRUCTION 145",
+      "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
-  ]
+  ],
+  "titleNp": "भवन निर्माण कार्य",
+  "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_43.pdf"
 }

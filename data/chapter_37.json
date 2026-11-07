@@ -13,19 +13,22 @@
   "vocabulary": [
     {
       "korean": "압축하다",
-      "english": "to compress"
+      "english": "to compress",
+      "nepali": "खुम्च्याउनु"
     }
   ],
   "grammar": [
     {
       "point": "기계 가공",
       "explanation": "Machine Processing 기계 작동 방법에 대해 말할 수 있다. 학습 목표 Can talk about how to operate a machine. LEARNING OBJECTIVES 기구와 작업에 대해 묻고 대답할 수 있다. Can ask and answer questions about tools and tasks. 76 한국어 표준교재 2 CHAPTER 37 EPS-TOPIK 무슨 일이에요? 전원을 켜도 기계가 작동하지 않아요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -아도/어도 기계 작동 관련 어휘 한국의 가전제품 -자고 하다 Vocabulary Related to Korea's Home Appliances Operating Machines 기구와 용도 관련 어휘 Vocabulary Related to Tools and their Uses 76 한국어 표준교재 2",
-      "examples": []
+      "examples": [],
+      "explanationNp": "기계 가공 सम्बन्धी व्याकरण नियम र प्रयोग।"
     },
     {
       "point": "전원을 켜다 여러 번 읽다 계속 전화하다 오랫동안 환기를 하다",
       "explanation": "⑴ 늦은 밤이라서 받지 않아요. ⑵ 기계가 작동되지 않으면 점검을 하세요. ⑶ 한국어 실력이 부족해서 설명서를 이해하지 못했어요. ⑷ 환풍기를 안 켜서 냄새가 없어지지 않아요.",
-      "examples": []
+      "examples": [],
+      "explanationNp": "전원을 켜다 여러 번 읽다 계속 전화하다 오랫동안 환기를 하다 सम्बन्धी व्याकरण नियम र प्रयोग।"
     }
   ],
   "conversations": [
@@ -175,7 +178,8 @@
         "③ 프레스 기계 – 철판을 구부려요.",
         "④ 프레스 기계 – 공작물을 갈아요."
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
   "listeningQuestions": [
@@ -189,7 +193,10 @@
         "④\n[2~3] 다음을 듣고 이어지는 말로 가장 알맞은 것을 고르십시오."
       ],
       "correctAnswer": -1,
-      "transcript": "듣기지문\n1. 남 : 무슨 버튼을 눌러야 돼요?\n여 : 빨간색 버튼을 누르세요.\n2. 남 : 커터를 좀 교체해 주세요.\n3. 남 : 작업하고 나서 칩을 안 치웠네요.\n4. 여 : 반장님, 밀링 머신의 먼지를 털고 작업해야 되지요?\n남 : 그럼요, 밀링 작업을 할 때는 작업대 위를 깨끗이 치우고 해야 돼요.\n5. 여 : 마두 씨, 손 괜찮아요? 프레스 기계는 조금만 방심해도 큰 사고가 날 수 있어요.\n남 : 네, 괜찮아요. 잠깐 딴 생각을 했어요. 다칠 뻔했네요.\n여 : 많이 놀랐죠? 좀 쉬었다가 하세요.\n37 기계 가공 MACHINE PROCESSING 85"
+      "transcript": "듣기지문\n1. 남 : 무슨 버튼을 눌러야 돼요?\n여 : 빨간색 버튼을 누르세요.\n2. 남 : 커터를 좀 교체해 주세요.\n3. 남 : 작업하고 나서 칩을 안 치웠네요.\n4. 여 : 반장님, 밀링 머신의 먼지를 털고 작업해야 되지요?\n남 : 그럼요, 밀링 작업을 할 때는 작업대 위를 깨끗이 치우고 해야 돼요.\n5. 여 : 마두 씨, 손 괜찮아요? 프레스 기계는 조금만 방심해도 큰 사고가 날 수 있어요.\n남 : 네, 괜찮아요. 잠깐 딴 생각을 했어요. 다칠 뻔했네요.\n여 : 많이 놀랐죠? 좀 쉬었다가 하세요.\n37 기계 가공 MACHINE PROCESSING 85",
+      "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
-  ]
+  ],
+  "titleNp": "मेसिन प्रोसेसिङ र सञ्चालन",
+  "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_37.pdf"
 }

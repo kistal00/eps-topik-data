@@ -13,14 +13,16 @@
   "vocabulary": [
     {
       "korean": "근로기준법",
-      "english": "Labor Standards Act"
+      "english": "Labor Standards Act",
+      "nepali": "श्रम मानक ऐन"
     }
   ],
   "grammar": [
     {
       "point": "근로기준법",
       "explanation": "Labor Standards Act 표준근로계약서의 근로 조건에 대해 묻고 대답할 수 있다. 학습 목표 Can ask and answer questions related to working conditions of the standard labor contract. LEARNING OBJECTIVES 급여 명세서를 보고 이해할 수 있다. Can read and understand read pay stubs. CHAPTER 58 EPS-TOPIK 표준근로계약서에 있는 근무시간에만 일을 하면 돼요? 일이 많을 때는 기본 근무시간뿐만 아니라 야간이나 휴일에도 일할 수 있어요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION 뿐만 아니라 근로 조건 관련 어휘 표준근로계약서 -(으)면 좋겠다 Vocabulary Related to Working Standard Labor Contract Conditions 급여 명세서 관련 어휘 Vocabulary Related to Pay Stubs 286 한국어 표준교재 2",
-      "examples": []
+      "examples": [],
+      "explanationNp": "근로기준법 सम्बन्धी व्याकरण नियम र प्रयोग।"
     },
     {
       "point": "뿐만 아니라",
@@ -28,12 +30,14 @@
       "examples": [
         "예 표준근로계약서를 쓸 때 임금뿐만 아니라 업무 내용도 잘 확인해야 돼요.",
         "예 우리 회사 기숙사는 시설이 좋을 뿐만 아니라 깨끗해요."
-      ]
+      ],
+      "explanationNp": "뿐만 아니라 सम्बन्धी व्याकरण नियम र प्रयोग।"
     },
     {
       "point": "오다 맑다 가깝다 합격하다 건강해지다",
       "explanation": "[ 보기 ] 사장님이 편찮으세요. 사장님이 건강해지시면 좋겠어요. ⑴ 생활비가 떨어졌어요. 월급날이 빨리 . ⑵ 다음 달에 한국어능력시험(EPS-TOPIK)이 있어요. 시험에 . ⑶ 집이 회사에서 멀어서 불편해요. 집이 회사에서 . ⑷ 이번 주에 콘크리트 타설 작업을 해야 돼요. 날씨가 .",
-      "examples": []
+      "examples": [],
+      "explanationNp": "오다 맑다 가깝다 합격하다 건강해지다 सम्बन्धी व्याकरण नियम र प्रयोग।"
     }
   ],
   "conversations": [
@@ -183,7 +187,8 @@
         "③ 오늘 회사와 계약을 설치해요.",
         "④ 이번 달에 월급이 더 들어왔어요."
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
   "listeningQuestions": [
@@ -197,7 +202,10 @@
         "④ 아니요, 근무시간을 몰라요."
       ],
       "correctAnswer": -1,
-      "transcript": "듣기지문\n1. 여 : 지금 근무시간이에요?\n2. 남 : 한국에 가면 무슨 일을 해요?\n3. 여 : 어젯밤에 몇 시까지 일했어요?\n남 : 조금 늦게까지 했는데 10시 전에는 퇴근했어요.\n4. 여 : 표준근로계약서는 잘 확인해 봤어요?\n남 : 네, 근로 조건이 좋은 것 같아요. 업무 내용과 임금 모두 마음에 들어요.\n여 : 기숙사도 제공해 준다고 해요?\n남 : 아니요. 그래서 좀 걱정이에요.\n5. 남 : 이번 달 월급 들어왔지요?\n여 : 네. 그런데 지난달보다 많이 들어왔어요.\n남 : 곧 추석이라 상여금이 나와서 그럴 거예요.\n여 : 그래요? 저는 수당하고 기본급이 오른 줄 알았어요.\n58 근로기준법 LABOR STANDARDS ACT 295"
+      "transcript": "듣기지문\n1. 여 : 지금 근무시간이에요?\n2. 남 : 한국에 가면 무슨 일을 해요?\n3. 여 : 어젯밤에 몇 시까지 일했어요?\n남 : 조금 늦게까지 했는데 10시 전에는 퇴근했어요.\n4. 여 : 표준근로계약서는 잘 확인해 봤어요?\n남 : 네, 근로 조건이 좋은 것 같아요. 업무 내용과 임금 모두 마음에 들어요.\n여 : 기숙사도 제공해 준다고 해요?\n남 : 아니요. 그래서 좀 걱정이에요.\n5. 남 : 이번 달 월급 들어왔지요?\n여 : 네. 그런데 지난달보다 많이 들어왔어요.\n남 : 곧 추석이라 상여금이 나와서 그럴 거예요.\n여 : 그래요? 저는 수당하고 기본급이 오른 줄 알았어요.\n58 근로기준법 LABOR STANDARDS ACT 295",
+      "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
-  ]
+  ],
+  "titleNp": "श्रम मापदण्ड ऐन र अधिकार",
+  "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_58.pdf"
 }

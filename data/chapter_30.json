@@ -17,12 +17,14 @@
     {
       "point": "한국의 대중문화",
       "explanation": "Korean Popular Culture 경기장에 사람이 많지요? 네, 한국에서는 축구가 인기가 많은 것 같아요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -는/(으)ㄴ 것 같다 경기 관람 관련 어휘 한류 문화 -기 쉽다, 어렵다 Vocabulary Related to Watching Hallyu Culture Sports 한류 관련 어휘 Vocabulary Related to Hallyu (the Korean Wave) 프로 스포츠에 대해 묻고 대답할 수 있다. 학습 목표 Can ask and answer questions about professional sports. LEARNING OBJECTIVES 한류에 대해 말할 수 있다. Can talk about the Korean Wave. 340 한국어 표준교재 1 CHAPTER 30 EPS-TOPIK 340 한국어 표준교재 1",
-      "examples": []
+      "examples": [],
+      "explanationNp": "한국의 대중문화 सम्बन्धी व्याकरण नियम र प्रयोग।"
     },
     {
       "point": "입다 인기가 많다 자다 작다",
       "explanation": "[ 보기 ] 가 : 신발이 발에 잘 맞아요? 나 : 음, 조금 작은 것 같아요. ⑴ 가 : 칼로 씨한테 전화해 봤어요? 나 : 네, 그런데 전화를 안 받아요. 지금 . ⑵ 가 : 야구 경기는 처음 보는데, 경기장에 관중이 정말 많네요. 나 : 네, 한국에서는 프로 야구가 . ⑶ 가 : 다라 씨는 청바지를 자주 . 청바지를 좋아해요? 나 : 네, 편해서 좋아해요.",
-      "examples": []
+      "examples": [],
+      "explanationNp": "입다 인기가 많다 자다 작다 सम्बन्धी व्याकरण नियम र प्रयोग।"
     },
     {
       "point": "의 형용사와도 함께 사용할 수",
@@ -31,7 +33,8 @@
         "예 월세가 싼 집을 구하기 어려워요.",
         "예 이 공원은 산책하기 좋아요.",
         "예 명절에는 기차표를 예매하기 어려워요."
-      ]
+      ],
+      "explanationNp": "의 형용사와도 함께 사용할 수 सम्बन्धी व्याकरण नियम र प्रयोग।"
     }
   ],
   "conversations": [
@@ -176,7 +179,8 @@
         "③ 저는 내년에 제주도에 가 봤습니다.",
         "④ 자야 씨는 K-드라마를 자주 보는 것 같아요."
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     },
     {
       "id": "ch30_r002",
@@ -187,7 +191,8 @@
         "③ 표를 예매할 수 없었습니다",
         "④ 행사에 참여하기로 했습니다"
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     },
     {
       "id": "ch30_r003",
@@ -198,7 +203,8 @@
         "③ 피곤한 것 같습니다",
         "④ 재미있는 것 같습니다"
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
   "listeningQuestions": [
@@ -212,7 +218,10 @@
         "④ 한류"
       ],
       "correctAnswer": -1,
-      "transcript": "듣기지문\n1. 남 : 여기 사람들이 왜 이렇게 많아요?\n여 : 근처에서 아이돌 그룹의 콘서트가 있어요.\n2. 남 : 닛차난 씨, 좋아하는 가수가 있어요?\n3. 여 : 야구 경기를 보러 가고 싶은데 왕민 씨도 같이 갈래요?\n4. 여 : 응원단이 입고 있는 옷이 멋있어요. 저도 사고 싶어요.\n남 : 우리도 유니폼을 살 수 있어요. 인터넷으로 사면 돼요.\n여 : 유니폼 파는 사이트 좀 가르쳐 주세요.\n5. 남 : 김밥을 처음 먹어 봤는데 정말 맛있네요.\n여 : 제가 만들었어요. 김밥은 먹기 편하고 맛있어서 요즘 외국에서도 인기가 많아요.\n남 : 저도 김밥 만드는 방법을 배우고 싶어요.\n30 한국의 대중문화 KOREAN POPULAR CULTURE 349"
+      "transcript": "듣기지문\n1. 남 : 여기 사람들이 왜 이렇게 많아요?\n여 : 근처에서 아이돌 그룹의 콘서트가 있어요.\n2. 남 : 닛차난 씨, 좋아하는 가수가 있어요?\n3. 여 : 야구 경기를 보러 가고 싶은데 왕민 씨도 같이 갈래요?\n4. 여 : 응원단이 입고 있는 옷이 멋있어요. 저도 사고 싶어요.\n남 : 우리도 유니폼을 살 수 있어요. 인터넷으로 사면 돼요.\n여 : 유니폼 파는 사이트 좀 가르쳐 주세요.\n5. 남 : 김밥을 처음 먹어 봤는데 정말 맛있네요.\n여 : 제가 만들었어요. 김밥은 먹기 편하고 맛있어서 요즘 외국에서도 인기가 많아요.\n남 : 저도 김밥 만드는 방법을 배우고 싶어요.\n30 한국의 대중문화 KOREAN POPULAR CULTURE 349",
+      "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
-  ]
+  ],
+  "titleNp": "कोरियाली पप संस्कृति (हल्ल्यु)",
+  "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_30.pdf"
 }

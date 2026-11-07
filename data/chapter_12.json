@@ -13,18 +13,21 @@
   "vocabulary": [
     {
       "korean": "대중교통",
-      "english": "Public Transportation"
+      "english": "Public Transportation",
+      "nepali": "सार्वजनिक यातायात"
     },
     {
       "korean": "타다",
-      "english": "to ride"
+      "english": "to ride",
+      "nepali": "सवारी गर्न"
     }
   ],
   "grammar": [
     {
       "point": "대중교통",
       "explanation": "Public Transportation 대중교통 이용에 대해 묻고 대답할 수 있다. 학습 목표 Can ask and answer questions about using public transportation. LEARNING OBJECTIVES 행동의 이유를 말할 수 있다. Can express the reason for an action. 160 한국어 표준교재 1 CHAPTER 12 EPS-TOPIK 회사에서 시내까지 어떻게 가요? 버스로 가요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION (으)로(수단) 교통수단 관련 어휘 한국의 대중교통 -아서/어서(이유) Vocabulary Related to Public Transportation in Korea Transportation 이동 관련 어휘 Vocabulary Related to Movement 160 한국어 표준교재 1",
-      "examples": []
+      "examples": [],
+      "explanationNp": "대중교통 सम्बन्धी व्याकरण नियम र प्रयोग।"
     },
     {
       "point": "사와 결합하여 시작점과 종착점을",
@@ -32,12 +35,14 @@
       "examples": [
         "예 가 : 여기에서 약국까지 얼마나 걸려요?",
         "예 여기까지 마을버스로 왔어요."
-      ]
+      ],
+      "explanationNp": "사와 결합하여 시작점과 종착점을 सम्बन्धी व्याकरण नियम र प्रयोग।"
     },
     {
       "point": "멀다 좋다 비싸다 친절하다 좋아하다",
       "explanation": "[ 보기 ] 회사가 멀어서 차를 타고 가야 합니다. ⑴ 저는 커피를 매일 마십니다. ⑵ 날씨가 집까지 걸어갔습니다. ⑶ 수박이 너무 사지 않았습니다. ⑷ 다라 씨는 사람들이 다라 씨를 좋아합니다.",
-      "examples": []
+      "examples": [],
+      "explanationNp": "멀다 좋다 비싸다 친절하다 좋아하다 सम्बन्धी व्याकरण नियम र प्रयोग।"
     }
   ],
   "conversations": [
@@ -177,7 +182,8 @@
         "③",
         "④\n2. 다음 중 밑줄 친 부분이 맞는 것을 고르십시오."
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
   "listeningQuestions": [
@@ -191,7 +197,10 @@
         "④ 서울역"
       ],
       "correctAnswer": -1,
-      "transcript": "듣기지문\n1. 남 : 우 리 열차는 6시 57분에 서울역을 출발해 대전역까지 가는 KTX 233호 열차입니다. 가지고 계신 승차권을 확인해 주시기\n바랍니다.\n2. 여 : 이 비행기는 하노이에서 인천까지 가는 한국항공 754편입니다. 목적지인 인천공항까지 약 4시간 20분 걸릴 것으로 예상\n됩니다.\n3. 남 : 회사에서 기차역까지 어떻게 가요?\n4. 여 : 근 처에 지하철역이 있어요?\n5. 남 : 다라 씨, 오늘 회사에 왜 늦었어요?\n12 대중교통 PUBLIC TRANSPORTATION 169"
+      "transcript": "듣기지문\n1. 남 : 우 리 열차는 6시 57분에 서울역을 출발해 대전역까지 가는 KTX 233호 열차입니다. 가지고 계신 승차권을 확인해 주시기\n바랍니다.\n2. 여 : 이 비행기는 하노이에서 인천까지 가는 한국항공 754편입니다. 목적지인 인천공항까지 약 4시간 20분 걸릴 것으로 예상\n됩니다.\n3. 남 : 회사에서 기차역까지 어떻게 가요?\n4. 여 : 근 처에 지하철역이 있어요?\n5. 남 : 다라 씨, 오늘 회사에 왜 늦었어요?\n12 대중교통 PUBLIC TRANSPORTATION 169",
+      "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
-  ]
+  ],
+  "titleNp": "सार्वजनिक यातायात",
+  "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_12.pdf"
 }

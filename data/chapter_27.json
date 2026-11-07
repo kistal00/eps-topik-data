@@ -15,12 +15,14 @@
     {
       "point": "한국의 기념일",
       "explanation": "Korean Commemorative Days 어버이날이 무슨 날이에요? 부모님께 감사의 마음을 전하는 날이에요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -는 국경일과 기념일 관련 어휘 한국의 특별한 날 -아/어 봤다 Vocabulary Related to National Special Days in Korea Holidays and Commemorative Days 특별한 날 관련 어휘 Vocabulary Related to Special Days 한국의 국경일과 기념일에 하는 일을 묻고 대답할 수 있다. Can ask and answer questions about activities on Korea's national holidays and 학습 목표 commemorative days. LEARNING OBJECTIVES 한국의 특별한 날에 대해 말할 수 있다. Can talk about special days in Korea. CHAPTER 27 EPS-TOPIK 310 한국어 표준교재 1",
-      "examples": []
+      "examples": [],
+      "explanationNp": "한국의 기념일 सम्बन्धी व्याकरण नियम र प्रयोग।"
     },
     {
       "point": "외국인 근로자 노래자랑에 한국에서 처음 볼링을",
       "explanation": ". (나가다) . (치다) ⑶ ⑷ 기숙사에서 불고기를 한국어로 메시지를 . (만들다) . (보내다)",
-      "examples": []
+      "examples": [],
+      "explanationNp": "समय वा स्थान जनाउने प्रत्यय हो। नेपालीमा 'मा' वा 'तिर' भन्ने अर्थ लाग्दछ।"
     }
   ],
   "conversations": [
@@ -200,7 +202,8 @@
         "③ 국경일",
         "④ 여행지"
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     },
     {
       "id": "ch27_r002",
@@ -211,7 +214,8 @@
         "③ 청소해야 할 곳이 많습니다",
         "④ 이사할 집을 보러 갔습니다"
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     },
     {
       "id": "ch27_r003",
@@ -222,7 +226,8 @@
         "③ 부모님이 오시기로 했습니다",
         "④ 부모님 생각이 많이 났습니다"
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
   "listeningQuestions": [
@@ -236,7 +241,10 @@
         "④ 쇼핑"
       ],
       "correctAnswer": -1,
-      "transcript": "듣기지문\n1. 남 : 이번 주 토요일이 할아버지 칠순인데 무엇을 사 드리면 좋을까요?\n여 : 용돈을 드리는 게 어때요?\n2. 남 : 한국에서 장례식에 가 봤어요?\n3. 여 : 아궁 씨, 이번 주 일요일이 제 결혼식인데 올 수 있어요?\n4. 여 : 이번 주 토요일에 진수 씨 아기 돌잔치에 가지요? 선물은 샀어요?\n남 : 네, 아기 옷을 샀어요. 프엉 씨는요?\n여 : 그동안 일이 많아서 아직 못 샀어요. 퇴근 후에 사러 가야겠어요.\n5. 남 : 유진 씨, 꽃 선물 받았어요?\n여 : 아니요. 고등학교 선생님께 드리려고 샀어요. 오늘이 스승의 날이거든요.\n남 : 선생님께 감사의 마음을 전하는 날, 맞지요? 진수 씨가 말해 줬어요.\n27 한국의 기념일 KOREAN COMMEMORATIVE DAYS 319"
+      "transcript": "듣기지문\n1. 남 : 이번 주 토요일이 할아버지 칠순인데 무엇을 사 드리면 좋을까요?\n여 : 용돈을 드리는 게 어때요?\n2. 남 : 한국에서 장례식에 가 봤어요?\n3. 여 : 아궁 씨, 이번 주 일요일이 제 결혼식인데 올 수 있어요?\n4. 여 : 이번 주 토요일에 진수 씨 아기 돌잔치에 가지요? 선물은 샀어요?\n남 : 네, 아기 옷을 샀어요. 프엉 씨는요?\n여 : 그동안 일이 많아서 아직 못 샀어요. 퇴근 후에 사러 가야겠어요.\n5. 남 : 유진 씨, 꽃 선물 받았어요?\n여 : 아니요. 고등학교 선생님께 드리려고 샀어요. 오늘이 스승의 날이거든요.\n남 : 선생님께 감사의 마음을 전하는 날, 맞지요? 진수 씨가 말해 줬어요.\n27 한국의 기념일 KOREAN COMMEMORATIVE DAYS 319",
+      "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
-  ]
+  ],
+  "titleNp": "कोरियाली स्मृति दिवसहरू",
+  "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_27.pdf"
 }

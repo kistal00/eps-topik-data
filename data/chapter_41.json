@@ -15,12 +15,14 @@
     {
       "point": "섬유 제조",
       "explanation": "Textile Manufacturing 원사 보관 및 관리 시 주의해야 할 점에 대해 묻고 대답할 수 있다. 학습 목표 Can ask and answer questions about precautions for storing and managing yarn. LEARNING OBJECTIVES 염색 가공 공정 관련 어휘를 익혀 활용할 수 있다. Can proficiently use vocabulary related to the dyeing process. CHAPTER 41 EPS-TOPIK 원사는 온도와 습도에 민감해서 변색되거나 오염되기 쉬워요. 네, 조심해서 관리하겠습니다. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -거나 원사 보관 및 관리 관련 어휘 한국의 섬유와 패션 산업 -아야/어야 Vocabulary Related to Yarn Storage Korea’s Textile and Fashion Industry and Management 염색 가공 관련 어휘 Vocabulary Related to the Dyeing Process 116 한국어 표준교재 2",
-      "examples": []
+      "examples": [],
+      "explanationNp": "섬유 제조 सम्बन्धी व्याकरण नियम र प्रयोग।"
     },
     {
       "point": "온도가 높다 성형이 덜 되었다 철사를 구부리다",
       "explanation": "검은 줄이 생겼다 통풍이 잘 안되다 작은 부품을 잡다 ⑴ 가 : 언제 롱 노즈 플라이어를 사용해요? 나 : (으)ㄹ 때 사용해요. ⑵ 가 : 이제 제품 검사를 하려고 해요. 나 : (으)ㄴ/는 것이 있으면 알려 주세요. ⑶ 가 : 원사는 어떻게 보관하면 변색돼요? 나 : 보관 창고의 (으)면 변색될 수 있어요. 118 한국어 표준교재 2",
-      "examples": []
+      "examples": [],
+      "explanationNp": "온도가 높다 성형이 덜 되었다 철사를 구부리다 सम्बन्धी व्याकरण नियम र प्रयोग।"
     }
   ],
   "conversations": [
@@ -190,7 +192,8 @@
         "③",
         "④\n2. 다음 중 밑줄 친 부분이 맞는 문장을 고르십시오."
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
   "listeningQuestions": [
@@ -204,7 +207,10 @@
         "④\n[2~3] 다음을 듣고 물음에 알맞은 대답을 고르십시오."
       ],
       "correctAnswer": -1,
-      "transcript": "듣기지문\n1. 남 : 오늘은 무슨 작업을 해요?\n여 : 원사를 파란색으로 염색해야 돼요.\n2. 남 : 염색 과정이 간단해요?\n3. 여 : 누가 염료를 넣었어요?\n4. 남 : 종류가 다른 원사를 함께 보관하면 안 돼요.\n5. 여 : 날씨가 덥거나 습하면 원사가 변색될 수 있어요.\n남 : 주기적으로 보관 창고의 온도와 습도를 확인하겠습니다.\n여 : 확인 후 관리 대장에도 꼭 기록해 놓으세요.\n41 섬유 제조 TEXTILE MANUFACTURING 125"
+      "transcript": "듣기지문\n1. 남 : 오늘은 무슨 작업을 해요?\n여 : 원사를 파란색으로 염색해야 돼요.\n2. 남 : 염색 과정이 간단해요?\n3. 여 : 누가 염료를 넣었어요?\n4. 남 : 종류가 다른 원사를 함께 보관하면 안 돼요.\n5. 여 : 날씨가 덥거나 습하면 원사가 변색될 수 있어요.\n남 : 주기적으로 보관 창고의 온도와 습도를 확인하겠습니다.\n여 : 확인 후 관리 대장에도 꼭 기록해 놓으세요.\n41 섬유 제조 TEXTILE MANUFACTURING 125",
+      "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
-  ]
+  ],
+  "titleNp": "कपडा तथा धागो उत्पादन",
+  "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_41.pdf"
 }

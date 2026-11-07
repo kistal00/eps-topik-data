@@ -15,14 +15,16 @@
     {
       "point": "산업 안전 및 보건 표지",
       "explanation": "Industrial Safety and Health Signs CHAPTER 53 EPS-TOPIK 장애물 주의 여기 붙어 있는 경고 표지는 무슨 의미예요? 바닥에 장애물이 있으니까 조심하라는 의미예요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -았더니/었더니 경고 표지 금지 표지 2 -아/어 있다 Warning Signs Prohibition Signs 2 금지 표지 1 Prohibition Signs 1 경고 표지의 의미에 대해 묻고 대답할 수 있다. 학습 목표 Can ask and answer questions about the meanings of warning signs. LEARNING OBJECTIVES 금지 표지의 의미에 대해 묻고 대답할 수 있다. Can ask and answer questions about the meanings of prohibition signs. 236 한국어 표준교재 2",
-      "examples": []
+      "examples": [],
+      "explanationNp": "산업 안전 및 보건 표지 सम्बन्धी व्याकरण नियम र प्रयोग।"
     },
     {
       "point": "위에서 물체가",
       "explanation": "바닥이 미끄러워요. 표면이 뜨거워요. 전기가 흘러요. 떨어질 수 있어요. 문법 GRAMMAR -았더니/었더니 ‘-았더니/었더니’는 동사에 붙어 직접 한 어떤 일이 배경이나 원인이 되어 뒤의 상황이 펼쳐짐을 나타낸다. ‘-았더니/었더니’ is attached to verbs to indicate that something the speaker did is the background or cause for the following situation. ㅏ, ㅗ -았더니 가다 → 갔더니 ㅓ, ㅜ, ㅣ… -었더니 먹다 → 먹었더니 -하다 -했더니 전화하다 → 전화했더니 동료의 작업을 도와줬더니 밥을 사 줬어요. 감기약을 먹었더니 졸려요. 238 한국어 표준교재 2",
       "examples": [
         "예 휴게실에 갔더니 반장님이 계셨어요."
-      ]
+      ],
+      "explanationNp": "समय वा स्थान जनाउने प्रत्यय हो। नेपालीमा 'मा' वा 'तिर' भन्ने अर्थ लाग्दछ।"
     },
     {
       "point": "이 장소를 지나가면",
@@ -30,7 +32,8 @@
       "examples": [
         "예 재고가 아직 남아 있어요.",
         "예 작 업장 문을 열어 있었어요. (X)"
-      ]
+      ],
+      "explanationNp": "이 장소를 지나가면 सम्बन्धी व्याकरण नियम र प्रयोग।"
     }
   ],
   "conversations": [
@@ -135,7 +138,8 @@
         "③",
         "④\n3. 다음 중 밑줄 친 부분이 맞는 문장을 고르십시오."
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
   "listeningQuestions": [
@@ -149,7 +153,10 @@
         "④ 아니요, 기계가 아니에요."
       ],
       "correctAnswer": -1,
-      "transcript": "듣기지문\n1. 남 : 기계가 뜨거워요?\n2. 남 : 왜 넘어졌어요?\n3. 여 : 작업장 안에서는 담배를 피우면 안 돼요. 불이 붙기 쉬운 것들이 많이 있어요.\n남 : 죄송합니다. 앞으로는 작업장 안에서 담배를 피우지 않겠습니다.\n4. 여 : 여기는 지게차를 타고 지나가면 안 돼요.\n5. 남 : 대리님, 말씀하신 대로 안전화도 신고 안전장갑도 꼈습니다.\n여 : 잘했어요. 어, 그런데 왜 안전모를 손에 들고 있어요?\n남 : 날씨가 너무 더워서 벗었습니다.\n여 : 저기에 붙어 있는 안전 표지를 보세요. 건설 현장에서는 위에서 물체가 떨어질 수 있기 때문에 항상 안전모를 써야 돼요.\n53 산업 안전 및 보건 표지 INDUSTRIAL SAFETY AND HEALTH SIGNS 245"
+      "transcript": "듣기지문\n1. 남 : 기계가 뜨거워요?\n2. 남 : 왜 넘어졌어요?\n3. 여 : 작업장 안에서는 담배를 피우면 안 돼요. 불이 붙기 쉬운 것들이 많이 있어요.\n남 : 죄송합니다. 앞으로는 작업장 안에서 담배를 피우지 않겠습니다.\n4. 여 : 여기는 지게차를 타고 지나가면 안 돼요.\n5. 남 : 대리님, 말씀하신 대로 안전화도 신고 안전장갑도 꼈습니다.\n여 : 잘했어요. 어, 그런데 왜 안전모를 손에 들고 있어요?\n남 : 날씨가 너무 더워서 벗었습니다.\n여 : 저기에 붙어 있는 안전 표지를 보세요. 건설 현장에서는 위에서 물체가 떨어질 수 있기 때문에 항상 안전모를 써야 돼요.\n53 산업 안전 및 보건 표지 INDUSTRIAL SAFETY AND HEALTH SIGNS 245",
+      "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
-  ]
+  ],
+  "titleNp": "औद्योगिक सुरक्षा तथा स्वास्थ्य संकेतहरू",
+  "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_53.pdf"
 }

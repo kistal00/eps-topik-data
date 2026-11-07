@@ -16,19 +16,22 @@
   "vocabulary": [
     {
       "korean": "취미",
-      "english": "Hobbies"
+      "english": "Hobbies",
+      "nepali": "रूचीहरू"
     }
   ],
   "grammar": [
     {
       "point": "취미",
       "explanation": "Hobbies 취미에 대해 말할 수 있다. 학습 목표 Can talk about hobbies. LEARNING OBJECTIVES 좋아하는 운동에 대해 말할 수 있다. Can talk about favorite sports. 220 한국어 표준교재 1 CHAPTER 18 EPS-TOPIK 저는 축구하는 것을 좋아해요. 저도 축구를 좋아해요. 이번 주말에 같이 축구할까요? 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -는 것 취미 관련 어휘 한국인의 여가 생활 -(으)ㄹ까요? Vocabulary Related to Hobbies Korea People's Leisure Activities 운동 관련 어휘 Vocabulary Related to Sports 220 한국어 표준교재 1",
-      "examples": []
+      "examples": [],
+      "explanationNp": "취미 सम्बन्धी व्याकरण नियम र प्रयोग।"
     },
     {
       "point": "여행하다 외국어를 배우다",
       "explanation": "⑵ ⑶ 가 : 같이 사진을 찍을래요? 가 : 왜 기숙사에 살아요? 나 : 저는 을 나 : 기숙사가 편해서 안 좋아해요. 이 좋아요. 사진을 찍다 기숙사에 살다",
-      "examples": []
+      "examples": [],
+      "explanationNp": "여행하다 외국어를 배우다 सम्बन्धी व्याकरण नियम र प्रयोग।"
     },
     {
       "point": "나 상대방의 제안을 승낙할",
@@ -36,7 +39,8 @@
       "examples": [
         "예 우리 같이 저녁을 먹어요.",
         "예 내일 같이 점심 먹을까요?"
-      ]
+      ],
+      "explanationNp": "나 상대방의 제안을 승낙할 सम्बन्धी व्याकरण नियम र प्रयोग।"
     }
   ],
   "conversations": [
@@ -236,7 +240,8 @@
         "③",
         "④\n2. 다음 중 밑줄 친 부분이 맞는 문장을 고르십시오."
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     },
     {
       "id": "ch18_r002",
@@ -247,7 +252,8 @@
         "③ 낚시",
         "④ 독서"
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     },
     {
       "id": "ch18_r003",
@@ -258,7 +264,8 @@
         "③ 날씨",
         "④ 쇼핑"
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
   "listeningQuestions": [
@@ -272,7 +279,10 @@
         "④\n[2~3] 다음을 듣고 물음에 알맞은 대답을 고르십시오."
       ],
       "correctAnswer": -1,
-      "transcript": "듣기지문\n1. 여 : 왕민 씨, 무슨 운동을 좋아해요?\n남 : 저는 축구를 좋아해요.\n2. 남 : 영화가 재미있어요?\n3. 남 : 언제 운동 경기를 봐요?\n4. 남 : 저는 영화 보는 것을 좋아해서 영화관에 자주 가요. 딜로바 씨는요?\n여 : 저는 등산을 좋아해요.\n5. 남 : 자야 씨, 주말에 뭐 했어요?\n여 : 저는 콘서트를 봤어요. 마두 씨는요?\n남 : 저는 친구를 만났어요. 친구랑 점심을 먹고 공원에 가서 배드민턴을 쳤어요.\n18 취미 HOBBIES 229"
+      "transcript": "듣기지문\n1. 여 : 왕민 씨, 무슨 운동을 좋아해요?\n남 : 저는 축구를 좋아해요.\n2. 남 : 영화가 재미있어요?\n3. 남 : 언제 운동 경기를 봐요?\n4. 남 : 저는 영화 보는 것을 좋아해서 영화관에 자주 가요. 딜로바 씨는요?\n여 : 저는 등산을 좋아해요.\n5. 남 : 자야 씨, 주말에 뭐 했어요?\n여 : 저는 콘서트를 봤어요. 마두 씨는요?\n남 : 저는 친구를 만났어요. 친구랑 점심을 먹고 공원에 가서 배드민턴을 쳤어요.\n18 취미 HOBBIES 229",
+      "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
-  ]
+  ],
+  "titleNp": "रुचि तथा हबी",
+  "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_18.pdf"
 }

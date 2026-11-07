@@ -15,14 +15,16 @@
     {
       "point": "음식 주문",
       "explanation": "Ordering Food 음식을 주문할 수 있다. 학습 목표 Can order food. LEARNING OBJECTIVES 물건의 개수를 말할 수 있다. Can say how many items there are. CHAPTER 09 EPS-TOPIK 메 뉴 비빔밥 불고기 된장찌개 김치찌개 뭐 드시겠어요? 비빔밥 주세요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION 주세요 음식 한국인의 식사 하고 Food Korean Meals 숫자와 분류사 Numbers and Classifiers 130 한국어 표준교재 1",
-      "examples": []
+      "examples": [],
+      "explanationNp": "음식 주문 सम्बन्धी व्याकरण नियम र प्रयोग।"
     },
     {
       "point": "주세요",
       "explanation": "‘주세요’는 명사 뒤에 쓰여 그 명사가 지시하는 대상을 달라는 요청이나 명령을 나타낸다. The phrase ‘주세요’ is placed after a noun to express a request or command for the item indicated by the noun. 비빔밥 주세요. 김치찌개 주세요.",
       "examples": [
         "예 물 주세요."
-      ]
+      ],
+      "explanationNp": "주세요 सम्बन्धी व्याकरण नियम र प्रयोग।"
     },
     {
       "point": "하고",
@@ -30,7 +32,8 @@
       "examples": [
         "예 우유하고 빵을 사요. If the last syllable of the preceding noun",
         "예 빵과 우유"
-      ]
+      ],
+      "explanationNp": "दुई वा दुईभन्दा बढी संज्ञा जोड्दा प्रयोग गरिन्छ। नेपालीमा 'र' वा 'सँग' भन्ने अर्थ दिन्छ।"
     }
   ],
   "conversations": [
@@ -130,7 +133,8 @@
         "③",
         "④\n2. 다음 단어와 관계있는 것은 무엇입니까?"
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
   "listeningQuestions": [
@@ -144,7 +148,10 @@
         "④ 불고기"
       ],
       "correctAnswer": -1,
-      "transcript": "듣기지문\n1. 여 : 이것은 비빔밥입니다.\n2. 남 : 뭐 드시겠어요?\n여 : 치킨 주세요.\n3. 남 : 피자를 좋아해요?\n4. 여 : 어제 뭐 먹었어요?\n5. 남 : 뭐가 맛있어요?\n여 : 불고기가 맛있어요.\n9 음식 주문 ORDERING FOOD 139"
+      "transcript": "듣기지문\n1. 여 : 이것은 비빔밥입니다.\n2. 남 : 뭐 드시겠어요?\n여 : 치킨 주세요.\n3. 남 : 피자를 좋아해요?\n4. 여 : 어제 뭐 먹었어요?\n5. 남 : 뭐가 맛있어요?\n여 : 불고기가 맛있어요.\n9 음식 주문 ORDERING FOOD 139",
+      "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
-  ]
+  ],
+  "titleNp": "खाना अर्डर गर्ने",
+  "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_09.pdf"
 }

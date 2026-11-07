@@ -17,7 +17,8 @@
     {
       "point": "동작과 사물",
       "explanation": "Actions and Objects 하고 있는 일을 말할 수 있다. 학습 목표 Can talk about what someone is doing. LEARNING OBJECTIVES 무엇을 하는지 묻고 대답할 수 있다. Can ask and answer what someone is doing. 80 한국어 표준교재 1 CHAPTER 04 EPS-TOPIK 지금 뭐 해요? 쇼핑해요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -아요/어요 일상 관련 동작 동사 한국의 좌식 문화 을/를 Verbs Related to Everyday Life Korea's Floor-sitting Culture 일상 관련 명사 Nouns Related to Everyday Life 80 한국어 표준교재 1",
-      "examples": []
+      "examples": [],
+      "explanationNp": "동작과 사물 सम्बन्धी व्याकरण नियम र प्रयोग।"
     },
     {
       "point": "을/를",
@@ -25,7 +26,8 @@
       "examples": [
         "예 운동해요 → 운동을 해요.",
         "예 왕민 씨는 밥을 먹어요."
-      ]
+      ],
+      "explanationNp": "कर्म (Object) कारक जनाउने प्रत्यय हो। बाच्छिम भए '을', बाच्छिम नभए '를' जोडिन्छ। नेपालीमा 'लाई' भन्ने अर्थ दिन्छ।"
     }
   ],
   "conversations": [
@@ -140,7 +142,8 @@
         "③",
         "④\n[3~4] 다음 중 밑줄 친 부분이 맞는 문장을 고르십시오."
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
   "listeningQuestions": [
@@ -154,7 +157,10 @@
         "④ 소파"
       ],
       "correctAnswer": -1,
-      "transcript": "듣기지문\n1. 남 : 이것은 사과입니다.\n2. 여 : 지금 뭐 해요?\n남 : 운동해요.\n3. 여 : 지금 뭐 해요?\n남 : 텔레비전을 봐요.\n4. 남 : 주스를 마셔요?\n5. 남 : 유진 씨는 뭐 해요?\n4 동작과 사물 ACTIONS AND OBJECTS 89"
+      "transcript": "듣기지문\n1. 남 : 이것은 사과입니다.\n2. 여 : 지금 뭐 해요?\n남 : 운동해요.\n3. 여 : 지금 뭐 해요?\n남 : 텔레비전을 봐요.\n4. 남 : 주스를 마셔요?\n5. 남 : 유진 씨는 뭐 해요?\n4 동작과 사물 ACTIONS AND OBJECTS 89",
+      "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
-  ]
+  ],
+  "titleNp": "कार्य र वस्तुहरू",
+  "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_04.pdf"
 }

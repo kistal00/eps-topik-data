@@ -15,19 +15,22 @@
     {
       "point": "하루 일과",
       "explanation": "Daily Routine 시간을 말할 수 있다. 학습 목표 Can say the time. LEARNING OBJECTIVES 하루 일과를 묻고 대답할 수 있다. Can ask and answer about daily routines 100 한국어 표준교재 1 CHAPTER 06 EPS-TOPIK 몇 시에 출근합니까? 8시에 출근합니다. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -(스)ㅂ니다, -(스)ㅂ니까? 시간 관련 어휘 직장인의 하루 에서 Vocabulary Related to Time A Day in the Life of an Office Worker 일과 관련 어휘 Vocabulary Related to Daily Routines 100 한국어 표준교재 1",
-      "examples": []
+      "examples": [],
+      "explanationNp": "하루 일과 सम्बन्धी व्याकरण नियम र प्रयोग।"
     },
     {
       "point": "프엉 씨는 몇 시에 잡니까?",
       "explanation": "아미나 씨는 12시에 점심을 먹었습니다.",
-      "examples": []
+      "examples": [],
+      "explanationNp": "समय वा स्थान जनाउने प्रत्यय हो। नेपालीमा 'मा' वा 'तिर' भन्ने अर्थ लाग्दछ।"
     },
     {
       "point": "에서",
       "explanation": "‘에서’와 ‘에’는 모두 장소를 나타내는 명사 ‘에서’는 장소를 나타내는 명사와 결합하여 어떤 에 붙여 사용하지만 ‘에서’는 행위가 이루 일이 이루어지고 있는 장소임을 나타낸다. 어지는 장소를 나타내고, ‘에’는 사람이나 물건이 있는 장소를 나타낸다. ‘에서’ is combined with nouns to show a place or Both ‘에서’ and ‘에’ are used with nouns location where an action occurs. indicating a place, but ‘에서’ indicates where where a person or object is located. 다라 씨는 휴게실에서 신문을 읽습니다. 마두 씨는 편의점에서 주스를 삽니다. 예 왕민 씨는 기숙사에서 청소해요. 유수프 씨는 공원에 있어요.",
       "examples": [
         "예 아지자 씨는 공원에서 운동을 해요. an action happens, while ‘에’ indicates"
-      ]
+      ],
+      "explanationNp": "समय वा स्थान जनाउने प्रत्यय हो। नेपालीमा 'मा' वा 'तिर' भन्ने अर्थ लाग्दछ।"
     }
   ],
   "conversations": [
@@ -132,7 +135,8 @@
         "③",
         "④\n[3~4] 다음 중 밑줄 친 부분이 맞는 문장을 고르십시오."
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
   "listeningQuestions": [
@@ -146,7 +150,10 @@
         "④\n11:00 11:30 12:00 12:30"
       ],
       "correctAnswer": -1,
-      "transcript": "듣기지문\n1. 여 : 몇 시에 점심을 먹었습니까?\n남 : 열두 시 반에 먹었습니다.\n2. 남 : 오늘 저녁에 뭐 합니까?\n여 : 커피숍에서 친구를 만납니다.\n3. 여 : 오전에 뭐 했습니까?\n남 : 공원에서 산책했습니다.\n4. 남 : 몇 시에 출근합니까?\n5. 남 : 어디에서 저녁을 먹습니까?\n6 하루 일과 DAILY ROUTINE 109"
+      "transcript": "듣기지문\n1. 여 : 몇 시에 점심을 먹었습니까?\n남 : 열두 시 반에 먹었습니다.\n2. 남 : 오늘 저녁에 뭐 합니까?\n여 : 커피숍에서 친구를 만납니다.\n3. 여 : 오전에 뭐 했습니까?\n남 : 공원에서 산책했습니다.\n4. 남 : 몇 시에 출근합니까?\n5. 남 : 어디에서 저녁을 먹습니까?\n6 하루 일과 DAILY ROUTINE 109",
+      "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
-  ]
+  ],
+  "titleNp": "दैनिक तालिका र कार्यहरू",
+  "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_06.pdf"
 }

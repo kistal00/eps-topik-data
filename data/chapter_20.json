@@ -16,12 +16,14 @@
     {
       "point": "인터넷과 스마트폰",
       "explanation": "The Internet and Smartphones 인터넷 생활에 대해 말할 수 있다. 학습 목표 Can talk about life on the internet. LEARNING OBJECTIVES 스마트폰 사용에 대해 말할 수 있다. Can talk about smartphone use. 240 한국어 표준교재 1 CHAPTER 20 EPS-TOPIK 지금 뭐 해요? 호텔을 검색하고 있어요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -고 있다(진행) 인터넷 관련 어휘 배달 앱 -(으)ㄹ래요 Vocabulary Related to the Internet Delivery Apps 스마트폰 관련 어휘 Vocabulary Related to Smartphones 240 한국어 표준교재 1",
-      "examples": []
+      "examples": [],
+      "explanationNp": "인터넷과 스마트폰 सम्बन्धी व्याकरण नियम र प्रयोग।"
     },
     {
       "point": "친구 프엉 고향 친구 다라",
       "explanation": "이번 토요일에 영화 볼래요? 오늘 저녁에 같이 저녁 먹고 오후 7:22 공원에서 ? 오후 7:24 네, 좋아요. 저도 영화를 보고 싶었어요. 어디에서 ? 오후 7:24 친구 프엉 좋아요. 저도 공원에서 산책하고 싶었어요. 동대문 어때요? 오후 7:24 오후 7:25 좋아요. 동대문에서 만나요. 고향 친구 다라 영화를 보고 뭐 할까요? 오후 7:27 저녁은 어디에서 뭘 친구 프엉 먹을까요? 오후 7:30 같이 저녁을 ? 동대문에 좋은 식당이 있어요. 오후 7:30 회사 근처 식당에서 네, 좋아요! ? 오후 7:31 오후 7:37 20 인터넷과 스마트폰 THE INTERNET AND SMARTPHONES 245",
-      "examples": []
+      "examples": [],
+      "explanationNp": "친구 프엉 고향 친구 다라 सम्बन्धी व्याकरण नियम र प्रयोग।"
     }
   ],
   "conversations": [
@@ -216,7 +218,8 @@
         "③ 이모티콘",
         "④ 회원 가입"
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     },
     {
       "id": "ch20_r002",
@@ -227,7 +230,8 @@
         "③ 아궁 씨는 제주도에 처음 가 봤습니다.",
         "④ 휴가 때 먹은 음식은 맛이 없었습니다."
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     },
     {
       "id": "ch20_r003",
@@ -238,7 +242,8 @@
         "③ 음식을 주문할 때 전화가 앱보다 편합니다.",
         "④ 앱을 사용하면 배달 시간을 알 수 있습니다."
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
   "listeningQuestions": [
@@ -252,7 +257,10 @@
         "④\n2. 남자는 왜 여자를 불렀습니까?"
       ],
       "correctAnswer": -1,
-      "transcript": "듣기지문\n1. 여 : 주말에 뭐 했어요?\n남 : 고향에 있는 가족들과 화상 채팅을 했어요.\n2. 남 : 저기요. 여기 와이파이 비밀번호가 뭐예요?\n여 : 잠시만요. 가르쳐 드릴게요.\n3. 여 : 어제 문자 메시지를 못 받았어요?\n4. 남 : 한국 드라마는 어떻게 봐요?\n5. 여 : 언제 마지막으로 홈페이지에 접속했어요?\n20 인터넷과 스마트폰 THE INTERNET AND SMARTPHONES 249"
+      "transcript": "듣기지문\n1. 여 : 주말에 뭐 했어요?\n남 : 고향에 있는 가족들과 화상 채팅을 했어요.\n2. 남 : 저기요. 여기 와이파이 비밀번호가 뭐예요?\n여 : 잠시만요. 가르쳐 드릴게요.\n3. 여 : 어제 문자 메시지를 못 받았어요?\n4. 남 : 한국 드라마는 어떻게 봐요?\n5. 여 : 언제 마지막으로 홈페이지에 접속했어요?\n20 인터넷과 스마트폰 THE INTERNET AND SMARTPHONES 249",
+      "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
-  ]
+  ],
+  "titleNp": "इन्टरनेट र स्मार्टफोन",
+  "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_20.pdf"
 }

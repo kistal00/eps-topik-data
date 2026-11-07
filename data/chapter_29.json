@@ -18,12 +18,14 @@
       "explanation": "Korean Etiquette 한국에서는 밥그릇을 들고 밥을 먹으면 안 돼요. 그래요? 몰랐어요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -(으)ㄹ 수 있다, 없다 공공장소에서의 예절 관련 어휘 공공 생활 예절 -(으)면 안 되다 Vocabulary Related to Etiquette in Public Etiquette Public Places Disrespectful Actions 공공장소에서 지켜야 할 예절에 대해 말할 수 있다. 학습 목표 Can talk about etiquette that should be observed in public places. LEARNING OBJECTIVES 일상생활에서 하면 안 되는 행동에 대해 말할 수 있다. Can talk about actions that should not be done in daily life. 330 한국어 표준교재 1 CHAPTER 29 EPS-TOPIK 330 한국어 표준교재 1",
       "examples": [
         "예의에 어긋난 행동"
-      ]
+      ],
+      "explanationNp": "한국의 예절 सम्बन्धी व्याकरण नियम र प्रयोग।"
     },
     {
       "point": "어디 가?",
       "explanation": "가 : 어른들께 ? 나 : 아니요, . ⑵ 가 : 어른들께 ? 나 : 아니요, .",
-      "examples": []
+      "examples": [],
+      "explanationNp": "어디 가? सम्बन्धी व्याकरण नियम र प्रयोग।"
     }
   ],
   "conversations": [
@@ -203,7 +205,8 @@
         "③ 한국어를 배우려고 센터에 가세요.",
         "④ 박물관에 음식물을 반입할 수 없어요."
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     },
     {
       "id": "ch29_r002",
@@ -214,7 +217,8 @@
         "③ 걸렸습니다",
         "④ 빌렸습니다"
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     },
     {
       "id": "ch29_r003",
@@ -225,7 +229,8 @@
         "③ 떠들어서",
         "④ 흔들어서"
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
   "listeningQuestions": [
@@ -239,7 +244,10 @@
         "④ 진료"
       ],
       "correctAnswer": -1,
-      "transcript": "듣기지문\n1. 여 : 어제 마트에 갔는데 아이가 혼자 뛰어다니는 것을 봤어요.\n남 : 사람들이 많은 장소에서 그러면 안 되는데……. 아이의 부모님은 없었어요?\n2. 여 : 도서관에 커피를 들고 들어가도 돼요?\n3. 남 : 여기에서 담배 피우시면 안 됩니다.\n4. 여 : 차가 안 와요. 지금 길을 건너요.\n남 : 여기는 횡단보도가 아니에요. 무단 횡단을 하면 안 돼요.\n여 : 횡단보도까지 너무 멀어서 무단 횡단을 하려고 했어요. 미안해요.\n5. 남 : 콧물이 나서 밥 먹기 불편해요. 코를 풀고 싶어요. 휴지 좀 줄래요?\n여 : 한국에서는 식사할 때 코를 풀면 안 돼요.\n남 : 그래요? 몰랐어요. 우리 나라에서는 괜찮은데요.\n29 한국의 예절 KOREAN ETIQUETTE 339"
+      "transcript": "듣기지문\n1. 여 : 어제 마트에 갔는데 아이가 혼자 뛰어다니는 것을 봤어요.\n남 : 사람들이 많은 장소에서 그러면 안 되는데……. 아이의 부모님은 없었어요?\n2. 여 : 도서관에 커피를 들고 들어가도 돼요?\n3. 남 : 여기에서 담배 피우시면 안 됩니다.\n4. 여 : 차가 안 와요. 지금 길을 건너요.\n남 : 여기는 횡단보도가 아니에요. 무단 횡단을 하면 안 돼요.\n여 : 횡단보도까지 너무 멀어서 무단 횡단을 하려고 했어요. 미안해요.\n5. 남 : 콧물이 나서 밥 먹기 불편해요. 코를 풀고 싶어요. 휴지 좀 줄래요?\n여 : 한국에서는 식사할 때 코를 풀면 안 돼요.\n남 : 그래요? 몰랐어요. 우리 나라에서는 괜찮은데요.\n29 한국의 예절 KOREAN ETIQUETTE 339",
+      "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
-  ]
+  ],
+  "titleNp": "कोरियाली शिष्टाचार र संस्कार",
+  "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_29.pdf"
 }

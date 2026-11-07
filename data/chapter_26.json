@@ -14,48 +14,58 @@
   "vocabulary": [
     {
       "korean": "마루",
-      "english": "maru (floor space"
+      "english": "maru (floor space",
+      "nepali": "मारु (फ्लोर स्पेस)"
     },
     {
       "korean": "마당",
-      "english": "yard"
+      "english": "yard",
+      "nepali": "यार्ड"
     },
     {
       "korean": "대문",
-      "english": "floor heating) floor"
+      "english": "floor heating) floor",
+      "nepali": "भुइँ तताउने) भुइँ"
     },
     {
       "korean": "현관문",
-      "english": "living room entrance"
+      "english": "living room entrance",
+      "nepali": "बैठक कोठाको प्रवेशद्वार"
     },
     {
       "korean": "베란다",
-      "english": "veranda"
+      "english": "veranda",
+      "nepali": "बरामदा"
     },
     {
       "korean": "깍두기",
-      "english": "cubed radish kimchi"
+      "english": "cubed radish kimchi",
+      "nepali": "घन मूली किमची"
     },
     {
       "korean": "반찬",
-      "english": "side dish"
+      "english": "side dish",
+      "nepali": "साइड डिश"
     }
   ],
   "grammar": [
     {
       "point": "한국의 주거 문화와 음식 문화",
       "explanation": "Korean Housing Culture and Food Culture 한국의 주거 문화에 대해 말할 수 있다. 학습 목표 Can talk about the housing culture in Korea. LEARNING OBJECTIVES 여러 나라의 음식 문화를 비교하여 말할 수 있다. Can compare food cultures of different countries. CHAPTER 26 EPS-TOPIK 집 구경 좀 해도 돼요? 네, 천천히 구경하세요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -아도/어도 되다 주거 문화 한국의 식사 예절 -는데/(으)ㄴ데(대조) Housing Culture Korean Dining Etiquette 음식 문화 Food Culture 300 한국어 표준교재 1",
-      "examples": []
+      "examples": [],
+      "explanationNp": "한국의 주거 문화와 음식 문화 सम्बन्धी व्याकरण नियम र प्रयोग।"
     },
     {
       "point": "예 이 빵을 먹어도 돼요?",
       "explanation": "가 : 방바닥에 앉아야 돼요? 나 : 아니요, 소파에 앉아도 돼요.",
-      "examples": []
+      "examples": [],
+      "explanationNp": "예 이 빵을 먹어도 돼요? सम्बन्धी व्याकरण नियम र प्रयोग।"
     },
     {
       "point": "치킨은 생선구이는 김은",
       "explanation": ". . .",
-      "examples": []
+      "examples": [],
+      "explanationNp": "치킨은 생선구이는 김은 सम्बन्धी व्याकरण नियम र प्रयोग।"
     }
   ],
   "conversations": [
@@ -210,7 +220,8 @@
         "③ 포장합니다",
         "④ 사용합니다"
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     },
     {
       "id": "ch26_r002",
@@ -221,7 +232,8 @@
         "③ 수리",
         "④ 교환"
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
   "listeningQuestions": [
@@ -235,7 +247,10 @@
         "④ 아니요, 마당이 시원해요."
       ],
       "correctAnswer": -1,
-      "transcript": "듣기지문\n1. 여 : 마당이 넓어요?\n2. 남 : 한국 사람들은 더운 여름에 뭘 먹어요?\n여 : 시원한 냉면이나 삼계탕을 많이 먹어요.\n3. 남 : 어제가 생일이었지요? 맛있는 거 먹었어요?\n4. 여 : 이사 축하해요. 드디어 한옥에서 살게 되었네요. 아파트보다 불편한 게 많을 텐데 괜찮겠어요?\n남 : 물론 불편하겠지요. 그래도 마당이 넓은 집에서 꼭 살아 보고 싶었어요.\n여 : 마당에 꽃이 피면 더 좋을 것 같네요. 참 예쁜 집이에요.\n5. 남 : 신랑, 신부가 정말 예쁘네요. 프엉 씨, 결혼식도 끝났으니 빨리 밥 먹으러 갑시다.\n여 : 밥이 아니라 국수를 먹어야죠. 신랑, 신부가 행복하게 오래 살기를 바라면서요.\n남 : 그래도 저는 국수보다는 밥이 더 좋아요.\n26 한국의 주거 문화와 음식 문화 KOREAN HOUSING CULTURE AND FOOD CULTURE 309"
+      "transcript": "듣기지문\n1. 여 : 마당이 넓어요?\n2. 남 : 한국 사람들은 더운 여름에 뭘 먹어요?\n여 : 시원한 냉면이나 삼계탕을 많이 먹어요.\n3. 남 : 어제가 생일이었지요? 맛있는 거 먹었어요?\n4. 여 : 이사 축하해요. 드디어 한옥에서 살게 되었네요. 아파트보다 불편한 게 많을 텐데 괜찮겠어요?\n남 : 물론 불편하겠지요. 그래도 마당이 넓은 집에서 꼭 살아 보고 싶었어요.\n여 : 마당에 꽃이 피면 더 좋을 것 같네요. 참 예쁜 집이에요.\n5. 남 : 신랑, 신부가 정말 예쁘네요. 프엉 씨, 결혼식도 끝났으니 빨리 밥 먹으러 갑시다.\n여 : 밥이 아니라 국수를 먹어야죠. 신랑, 신부가 행복하게 오래 살기를 바라면서요.\n남 : 그래도 저는 국수보다는 밥이 더 좋아요.\n26 한국의 주거 문화와 음식 문화 KOREAN HOUSING CULTURE AND FOOD CULTURE 309",
+      "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
-  ]
+  ],
+  "titleNp": "कोरियाली आवास तथा खाना संस्कृति",
+  "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_26.pdf"
 }

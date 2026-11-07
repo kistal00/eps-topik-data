@@ -16,12 +16,14 @@
     {
       "point": "주말 활동",
       "explanation": "Weekend Activities 주말 활동에 대해 말할 수 있다. 학습 목표 Can talk about weekend plans. LEARNING OBJECTIVES 상태나 기분에 대해 말할 수 있다. Can talk about feelings and moods. 117700 한한국국어어 표표준준교교재재 11 CHAPTER 13 EPS-TOPIK 일요일에 뭐 할 거예요? 친구하고 탁구를 칠 거예요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -(으)ㄹ 거예요 주말 활동 한국인의 종교 못 Weekend Activities Korean People's Religion 상태와 기분 Feelings and Moods",
-      "examples": []
+      "examples": [],
+      "explanationNp": "주말 활동 सम्बन्धी व्याकरण नियम र प्रयोग।"
     },
     {
       "point": "일요일 월요일 화요일 수요일 목요일 금요일 토요일",
       "explanation": "[ 보기 ] ⑴ ⑵ ⑶ [ 보기 ] 가 : 일요일에 뭐 할 거예요? 나 : 고향 사람들을 만날 거예요. 172 한국어 표준교재 1",
-      "examples": []
+      "examples": [],
+      "explanationNp": "일요일 월요일 화요일 수요일 목요일 금요일 토요일 सम्बन्धी व्याकरण नियम र प्रयोग।"
     },
     {
       "point": "못",
@@ -30,7 +32,8 @@
         "예 시간이 없어서 친구를 못 만나요.",
         "예 주말에는 회사에 안 가요.",
         "예 못 공부해요. ( ), 공부를 못 해요. ( )"
-      ]
+      ],
+      "explanationNp": "못 सम्बन्धी व्याकरण नियम र प्रयोग।"
     }
   ],
   "conversations": [
@@ -215,7 +218,8 @@
         "③",
         "④\n2. 다음 단어와 관계있는 것은 무엇입니까?"
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
   "listeningQuestions": [
@@ -229,7 +233,10 @@
         "④ 숙소"
       ],
       "correctAnswer": -1,
-      "transcript": "듣기지문\n1. 여 : 여기는 사원입니다.\n2. 남 : 점심 먹고 뭐 할 거예요?\n여 : 공원에 가서 자전거를 탈 거예요.\n3. 남 : 오늘도 바빠요?\n4. 여 : 일요일마다 어디에 가요?\n5. 남 : 주말에 뭐 할 거예요?\n13 주말 활동 WEEKEND ACTIVITIES 179"
+      "transcript": "듣기지문\n1. 여 : 여기는 사원입니다.\n2. 남 : 점심 먹고 뭐 할 거예요?\n여 : 공원에 가서 자전거를 탈 거예요.\n3. 남 : 오늘도 바빠요?\n4. 여 : 일요일마다 어디에 가요?\n5. 남 : 주말에 뭐 할 거예요?\n13 주말 활동 WEEKEND ACTIVITIES 179",
+      "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
-  ]
+  ],
+  "titleNp": "सप्ताहन्तका क्रियाकलापहरू",
+  "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_13.pdf"
 }

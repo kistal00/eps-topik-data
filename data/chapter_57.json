@@ -13,24 +13,28 @@
   "vocabulary": [
     {
       "korean": "고용허가제",
-      "english": "Employment Permit System"
+      "english": "Employment Permit System",
+      "nepali": "रोजगार अनुमति प्रणाली"
     }
   ],
   "grammar": [
     {
       "point": "고용허가제",
       "explanation": "Employment Permit System 고용허가제의 업종에 대해 말할 수 있다. 학습 목표 Can talk about the industries under the employment permit system. LEARNING OBJECTIVES 고용허가제 취업 절차에 대해 묻고 대답할 수 있다. Can ask and answer questions about the employment permit system job procedures. 276 한국어 표준교재 2 CHAPTER 57 EPS-TOPIK 한국에 일하러 가게 되었어요. 정말 축하해요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -는/(으)ㄴ 줄 알았다, 몰랐다 고용허가제의 업종 고용허가제 -게 되다 Employment Permit System Industries Employment Permit System (EPS) 고용허가제 취업 절차 Procedures to Gain Employment through the Employment Permit System 276 한국어 표준교재 2",
-      "examples": []
+      "examples": [],
+      "explanationNp": "고용허가제 सम्बन्धी व्याकरण नियम र प्रयोग।"
     },
     {
       "point": "퇴근하다 되다 신청하다 부르다",
       "explanation": "[ 보기 ] 일하느라고 벌써 점심시간이 된 줄 몰랐어요. ⑴ 아까는 너무 시끄러워서 반장님이 저를 . ⑵ 칼로 씨는 농업을 신청했대요. 나처럼 제조업을 . ⑶ 아지자 씨가 안 보여서 오늘은 일찍 .",
-      "examples": []
+      "examples": [],
+      "explanationNp": "퇴근하다 되다 신청하다 부르다 सम्बन्धी व्याकरण नियम र प्रयोग।"
     },
     {
       "point": "컴퓨터 교육 안내",
       "explanation": "모집 기간 •8/11 ~ 8/20 가 : 어떻게 알고 컴퓨터 교육을 신청했어요? •9 /1(일) ~ 11/24(일) 교육 기간 오후 1:00~3:00 나 : 포스터를 보고 신청하게 되었어요. 신청 방법 •방문 신청 문의/상담 031-555-4512 ⑴ ⑵ 가 : 우 리 회사가 신입 사원을 뽑는 가 : 왜 한국어 공부를 시작했어요? 것을 어떻게 알았어요? 나 : 한국에서 일하고 싶어서 나 : 홈 페이지 공지를 보고 . . ⑶ ⑷ 가 : 고 용허가제에 대해 어떻게 가 : 어떻게 프엉 씨를 만났어요? EPS 알았어요? 나 : 친 구의 소개로 나 : 신문을 보고 . . 57 고용허가제 EMPLOYMENT PERMIT SYSTEM 281",
-      "examples": []
+      "examples": [],
+      "explanationNp": "컴퓨터 교육 안내 सम्बन्धी व्याकरण नियम र प्रयोग।"
     }
   ],
   "conversations": [
@@ -190,7 +194,8 @@
         "③ 벌써 퇴근 시간이 되는 줄 몰랐어요.",
         "④ 왕민 씨가 키가 작는 줄 몰랐어요."
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
   "listeningQuestions": [
@@ -204,7 +209,10 @@
         "④ 아니요, 비자가 빨리 나왔어요."
       ],
       "correctAnswer": -1,
-      "transcript": "듣기지문\n1. 남 : 신청한 비자가 나왔어요?\n2. 남 : 언제 한국에 가요?\n3. 여 : 고용허가제를 신청하고 싶은데 어떻게 하면 돼요?\n남 : 이 신청서를 작성해 주시면 됩니다.\n4. 남 : 선생님, 저 이번에 고용허가제 시험에 합격했어요.\n여 : 그래요? 연락이 없어서 시험에 떨어진 줄 알았어요. 정말 축하해요.\n남 : 감사합니다. 선생님께서 한국어를 잘 가르쳐 주신 덕분입니다.\n5. 여 : 안녕하세요? 이번에 고용허가제 시험에 합격한 칼로 씨 되십니까?\n남 : 안녕하세요? 무슨 일이시죠?\n여 : 칼로 씨와 고용 계약을 하고 싶다는 회사가 있어서 연락드립니다.\n남 : 정말요? 지금 바로 센터로 가겠습니다.\n57 고용허가제 EMPLOYMENT PERMIT SYSTEM 285"
+      "transcript": "듣기지문\n1. 남 : 신청한 비자가 나왔어요?\n2. 남 : 언제 한국에 가요?\n3. 여 : 고용허가제를 신청하고 싶은데 어떻게 하면 돼요?\n남 : 이 신청서를 작성해 주시면 됩니다.\n4. 남 : 선생님, 저 이번에 고용허가제 시험에 합격했어요.\n여 : 그래요? 연락이 없어서 시험에 떨어진 줄 알았어요. 정말 축하해요.\n남 : 감사합니다. 선생님께서 한국어를 잘 가르쳐 주신 덕분입니다.\n5. 여 : 안녕하세요? 이번에 고용허가제 시험에 합격한 칼로 씨 되십니까?\n남 : 안녕하세요? 무슨 일이시죠?\n여 : 칼로 씨와 고용 계약을 하고 싶다는 회사가 있어서 연락드립니다.\n남 : 정말요? 지금 바로 센터로 가겠습니다.\n57 고용허가제 EMPLOYMENT PERMIT SYSTEM 285",
+      "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
-  ]
+  ],
+  "titleNp": "रोजगार अनुमति प्रणाली (EPS)",
+  "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_57.pdf"
 }

@@ -16,12 +16,14 @@
     {
       "point": "연안 어업과 양식",
       "explanation": "Coastal Fishery and Aquaculture 어업 도구와 어업 활동에 대해 말할 수 있다. 학습 목표 Can talk about fishery tools and activities. LEARNING OBJECTIVES 양식업에서 사용하는 장비에 대해 묻고 대답할 수 있다. Can ask and answer questions about equipment used in aquaculture. 176 한국어 표준교재 2 CHAPTER 47 EPS-TOPIK 오늘 그물을 수선하기로 했지요? 맞아요. 그물이 찢어져서 빨리 고쳐야 돼요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -는 동안에 어업 도구와 어업 활동 관련 어휘 한국의 양식업 -기로 하다 Vocabulary Related to Fishery Tools Korea's Aquaculture Industry and Activities 양식업 관련 어휘 Vocabulary Related to Aquaculture 176 한국어 표준교재 2",
-      "examples": []
+      "examples": [],
+      "explanationNp": "연안 어업과 양식 सम्बन्धी व्याकरण नियम र प्रयोग।"
     },
     {
       "point": "청소하다 칠하다 수선하다 설치하다",
       "explanation": "⑴ 페인트를 냄새가 많이 날 거예요. ⑵ 통발을 배가 흔들리지 않도록 해 주세요. ⑶ 갑판을 푸캄 씨는 밧줄을 정리해 주세요. ⑷ 이 그물을 사용할 다른 그물을 준비해 주세요. 178 한국어 표준교재 2",
-      "examples": []
+      "examples": [],
+      "explanationNp": "청소하다 칠하다 수선하다 설치하다 सम्बन्धी व्याकरण नियम र प्रयोग।"
     }
   ],
   "conversations": [
@@ -126,7 +128,8 @@
         "③",
         "④\n2. 빈칸에 들어갈 가장 알맞은 것을 고르십시오."
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
   "listeningQuestions": [
@@ -140,7 +143,10 @@
         "④\n2. 다음을 듣고 물음에 알맞은 대답을 고르십시오."
       ],
       "correctAnswer": -1,
-      "transcript": "듣기지문\n1. 여 : 선장님, 지금 무슨 작업을 해야 돼요?\n남 : 그물을 끌어올려야 돼요.\n2. 남 : 수조가 깨끗해요?\n3. 여 : 배에 오르기 전에 구명조끼를 입으세요.\n남 : 네, 빨리 입고 오겠습니다.\n4. 남 : 이제 그물 세척을 시작합시다.\n5. 여 : 그물 위치를 확인했으니 양망기를 준비하고 로프를 연결해 주세요.\n남 : 네, 그럼 로프를 연결하고 바로 그물을 끌어올릴까요?\n여 : 좋아요. 부표도 같이 올려 주세요. 그리고 끌어올릴 때 로프에 발이 걸리지 않게 조심하세요.\n47 연안 어업과 양식 COASTAL FISHERY AND AQUACULTURE 185"
+      "transcript": "듣기지문\n1. 여 : 선장님, 지금 무슨 작업을 해야 돼요?\n남 : 그물을 끌어올려야 돼요.\n2. 남 : 수조가 깨끗해요?\n3. 여 : 배에 오르기 전에 구명조끼를 입으세요.\n남 : 네, 빨리 입고 오겠습니다.\n4. 남 : 이제 그물 세척을 시작합시다.\n5. 여 : 그물 위치를 확인했으니 양망기를 준비하고 로프를 연결해 주세요.\n남 : 네, 그럼 로프를 연결하고 바로 그물을 끌어올릴까요?\n여 : 좋아요. 부표도 같이 올려 주세요. 그리고 끌어올릴 때 로프에 발이 걸리지 않게 조심하세요.\n47 연안 어업과 양식 COASTAL FISHERY AND AQUACULTURE 185",
+      "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
-  ]
+  ],
+  "titleNp": "तटीय माछापालन र जलकृषि",
+  "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_47.pdf"
 }

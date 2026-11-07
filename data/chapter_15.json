@@ -13,29 +13,34 @@
   "vocabulary": [
     {
       "korean": "옷차림",
-      "english": "Clothing"
+      "english": "Clothing",
+      "nepali": "लुगाकपडा"
     },
     {
       "korean": "색깔",
-      "english": "Colors"
+      "english": "Colors",
+      "nepali": "काम"
     },
     {
       "korean": "입다",
-      "english": "to wear (clothes)"
+      "english": "to wear (clothes)",
+      "nepali": "लगाउनु (लुगा)"
     }
   ],
   "grammar": [
     {
       "point": "옷차림",
       "explanation": "Clothing 옷차림에 대해 묻고 대답할 수 있다. 학습 목표 Can ask and answer questions about clothing. LEARNING OBJECTIVES 물건의 색깔을 말할 수 있다. Can talk the color of objects. 190 한국어 표준교재 1 CHAPTER 15 EPS-TOPIK 마두 씨가 누구예요? 머리가 짧은 사람이에요. 검은색 옷을 입고 있어요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -고 있다(상태) 옷과 액세서리 한국의 전통 의상 -(으)ㄴ Clothing and Accessories Korea's Traditional Clothing 색깔 Colors 190 한국어 표준교재 1",
-      "examples": []
+      "examples": [],
+      "explanationNp": "옷차림 सम्बन्धी व्याकरण नियम र प्रयोग।"
     },
     {
       "point": "예 재미있는 책, 맛 있는 빵",
       "explanation": "받침 ○ -은 작다 → 작은 받침 ×, 받침 ‘ㄹ’ -ㄴ 예쁘다 → 예쁜 따뜻한 잠바를 입어요. 책상 위에 작은 가방이 있어요.",
       "examples": [
         "예 예쁜 바지를 샀어요."
-      ]
+      ],
+      "explanationNp": "예 재미있는 책, 맛 있는 빵 सम्बन्धी व्याकरण नियम र प्रयोग।"
     }
   ],
   "conversations": [
@@ -195,7 +200,8 @@
         "③",
         "④\n2. 다음 중 밑줄 친 부분이 맞는 문장을 고르십시오"
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     },
     {
       "id": "ch15_r002",
@@ -206,7 +212,8 @@
         "③ 정리했어요",
         "④ 교환했어요"
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     },
     {
       "id": "ch15_r003",
@@ -217,7 +224,8 @@
         "③ 신고 있어요",
         "④ 쓰고 있어요"
       ],
-      "correctAnswer": -1
+      "correctAnswer": -1,
+      "questionNepali": "दिइएको प्रश्न पढेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
   "listeningQuestions": [
@@ -231,7 +239,10 @@
         "④\n[2~3] 다음을 듣고 물음에 알맞은 대답을 고르십시오."
       ],
       "correctAnswer": -1,
-      "transcript": "듣기지문\n1. 남 : 이 초록색 운동화는 어때요?\n여 : 좋아요. 색깔이 예쁘네요.\n2. 남 : 모자가 빨간색이에요?\n3. 여 : 구두가 작아요?\n4. 여 : 노란색을 좋아해요?\n남 : 아니요, 파란색을 좋아해요.\n5. 남 : 유수프 씨는 무슨 옷을 입고 있어요?\n15 옷차림 CLOTHING 199"
+      "transcript": "듣기지문\n1. 남 : 이 초록색 운동화는 어때요?\n여 : 좋아요. 색깔이 예쁘네요.\n2. 남 : 모자가 빨간색이에요?\n3. 여 : 구두가 작아요?\n4. 여 : 노란색을 좋아해요?\n남 : 아니요, 파란색을 좋아해요.\n5. 남 : 유수프 씨는 무슨 옷을 입고 있어요?\n15 옷차림 CLOTHING 199",
+      "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
-  ]
+  ],
+  "titleNp": "पहिरन तथा पोशाक",
+  "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_15.pdf"
 }
