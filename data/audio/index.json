@@ -1,0 +1,1170 @@
+﻿{
+    "version":  1,
+    "releaseTag":  "v1.0.0",
+    "bundlePolicy":  "Download only the selected chapter bundle and cache it in app-private storage.",
+    "unmappedAudio":  {
+                          "assetName":  "audio_preliminary_tracks_001-026.zip",
+                          "downloadUrl":  "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/audio_preliminary_tracks_001-026.zip",
+                          "sizeBytes":  6188039,
+                          "sha256":  "fcde8a332237e8dca03ea751b46218fb69de046e7092d9dc5b8cb4bb05cdfbc9",
+                          "tracks":  [
+                                         {
+                                             "trackNumber":  1,
+                                             "file":  "Unmapped_Track_001.mp3",
+                                             "label":  "Introductory track 1"
+                                         },
+                                         {
+                                             "trackNumber":  2,
+                                             "file":  "Unmapped_Track_002.mp3",
+                                             "label":  "Introductory track 2"
+                                         },
+                                         {
+                                             "trackNumber":  3,
+                                             "file":  "Unmapped_Track_003.mp3",
+                                             "label":  "Introductory track 3"
+                                         },
+                                         {
+                                             "trackNumber":  4,
+                                             "file":  "Unmapped_Track_004.mp3",
+                                             "label":  "Introductory track 4"
+                                         },
+                                         {
+                                             "trackNumber":  5,
+                                             "file":  "Unmapped_Track_005.mp3",
+                                             "label":  "Introductory track 5"
+                                         },
+                                         {
+                                             "trackNumber":  6,
+                                             "file":  "Unmapped_Track_006.mp3",
+                                             "label":  "Introductory track 6"
+                                         },
+                                         {
+                                             "trackNumber":  7,
+                                             "file":  "Unmapped_Track_007.mp3",
+                                             "label":  "Introductory track 7"
+                                         },
+                                         {
+                                             "trackNumber":  8,
+                                             "file":  "Unmapped_Track_008.mp3",
+                                             "label":  "Introductory track 8"
+                                         },
+                                         {
+                                             "trackNumber":  9,
+                                             "file":  "Unmapped_Track_009.mp3",
+                                             "label":  "Introductory track 9"
+                                         },
+                                         {
+                                             "trackNumber":  10,
+                                             "file":  "Unmapped_Track_010.mp3",
+                                             "label":  "Introductory track 10"
+                                         },
+                                         {
+                                             "trackNumber":  11,
+                                             "file":  "Unmapped_Track_011.mp3",
+                                             "label":  "Introductory track 11"
+                                         },
+                                         {
+                                             "trackNumber":  12,
+                                             "file":  "Unmapped_Track_012.mp3",
+                                             "label":  "Introductory track 12"
+                                         },
+                                         {
+                                             "trackNumber":  13,
+                                             "file":  "Unmapped_Track_013.mp3",
+                                             "label":  "Introductory track 13"
+                                         },
+                                         {
+                                             "trackNumber":  14,
+                                             "file":  "Unmapped_Track_014.mp3",
+                                             "label":  "Introductory track 14"
+                                         },
+                                         {
+                                             "trackNumber":  15,
+                                             "file":  "Unmapped_Track_015.mp3",
+                                             "label":  "Introductory track 15"
+                                         },
+                                         {
+                                             "trackNumber":  16,
+                                             "file":  "Unmapped_Track_016.mp3",
+                                             "label":  "Introductory track 16"
+                                         },
+                                         {
+                                             "trackNumber":  17,
+                                             "file":  "Unmapped_Track_017.mp3",
+                                             "label":  "Introductory track 17"
+                                         },
+                                         {
+                                             "trackNumber":  18,
+                                             "file":  "Unmapped_Track_018.mp3",
+                                             "label":  "Introductory track 18"
+                                         },
+                                         {
+                                             "trackNumber":  19,
+                                             "file":  "Unmapped_Track_019.mp3",
+                                             "label":  "Introductory track 19"
+                                         },
+                                         {
+                                             "trackNumber":  20,
+                                             "file":  "Unmapped_Track_020.mp3",
+                                             "label":  "Introductory track 20"
+                                         },
+                                         {
+                                             "trackNumber":  21,
+                                             "file":  "Unmapped_Track_021.mp3",
+                                             "label":  "Introductory track 21"
+                                         },
+                                         {
+                                             "trackNumber":  22,
+                                             "file":  "Unmapped_Track_022.mp3",
+                                             "label":  "Introductory track 22"
+                                         },
+                                         {
+                                             "trackNumber":  23,
+                                             "file":  "Unmapped_Track_023.mp3",
+                                             "label":  "Introductory track 23"
+                                         },
+                                         {
+                                             "trackNumber":  24,
+                                             "file":  "Unmapped_Track_024.mp3",
+                                             "label":  "Introductory track 24"
+                                         },
+                                         {
+                                             "trackNumber":  25,
+                                             "file":  "Unmapped_Track_025.mp3",
+                                             "label":  "Introductory track 25"
+                                         },
+                                         {
+                                             "trackNumber":  26,
+                                             "file":  "Unmapped_Track_026.mp3",
+                                             "label":  "Introductory track 26"
+                                         }
+                                     ]
+                      },
+    "chapters":  [
+                     {
+                         "chapterNo":  1,
+                         "assetName":  "audio_chapter_01.zip",
+                         "downloadUrl":  "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/audio_chapter_01.zip",
+                         "sizeBytes":  1995265,
+                         "sha256":  "cceb9b47172319bd5523e8b60dd6685781b323856d75002c97d88030dbc2e03d",
+                         "tracks":  [
+                                        {
+                                            "pdfTrackNo":  27,
+                                            "file":  "Chapter_01_PDFTrack_027.mp3",
+                                            "label":  "PDF audio track 27"
+                                        },
+                                        {
+                                            "pdfTrackNo":  28,
+                                            "file":  "Chapter_01_PDFTrack_028.mp3",
+                                            "label":  "Conversation"
+                                        },
+                                        {
+                                            "pdfTrackNo":  29,
+                                            "file":  "Chapter_01_PDFTrack_029.mp3",
+                                            "label":  "PDF audio track 29"
+                                        },
+                                        {
+                                            "pdfTrackNo":  30,
+                                            "file":  "Chapter_01_PDFTrack_030.mp3",
+                                            "label":  "PDF audio track 30"
+                                        },
+                                        {
+                                            "pdfTrackNo":  31,
+                                            "file":  "Chapter_01_PDFTrack_031.mp3",
+                                            "label":  "PDF audio track 31"
+                                        },
+                                        {
+                                            "pdfTrackNo":  32,
+                                            "file":  "Chapter_01_PDFTrack_032.mp3",
+                                            "label":  "PDF audio track 32"
+                                        }
+                                    ]
+                     },
+                     {
+                         "chapterNo":  2,
+                         "assetName":  "audio_chapter_02.zip",
+                         "downloadUrl":  "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/audio_chapter_02.zip",
+                         "sizeBytes":  1558376,
+                         "sha256":  "0f26b926883f94cdca0e61056e7f09e51968c08eadcf17258ed5c450aab14028",
+                         "tracks":  [
+                                        {
+                                            "pdfTrackNo":  33,
+                                            "file":  "Chapter_02_PDFTrack_033.mp3",
+                                            "label":  "PDF audio track 33"
+                                        },
+                                        {
+                                            "pdfTrackNo":  34,
+                                            "file":  "Chapter_02_PDFTrack_034.mp3",
+                                            "label":  "PDF audio track 34"
+                                        },
+                                        {
+                                            "pdfTrackNo":  35,
+                                            "file":  "Chapter_02_PDFTrack_035.mp3",
+                                            "label":  "PDF audio track 35"
+                                        },
+                                        {
+                                            "pdfTrackNo":  36,
+                                            "file":  "Chapter_02_PDFTrack_036.mp3",
+                                            "label":  "PDF audio track 36"
+                                        },
+                                        {
+                                            "pdfTrackNo":  37,
+                                            "file":  "Chapter_02_PDFTrack_037.mp3",
+                                            "label":  "PDF audio track 37"
+                                        }
+                                    ]
+                     },
+                     {
+                         "chapterNo":  3,
+                         "assetName":  "audio_chapter_03.zip",
+                         "downloadUrl":  "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/audio_chapter_03.zip",
+                         "sizeBytes":  1974617,
+                         "sha256":  "cdeecf69c1f7cab3df629145135ac25871581c88e6706dced6bbf328c5b3bc0e",
+                         "tracks":  [
+                                        {
+                                            "pdfTrackNo":  38,
+                                            "file":  "Chapter_03_PDFTrack_038.mp3",
+                                            "label":  "PDF audio track 38"
+                                        },
+                                        {
+                                            "pdfTrackNo":  39,
+                                            "file":  "Chapter_03_PDFTrack_039.mp3",
+                                            "label":  "PDF audio track 39"
+                                        },
+                                        {
+                                            "pdfTrackNo":  40,
+                                            "file":  "Chapter_03_PDFTrack_040.mp3",
+                                            "label":  "PDF audio track 40"
+                                        },
+                                        {
+                                            "pdfTrackNo":  41,
+                                            "file":  "Chapter_03_PDFTrack_041.mp3",
+                                            "label":  "PDF audio track 41"
+                                        },
+                                        {
+                                            "pdfTrackNo":  42,
+                                            "file":  "Chapter_03_PDFTrack_042.mp3",
+                                            "label":  "PDF audio track 42"
+                                        }
+                                    ]
+                     },
+                     {
+                         "chapterNo":  4,
+                         "assetName":  "audio_chapter_04.zip",
+                         "downloadUrl":  "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/audio_chapter_04.zip",
+                         "sizeBytes":  1615889,
+                         "sha256":  "a45205fbc58e5e0883249e2274503b013d5e8636b45e0620e3d9f436ce85b713",
+                         "tracks":  [
+                                        {
+                                            "pdfTrackNo":  43,
+                                            "file":  "Chapter_04_PDFTrack_043.mp3",
+                                            "label":  "PDF audio track 43"
+                                        },
+                                        {
+                                            "pdfTrackNo":  44,
+                                            "file":  "Chapter_04_PDFTrack_044.mp3",
+                                            "label":  "PDF audio track 44"
+                                        },
+                                        {
+                                            "pdfTrackNo":  45,
+                                            "file":  "Chapter_04_PDFTrack_045.mp3",
+                                            "label":  "PDF audio track 45"
+                                        },
+                                        {
+                                            "pdfTrackNo":  46,
+                                            "file":  "Chapter_04_PDFTrack_046.mp3",
+                                            "label":  "PDF audio track 46"
+                                        },
+                                        {
+                                            "pdfTrackNo":  47,
+                                            "file":  "Chapter_04_PDFTrack_047.mp3",
+                                            "label":  "PDF audio track 47"
+                                        }
+                                    ]
+                     },
+                     {
+                         "chapterNo":  5,
+                         "assetName":  "audio_chapter_05.zip",
+                         "downloadUrl":  "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/audio_chapter_05.zip",
+                         "sizeBytes":  1750357,
+                         "sha256":  "a150188a6e6aac944dd83d013a760752617f999c4b20c54b9f940152d6126b70",
+                         "tracks":  [
+                                        {
+                                            "pdfTrackNo":  48,
+                                            "file":  "Chapter_05_PDFTrack_048.mp3",
+                                            "label":  "PDF audio track 48"
+                                        },
+                                        {
+                                            "pdfTrackNo":  49,
+                                            "file":  "Chapter_05_PDFTrack_049.mp3",
+                                            "label":  "PDF audio track 49"
+                                        },
+                                        {
+                                            "pdfTrackNo":  50,
+                                            "file":  "Chapter_05_PDFTrack_050.mp3",
+                                            "label":  "PDF audio track 50"
+                                        },
+                                        {
+                                            "pdfTrackNo":  51,
+                                            "file":  "Chapter_05_PDFTrack_051.mp3",
+                                            "label":  "PDF audio track 51"
+                                        },
+                                        {
+                                            "pdfTrackNo":  52,
+                                            "file":  "Chapter_05_PDFTrack_052.mp3",
+                                            "label":  "PDF audio track 52"
+                                        }
+                                    ]
+                     },
+                     {
+                         "chapterNo":  6,
+                         "assetName":  "audio_chapter_06.zip",
+                         "downloadUrl":  "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/audio_chapter_06.zip",
+                         "sizeBytes":  1741458,
+                         "sha256":  "224992c387996b1df16410dc9c218833beaafe1efa139584ff3f44e524f3637c",
+                         "tracks":  [
+                                        {
+                                            "pdfTrackNo":  53,
+                                            "file":  "Chapter_06_PDFTrack_053.mp3",
+                                            "label":  "PDF audio track 53"
+                                        },
+                                        {
+                                            "pdfTrackNo":  54,
+                                            "file":  "Chapter_06_PDFTrack_054.mp3",
+                                            "label":  "PDF audio track 54"
+                                        },
+                                        {
+                                            "pdfTrackNo":  55,
+                                            "file":  "Chapter_06_PDFTrack_055.mp3",
+                                            "label":  "PDF audio track 55"
+                                        },
+                                        {
+                                            "pdfTrackNo":  56,
+                                            "file":  "Chapter_06_PDFTrack_056.mp3",
+                                            "label":  "PDF audio track 56"
+                                        },
+                                        {
+                                            "pdfTrackNo":  57,
+                                            "file":  "Chapter_06_PDFTrack_057.mp3",
+                                            "label":  "PDF audio track 57"
+                                        }
+                                    ]
+                     },
+                     {
+                         "chapterNo":  7,
+                         "assetName":  "audio_chapter_07.zip",
+                         "downloadUrl":  "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/audio_chapter_07.zip",
+                         "sizeBytes":  2236924,
+                         "sha256":  "620df4f3faf23d6cca066ca0b71c85887ec75cc0f5b9025716cfd71710a25f1d",
+                         "tracks":  [
+                                        {
+                                            "pdfTrackNo":  58,
+                                            "file":  "Chapter_07_PDFTrack_058.mp3",
+                                            "label":  "PDF audio track 58"
+                                        },
+                                        {
+                                            "pdfTrackNo":  59,
+                                            "file":  "Chapter_07_PDFTrack_059.mp3",
+                                            "label":  "PDF audio track 59"
+                                        },
+                                        {
+                                            "pdfTrackNo":  60,
+                                            "file":  "Chapter_07_PDFTrack_060.mp3",
+                                            "label":  "PDF audio track 60"
+                                        },
+                                        {
+                                            "pdfTrackNo":  61,
+                                            "file":  "Chapter_07_PDFTrack_061.mp3",
+                                            "label":  "PDF audio track 61"
+                                        },
+                                        {
+                                            "pdfTrackNo":  62,
+                                            "file":  "Chapter_07_PDFTrack_062.mp3",
+                                            "label":  "PDF audio track 62"
+                                        }
+                                    ]
+                     },
+                     {
+                         "chapterNo":  8,
+                         "assetName":  "audio_chapter_08.zip",
+                         "downloadUrl":  "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/audio_chapter_08.zip",
+                         "sizeBytes":  2417264,
+                         "sha256":  "198fadd4d315fbf5403a8c3809f3cb0d0cedb3be10f5f0106eb9ec95235508dc",
+                         "tracks":  [
+                                        {
+                                            "pdfTrackNo":  63,
+                                            "file":  "Chapter_08_PDFTrack_063.mp3",
+                                            "label":  "PDF audio track 63"
+                                        },
+                                        {
+                                            "pdfTrackNo":  64,
+                                            "file":  "Chapter_08_PDFTrack_064.mp3",
+                                            "label":  "PDF audio track 64"
+                                        },
+                                        {
+                                            "pdfTrackNo":  65,
+                                            "file":  "Chapter_08_PDFTrack_065.mp3",
+                                            "label":  "PDF audio track 65"
+                                        },
+                                        {
+                                            "pdfTrackNo":  66,
+                                            "file":  "Chapter_08_PDFTrack_066.mp3",
+                                            "label":  "PDF audio track 66"
+                                        },
+                                        {
+                                            "pdfTrackNo":  67,
+                                            "file":  "Chapter_08_PDFTrack_067.mp3",
+                                            "label":  "PDF audio track 67"
+                                        }
+                                    ]
+                     },
+                     {
+                         "chapterNo":  9,
+                         "assetName":  "audio_chapter_09.zip",
+                         "downloadUrl":  "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/audio_chapter_09.zip",
+                         "sizeBytes":  1711151,
+                         "sha256":  "c22ddcb6011506f4570d0c70cb48a1881a2ae8a748b226a37698d3d603d9abcb",
+                         "tracks":  [
+                                        {
+                                            "pdfTrackNo":  68,
+                                            "file":  "Chapter_09_PDFTrack_068.mp3",
+                                            "label":  "PDF audio track 68"
+                                        },
+                                        {
+                                            "pdfTrackNo":  69,
+                                            "file":  "Chapter_09_PDFTrack_069.mp3",
+                                            "label":  "PDF audio track 69"
+                                        },
+                                        {
+                                            "pdfTrackNo":  70,
+                                            "file":  "Chapter_09_PDFTrack_070.mp3",
+                                            "label":  "PDF audio track 70"
+                                        },
+                                        {
+                                            "pdfTrackNo":  71,
+                                            "file":  "Chapter_09_PDFTrack_071.mp3",
+                                            "label":  "PDF audio track 71"
+                                        },
+                                        {
+                                            "pdfTrackNo":  72,
+                                            "file":  "Chapter_09_PDFTrack_072.mp3",
+                                            "label":  "PDF audio track 72"
+                                        }
+                                    ]
+                     },
+                     {
+                         "chapterNo":  10,
+                         "assetName":  "audio_chapter_10.zip",
+                         "downloadUrl":  "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/audio_chapter_10.zip",
+                         "sizeBytes":  1838186,
+                         "sha256":  "608efbcef2863894af0164f0975706a292ebe953908eae99c2013595f7bef0f2",
+                         "tracks":  [
+                                        {
+                                            "pdfTrackNo":  73,
+                                            "file":  "Chapter_10_PDFTrack_073.mp3",
+                                            "label":  "PDF audio track 73"
+                                        },
+                                        {
+                                            "pdfTrackNo":  74,
+                                            "file":  "Chapter_10_PDFTrack_074.mp3",
+                                            "label":  "PDF audio track 74"
+                                        },
+                                        {
+                                            "pdfTrackNo":  75,
+                                            "file":  "Chapter_10_PDFTrack_075.mp3",
+                                            "label":  "PDF audio track 75"
+                                        },
+                                        {
+                                            "pdfTrackNo":  76,
+                                            "file":  "Chapter_10_PDFTrack_076.mp3",
+                                            "label":  "PDF audio track 76"
+                                        },
+                                        {
+                                            "pdfTrackNo":  77,
+                                            "file":  "Chapter_10_PDFTrack_077.mp3",
+                                            "label":  "PDF audio track 77"
+                                        }
+                                    ]
+                     },
+                     {
+                         "chapterNo":  11,
+                         "assetName":  "audio_chapter_11.zip",
+                         "downloadUrl":  "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/audio_chapter_11.zip",
+                         "sizeBytes":  2548110,
+                         "sha256":  "7cb93a6b3508b0796cd4facacc5f7de751ceb94659c52ab686e5e3d221e6b8b9",
+                         "tracks":  [
+                                        {
+                                            "pdfTrackNo":  78,
+                                            "file":  "Chapter_11_PDFTrack_078.mp3",
+                                            "label":  "PDF audio track 78"
+                                        },
+                                        {
+                                            "pdfTrackNo":  79,
+                                            "file":  "Chapter_11_PDFTrack_079.mp3",
+                                            "label":  "PDF audio track 79"
+                                        },
+                                        {
+                                            "pdfTrackNo":  80,
+                                            "file":  "Chapter_11_PDFTrack_080.mp3",
+                                            "label":  "PDF audio track 80"
+                                        },
+                                        {
+                                            "pdfTrackNo":  81,
+                                            "file":  "Chapter_11_PDFTrack_081.mp3",
+                                            "label":  "PDF audio track 81"
+                                        },
+                                        {
+                                            "pdfTrackNo":  82,
+                                            "file":  "Chapter_11_PDFTrack_082.mp3",
+                                            "label":  "PDF audio track 82"
+                                        }
+                                    ]
+                     },
+                     {
+                         "chapterNo":  12,
+                         "assetName":  "audio_chapter_12.zip",
+                         "downloadUrl":  "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/audio_chapter_12.zip",
+                         "sizeBytes":  2804826,
+                         "sha256":  "3534fcdc974d8df2bed5372679a8be19a7fddef64d53fb3066cfd48dc53f2929",
+                         "tracks":  [
+                                        {
+                                            "pdfTrackNo":  83,
+                                            "file":  "Chapter_12_PDFTrack_083.mp3",
+                                            "label":  "PDF audio track 83"
+                                        },
+                                        {
+                                            "pdfTrackNo":  84,
+                                            "file":  "Chapter_12_PDFTrack_084.mp3",
+                                            "label":  "PDF audio track 84"
+                                        },
+                                        {
+                                            "pdfTrackNo":  85,
+                                            "file":  "Chapter_12_PDFTrack_085.mp3",
+                                            "label":  "PDF audio track 85"
+                                        },
+                                        {
+                                            "pdfTrackNo":  86,
+                                            "file":  "Chapter_12_PDFTrack_086.mp3",
+                                            "label":  "PDF audio track 86"
+                                        },
+                                        {
+                                            "pdfTrackNo":  87,
+                                            "file":  "Chapter_12_PDFTrack_087.mp3",
+                                            "label":  "PDF audio track 87"
+                                        }
+                                    ]
+                     },
+                     {
+                         "chapterNo":  13,
+                         "assetName":  "audio_chapter_13.zip",
+                         "downloadUrl":  "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/audio_chapter_13.zip",
+                         "sizeBytes":  2269275,
+                         "sha256":  "e2fbdc7955d277c621a35a074d32842fc68bf356dfb5879555ac4bd638e7fbd3",
+                         "tracks":  [
+                                        {
+                                            "pdfTrackNo":  88,
+                                            "file":  "Chapter_13_PDFTrack_088.mp3",
+                                            "label":  "PDF audio track 88"
+                                        },
+                                        {
+                                            "pdfTrackNo":  89,
+                                            "file":  "Chapter_13_PDFTrack_089.mp3",
+                                            "label":  "PDF audio track 89"
+                                        },
+                                        {
+                                            "pdfTrackNo":  90,
+                                            "file":  "Chapter_13_PDFTrack_090.mp3",
+                                            "label":  "PDF audio track 90"
+                                        },
+                                        {
+                                            "pdfTrackNo":  91,
+                                            "file":  "Chapter_13_PDFTrack_091.mp3",
+                                            "label":  "PDF audio track 91"
+                                        },
+                                        {
+                                            "pdfTrackNo":  92,
+                                            "file":  "Chapter_13_PDFTrack_092.mp3",
+                                            "label":  "PDF audio track 92"
+                                        }
+                                    ]
+                     },
+                     {
+                         "chapterNo":  14,
+                         "assetName":  "audio_chapter_14.zip",
+                         "downloadUrl":  "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/audio_chapter_14.zip",
+                         "sizeBytes":  1958680,
+                         "sha256":  "eac4f3afe79d9da3795de2e739149bd2a33d73ea839f7f7db1d00d0845c87672",
+                         "tracks":  [
+                                        {
+                                            "pdfTrackNo":  93,
+                                            "file":  "Chapter_14_PDFTrack_093.mp3",
+                                            "label":  "PDF audio track 93"
+                                        },
+                                        {
+                                            "pdfTrackNo":  94,
+                                            "file":  "Chapter_14_PDFTrack_094.mp3",
+                                            "label":  "PDF audio track 94"
+                                        },
+                                        {
+                                            "pdfTrackNo":  95,
+                                            "file":  "Chapter_14_PDFTrack_095.mp3",
+                                            "label":  "PDF audio track 95"
+                                        },
+                                        {
+                                            "pdfTrackNo":  96,
+                                            "file":  "Chapter_14_PDFTrack_096.mp3",
+                                            "label":  "PDF audio track 96"
+                                        },
+                                        {
+                                            "pdfTrackNo":  97,
+                                            "file":  "Chapter_14_PDFTrack_097.mp3",
+                                            "label":  "PDF audio track 97"
+                                        }
+                                    ]
+                     },
+                     {
+                         "chapterNo":  15,
+                         "assetName":  "audio_chapter_15.zip",
+                         "downloadUrl":  "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/audio_chapter_15.zip",
+                         "sizeBytes":  2397323,
+                         "sha256":  "31fa8460bb9b6adb53f0d45461439718f871db753cb3c52753377dd667ff30e7",
+                         "tracks":  [
+                                        {
+                                            "pdfTrackNo":  98,
+                                            "file":  "Chapter_15_PDFTrack_098.mp3",
+                                            "label":  "PDF audio track 98"
+                                        },
+                                        {
+                                            "pdfTrackNo":  99,
+                                            "file":  "Chapter_15_PDFTrack_099.mp3",
+                                            "label":  "PDF audio track 99"
+                                        },
+                                        {
+                                            "pdfTrackNo":  100,
+                                            "file":  "Chapter_15_PDFTrack_100.mp3",
+                                            "label":  "PDF audio track 100"
+                                        },
+                                        {
+                                            "pdfTrackNo":  101,
+                                            "file":  "Chapter_15_PDFTrack_101.mp3",
+                                            "label":  "PDF audio track 101"
+                                        },
+                                        {
+                                            "pdfTrackNo":  102,
+                                            "file":  "Chapter_15_PDFTrack_102.mp3",
+                                            "label":  "PDF audio track 102"
+                                        }
+                                    ]
+                     },
+                     {
+                         "chapterNo":  16,
+                         "assetName":  "audio_chapter_16.zip",
+                         "downloadUrl":  "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/audio_chapter_16.zip",
+                         "sizeBytes":  2646721,
+                         "sha256":  "b9fdf268f799aec880d25bfc24b1d39fc19ff31be07e99a6f6a203fc242e3d90",
+                         "tracks":  [
+                                        {
+                                            "pdfTrackNo":  103,
+                                            "file":  "Chapter_16_PDFTrack_103.mp3",
+                                            "label":  "PDF audio track 103"
+                                        },
+                                        {
+                                            "pdfTrackNo":  104,
+                                            "file":  "Chapter_16_PDFTrack_104.mp3",
+                                            "label":  "PDF audio track 104"
+                                        },
+                                        {
+                                            "pdfTrackNo":  105,
+                                            "file":  "Chapter_16_PDFTrack_105.mp3",
+                                            "label":  "PDF audio track 105"
+                                        },
+                                        {
+                                            "pdfTrackNo":  106,
+                                            "file":  "Chapter_16_PDFTrack_106.mp3",
+                                            "label":  "PDF audio track 106"
+                                        },
+                                        {
+                                            "pdfTrackNo":  107,
+                                            "file":  "Chapter_16_PDFTrack_107.mp3",
+                                            "label":  "PDF audio track 107"
+                                        }
+                                    ]
+                     },
+                     {
+                         "chapterNo":  17,
+                         "assetName":  "audio_chapter_17.zip",
+                         "downloadUrl":  "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/audio_chapter_17.zip",
+                         "sizeBytes":  2464968,
+                         "sha256":  "77c743a59c5c495739d89370291294c7ec4e7b6152025de95475283c59a32878",
+                         "tracks":  [
+                                        {
+                                            "pdfTrackNo":  108,
+                                            "file":  "Chapter_17_PDFTrack_108.mp3",
+                                            "label":  "PDF audio track 108"
+                                        },
+                                        {
+                                            "pdfTrackNo":  109,
+                                            "file":  "Chapter_17_PDFTrack_109.mp3",
+                                            "label":  "PDF audio track 109"
+                                        },
+                                        {
+                                            "pdfTrackNo":  110,
+                                            "file":  "Chapter_17_PDFTrack_110.mp3",
+                                            "label":  "PDF audio track 110"
+                                        },
+                                        {
+                                            "pdfTrackNo":  111,
+                                            "file":  "Chapter_17_PDFTrack_111.mp3",
+                                            "label":  "PDF audio track 111"
+                                        },
+                                        {
+                                            "pdfTrackNo":  112,
+                                            "file":  "Chapter_17_PDFTrack_112.mp3",
+                                            "label":  "PDF audio track 112"
+                                        }
+                                    ]
+                     },
+                     {
+                         "chapterNo":  18,
+                         "assetName":  "audio_chapter_18.zip",
+                         "downloadUrl":  "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/audio_chapter_18.zip",
+                         "sizeBytes":  2629122,
+                         "sha256":  "55da9b1ec71417c64425ca012aaf822f5d8224de9255a839463933ba3a66cf09",
+                         "tracks":  [
+                                        {
+                                            "pdfTrackNo":  113,
+                                            "file":  "Chapter_18_PDFTrack_113.mp3",
+                                            "label":  "PDF audio track 113"
+                                        },
+                                        {
+                                            "pdfTrackNo":  114,
+                                            "file":  "Chapter_18_PDFTrack_114.mp3",
+                                            "label":  "PDF audio track 114"
+                                        },
+                                        {
+                                            "pdfTrackNo":  115,
+                                            "file":  "Chapter_18_PDFTrack_115.mp3",
+                                            "label":  "PDF audio track 115"
+                                        },
+                                        {
+                                            "pdfTrackNo":  116,
+                                            "file":  "Chapter_18_PDFTrack_116.mp3",
+                                            "label":  "PDF audio track 116"
+                                        },
+                                        {
+                                            "pdfTrackNo":  117,
+                                            "file":  "Chapter_18_PDFTrack_117.mp3",
+                                            "label":  "PDF audio track 117"
+                                        }
+                                    ]
+                     },
+                     {
+                         "chapterNo":  19,
+                         "assetName":  "audio_chapter_19.zip",
+                         "downloadUrl":  "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/audio_chapter_19.zip",
+                         "sizeBytes":  2531458,
+                         "sha256":  "7707ab9149a096c0a33eed20f55e802f6babd42c24e654c1936bbf500cc58947",
+                         "tracks":  [
+                                        {
+                                            "pdfTrackNo":  118,
+                                            "file":  "Chapter_19_PDFTrack_118.mp3",
+                                            "label":  "PDF audio track 118"
+                                        },
+                                        {
+                                            "pdfTrackNo":  119,
+                                            "file":  "Chapter_19_PDFTrack_119.mp3",
+                                            "label":  "PDF audio track 119"
+                                        },
+                                        {
+                                            "pdfTrackNo":  120,
+                                            "file":  "Chapter_19_PDFTrack_120.mp3",
+                                            "label":  "PDF audio track 120"
+                                        },
+                                        {
+                                            "pdfTrackNo":  121,
+                                            "file":  "Chapter_19_PDFTrack_121.mp3",
+                                            "label":  "PDF audio track 121"
+                                        },
+                                        {
+                                            "pdfTrackNo":  122,
+                                            "file":  "Chapter_19_PDFTrack_122.mp3",
+                                            "label":  "PDF audio track 122"
+                                        }
+                                    ]
+                     },
+                     {
+                         "chapterNo":  20,
+                         "assetName":  "audio_chapter_20.zip",
+                         "downloadUrl":  "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/audio_chapter_20.zip",
+                         "sizeBytes":  2360457,
+                         "sha256":  "f11c523da2d8f2056ea5e04313149a87358e28ab5e86d50de9dda3104efeb082",
+                         "tracks":  [
+                                        {
+                                            "pdfTrackNo":  123,
+                                            "file":  "Chapter_20_PDFTrack_123.mp3",
+                                            "label":  "PDF audio track 123"
+                                        },
+                                        {
+                                            "pdfTrackNo":  124,
+                                            "file":  "Chapter_20_PDFTrack_124.mp3",
+                                            "label":  "PDF audio track 124"
+                                        },
+                                        {
+                                            "pdfTrackNo":  125,
+                                            "file":  "Chapter_20_PDFTrack_125.mp3",
+                                            "label":  "PDF audio track 125"
+                                        },
+                                        {
+                                            "pdfTrackNo":  126,
+                                            "file":  "Chapter_20_PDFTrack_126.mp3",
+                                            "label":  "PDF audio track 126"
+                                        },
+                                        {
+                                            "pdfTrackNo":  127,
+                                            "file":  "Chapter_20_PDFTrack_127.mp3",
+                                            "label":  "PDF audio track 127"
+                                        }
+                                    ]
+                     },
+                     {
+                         "chapterNo":  21,
+                         "assetName":  "audio_chapter_21.zip",
+                         "downloadUrl":  "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/audio_chapter_21.zip",
+                         "sizeBytes":  2334954,
+                         "sha256":  "1e637d13270ae6ca277358a22436e24968944d7b58205aaf897d4bc421bd0bd9",
+                         "tracks":  [
+                                        {
+                                            "pdfTrackNo":  128,
+                                            "file":  "Chapter_21_PDFTrack_128.mp3",
+                                            "label":  "PDF audio track 128"
+                                        },
+                                        {
+                                            "pdfTrackNo":  129,
+                                            "file":  "Chapter_21_PDFTrack_129.mp3",
+                                            "label":  "PDF audio track 129"
+                                        },
+                                        {
+                                            "pdfTrackNo":  130,
+                                            "file":  "Chapter_21_PDFTrack_130.mp3",
+                                            "label":  "PDF audio track 130"
+                                        },
+                                        {
+                                            "pdfTrackNo":  131,
+                                            "file":  "Chapter_21_PDFTrack_131.mp3",
+                                            "label":  "PDF audio track 131"
+                                        },
+                                        {
+                                            "pdfTrackNo":  132,
+                                            "file":  "Chapter_21_PDFTrack_132.mp3",
+                                            "label":  "PDF audio track 132"
+                                        }
+                                    ]
+                     },
+                     {
+                         "chapterNo":  22,
+                         "assetName":  "audio_chapter_22.zip",
+                         "downloadUrl":  "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/audio_chapter_22.zip",
+                         "sizeBytes":  2433882,
+                         "sha256":  "bdb890c71bc47f51751a386aa1c65e48c5dd2bb43b8e9df39ea0ae76964b84c5",
+                         "tracks":  [
+                                        {
+                                            "pdfTrackNo":  133,
+                                            "file":  "Chapter_22_PDFTrack_133.mp3",
+                                            "label":  "PDF audio track 133"
+                                        },
+                                        {
+                                            "pdfTrackNo":  134,
+                                            "file":  "Chapter_22_PDFTrack_134.mp3",
+                                            "label":  "PDF audio track 134"
+                                        },
+                                        {
+                                            "pdfTrackNo":  135,
+                                            "file":  "Chapter_22_PDFTrack_135.mp3",
+                                            "label":  "PDF audio track 135"
+                                        },
+                                        {
+                                            "pdfTrackNo":  136,
+                                            "file":  "Chapter_22_PDFTrack_136.mp3",
+                                            "label":  "PDF audio track 136"
+                                        },
+                                        {
+                                            "pdfTrackNo":  137,
+                                            "file":  "Chapter_22_PDFTrack_137.mp3",
+                                            "label":  "PDF audio track 137"
+                                        }
+                                    ]
+                     },
+                     {
+                         "chapterNo":  23,
+                         "assetName":  "audio_chapter_23.zip",
+                         "downloadUrl":  "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/audio_chapter_23.zip",
+                         "sizeBytes":  2525784,
+                         "sha256":  "38cb0abc0304ee27753a8e9564110e3aa91071af06fcf3b6dee925eadc0d320f",
+                         "tracks":  [
+                                        {
+                                            "pdfTrackNo":  138,
+                                            "file":  "Chapter_23_PDFTrack_138.mp3",
+                                            "label":  "PDF audio track 138"
+                                        },
+                                        {
+                                            "pdfTrackNo":  139,
+                                            "file":  "Chapter_23_PDFTrack_139.mp3",
+                                            "label":  "PDF audio track 139"
+                                        },
+                                        {
+                                            "pdfTrackNo":  140,
+                                            "file":  "Chapter_23_PDFTrack_140.mp3",
+                                            "label":  "PDF audio track 140"
+                                        },
+                                        {
+                                            "pdfTrackNo":  141,
+                                            "file":  "Chapter_23_PDFTrack_141.mp3",
+                                            "label":  "PDF audio track 141"
+                                        },
+                                        {
+                                            "pdfTrackNo":  142,
+                                            "file":  "Chapter_23_PDFTrack_142.mp3",
+                                            "label":  "PDF audio track 142"
+                                        }
+                                    ]
+                     },
+                     {
+                         "chapterNo":  24,
+                         "assetName":  "audio_chapter_24.zip",
+                         "downloadUrl":  "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/audio_chapter_24.zip",
+                         "sizeBytes":  2668704,
+                         "sha256":  "f024b224d3b62871d2ff2abe901125a1b7e93883cd20cc4d509e0d7144d12b32",
+                         "tracks":  [
+                                        {
+                                            "pdfTrackNo":  143,
+                                            "file":  "Chapter_24_PDFTrack_143.mp3",
+                                            "label":  "PDF audio track 143"
+                                        },
+                                        {
+                                            "pdfTrackNo":  144,
+                                            "file":  "Chapter_24_PDFTrack_144.mp3",
+                                            "label":  "PDF audio track 144"
+                                        },
+                                        {
+                                            "pdfTrackNo":  145,
+                                            "file":  "Chapter_24_PDFTrack_145.mp3",
+                                            "label":  "PDF audio track 145"
+                                        },
+                                        {
+                                            "pdfTrackNo":  146,
+                                            "file":  "Chapter_24_PDFTrack_146.mp3",
+                                            "label":  "PDF audio track 146"
+                                        },
+                                        {
+                                            "pdfTrackNo":  147,
+                                            "file":  "Chapter_24_PDFTrack_147.mp3",
+                                            "label":  "PDF audio track 147"
+                                        }
+                                    ]
+                     },
+                     {
+                         "chapterNo":  25,
+                         "assetName":  "audio_chapter_25.zip",
+                         "downloadUrl":  "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/audio_chapter_25.zip",
+                         "sizeBytes":  2594183,
+                         "sha256":  "10e545141f6de02da5ee440a070728f6ee74e7b8e443055c9de572ebe81950d9",
+                         "tracks":  [
+                                        {
+                                            "pdfTrackNo":  148,
+                                            "file":  "Chapter_25_PDFTrack_148.mp3",
+                                            "label":  "PDF audio track 148"
+                                        },
+                                        {
+                                            "pdfTrackNo":  149,
+                                            "file":  "Chapter_25_PDFTrack_149.mp3",
+                                            "label":  "PDF audio track 149"
+                                        },
+                                        {
+                                            "pdfTrackNo":  150,
+                                            "file":  "Chapter_25_PDFTrack_150.mp3",
+                                            "label":  "PDF audio track 150"
+                                        },
+                                        {
+                                            "pdfTrackNo":  151,
+                                            "file":  "Chapter_25_PDFTrack_151.mp3",
+                                            "label":  "PDF audio track 151"
+                                        },
+                                        {
+                                            "pdfTrackNo":  152,
+                                            "file":  "Chapter_25_PDFTrack_152.mp3",
+                                            "label":  "PDF audio track 152"
+                                        }
+                                    ]
+                     },
+                     {
+                         "chapterNo":  26,
+                         "assetName":  "audio_chapter_26.zip",
+                         "downloadUrl":  "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/audio_chapter_26.zip",
+                         "sizeBytes":  3279056,
+                         "sha256":  "2b874d8e95ad9a46b186ad2642adeca385854241ea472c2b1257835d3cabb85d",
+                         "tracks":  [
+                                        {
+                                            "pdfTrackNo":  153,
+                                            "file":  "Chapter_26_PDFTrack_153.mp3",
+                                            "label":  "PDF audio track 153"
+                                        },
+                                        {
+                                            "pdfTrackNo":  154,
+                                            "file":  "Chapter_26_PDFTrack_154.mp3",
+                                            "label":  "PDF audio track 154"
+                                        },
+                                        {
+                                            "pdfTrackNo":  155,
+                                            "file":  "Chapter_26_PDFTrack_155.mp3",
+                                            "label":  "PDF audio track 155"
+                                        },
+                                        {
+                                            "pdfTrackNo":  156,
+                                            "file":  "Chapter_26_PDFTrack_156.mp3",
+                                            "label":  "PDF audio track 156"
+                                        },
+                                        {
+                                            "pdfTrackNo":  157,
+                                            "file":  "Chapter_26_PDFTrack_157.mp3",
+                                            "label":  "PDF audio track 157"
+                                        }
+                                    ]
+                     },
+                     {
+                         "chapterNo":  27,
+                         "assetName":  "audio_chapter_27.zip",
+                         "downloadUrl":  "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/audio_chapter_27.zip",
+                         "sizeBytes":  3280373,
+                         "sha256":  "c2f330c513d95b5d445d014adfb4b2b6c3b8648622feade9f4f91034c191decf",
+                         "tracks":  [
+                                        {
+                                            "pdfTrackNo":  158,
+                                            "file":  "Chapter_27_PDFTrack_158.mp3",
+                                            "label":  "PDF audio track 158"
+                                        },
+                                        {
+                                            "pdfTrackNo":  159,
+                                            "file":  "Chapter_27_PDFTrack_159.mp3",
+                                            "label":  "PDF audio track 159"
+                                        },
+                                        {
+                                            "pdfTrackNo":  160,
+                                            "file":  "Chapter_27_PDFTrack_160.mp3",
+                                            "label":  "PDF audio track 160"
+                                        },
+                                        {
+                                            "pdfTrackNo":  161,
+                                            "file":  "Chapter_27_PDFTrack_161.mp3",
+                                            "label":  "PDF audio track 161"
+                                        },
+                                        {
+                                            "pdfTrackNo":  162,
+                                            "file":  "Chapter_27_PDFTrack_162.mp3",
+                                            "label":  "PDF audio track 162"
+                                        }
+                                    ]
+                     },
+                     {
+                         "chapterNo":  28,
+                         "assetName":  "audio_chapter_28.zip",
+                         "downloadUrl":  "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/audio_chapter_28.zip",
+                         "sizeBytes":  2863617,
+                         "sha256":  "05dfca78a2759213123dc23f6504e4123f3f3c3343f0931e87d4ce3f400ec6b6",
+                         "tracks":  [
+                                        {
+                                            "pdfTrackNo":  163,
+                                            "file":  "Chapter_28_PDFTrack_163.mp3",
+                                            "label":  "PDF audio track 163"
+                                        },
+                                        {
+                                            "pdfTrackNo":  164,
+                                            "file":  "Chapter_28_PDFTrack_164.mp3",
+                                            "label":  "PDF audio track 164"
+                                        },
+                                        {
+                                            "pdfTrackNo":  165,
+                                            "file":  "Chapter_28_PDFTrack_165.mp3",
+                                            "label":  "PDF audio track 165"
+                                        },
+                                        {
+                                            "pdfTrackNo":  166,
+                                            "file":  "Chapter_28_PDFTrack_166.mp3",
+                                            "label":  "PDF audio track 166"
+                                        },
+                                        {
+                                            "pdfTrackNo":  167,
+                                            "file":  "Chapter_28_PDFTrack_167.mp3",
+                                            "label":  "PDF audio track 167"
+                                        }
+                                    ]
+                     },
+                     {
+                         "chapterNo":  29,
+                         "assetName":  "audio_chapter_29.zip",
+                         "downloadUrl":  "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/audio_chapter_29.zip",
+                         "sizeBytes":  3280578,
+                         "sha256":  "99a86cb7938681c639a1e5b79e9261ed33a6ec2399c51dc8225ee076ed4a2f67",
+                         "tracks":  [
+                                        {
+                                            "pdfTrackNo":  168,
+                                            "file":  "Chapter_29_PDFTrack_168.mp3",
+                                            "label":  "PDF audio track 168"
+                                        },
+                                        {
+                                            "pdfTrackNo":  169,
+                                            "file":  "Chapter_29_PDFTrack_169.mp3",
+                                            "label":  "PDF audio track 169"
+                                        },
+                                        {
+                                            "pdfTrackNo":  170,
+                                            "file":  "Chapter_29_PDFTrack_170.mp3",
+                                            "label":  "PDF audio track 170"
+                                        },
+                                        {
+                                            "pdfTrackNo":  171,
+                                            "file":  "Chapter_29_PDFTrack_171.mp3",
+                                            "label":  "PDF audio track 171"
+                                        },
+                                        {
+                                            "pdfTrackNo":  172,
+                                            "file":  "Chapter_29_PDFTrack_172.mp3",
+                                            "label":  "PDF audio track 172"
+                                        }
+                                    ]
+                     },
+                     {
+                         "chapterNo":  30,
+                         "assetName":  "audio_chapter_30.zip",
+                         "downloadUrl":  "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/audio_chapter_30.zip",
+                         "sizeBytes":  3001046,
+                         "sha256":  "a343e3ab0e7a2bb99039ad1503b5eb155ccd0278f90bd0856a61e06d6e27856c",
+                         "tracks":  [
+                                        {
+                                            "pdfTrackNo":  173,
+                                            "file":  "Chapter_30_PDFTrack_173.mp3",
+                                            "label":  "PDF audio track 173"
+                                        },
+                                        {
+                                            "pdfTrackNo":  174,
+                                            "file":  "Chapter_30_PDFTrack_174.mp3",
+                                            "label":  "PDF audio track 174"
+                                        },
+                                        {
+                                            "pdfTrackNo":  175,
+                                            "file":  "Chapter_30_PDFTrack_175.mp3",
+                                            "label":  "PDF audio track 175"
+                                        },
+                                        {
+                                            "pdfTrackNo":  176,
+                                            "file":  "Chapter_30_PDFTrack_176.mp3",
+                                            "label":  "PDF audio track 176"
+                                        },
+                                        {
+                                            "pdfTrackNo":  177,
+                                            "file":  "Chapter_30_PDFTrack_177.mp3",
+                                            "label":  "PDF audio track 177"
+                                        }
+                                    ]
+                     }
+                 ]
+}
