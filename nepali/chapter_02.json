@@ -1,0 +1,284 @@
+{
+  "version": 2,
+  "chapterNo": 2,
+  "titleKo": "생활용품",
+  "titleEn": "Daily Necessities",
+  "titleNp": "दैनिक आवश्यकताका वस्तुहरू",
+  "learningObjectives": [
+    {
+      "id": "ch02_obj_01",
+      "korean": "물건의 이름을 묻고 대답할 수 있다.",
+      "english": "Can ask and answer the names of objects.",
+      "nepali": "वस्तुहरूको नाम सोध्न र उत्तर दिन सक्नुहुनेछ।"
+    },
+    {
+      "id": "ch02_obj_02",
+      "korean": "지시어로 묻고 대답할 수 있다.",
+      "english": "Can ask and answer questions using demonstratives.",
+      "nepali": "सङ्केतवाचक शब्दहरू (यो, त्यो) प्रयोग गरी सोध्न र उत्तर दिन सक्नुहुनेछ।"
+    }
+  ],
+  "vocabulary1": {
+    "topicKo": "사무실 물건",
+    "topicEn": "Office Supplies",
+    "topicNp": "कार्यालयका सामानहरू",
+    "words": [
+      { "korean": "이것", "english": "this (thing)", "nepali": "यो (नजिकै भएको वस्तु)" },
+      { "korean": "저것", "english": "that (over there)", "nepali": "त्यो परको (टाढा भएको वस्तु)" },
+      { "korean": "그것", "english": "that (thing)", "nepali": "त्यो (सुन्ने व्यक्ति नजिक भएको वस्तु)" },
+      { "korean": "무엇 / 뭐", "english": "what", "nepali": "के" },
+      { "korean": "연필", "english": "pencil", "nepali": "सिसाकलम / पेन्सिल" },
+      { "korean": "볼펜", "english": "(ballpoint) pen", "nepali": "डटपेन" },
+      { "korean": "가위", "english": "scissors", "nepali": "कैंची" },
+      { "korean": "칼", "english": "boxcutter / knife", "nepali": "कटर / चक्कु" },
+      { "korean": "시계", "english": "clock / watch", "nepali": "घडी" },
+      { "korean": "달력", "english": "calendar", "nepali": "पात्रो (क्यालेन्डर)" },
+      { "korean": "컴퓨터", "english": "computer", "nepali": "कम्प्युटर" },
+      { "korean": "안경", "english": "glasses", "nepali": "चस्मा" },
+      { "korean": "휴대폰 / 휴대전화", "english": "cell phone", "nepali": "मोबाइल फोन" },
+      { "korean": "계산기", "english": "calculator", "nepali": "क्यालकुलेटर" },
+      { "korean": "컵", "english": "cup", "nepali": "कप" }
+    ]
+  },
+  "grammar1": {
+    "point": "이에요 / 예요",
+    "meaningNp": "हो (अनौपचारिक शिष्ट रूप / Informal Polite)",
+    "explanationEn": "Attaches to a noun to mean 'to be' (am/is/are) in informal, polite spoken Korean.",
+    "explanationNp": "‘이에요/예요’ संज्ञासँग जोडिएर अनौपचारिक तर आदरार्थी बोलचालमा 'हो' भन्ने अर्थ दिने विधेय बन्छ। सोध्दा अन्तिम स्वर माथि उचालेर 'हो?' भनी प्रश्न गरिन्छ।",
+    "ruleNp": "अन्तिम अक्षरमा बाच्छिम (व्यञ्जन) भए '이에요' (उदा: 컵이에요), बाच्छिम नभए '예요' (उदा: 시계예요) जोडिन्छ।",
+    "examples": [
+      {
+        "korean": "이건 계산기예요.",
+        "english": "This is a calculator.",
+        "nepali": "यो क्यालकुलेटर हो।"
+      },
+      {
+        "korean": "그건 안경이에요.",
+        "english": "That is glasses.",
+        "nepali": "त्यो चस्मा हो।"
+      },
+      {
+        "korean": "가: 어느 나라 사람이에요? / 나: 베트남 사람이에요.",
+        "english": "Q: Where are you from? / A: I am from Vietnam.",
+        "nepali": "क: कुन देशको व्यक्ति हुनुहुन्छ? / ख: म भियतनामको नागरिक हुँ।"
+      }
+    ]
+  },
+  "dialogue1": {
+    "titleNp": "संवाद १",
+    "lines": [
+      {
+        "speaker": "자하라 (Zahara)",
+        "korean": "유진 씨, 이건 뭐예요?",
+        "english": "Yujin, what is this?",
+        "nepali": "युजिन जी, यो के हो?"
+      },
+      {
+        "speaker": "유진 (Yujin)",
+        "korean": "달력이에요.",
+        "english": "It's a calendar.",
+        "nepali": "पात्रो (क्यालेन्डर) हो।"
+      },
+      {
+        "speaker": "자하라 (Zahara)",
+        "korean": "저건 뭐예요?",
+        "english": "What is that over there?",
+        "nepali": "त्यो परको चाहिँ के हो?"
+      },
+      {
+        "speaker": "유진 (Yujin)",
+        "korean": "아, 저건 시계예요.",
+        "english": "Oh, that’s a clock.",
+        "nepali": "ए, त्यो परको घडी हो।"
+      }
+    ],
+    "grammarTipNp": "छोटकरी रूपहरू: 이것은 → 이건 (यो चाहिँ), 이것이 → 이게 (यो), 저것은 → 저건 (त्यो परको चाहिँ)"
+  },
+  "vocabulary2": {
+    "topicKo": "생활용품 / 일상용품",
+    "topicEn": "Daily Necessities",
+    "topicNp": "दैनिक प्रयोगका सामानहरू",
+    "words": [
+      { "korean": "린스", "english": "conditioner (rinse)", "nepali": "कन्डिसनर (कपालको)" },
+      { "korean": "샴푸", "english": "shampoo", "nepali": "स्याम्पु" },
+      { "korean": "비누", "english": "soap", "nepali": "साबुन" },
+      { "korean": "칫솔", "english": "toothbrush", "nepali": "दाँत माझ्ने ब्रस" },
+      { "korean": "치약", "english": "toothpaste", "nepali": "मञ्जन (टुथपेस्ट)" },
+      { "korean": "수건", "english": "towel", "nepali": "तौलिया" },
+      { "korean": "면도기", "english": "razor", "nepali": "रेजर / दाह्री काट्ने मेसिन" },
+      { "korean": "휴지", "english": "tissue / toilet paper", "nepali": "टिस्यु / ट्वाइलेट पेपर" },
+      { "korean": "여권", "english": "passport", "nepali": "राहदानी (पासपोर्ट)" },
+      { "korean": "우산", "english": "umbrella", "nepali": "छाता" },
+      { "korean": "열쇠", "english": "key", "nepali": "चाबी / साँचो" },
+      { "korean": "지갑", "english": "wallet", "nepali": "पर्स / वालेट" },
+      { "korean": "가방", "english": "bag", "nepali": "झोला" },
+      { "korean": "베개", "english": "pillow", "nepali": "सिरानी" },
+      { "korean": "이불", "english": "blanket / quilt", "nepali": "ओढ्ने कम्बल / सिरक" }
+    ]
+  },
+  "grammar2": {
+    "point": "이/가 아니에요",
+    "meaningNp": "होइन (Negative of 이에요/예요)",
+    "explanationEn": "Combines with a noun to indicate the negation of 'to be' (is not / am not / are not).",
+    "explanationNp": "संज्ञाको पछाडि जोडिएर 'होइन' भन्ने नकारात्मक अर्थ दिन्छ। ‘이에요/예요’ को नकारात्मक रूप हो।",
+    "ruleNp": "बाच्छिम भए '이 아니에요' (उदा: 달력이 아니에요), बाच्छिम नभए '가 아니에요' (उदा: 시계가 아니에요) जोडिन्छ।",
+    "examples": [
+      {
+        "korean": "이건 볼펜이 아니에요. 연필이에요.",
+        "english": "This is not a ballpoint pen. It is a pencil.",
+        "nepali": "यो डटपेन होइन। पेन्सिल हो।"
+      },
+      {
+        "korean": "가: 저건 가방이에요? / 나: 아니요, 가방이 아니에요.",
+        "english": "Q: Is that a bag? / A: No, it is not a bag.",
+        "nepali": "क: त्यो परको झोला हो? / ख: होइन, झोला होइन।"
+      }
+    ]
+  },
+  "dialogue2": {
+    "titleNp": "संवाद २",
+    "lines": [
+      {
+        "speaker": "투안 (Tuan)",
+        "korean": "리한 씨, 이게 뭐예요?",
+        "english": "Rihan, what is this?",
+        "nepali": "रिहान जी, यो के हो?"
+      },
+      {
+        "speaker": "리한 (Rihan)",
+        "korean": "기숙사 열쇠예요.",
+        "english": "It's the dormitory key.",
+        "nepali": "होस्टेल (छात्रावास) को चाबी हो।"
+      },
+      {
+        "speaker": "투안 (Tuan)",
+        "korean": "저건 뭐예요?",
+        "english": "What is that over there?",
+        "nepali": "त्यो परको चाहिँ के हो?"
+      },
+      {
+        "speaker": "리한 (Rihan)",
+        "korean": "가족사진이에요.",
+        "english": "It's a family photo.",
+        "nepali": "पारिवारिक फोटो हो।"
+      }
+    ]
+  },
+  "cultureAndInfo": {
+    "titleKo": "한국에서 알뜰하게 생필품을 구입하는 팁",
+    "titleEn": "Tips for Buying Daily Necessities Cheaply in Korea",
+    "titleNp": "कोरियामा दैनिक आवश्यकताका सामान सस्तोमा किन्ने उपायहरू",
+    "sections": [
+      {
+        "subtitleNp": "१. ठूला सुपरमार्केटहरू (대형 마트)",
+        "contentNp": "ठूला मार्टहरूमा '१+१' (एउटा किन्दा एउटा सित्तैं), '२+१' वा 'सप्ताहन्त विशेष छुट' जस्ता अफरहरू हुन्छन्, जहाँ खाद्यान्नदेखि दैनिक सामान सस्तोमा किन्न सकिन्छ।"
+      },
+      {
+        "subtitleNp": "२. अनलाइन सपिङ मलहरू (온라인 쇼핑몰)",
+        "contentNp": "अनलाइन सपिङ एपहरूमा नियमित छुट र कुपनहरू पाइन्छन्। यसबाट सामानहरू घरमै सस्तो मूल्यमा मगाउन सकिन्छ।"
+      },
+      {
+        "subtitleNp": "३. सेकेन्ड ह्यान्ड किनबेच एप (당근 - Karrot)",
+        "contentNp": "प्रयोग नगरिएका नयाँ वा पुराना घरायसी सामान, फर्निचर, र विद्युतीय सामान छिमेकीहरूसँग प्रत्यक्ष भेटेर एकदमै सस्तोमा किनबेच गर्न सकिन्छ।"
+      }
+    ]
+  },
+  "readingQuestions": [
+    {
+      "questionNo": 1,
+      "instructionKo": "다음 내용과 관계있는 그림을 고르십시오.",
+      "instructionNp": "दिइएको पाठसँग सम्बन्धित चित्र छान्नुहोस्।",
+      "prompt": "우산입니다. (छाता हो।)",
+      "correctAnswer": 1
+    },
+    {
+      "questionNo": 2,
+      "instructionKo": "다음 내용과 관계있는 그림을 고르십시오.",
+      "instructionNp": "दिइएको पाठसँग सम्बन्धित चित्र छान्नुहोस्।",
+      "prompt": "연필입니다. (पेन्सिल हो।)",
+      "correctAnswer": 3
+    },
+    {
+      "questionNo": 3,
+      "instructionKo": "다음 단어와 관계있는 것은 무엇입니까?",
+      "instructionNp": "दिइएको शब्दसँग सम्बन्धित कुरा के हो?",
+      "prompt": "가방 (झोला)",
+      "options": ["나라 (देश)", "물건 (सामान)", "장소 (ठाउँ)", "음식 (खाना)"],
+      "correctAnswer": 2
+    },
+    {
+      "questionNo": 4,
+      "instructionKo": "다음 중 밑줄 친 부분이 맞는 문장을 고르십시오.",
+      "instructionNp": "तलका मध्ये सही व्याकरण भएको वाक्य छान्नुहोस्।",
+      "options": [
+        "지갑는 없어요.",
+        "달력이 아니에요.",
+        "동생가 운전기사예요.",
+        "열쇠은 책상 위에 있어요."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "questionNo": 5,
+      "instructionKo": "다음 글을 읽고 내용과 같은 것을 고르십시오.",
+      "instructionNp": "तलको अनुच्छेद पढेर विषयसँग मिल्दो विकल्प छान्नुहोस्।",
+      "options": [
+        "중고 거래 플랫폼으로 새 물건을 구입할 수 있습니다.",
+        "중고 거래 플랫폼에서 비싼 가격에 물건이 거래됩니다.",
+        "물건을 거래할 때 대부분 택배를 이용해서 물건을 받습니다.",
+        "중고 거래 플랫폼에서 가구와 같은 물건은 구할 수 없습니다."
+      ],
+      "correctAnswer": 1
+    }
+  ],
+  "listeningQuestions": [
+    {
+      "questionNo": 1,
+      "audioScriptKo": "남: 시계",
+      "audioScriptNp": "पुरुष: 시계 (घडी)",
+      "instructionNp": "अडियो सुनेर खाली ठाउँमा मिल्दो अक्षर छान्नुहोस्: 시[  ]",
+      "options": ["도", "계", "내", "차"],
+      "correctAnswer": 2
+    },
+    {
+      "questionNo": 2,
+      "audioScriptKo": "여: 이것은 달력입니다.",
+      "audioScriptNp": "महिला: यो पात्रो हो।",
+      "instructionNp": "अडियो सुनेर खाली ठाउँ भर्नुहोस्: 이것은 [  ]입니다.",
+      "options": ["침대 (खाट)", "달력 (पात्रो)", "지폐 (कागजी नोट)", "여권 (राहदानी)"],
+      "correctAnswer": 2
+    },
+    {
+      "questionNo": 3,
+      "audioScriptKo": "남: 이건 휴대폰이에요?",
+      "audioScriptNp": "पुरुष: के यो मोबाइल फोन हो?",
+      "options": [
+        "네, 휴대폰을 사요.",
+        "네, 휴대폰을 주세요.",
+        "아니요, 휴대폰이 없어요.",
+        "아니요, 휴대폰이 아니에요."
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "questionNo": 4,
+      "audioScriptKo": "여: 이건 한국어로 뭐예요?",
+      "audioScriptNp": "महिला: यसलाई कोरियन भाषामा के भनिन्छ?",
+      "options": [
+        "한국에서 왔어요.",
+        "그건 이불이에요.",
+        "제 것이 아니에요.",
+        "책상 위에 있어요."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "questionNo": 5,
+      "audioScriptKo": "남: 가방에 뭐가 있어요? / 여: 열쇠하고 지갑이 있어요. 그리고 여권도 있어요.",
+      "audioScriptNp": "पुरुष: झोलामा के छ? / महिला: चाबी र पर्स छ। अनि पासपोर्ट पनि छ।",
+      "instructionNp": "दुई जना व्यक्ति के को बारेमा कुरा गरिरहेका छन्?",
+      "options": ["국적 (राष्ट्रियता)", "나이 (उमेर)", "물건 (सामानहरू)", "직업 (पेशा)"],
+      "correctAnswer": 3
+    }
+  ]
+}

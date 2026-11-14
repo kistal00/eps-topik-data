@@ -1,0 +1,152 @@
+{
+  "chapterNo": 59,
+  "titleKo": "출입국관리법",
+  "titleEn": "Immigration Act",
+  "titleNp": "आप्रवासन कानुन र बसाइ व्यवस्थापन",
+  "learningObjectives": [
+    {
+      "id": "ch59_obj_01",
+      "korean": "외국인 등록 및 체류 기간 연장 절차를 설명할 수 있다.",
+      "english": "Can explain foreigner registration and stay extension procedures.",
+      "nepali": "विदेशी दर्ता कार्ड बनाउने र बसाइको म्याद थप गर्ने प्रक्रिया व्याख्या गर्न सक्नुहुनेछ।"
+    },
+    {
+      "id": "ch59_obj_02",
+      "korean": "사업장 변경 요건 및 출입국 규정을 이해할 수 있다.",
+      "english": "Can understand workplace change conditions and immigration regulations.",
+      "nepali": "कम्पनी परिवर्तन गर्ने सर्तहरू र अध्यागमनका नियमहरू बुझ्न सक्नुहुनेछ।"
+    }
+  ],
+  "vocabulary1": {
+    "topicKo": "외국인 등록 관련 어휘",
+    "topicEn": "Foreigner Registration Vocabulary",
+    "topicNp": "विदेशी दर्ता सम्बन्धी शब्दावली",
+    "words": [
+      {
+        "korean": "외국인등록증",
+        "english": "Alien Registration Card (ARC)",
+        "nepali": "विदेशी दर्ता कार्ड (कोरियाको आईडी कार्ड)"
+      },
+      {
+        "korean": "출입국·외국인청",
+        "english": "Immigration Office",
+        "nepali": "अध्यागमन कार्यालय (इमिग्रेसन अफिस)"
+      },
+      {
+        "korean": "체류 자격 (E-9)",
+        "english": "Status of Stay / Visa type (E-9 Non-professional)",
+        "nepali": "भिसाको प्रकार (E-9 अदक्ष श्रमिक भिसा)"
+      },
+      {
+        "korean": "체류 기간",
+        "english": "period of stay (validity)",
+        "nepali": "बस्न पाउने अवधि (म्याद)"
+      },
+      {
+        "korean": "통합신청서",
+        "english": "integrated application form",
+        "nepali": "एकीकृत निवेदन फारम"
+      },
+      {
+        "korean": "마약 검사 확인서",
+        "english": "drug test certificate",
+        "nepali": "लागूऔषध जाँच रिपोर्ट"
+      },
+      {
+        "korean": "여권",
+        "english": "passport",
+        "nepali": "राहदानी (पासपोर्ट)"
+      },
+      {
+        "korean": "수수료",
+        "english": "application fee",
+        "nepali": "फारम दस्तुर"
+      }
+    ]
+  },
+  "grammar1": {
+    "point": "-더라도",
+    "meaningNp": "...भए तापनि / ...गरे पनि (प्रतिकूल अवस्थामा पनि / Even if / Even though)",
+    "explanationEn": "Attaches to verbs and adjectives to acknowledge a hypothetical situation, stating that the outcome in the next clause will happen regardless.",
+    "explanationNp": "क्रिया वा विशेषणमा जोडिएर अगाडिको परिस्थिति जस्तोसुकै भए तापनि पछाडिको नियम वा कार्यमा कुनै फरक पर्दैन भन्ने जनाउँछ।",
+    "ruleNp": "धातुमा 받침 भए पनि नभए पनि सिधै '-더라도' जोडिन्छ।",
+    "examples": [
+      {
+        "korean": "바쁘더라도 입국 후 90일 이내에 외국인 등록을 해야 해요.",
+        "english": "Even if busy, you must register as a foreigner within 90 days of entry.",
+        "nepali": "जतिसुकै व्यस्त भए पनि कोरिया छिरेको ९० दिनभित्र विदेशी दर्ता गरिसक्नुपर्छ।"
+      },
+      {
+        "korean": "힘들더라도 조금만 더 힘내세요.",
+        "english": "Even though it is tough, cheer up a bit more.",
+        "nepali": "गाह्रो भए पनि अलिकति हौसला राख्नुहोस्।"
+      }
+    ]
+  },
+  "vocabulary2": {
+    "topicKo": "체류 기간 연장 및 사업장 변경 어휘",
+    "topicEn": "Extension of Stay & Workplace Change",
+    "topicNp": "म्याद थप तथा कम्पनी परिवर्तन",
+    "words": [
+      {
+        "korean": "체류 기간 연장",
+        "english": "extension of period of stay",
+        "nepali": "बसाइको म्याद थप"
+      },
+      {
+        "korean": "사업장 변경",
+        "english": "workplace transfer / job change",
+        "nepali": "कम्पनी परिवर्तन (साहु फेर्ने)"
+      },
+      {
+        "korean": "사업장 변경 신청서",
+        "english": "application for workplace change",
+        "nepali": "कम्पनी परिवर्तनको निवेदन फारम"
+      },
+      {
+        "korean": "고용센터",
+        "english": "Job Center (Ministry of Employment and Labor)",
+        "nepali": "श्रम मन्त्रालयको रोजगार केन्द्र"
+      },
+      {
+        "korean": "구직 활동 기간",
+        "english": "job-seeking period (3 months limit)",
+        "nepali": "नयाँ कम्पनी खोज्ने अवधि (३ महिनाको सीमा)"
+      },
+      {
+        "korean": "불법 체류",
+        "english": "illegal stay / undocumented status",
+        "nepali": "अवैध बसाइ (ओभरस्टे)"
+      },
+      {
+        "korean": "강제 퇴거 (추방)",
+        "english": "deportation",
+        "nepali": "जबर्जस्ती देश निकाला (डिपोर्ट)"
+      },
+      {
+        "korean": "재입국 허가",
+        "english": "re-entry permit",
+        "nepali": "पुनः प्रवेश अनुमति"
+      }
+    ]
+  },
+  "grammar2": {
+    "point": "-는지/(으)ㄴ지",
+    "meaningNp": "...हो कि होइन / ...थाहा छ कि छैन (अप्रत्यक्ष प्रश्न वा अनिश्चितता / Whether or not...)",
+    "explanationEn": "Attaches to verbs and adjectives when embedding an indirect question or expressing uncertainty before verbs like 알다/모르다/확인하다.",
+    "explanationNp": "क्रियापद वा विशेषणमा जोडिएर कुनै कुरा हो कि होइन भनी जाँच्न वा थाहा पाउन अप्रत्यक्ष प्रश्नका रूपमा प्रयोग गरिन्छ।",
+    "ruleNp": "क्रियापदसँग '-는지', विशेषणमा 받침 भए '-은지', नभए '-ㄴ지' जोडिन्छ।",
+    "examples": [
+      {
+        "korean": "체류 기간이 언제까지인지 확인해 보세요.",
+        "english": "Please check when your period of stay expires.",
+        "nepali": "बसाइको म्याद कहिलेसम्म हो, जाँच गरिहेर्नुहोस्।"
+      },
+      {
+        "korean": "사업장 변경 신청을 어떻게 하는지 알아요?",
+        "english": "Do you know how to apply for workplace change?",
+        "nepali": "कम्पनी परिवर्तनको निवेदन कसरी दिने हो थाहा छ?"
+      }
+    ]
+  }
+}

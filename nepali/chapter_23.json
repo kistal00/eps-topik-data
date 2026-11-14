@@ -1,0 +1,157 @@
+{
+  "chapterNo": 23,
+  "titleKo": "우체국",
+  "titleEn": "Post Office",
+  "titleNp": "हुलाक कार्यालय",
+  "learningObjectives": [
+    {
+      "id": "ch23_obj_01",
+      "korean": "우편물 발송 및 소포 접수에 대해 묻고 대답할 수 있다.",
+      "english": "Can inquire about sending mail and parcels.",
+      "nepali": "चिठी तथा पार्सल पठाउने र रसिद काट्नेबारे सोध्न र जवाफ दिन सक्नुहुनेछ।"
+    },
+    {
+      "id": "ch23_obj_02",
+      "korean": "배송 방법(일반, 특급, 항공)을 선택할 수 있다.",
+      "english": "Can select shipping options (standard, express, airmail).",
+      "nepali": "ढुवानीका तरिकाहरू (साधारण, द्रुत/ईएमएस, हवाई) छनोट गर्न सक्नुहुनेछ।"
+    }
+  ],
+  "vocabulary1": {
+    "topicKo": "우편 관련 어휘",
+    "topicEn": "Postal Mail Vocabulary",
+    "topicNp": "हुलाक र चिठी सम्बन्धी शब्दावली",
+    "words": [
+      {
+        "korean": "편지",
+        "english": "letter",
+        "nepali": "चिठी"
+      },
+      {
+        "korean": "편지 봉투",
+        "english": "letter envelope",
+        "nepali": "चिठीको खाम"
+      },
+      {
+        "korean": "우표",
+        "english": "stamp",
+        "nepali": "हुलाक टिकट"
+      },
+      {
+        "korean": "엽서",
+        "english": "postcard",
+        "nepali": "पोस्टकार्ड"
+      },
+      {
+        "korean": "카드",
+        "english": "card (greeting card)",
+        "nepali": "कार्ड (शुभकामना कार्ड)"
+      },
+      {
+        "korean": "보내는 사람 (발신인)",
+        "english": "sender",
+        "nepali": "पठाउने मान्छे (प्रेषक)"
+      },
+      {
+        "korean": "받는 사람 (수신인)",
+        "english": "recipient / receiver",
+        "nepali": "पाउने मान्छे (प्रापक)"
+      },
+      {
+        "korean": "주소",
+        "english": "address",
+        "nepali": "ठेगाना"
+      },
+      {
+        "korean": "우편번호",
+        "english": "postal code / zip code",
+        "nepali": "हुलाक कोड (पिन कोड)"
+      }
+    ]
+  },
+  "grammar1": {
+    "point": "-는데 / -(으)ㄴ데 (배경)",
+    "meaningNp": "...भएकोले / ...गर्दाखेरि (पृष्ठभूमि वा सन्दर्भ / Background context)",
+    "explanationEn": "Attaches to verbs and adjectives to provide background information or context before asking a question, making a suggestion, or giving an explanation.",
+    "explanationNp": "क्रिया वा विशेषणमा जोडिएर मुख्य कुरा, प्रश्न वा अनुरोध गर्नुअगाडि त्यसको पृष्ठभूमि वा सन्दर्भ प्रस्तुत गर्न प्रयोग गरिन्छ।",
+    "ruleNp": "क्रियापदसँग '-는데', विशेषणमा 받침 भए '-은데', नभए '-ㄴ데', र नामपदसँग '인데' जोडिन्छ।",
+    "examples": [
+      {
+        "korean": "우체국에 가려고 하는데 어디에 있어요?",
+        "english": "I want to go to the post office, where is it?",
+        "nepali": "हुलाक कार्यालय जान खोज्दैछु, कहाँ होला?"
+      },
+      {
+        "korean": "날씨가 좋은데 우리 산책할까요?",
+        "english": "The weather is nice, shall we go for a walk?",
+        "nepali": "मौसम राम्रो छ, हामी घुम्न जाने हो कि?"
+      }
+    ]
+  },
+  "vocabulary2": {
+    "topicKo": "우체국 업무 관련 어휘",
+    "topicEn": "Post Office Tasks",
+    "topicNp": "हुलाकका सेवा र पार्सल",
+    "words": [
+      {
+        "korean": "소포",
+        "english": "parcel / package",
+        "nepali": "पार्सल (पोका)"
+      },
+      {
+        "korean": "부치다 (보내다)",
+        "english": "to send / post",
+        "nepali": "पठाउनु (हुलाकबाट)"
+      },
+      {
+        "korean": "배송하다",
+        "english": "to deliver / ship",
+        "nepali": "डेलिभरी गर्नु / ढुवानी गर्नु"
+      },
+      {
+        "korean": "저울에 올려놓다",
+        "english": "to put on the scale",
+        "nepali": "तराजुमा जोख्न राख्नु"
+      },
+      {
+        "korean": "무게를 재다",
+        "english": "to weigh / measure weight",
+        "nepali": "तौल जोख्नु"
+      },
+      {
+        "korean": "국제특급 (EMS)",
+        "english": "Express Mail Service (EMS)",
+        "nepali": "अन्तर्राष्ट्रिय द्रुत डाक सेवा (EMS)"
+      },
+      {
+        "korean": "항공편",
+        "english": "airmail",
+        "nepali": "हवाई ढुवानी (एयरमेल)"
+      },
+      {
+        "korean": "배편",
+        "english": "surface mail / ship delivery",
+        "nepali": "पानीजहाज ढुवानी (सिपिङ)"
+      }
+    ]
+  },
+  "grammar2": {
+    "point": "-지요?",
+    "meaningNp": "...होइन त? / ...होला नि? (सहमति वा पुष्टि माग्दा / Right? / Isn't it?)",
+    "explanationEn": "Used when the speaker wants to confirm something they believe the listener already knows or agrees with.",
+    "explanationNp": "वक्तालाई पहिले नै थाहा भएको कुरा श्रोतासँग पुष्टि गर्न वा सहमति माग्न प्रयोग गरिन्छ।",
+    "ruleNp": "क्रियापद र विशेषण दुवैको धातुमा सिधै '-지요?' (छोटकरीमा '-죠?') जोडिन्छ।",
+    "examples": [
+      {
+        "korean": "네팔에 소포를 보내려고 하지요?",
+        "english": "You want to send a parcel to Nepal, right?",
+        "nepali": "नेपालमा पार्सल पठाउन लाग्नुभएको होइन त?"
+      },
+      {
+        "korean": "오늘 우체국 문을 열지요?",
+        "english": "The post office is open today, right?",
+        "nepali": "आज हुलाक खुल्छ नि, होइन र?"
+      }
+    ]
+  }
+}

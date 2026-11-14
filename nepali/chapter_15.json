@@ -1,0 +1,180 @@
+{
+  "chapterNo": 15,
+  "titleKo": "옷차림",
+  "titleEn": "Clothing",
+  "titleNp": "पोशाक र पहिरन",
+  "learningObjectives": [
+    {
+      "id": "ch15_obj_01",
+      "korean": "옷차림에 대해 묻고 대답할 수 있다.",
+      "english": "Can ask and answer questions about clothing.",
+      "nepali": "लगाएको पोशाक र पहिरनको बारेमा बताउन सक्नुहुनेछ।"
+    },
+    {
+      "id": "ch15_obj_02",
+      "korean": "물건의 색깔을 말할 수 있다.",
+      "english": "Can describe the color of objects.",
+      "nepali": "वस्तुहरूको रङको बारेमा बताउन सक्नुहुनेछ।"
+    }
+  ],
+  "vocabulary1": {
+    "topicKo": "옷과 액세서리",
+    "topicEn": "Clothing and Accessories",
+    "topicNp": "लुगा र पहिरनका सामानहरू",
+    "words": [
+      {
+        "korean": "입다",
+        "english": "to wear (clothes on body)",
+        "nepali": "लगाउनु (लुगा: 바지, 티셔츠, 치마)"
+      },
+      {
+        "korean": "신다",
+        "english": "to wear (on feet)",
+        "nepali": "लगाउनु (खुट्टामा: 운동화, 구두, 양말)"
+      },
+      {
+        "korean": "쓰다",
+        "english": "to wear (on head/eyes)",
+        "nepali": "लगाउनु (टाउको/आँखामा: 모자, 안경)"
+      },
+      {
+        "korean": "티셔츠",
+        "english": "t-shirt",
+        "nepali": "टी-सर्ट"
+      },
+      {
+        "korean": "청바지",
+        "english": "jeans",
+        "nepali": "जिन्स पाइन्ट"
+      },
+      {
+        "korean": "치마",
+        "english": "skirt",
+        "nepali": "स्कर्ट"
+      },
+      {
+        "korean": "운동화",
+        "english": "sneakers / sports shoes",
+        "nepali": "खेलकुदका जुत्ता (स्निकर्स)"
+      },
+      {
+        "korean": "구두",
+        "english": "formal dress shoes",
+        "nepali": "छालाको फर्मल जुत्ता"
+      },
+      {
+        "korean": "양말",
+        "english": "socks",
+        "nepali": "मोजा"
+      },
+      {
+        "korean": "모자",
+        "english": "cap / hat",
+        "nepali": "टोपी"
+      }
+    ]
+  },
+  "grammar1": {
+    "point": "-고 있다 (착용 상태)",
+    "meaningNp": "लगाइरहेको अवस्था (Continuing state of wearing)",
+    "explanationEn": "Used with dressing verbs (입다, 신다, 쓰다) to describe the continuing state of wearing an item.",
+    "explanationNp": "पहिरन सम्बन्धी क्रियाहरूसँग जोडिएर कुनै पोशाक लगाएर बसिरहेको अवस्था जनाउँछ।",
+    "ruleNp": "पहिरन क्रियाको धातु + 고 있다 (उदा: 모자를 쓰고 있어요 = टोपी लगाइरहनुभएको छ)।",
+    "examples": [
+      {
+        "korean": "마두 씨는 청바지를 입고 있어요.",
+        "english": "Madhu is wearing jeans.",
+        "nepali": "मधु जीले जिन्स पाइन्ट लगाइरहनुभएको छ।"
+      }
+    ]
+  },
+  "dialogue1": {
+    "titleNp": "संवाद १",
+    "lines": [
+      {
+        "speaker": "투안 (Tuan)",
+        "korean": "저기에서 모자를 쓰고 있는 사람이 누구예요?",
+        "english": "Who is that person over there wearing a cap?",
+        "nepali": "त्यहाँ पर टोपी लगाएर बसेको व्यक्ति को हुनुहुन्छ?"
+      },
+      {
+        "speaker": "리한 (Rihan)",
+        "korean": "제 친구 마두예요.",
+        "english": "That's my friend, Madhu.",
+        "nepali": "मेरो साथी मधु हो।"
+      }
+    ]
+  },
+  "vocabulary2": {
+    "topicKo": "색깔",
+    "topicEn": "Colors",
+    "topicNp": "रङहरू",
+    "words": [
+      {
+        "korean": "빨간색",
+        "english": "red",
+        "nepali": "रातो रङ"
+      },
+      {
+        "korean": "노란색",
+        "english": "yellow",
+        "nepali": "पहेँलो रङ"
+      },
+      {
+        "korean": "파란색",
+        "english": "blue",
+        "nepali": "नीलो रङ"
+      },
+      {
+        "korean": "초록색",
+        "english": "green",
+        "nepali": "हरियो रङ"
+      },
+      {
+        "korean": "하얀색",
+        "english": "white",
+        "nepali": "सेतो रङ"
+      },
+      {
+        "korean": "까만색",
+        "english": "black",
+        "nepali": "कालो रङ"
+      },
+      {
+        "korean": "주황색",
+        "english": "orange",
+        "nepali": "सुन्तला रङ"
+      },
+      {
+        "korean": "보라색",
+        "english": "purple / violet",
+        "nepali": "बैजनी रङ"
+      }
+    ]
+  },
+  "grammar2": {
+    "point": "-(으)ㄴ (형용사 수식)",
+    "meaningNp": "भएको / -ने (विशेषणले नामलाई व्याख्या गर्ने रूप / Adjective Noun Modifier)",
+    "explanationEn": "Attaches to adjectives to modify the following noun, showing its current state or quality.",
+    "explanationNp": "विशेषणलाई नामको अगाडि राखेर त्यसको विशेषता व्याख्या गर्दा जोडिन्छ (जस्तै: ठूलो कोठा, राम्रो मान्छे)।",
+    "ruleNp": "बाच्छिम भए '-은' (उदा: 작다 → 작은 방 = सानो कोठा), बाच्छिम नभए वा 'ㄹ' भए '-ㄴ' (उदा: 예쁘다 → 예쁜 옷 = राम्रो लुगा)।",
+    "examples": [
+      {
+        "korean": "키가 큰 사람이 제 형이에요.",
+        "english": "The tall person is my older brother.",
+        "nepali": "अग्लो हुनुभएको व्यक्ति मेरो दाइ हुनुहुन्छ।"
+      }
+    ]
+  },
+  "cultureAndInfo": {
+    "titleKo": "한국의 전통 의상 한복",
+    "titleEn": "Hanbok, Korean Traditional Clothing",
+    "titleNp": "कोरियाको परम्परागत पोशाक हान्बोक (한복)",
+    "sections": [
+      {
+        "subtitleNp": "चाडपर्व र विशेष दिनको पहिरन",
+        "contentNp": "हान्बोक कोरियाको परम्परागत राष्ट्रिय पोशाक हो। सुन्दर रङ संयोजन भएको यो पोशाक कोरियालीहरूले नयाँ वर्ष (सल्लल), छुसक र विवाह जस्ता विशेष उत्सवहरूमा मात्र लगाउने गर्दछन्।"
+      }
+    ]
+  }
+}

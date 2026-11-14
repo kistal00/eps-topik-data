@@ -12,38 +12,103 @@
   "vocabulary": [
     {
       "korean": "갱도",
-      "english": "tunnel",
-      "nepali": "सुरुङ"
+      "english": "mine tunnel / pit shaft",
+      "nepali": "खानीको भित्री सुरुङ"
     },
     {
-      "korean": "인차",
-      "english": "tippling room",
-      "nepali": "टिपलिङ कोठा"
+      "korean": "갱구",
+      "english": "tunnel entrance / adit",
+      "nepali": "सुरुङको मुख / प्रवेशद्वार"
+    },
+    {
+      "korean": "선탄장",
+      "english": "coal preparation plant / screening yard",
+      "nepali": "कोइला छान्ने ठाउँ"
+    },
+    {
+      "korean": "환기 시설",
+      "english": "ventilation facility",
+      "nepali": "हावा तान्ने/फाल्ने यन्त्र"
+    },
+    {
+      "korean": "안전모 라이트",
+      "english": "cap lamp / helmet light",
+      "nepali": "हेल्मेटमा जोडिएको टर्चलाइट"
+    },
+    {
+      "korean": "방진마스크",
+      "english": "dust mask",
+      "nepali": "धुलो छेक्ने विशेष मास्क"
+    },
+    {
+      "korean": "가스 감지기",
+      "english": "gas detector",
+      "nepali": "विषाक्त ग्यास पत्ता लगाउने मेसिन"
+    },
+    {
+      "korean": "채광하다",
+      "english": "to mine / extract minerals",
+      "nepali": "खनिज उत्खनन गर्नु"
+    },
+    {
+      "korean": "바위에 구멍을 뚫다",
+      "english": "to drill holes in the rock",
+      "nepali": "चट्टानमा प्वाल खोप्नु"
+    },
+    {
+      "korean": "착암기",
+      "english": "rock drill / jackhammer",
+      "nepali": "चट्टान फोड्ने मेसिन"
+    },
+    {
+      "korean": "폭약을 설치하다",
+      "english": "to set up explosives / dynamite",
+      "nepali": "बारुद (विस्फोटक) राख्नु"
+    },
+    {
+      "korean": "발파하다 (폭파하다)",
+      "english": "to blast / detonate",
+      "nepali": "विस्फोट गराउनु"
+    },
+    {
+      "korean": "버력",
+      "english": "waste rock / debris",
+      "nepali": "काम नलाग्ने ढुङ्गा-माटो (फोहोर ढुङ्गा)"
+    },
+    {
+      "korean": "광석",
+      "english": "ore / mineral stone",
+      "nepali": "कच्चा धातु भएको ढुङ्गा (अयस्क)"
     },
     {
       "korean": "광차",
-      "english": "mine cart",
-      "nepali": "खानी कार्ट"
+      "english": "mine car / ore cart",
+      "nepali": "खानीको सानो रेल/ट्रली"
+    },
+    {
+      "korean": "운반하다",
+      "english": "to transport / haul",
+      "nepali": "बाहिर ओसार्नु"
     }
   ],
   "grammar": [
     {
-      "point": "광물 자원 개발 생산",
-      "explanation": "Mineral Resource Development and Production 갱도 시설에 대해 말할 수 있다. 학습 목표 Can talk about tunnel facilities. LEARNING OBJECTIVES 채광 및 광석 운반 작업에 대해 묻고 대답할 수 있다. Can ask and answer questions about mining and ore transport operations. CHAPTER 49 EPS-TOPIK 반장님을 모셔 올까요? 반장님은 폭약 작업을 하느라고 바쁘실 거예요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -던 갱도 시설 관련 어휘 전선 접속 방법 -느라고 Vocabulary Related to Tunnel Method of Connecting Electric Wires Facilities 채광 및 광석 운반 작업 관련 어휘 Vocabulary Related to Mining and Ore Transport Operations 196 한국어 표준교재 2",
-      "examples": [],
-      "explanationNp": "광물 자원 개발 생산 सम्बन्धी व्याकरण नियम र प्रयोग।"
+      "point": "-던",
+      "explanation": "Attaches to verbs and adjectives to modify a noun, recollecting an action or state from the past that was habitual or left incomplete.",
+      "explanationNp": "क्रियापद वा विशेषणमा जोडिएर विगतमा निरन्तर भइरहेको वा अधुरो रहेको कुराको सम्झना दिलाउँदै नामपदको विशेषता जनाउँछ। धातुमा 받침 भए पनि नभए पनि सिधै '-던' जोडिन्छ।",
+      "examples": [
+        "어제 우리가 작업하던 갱도에 들어가세요. — हिजो हामीले काम गरिरहेको सुरुङभित्र जानुहोस्।",
+        "자주 마시던 커피예요. — मैले प्रायः पिउने गरेको कफी यही हो।"
+      ]
     },
     {
-      "point": "일하다 있다 사용하다 싣다",
-      "explanation": "⑴ 막장에서 광차에 석탄을 분이 반장님이에요. ⑵ 저기가 제가 탄광이에요. ⑶ 휴게실에 선풍기는 어디로 가져갔어요? ⑷ 이 컴퓨터는 아궁 씨가 거예요.",
-      "examples": [],
-      "explanationNp": "일하다 있다 사용하다 싣다 सम्बन्धी व्याकरण नियम र प्रयोग।"
-    },
-    {
-      "point": "도와주다 받다 깔다 깨다",
-      "explanation": "⑴ 어제는 프엉 씨를 늦게 퇴근했어요. ⑵ 큰 석탄을 왕민 씨가 부르는 걸 못 들었어요. ⑶ 오전에는 안전 교육을 일을 못 했어요. ⑷ 왕민 씨는 지금 레일을 바쁜 것 같아요.",
-      "examples": [],
-      "explanationNp": "도와주다 받다 깔다 깨다 सम्बन्धी व्याकरण नियम र प्रयोग।"
+      "point": "-느라고",
+      "explanation": "Attaches to verbs to indicate that an action took up time/energy, resulting in an unfavorable outcome, delay, or tiredness.",
+      "explanationNp": "कुनै कार्यमा धेरै समय वा मिहिनेत लागेकाले त्यसको कारणले गर्दा पछाडि नराम्रो नतिजा आयो वा ढिलो भयो भनी देखाउँदा प्रयोग गरिन्छ। क्रियापदको धातुमा सिधै '-느라고' जोडिन्छ।",
+      "examples": [
+        "버력을 골라내느라고 조금 늦게 퇴근했어요. — फोहोर ढुङ्गा छुट्याउँदा छुट्याउँदै कामबाट छुट्टी हुन अलि ढिलो भयो।",
+        "시험공부를 하느라고 잠을 못 잤어요. — परीक्षाको तयारी गर्दागर्दै सुत्न पाइनँ।"
+      ]
     }
   ],
   "conversations": [
@@ -251,6 +316,6 @@
       "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
-  "titleNp": "खनिज स्रोत विकास तथा उत्पादन",
+  "titleNp": "खनिज उत्खनन तथा खानी काम",
   "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_49.pdf"
 }

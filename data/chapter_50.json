@@ -13,31 +13,109 @@
   ],
   "vocabulary": [
     {
-      "korean": "줄기",
-      "english": "trunk",
-      "nepali": "Trunk"
+      "korean": "나무",
+      "english": "tree",
+      "nepali": "रुख / बिरुवा"
+    },
+    {
+      "korean": "잎",
+      "english": "leaf",
+      "nepali": "पात"
+    },
+    {
+      "korean": "가지",
+      "english": "branch",
+      "nepali": "हाँगा"
+    },
+    {
+      "korean": "뿌리",
+      "english": "root",
+      "nepali": "जरा"
+    },
+    {
+      "korean": "굴취하다 (파내다)",
+      "english": "to dig up / excavate a tree with roots",
+      "nepali": "बिरुवा जरासहित उखेल्नु"
+    },
+    {
+      "korean": "분 감기",
+      "english": "root ball wrapping",
+      "nepali": "माटोसहितको जरा बोरा र डोरीले बाँध्नु"
+    },
+    {
+      "korean": "고무줄",
+      "english": "rubber band / elastic tie",
+      "nepali": "रबरको फिता"
+    },
+    {
+      "korean": "녹화 마대 (가마니)",
+      "english": "burlap sack / root wrapping cloth",
+      "nepali": "जरा बेर्ने जुटको बोरा"
+    },
+    {
+      "korean": "전정 가위",
+      "english": "pruning shears",
+      "nepali": "हाँगा काट्ने कैंची"
+    },
+    {
+      "korean": "톱",
+      "english": "saw",
+      "nepali": "आरा"
+    },
+    {
+      "korean": "벌목하다",
+      "english": "to fell / cut down trees",
+      "nepali": "रुख ढाल्नु / काट्नु"
+    },
+    {
+      "korean": "엔진톱 (체인소)",
+      "english": "chainsaw",
+      "nepali": "चेनस (मोटर आरा)"
+    },
+    {
+      "korean": "조재하다",
+      "english": "to buck / lop off branches and cut logs",
+      "nepali": "हाँगाबिँगा छिमल्नु र मुढा बनाउनु"
+    },
+    {
+      "korean": "집재하다",
+      "english": "to gather / skid logs to one location",
+      "nepali": "काठका मुढाहरू एकै ठाउँमा जम्मा गर्नु"
+    },
+    {
+      "korean": "운재하다",
+      "english": "to haul / transport timber",
+      "nepali": "काठ ढुवानी गरेर लैजानु"
+    },
+    {
+      "korean": "원목",
+      "english": "log / round timber",
+      "nepali": "काठको मुढा"
+    },
+    {
+      "korean": "산림청",
+      "english": "Korea Forest Service",
+      "nepali": "कोरियाली वन विभाग"
     }
   ],
   "grammar": [
     {
-      "point": "산림 자원 조성",
-      "explanation": "Forest Resource Management 분 감기 작업의 절차에 대해 말할 수 있다. 학습 목표 Can talk about the procedures for root-ball wrapping. LEARNING OBJECTIVES 조재 작업에 대해 묻고 대답할 수 있다. Can ask and answer questions about bucking tasks. 206 한국어 표준교재 2 CHAPTER 50 EPS-TOPIK 나무를 어디로 옮길까요? 영호 씨가 집재장으로 옮기래요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -다가 굴취 및 분 감기 관련 어휘 한국의 산림 자원 간접 인용의 축약형 Vocabulary Related to Trenching Korea's Forest Resources and Root Ball Wrapping 벌목 작업 관련 어휘 Vocabulary Related to Logging Work 206 한국어 표준교재 2",
-      "examples": [],
-      "explanationNp": "산림 자원 조성 सम्बन्धी व्याकरण नियम र प्रयोग।"
-    },
-    {
-      "point": "회사에 가다, 자하라 씨를 만나다 페인트를 칠하다, 바닥에 쏟다",
-      "explanation": ". . ⑶ ⑷ 기계로 염색을 하다, 원단이 엉키다 기계가 잘 작동하다, 갑자기 멈추다 . .",
-      "examples": [],
-      "explanationNp": "समय वा स्थान जनाउने प्रत्यय हो। नेपालीमा 'मा' वा 'तिर' भन्ने अर्थ लाग्दछ।"
-    },
-    {
-      "point": "간접 인용의 축약형",
-      "explanation": "간접 인용에 쓰이는 ‘-(느)ㄴ다고/다고 해요’, ‘-느냐고/(으)냐고 해요’, ‘-(으)라고 해요’, ‘-자고 해요’는 구어에서 각 각 ‘-(느)ㄴ대요/대요’, ‘ ’, ‘-(으)래요’, ‘-재요’로 줄여 사용할 수 있다. -느냬요/(으)냬요 The forms used for indirect quotation, ‘-(느)ㄴ다고/다고 해요’, ‘-느냐고/(으)냐고 해요’, ‘-(으)라고 해요’, ‘-자고 해요’, can be shortened in spoken language to ‘-(느)ㄴ대/대요’, ‘-느 요/(으) 요’, ‘-(으)래요’, ‘-재요’. 냬 냬 다라 씨가 주말에 . 바쁘냬요 아궁 씨가 작업장을 청소하래요. 프엉 씨가 창고에 같이 가재요.",
+      "point": "-다가",
+      "explanation": "Attaches to verbs to show that an action was ongoing and then interrupted or replaced by another action or situation.",
+      "explanationNp": "कुनै कार्य चलिरहेको बेलामा बीचमै रोकिएर अर्कै कार्य सुरु हुँदा वा अर्को घटना घट्दा प्रयोग गरिन्छ। धातुमा सिधै '-다가' जोडिन्छ।",
       "examples": [
-        "예 유수프 씨는 구내식당에서 점심을 먹는대요."
-      ],
-      "explanationNp": "간접 인용의 축약형 सम्बन्धी व्याकरण नियम र प्रयोग।"
+        "나무를 파내다가 돌을 발견했어요. — रुख खन्दाखन्दै बीचमा ठूलो ढुङ्गा भेट्टाएँ।",
+        "길을 걷다가 친구를 만났어요. — बाटोमा हिँड्दाहिँड्दै साथीसँग भेट भयो।"
+      ]
+    },
+    {
+      "point": "간접 인용 축약형 (-대요, -냬요, -래요, -재요)",
+      "explanation": "Colloquial contracted forms of indirect quotations in Korean: -다고 해요 → -대요, -냐고 해요 → -냬요, -(으)라고 해요 → -(으)래요, -자고 해요 → -재요.",
+      "explanationNp": "अरूको भनाइ दोहोर्‍याउँदा बोलीचालीमा छोटकरी बनाइन्छ: -다고 해요 को सट्टा -대요, -냐고 해요 को सट्टा -냬요, -(으)라고 해요 को सट्टा -래요, र -자고 해요 को सट्टा -재요 प्रयोग हुन्छ। वाक्यको प्रकृतिअनुसार (भनाइ, प्रश्न, आदेश, प्रस्ताव) छोटकरी रूप प्रयोग हुन्छ।",
+      "examples": [
+        "반장님이 오늘 작업이 일찍 끝난대요. — टिम लिडरले आजको काम चाँडै सकिन्छ रे भन्नुभयो।",
+        "내일 같이 등산 가재요. — भोलि सँगै पहाड चढ्न जाऔं भन्छ।"
+      ]
     }
   ],
   "conversations": [
@@ -191,6 +269,6 @@
       "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
-  "titleNp": "वन स्रोत संरक्षण तथा वृक्षारोपण",
+  "titleNp": "वन स्रोत तथा रुख कटान",
   "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_50.pdf"
 }

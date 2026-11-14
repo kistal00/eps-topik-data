@@ -1,0 +1,157 @@
+{
+  "chapterNo": 29,
+  "titleKo": "한국의 예절",
+  "titleEn": "Korean Etiquette",
+  "titleNp": "कोरियाको संस्कार र शिष्टाचार",
+  "learningObjectives": [
+    {
+      "id": "ch29_obj_01",
+      "korean": "공공장소에서의 기본 질서와 금지 행동을 설명할 수 있다.",
+      "english": "Can explain public order and prohibited actions in public places.",
+      "nepali": "सार्वजनिक स्थलहरूमा पालना गर्नुपर्ने नियम र निषेधित व्यवहारबारे बताउन सक्नुहुनेछ।"
+    },
+    {
+      "id": "ch29_obj_02",
+      "korean": "어른 앞에서의 예의와 식사 예절을 지킬 수 있다.",
+      "english": "Can observe proper etiquette before elders and at meals.",
+      "nepali": "मान्यजनको अगाडि गरिने आदर र खानपिनको शिष्टाचार पालना गर्न सक्नुहुनेछ।"
+    }
+  ],
+  "vocabulary1": {
+    "topicKo": "공공장소에서의 예절 관련 어휘",
+    "topicEn": "Public Places Etiquette Vocabulary",
+    "topicNp": "सार्वजनिक स्थानका शिष्टाचार र नियम",
+    "words": [
+      {
+        "korean": "떠들다",
+        "english": "to make noise / be loud",
+        "nepali": "हल्ला गर्नु"
+      },
+      {
+        "korean": "뛰어다니다",
+        "english": "to run around recklessly",
+        "nepali": "यताउति दौडधुप गर्नु"
+      },
+      {
+        "korean": "새치기하다",
+        "english": "to cut in line / jump the queue",
+        "nepali": "लाइन मिच्नु"
+      },
+      {
+        "korean": "침을 뱉다",
+        "english": "to spit on the ground",
+        "nepali": "थुक्नु"
+      },
+      {
+        "korean": "담배를 피우다",
+        "english": "to smoke a cigarette",
+        "nepali": "चुरोट पिउनु"
+      },
+      {
+        "korean": "담배꽁초를 버리다",
+        "english": "to litter cigarette butts",
+        "nepali": "चुरोटको ठूटो जथाभावी फाल्नु"
+      },
+      {
+        "korean": "무단 횡단을 하다",
+        "english": "to jaywalk (cross street illegally)",
+        "nepali": "जथाभावी बाटो काट्नु (जेब्राक्रस बाहेकबाट)"
+      },
+      {
+        "korean": "신호를 위반하다",
+        "english": "to violate traffic signals",
+        "nepali": "ट्राफिक बत्ती मिच्नु"
+      },
+      {
+        "korean": "음식물을 반입하다",
+        "english": "to bring food inside",
+        "nepali": "खानेकुरा भित्र लैजानु"
+      },
+      {
+        "korean": "전시품을 만지다",
+        "english": "to touch exhibits",
+        "nepali": "प्रदर्शनीका सामान छुनु"
+      }
+    ]
+  },
+  "grammar1": {
+    "point": "-(으)ㄹ 수 있다 / 없다",
+    "meaningNp": "...गर्न सकिन्छ / सकिँदैन (सम्भावना वा क्षमता / Can / Cannot do...)",
+    "explanationEn": "Attaches to verbs to show possibility or capability of performing an action.",
+    "explanationNp": "क्रियापदमा जोडिएर कुनै कार्य गर्न सक्ने क्षमता वा सम्भावना छ (सकिन्छ) वा छैन (सकिँदैन) भन्ने जनाउँछ।",
+    "ruleNp": "अन्त्यमा स्वरवर्ण वा 'ㄹ' भए '-ㄹ 수 있다/없다', व्यञ्जनवर्ण (받침) भए '-을 수 있다/없다' जोडिन्छ।",
+    "examples": [
+      {
+        "korean": "여기서 담배를 피울 수 없어요.",
+        "english": "You cannot smoke here.",
+        "nepali": "यहाँ चुरोट पिउन पाइँदैन (सकिँदैन)।"
+      },
+      {
+        "korean": "주말에는 도서관을 이용할 수 있습니다.",
+        "english": "You can use the library on weekends.",
+        "nepali": "सप्ताहन्तमा पुस्तकालय प्रयोग गर्न सकिन्छ।"
+      }
+    ]
+  },
+  "vocabulary2": {
+    "topicKo": "예의에 어긋난 행동",
+    "topicEn": "Disrespectful Actions",
+    "topicNp": "अनादर मानिने व्यवहारहरू",
+    "words": [
+      {
+        "korean": "반말을 하다",
+        "english": "to speak in non-honorific language to elders",
+        "nepali": "अपशब्द/अनादरार्थी भाषा बोल्नु (तँ भन्नु)"
+      },
+      {
+        "korean": "손을 흔들다",
+        "english": "to wave hands casually at elders",
+        "nepali": "ठूलाबडालाई हात हल्लाएर अभिवादन गर्नु"
+      },
+      {
+        "korean": "한 손으로 물건을 주다/받다",
+        "english": "to give/receive items with one hand",
+        "nepali": "एक हातले सामान दिनु / लिनु"
+      },
+      {
+        "korean": "다리를 꼬고 앉다",
+        "english": "to sit with legs crossed",
+        "nepali": "खुट्टामाथि खुट्टा चढाएर बस्नु"
+      },
+      {
+        "korean": "밥그릇을 들고 먹다",
+        "english": "to hold the rice bowl while eating",
+        "nepali": "भातको कचौरा हातमा उठाएर खानु"
+      },
+      {
+        "korean": "소리를 내며 먹다",
+        "english": "to make smacking noises while eating",
+        "nepali": "आवाज निकालेर चपाउनु"
+      },
+      {
+        "korean": "고개를 돌리고 마시다",
+        "english": "to turn one's head away when drinking alcohol with elders",
+        "nepali": "मान्यजनसँग रक्सी पिउँदा शिर अर्कोतर्फ फर्काएर पिउनु"
+      }
+    ]
+  },
+  "grammar2": {
+    "point": "-(으)면 안 되다",
+    "meaningNp": "...गर्नुहुँदैन (निषेध / Must not / Should not do)",
+    "explanationEn": "Attaches to verbs and adjectives to indicate prohibition or that doing the action is unacceptable.",
+    "explanationNp": "क्रियापद वा विशेषणमा जोडिएर कुनै कार्य गर्न सख्त मनाही गरिएको वा गर्नुहुँदैन भन्ने कुरा जनाउँछ।",
+    "ruleNp": "अन्त्यमा स्वरवर्ण वा 'ㄹ' भए '-면 안 되다', व्यञ्जनवर्ण (받침) भए '-으면 안 되다' जोडिन्छ।",
+    "examples": [
+      {
+        "korean": "한국에서는 밥그릇을 들고 밥을 먹으면 안 돼요.",
+        "english": "In Korea, you must not hold the rice bowl while eating.",
+        "nepali": "कोरियामा खाना खाँदा भातको कचौरा हातले उठाएर खानुहुँदैन।"
+      },
+      {
+        "korean": "어른 앞에서는 담배를 피우면 안 됩니다.",
+        "english": "You should not smoke in front of elders.",
+        "nepali": "ठूलाबडाको अगाडि चुरोट पिउनुहुँदैन।"
+      }
+    ]
+  }
+}

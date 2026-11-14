@@ -12,37 +12,99 @@
   ],
   "vocabulary": [
     {
-      "korean": "화재",
-      "english": "try to extinguish and",
-      "nepali": "बुझ्ने प्रयास गर्नुहोस् र"
+      "korean": "추락 (떨어짐)",
+      "english": "fall from heights",
+      "nepali": "अग्लो ठाउँबाट खस्नु"
     },
     {
-      "korean": "무너짐",
-      "english": "stop work, oxidizing material prohibit use of open",
-      "nepali": "काम रोक्नुहोस्, अक्सीकरण सामग्री खुला प्रयोग निषेध गर्नुहोस्"
+      "korean": "끼임 (협착)",
+      "english": "jamming / caught in machinery",
+      "nepali": "मेसिनमा च्यापिनु"
+    },
+    {
+      "korean": "넘어짐 (전도)",
+      "english": "tripping / slipping and falling",
+      "nepali": "चिप्लिएर वा ठेस लागेर लड्नु"
+    },
+    {
+      "korean": "부딪힘 (충돌)",
+      "english": "collision / bump",
+      "nepali": "गाडी वा सामानसँग ठोक्किनु"
+    },
+    {
+      "korean": "맞음 (낙하·비래)",
+      "english": "struck by falling/flying object",
+      "nepali": "माथिबाट खसेको सामानले लाग्नु"
+    },
+    {
+      "korean": "감전",
+      "english": "electric shock",
+      "nepali": "करेन्ट लाग्नु"
+    },
+    {
+      "korean": "화재 (폭발)",
+      "english": "fire / explosion",
+      "nepali": "आगलागी / विस्फोटन"
+    },
+    {
+      "korean": "질식",
+      "english": "suffocation / asphyxiation",
+      "nepali": "अक्सिजन नपुगेर निसास्सिएर सास फेर्न नसक्नु"
+    },
+    {
+      "korean": "119에 신고하다",
+      "english": "to call 119 (fire / ambulance emergency)",
+      "nepali": "११९ मा फोन गरेर खबर गर्नु"
+    },
+    {
+      "korean": "심폐소생술 (CPR)",
+      "english": "Cardiopulmonary Resuscitation (CPR)",
+      "nepali": "छाती थिचेर ब्युँताउने विधि (CPR)"
+    },
+    {
+      "korean": "지혈하다",
+      "english": "to stop bleeding / apply pressure",
+      "nepali": "रगत बग्न रोक्नु"
+    },
+    {
+      "korean": "인공호흡",
+      "english": "artificial respiration / mouth-to-mouth",
+      "nepali": "कृत्रिम श्वासप्रश्वास दिनु"
+    },
+    {
+      "korean": "붕대를 감다",
+      "english": "to wrap a bandage",
+      "nepali": "पट्टी बाँध्नु"
+    },
+    {
+      "korean": "찬물에 식히다",
+      "english": "to cool with cold water (burns)",
+      "nepali": "चिसो पानीले पोलेको भाग चिस्याउनु"
+    },
+    {
+      "korean": "구급상자",
+      "english": "first aid kit",
+      "nepali": "प्राथमिक उपचारको बाकस"
     }
   ],
   "grammar": [
     {
-      "point": "산업 재해 및 응급 처치",
-      "explanation": "Industrial Accidents and First Aid 사고 상황별 초기 대응 요령에 대해 말할 수 있다. 학습 목표 Can talk about how to respond to different types of accidents. LEARNING OBJECTIVES 응급 상황 대처 방법에 대해 말할 수 있다. Can talk about how to respond to emergency situations. CHAPTER 56 EPS-TOPIK 불이 나자마자 소화기로 껐어요. 정말 큰일 날 뻔했네요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -(으)ㄹ 뻔하다 소방 장비 표지 비상 상황 표지 -자마자 Fire Safety Equipment Signs Emergency Situation Signs 응급 상황 대처 요령 Emergency Response Guidelines 266 한국어 표준교재 2",
-      "examples": [],
-      "explanationNp": "산업 재해 및 응급 처치 सम्बन्धी व्याकरण नियम र प्रयोग।"
-    },
-    {
-      "point": "삐다 데다 베이다 넘어지다",
-      "explanation": "⑴ ⑵ 손가락이 베일 뻔했어요. 손을 . ⑶ ⑷ 발목을 . 빨리 걷다가 .",
-      "examples": [],
-      "explanationNp": "삐다 데다 베이다 넘어지다 सम्बन्धी व्याकरण नियम र प्रयोग।"
-    },
-    {
-      "point": "이어서 일어났을 때는 사용할 수 없",
-      "explanation": "‘-자마자’는 동사에 붙어 앞의 행위가 끝난 후에 뒤의 행위가 으나, ‘-자마자’는 가능하다. 곧바로 이어서 이루어짐을 나타낸다. ‘-는 대로’ cannot be used when the ‘-자마자’ is attached to a verb to indicate that after the second action coincidentally follows completion of the first action, the following action immediately the first, but ‘-자마자’ can. occurs. 왔어요. (O) 집 에 도착하는 대로 회사에서 전화가 불이 나자마자 119에 신고했어요. 왔어요. (X) 사고가 발생하자마자 작업을 중지했어요.",
+      "point": "-(으)ㄹ 뻔하다",
+      "explanation": "Attaches to verbs to indicate that a dangerous or unfavorable situation almost happened, but was narrowly avoided.",
+      "explanationNp": "क्रियापदमा जोडिएर कुनै ठूलो दुर्घटना वा नराम्रो घटना घट्नै लागेको थियो तर थोरैले जोगियो भनी व्यक्त गर्दा प्रयोग गरिन्छ। अन्त्यमा स्वरवर्ण वा 'ㄹ' भए '-ㄹ 뻔하다', व्यञ्जनवर्ण भए '-을 뻔하다' जोडिन्छ।",
       "examples": [
-        "예 집 에 도착하자마자 회사에서 전화가",
-        "예 회사에 도착하자마자 전화할게요."
-      ],
-      "explanationNp": "이어서 일어났을 때는 사용할 수 없 सम्बन्धी व्याकरण नियम र प्रयोग।"
+        "바닥이 미끄러워서 넘어질 뻔했어요. — भुइँ चिप्लो भएर लड्नै लागेको थिएँ।",
+        "기계에 손이 끼일 뻔했습니다. — मेसिनमा हात च्यापिनै आँटेको थियो।"
+      ]
+    },
+    {
+      "point": "-아/어 버리다 (재해 강조)",
+      "explanation": "Used in accident contexts to express sadness or regret that an unfortunate incident has already taken place.",
+      "explanationNp": "दुर्घटनाको सन्दर्भमा नहुनुपर्ने नराम्रो घटना घटिसक्यो भनी दुःख र पछुतो व्यक्त गर्न प्रयोग गरिन्छ। अन्तिम स्वरवर्ण ㅏ वा ㅗ भए '-아 버리다', बाँकी भए '-어 버리다', 하다 मा '-해 버리다' हुन्छ।",
+      "examples": [
+        "기계에 손을 다쳐 버렸어요. — मेसिनमा परेर हातमा चोट लागिहाल्यो।",
+        "불이 나서 자재가 다 타 버렸습니다. — आगो लागेर सबै सामान जलेर खरानी भयो।"
+      ]
     }
   ],
   "conversations": [

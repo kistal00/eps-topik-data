@@ -1,0 +1,142 @@
+{
+  "chapterNo": 54,
+  "titleKo": "산업 안전 및 보건 수칙",
+  "titleEn": "Industrial Safety and Health Regulations",
+  "titleNp": "औद्योगिक सुरक्षा तथा स्वास्थ्य नियमहरू",
+  "learningObjectives": [
+    {
+      "id": "ch54_obj_01",
+      "korean": "작업장 안전 및 보건 수칙에 대해 묻고 대답할 수 있다.",
+      "english": "Can ask and answer questions about safety regulations.",
+      "nepali": "कार्यस्थलको सुरक्षा र स्वास्थ्य नियमहरूबारे सोधपुछ गर्न सक्नुहुनेछ।"
+    },
+    {
+      "id": "ch54_obj_02",
+      "korean": "산업 재해 예방을 위한 준수 사항을 실천할 수 있다.",
+      "english": "Can practice rules for preventing industrial accidents.",
+      "nepali": "औद्योगिक दुर्घटना रोक्न पालना गर्नुपर्ने नियमहरू व्यवहारमा उतार्न सक्नुहुनेछ।"
+    }
+  ],
+  "vocabulary1": {
+    "topicKo": "안전 및 보건 수칙 어휘",
+    "topicEn": "Safety and Health Regulations",
+    "topicNp": "सुरक्षा नियम तथा आचारसंहिता",
+    "words": [
+      {
+        "korean": "환기 장치를 켜다",
+        "english": "to turn on the ventilation system",
+        "nepali": "हावा फाल्ने भेन्टिलेटर खोल्नु"
+      },
+      {
+        "korean": "보호구를 착용하다",
+        "english": "to wear personal protective equipment (PPE)",
+        "nepali": "सुरक्षा सामग्री लगाउनु"
+      },
+      {
+        "korean": "출입 금지 구역",
+        "english": "restricted / no-entry area",
+        "nepali": "प्रवेश निषेध गरिएको क्षेत्र"
+      },
+      {
+        "korean": "비상구",
+        "english": "emergency exit",
+        "nepali": "आपतकालीन ढोका (एक्जिट)"
+      },
+      {
+        "korean": "소화기",
+        "english": "fire extinguisher",
+        "nepali": "आगो निभाउने यन्त्र (अग्निनियन्त्रक)"
+      },
+      {
+        "korean": "작업 수칙을 지키다",
+        "english": "to observe work regulations",
+        "nepali": "कामको सुरक्षा नियम पालना गर्नु"
+      },
+      {
+        "korean": "안전 점검을 하다",
+        "english": "to conduct safety inspections",
+        "nepali": "सुरक्षा जाँच गर्नु"
+      }
+    ]
+  },
+  "grammar1": {
+    "point": "-도록 하다",
+    "meaningNp": "...गराउनु / ...गर्ने गर्नुहोस् (निर्देशन वा सल्लाह / Make sure to / Ensure that)",
+    "explanationEn": "Attaches to verbs to instruct, order, or strongly advise someone to perform an action or reach a certain state.",
+    "explanationNp": "क्रियापदमा जोडिएर अरू कसैलाई कुनै कार्य अनिवार्य पालना गर्न निर्देशन दिन वा सल्लाह दिन प्रयोग गरिन्छ।",
+    "ruleNp": "धातुमा सिधै '-도록 하다' जोडिन्छ।",
+    "examples": [
+      {
+        "korean": "작업 전에는 반드시 환기 장치를 켜도록 하세요.",
+        "english": "Make sure to turn on the ventilation before working.",
+        "nepali": "काम सुरु गर्नुअगाडि अनिवार्य रूपमा भेन्टिलेटर खोल्ने गर्नुहोस्।"
+      },
+      {
+        "korean": "안전모 턱끈을 꼭 조이도록 하십시오.",
+        "english": "Ensure that the chin strap of your helmet is fastened.",
+        "nepali": "सुरक्षा टोपीको फिता अवश्य कस्ने गर्नुहोस्।"
+      }
+    ]
+  },
+  "vocabulary2": {
+    "topicKo": "산업 재해 예방 준수 사항",
+    "topicEn": "Accident Prevention Terms",
+    "topicNp": "दुर्घटना रोकथामका नियमहरू",
+    "words": [
+      {
+        "korean": "정비",
+        "english": "maintenance / servicing",
+        "nepali": "मर्मतसम्भार"
+      },
+      {
+        "korean": "수리",
+        "english": "repair",
+        "nepali": "मर्मत"
+      },
+      {
+        "korean": "교체",
+        "english": "replacement",
+        "nepali": "फेर्ने काम (पार्ट्स साट्ने)"
+      },
+      {
+        "korean": "전원을 차단하다",
+        "english": "to cut / shut off power supply",
+        "nepali": "बिजुलीको मेन स्विच बन्द गर्नु"
+      },
+      {
+        "korean": "점검 중 표지",
+        "english": "Under Inspection sign",
+        "nepali": "'जाँच हुँदैछ' भन्ने बोर्ड"
+      },
+      {
+        "korean": "끼임 사고",
+        "english": "entrapment / jamming accident",
+        "nepali": "मेसिनमा हातखुट्टा च्यापिने दुर्घटना"
+      },
+      {
+        "korean": "추락 사고",
+        "english": "fall accident",
+        "nepali": "माथिबाट खस्ने दुर्घटना"
+      }
+    ]
+  },
+  "grammar2": {
+    "point": "-기 위해(서)",
+    "meaningNp": "...गर्नका लागि / ...को उद्देश्यले (मुख्य उद्देश्य / In order to...)",
+    "explanationEn": "Attaches to verbs and nouns (명사 + 을/를 위해) to express the purpose or goal of doing the main action.",
+    "explanationNp": "क्रियापदमा जोडिएर कुनै उद्देश्य प्राप्त गर्नका लागि मुख्य काम गरिन्छ भन्ने स्पष्ट पार्न प्रयोग गरिन्छ।",
+    "ruleNp": "धातुमा सिधै '-기 위해(서)' जोडिन्छ। नामपदसँग 'नाम + 을/를 위해' हुन्छ।",
+    "examples": [
+      {
+        "korean": "사고를 예방하기 위해서 안전 수칙을 준수해야 해요.",
+        "english": "In order to prevent accidents, you must follow safety regulations.",
+        "nepali": "दुर्घटना रोकथाम गर्नका लागि सुरक्षा नियम पालना गर्नैपर्छ।"
+      },
+      {
+        "korean": "안전을 위해 안전화를 신으세요.",
+        "english": "Wear safety shoes for safety.",
+        "nepali": "सुरक्षाका लागि सेफ्टी जुत्ता लगाउनुहोस्।"
+      }
+    ]
+  }
+}

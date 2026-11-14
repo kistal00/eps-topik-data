@@ -2,7 +2,7 @@
   "version": 1,
   "chapterNo": 57,
   "title": "고용허가제",
-  "titleEn": "Employment Permit System",
+  "titleEn": "Employment Permit System (EPS)",
   "learningObjectives": [
     "고용허가제의 업종에 대해 말할 수 있다.",
     "고용허가제 취업 절차에 대해 묻고 대답할 수 있다.",
@@ -12,29 +12,104 @@
   ],
   "vocabulary": [
     {
-      "korean": "고용허가제",
-      "english": "Employment Permit System",
-      "nepali": "रोजगार अनुमति प्रणाली"
+      "korean": "제조업",
+      "english": "manufacturing industry",
+      "nepali": "उत्पादनमूलक क्षेत्र (म्यानुफ्याक्चरिङ)"
+    },
+    {
+      "korean": "건설업",
+      "english": "construction industry",
+      "nepali": "भवन/पूर्वाधार निर्माण क्षेत्र (कन्स्ट्रक्सन)"
+    },
+    {
+      "korean": "농축산업",
+      "english": "agriculture and livestock",
+      "nepali": "कृषि तथा पशुपालन क्षेत्र"
+    },
+    {
+      "korean": "어업",
+      "english": "fishery industry",
+      "nepali": "माछा मार्ने तथा माछा पालन क्षेत्र"
+    },
+    {
+      "korean": "조선업",
+      "english": "shipbuilding industry",
+      "nepali": "पानीजहाज निर्माण क्षेत्र"
+    },
+    {
+      "korean": "서비스업",
+      "english": "service industry",
+      "nepali": "सेवा क्षेत्र (होटेल/रेस्टुरेन्ट आदि)"
+    },
+    {
+      "korean": "임업",
+      "english": "forestry industry",
+      "nepali": "वन पैदावार तथा रुख कटान क्षेत्र"
+    },
+    {
+      "korean": "광업",
+      "english": "mining industry",
+      "nepali": "खानी उत्खनन क्षेत्र"
+    },
+    {
+      "korean": "한국어능력시험 (EPS-TOPIK)",
+      "english": "EPS-TOPIK exam",
+      "nepali": "ईपीएस कोरियन भाषा परीक्षा"
+    },
+    {
+      "korean": "구직 신청",
+      "english": "job application / roster registration",
+      "nepali": "रोजगार खोज फारम भर्ने (रोस्टर दर्ता)"
+    },
+    {
+      "korean": "표준근로계약서 체결",
+      "english": "signing standard labor contract",
+      "nepali": "श्रम सम्झौता पत्रमा हस्ताक्षर गर्नु"
+    },
+    {
+      "korean": "사증발급 인정서 (CCVI)",
+      "english": "Certificate for Confirmation of Visa Issuance",
+      "nepali": "भिसा जारी अनुमति पत्र (CCVI)"
+    },
+    {
+      "korean": "사전취업교육",
+      "english": "pre-employment orientation / training",
+      "nepali": "कोरिया जानुअघिको अभिमुखीकरण तालिम"
+    },
+    {
+      "korean": "입국",
+      "english": "entry into Korea",
+      "nepali": "कोरिया प्रवेश"
+    },
+    {
+      "korean": "취업 교육",
+      "english": "post-arrival employment training",
+      "nepali": "कोरिया पुगेपछिको कार्यस्थल तालिम"
+    },
+    {
+      "korean": "사업장 배치",
+      "english": "workplace placement / assignment",
+      "nepali": "कम्पनीमा खटाइने काम"
     }
   ],
   "grammar": [
     {
-      "point": "고용허가제",
-      "explanation": "Employment Permit System 고용허가제의 업종에 대해 말할 수 있다. 학습 목표 Can talk about the industries under the employment permit system. LEARNING OBJECTIVES 고용허가제 취업 절차에 대해 묻고 대답할 수 있다. Can ask and answer questions about the employment permit system job procedures. 276 한국어 표준교재 2 CHAPTER 57 EPS-TOPIK 한국에 일하러 가게 되었어요. 정말 축하해요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -는/(으)ㄴ 줄 알았다, 몰랐다 고용허가제의 업종 고용허가제 -게 되다 Employment Permit System Industries Employment Permit System (EPS) 고용허가제 취업 절차 Procedures to Gain Employment through the Employment Permit System 276 한국어 표준교재 2",
-      "examples": [],
-      "explanationNp": "고용허가제 सम्बन्धी व्याकरण नियम र प्रयोग।"
+      "point": "-는/(으)ㄴ 줄 알았다 / 몰랐다",
+      "explanation": "Used when the speaker mistakenly believed something that turned out to be false (알았다), or was unaware of a reality (몰랐다).",
+      "explanationNp": "वास्तविकताभन्दा फरक कुरा साँचो होला भनी भ्रममा परेको बेला '-줄 알았다' र कुनै कुरा पहिले थाहा नपाएको बेला '-줄 몰랐다' प्रयोग गरिन्छ। क्रियापद वर्तमानमा '-는 줄', भूतकालमा '-은/ㄴ 줄', विशेषणमा '-은/ㄴ 줄' जोडिन्छ।",
+      "examples": [
+        "고용허가제에 조선업도 포함되는 줄 몰랐어요. — ईपीएसमा पानीजहाज निर्माण पनि पर्छ भन्ने थाहा थिएन।",
+        "오늘 시험이 있는 줄 알았어요. — आज परीक्षा होला भन्ने ठानेको थिएँ।"
+      ]
     },
     {
-      "point": "퇴근하다 되다 신청하다 부르다",
-      "explanation": "[ 보기 ] 일하느라고 벌써 점심시간이 된 줄 몰랐어요. ⑴ 아까는 너무 시끄러워서 반장님이 저를 . ⑵ 칼로 씨는 농업을 신청했대요. 나처럼 제조업을 . ⑶ 아지자 씨가 안 보여서 오늘은 일찍 .",
-      "examples": [],
-      "explanationNp": "퇴근하다 되다 신청하다 부르다 सम्बन्धी व्याकरण नियम र प्रयोग।"
-    },
-    {
-      "point": "컴퓨터 교육 안내",
-      "explanation": "모집 기간 •8/11 ~ 8/20 가 : 어떻게 알고 컴퓨터 교육을 신청했어요? •9 /1(일) ~ 11/24(일) 교육 기간 오후 1:00~3:00 나 : 포스터를 보고 신청하게 되었어요. 신청 방법 •방문 신청 문의/상담 031-555-4512 ⑴ ⑵ 가 : 우 리 회사가 신입 사원을 뽑는 가 : 왜 한국어 공부를 시작했어요? 것을 어떻게 알았어요? 나 : 한국에서 일하고 싶어서 나 : 홈 페이지 공지를 보고 . . ⑶ ⑷ 가 : 고 용허가제에 대해 어떻게 가 : 어떻게 프엉 씨를 만났어요? EPS 알았어요? 나 : 친 구의 소개로 나 : 신문을 보고 . . 57 고용허가제 EMPLOYMENT PERMIT SYSTEM 281",
-      "examples": [],
-      "explanationNp": "컴퓨터 교육 안내 सम्बन्धी व्याकरण नियम र प्रयोग।"
+      "point": "-게 되다",
+      "explanation": "Attaches to verbs to show that a situation, condition, or status changed due to external rules, circumstances, or events rather than direct personal intention.",
+      "explanationNp": "कुनै नियम, प्रक्रिया वा बाहिरी परिस्थितिका कारणले गर्दा आफूले चाहेको अवस्थामा पुग्न पायो वा नतिजा प्राप्त भयो भनी देखाउँदा प्रयोग गरिन्छ। क्रियापदको धातुमा सिधै '-게 되다' जोडिन्छ।",
+      "examples": [
+        "EPS-TOPIK에 합격해서 한국에 가게 되었어요. — ईपीएस परीक्षा पास गरेर कोरिया जान पाउने भएँ।",
+        "제조업 공장에서 일하게 되었습니다. — उत्पादनमूलक कम्पनीमा काम गर्न पुगेको छु।"
+      ]
     }
   ],
   "conversations": [

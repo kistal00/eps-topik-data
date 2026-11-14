@@ -1,0 +1,172 @@
+{
+  "chapterNo": 41,
+  "titleKo": "섬유 제조",
+  "titleEn": "Textile Manufacturing",
+  "titleNp": "कपडा उत्पादन (टेक्सटाइल)",
+  "learningObjectives": [
+    {
+      "id": "ch41_obj_01",
+      "korean": "원사 보관 및 관리 시 주의해야 할 점에 대해 묻고 대답할 수 있다.",
+      "english": "Can ask and answer questions about precautions for storing and managing yarn.",
+      "nepali": "धागो भण्डारण र व्यवस्थापन गर्दा ध्यान दिनुपर्ने कुराहरूबारे सोधपुछ गर्न सक्नुहुनेछ।"
+    },
+    {
+      "id": "ch41_obj_02",
+      "korean": "염색 가공 과정에 대해 설명할 수 있다.",
+      "english": "Can explain the dyeing and finishing process.",
+      "nepali": "धागो तथा कपडा रंग्याउने (डाइङ) प्रक्रियाबारे व्याख्या गर्न सक्नुहुनेछ।"
+    }
+  ],
+  "vocabulary1": {
+    "topicKo": "원사 보관 및 관리 관련 어휘",
+    "topicEn": "Yarn Storage and Management",
+    "topicNp": "कच्चा धागो भण्डारण तथा व्यवस्थापन",
+    "words": [
+      {
+        "korean": "원사",
+        "english": "raw yarn / thread",
+        "nepali": "कच्चा धागो"
+      },
+      {
+        "korean": "습도",
+        "english": "humidity",
+        "nepali": "आर्द्रता (हावामा हुने ओस/चिसोपना)"
+      },
+      {
+        "korean": "습하다",
+        "english": "to be humid / damp",
+        "nepali": "ओसिलो हुनु"
+      },
+      {
+        "korean": "건조하다",
+        "english": "to be dry",
+        "nepali": "सुख्खा हुनु"
+      },
+      {
+        "korean": "온도",
+        "english": "temperature",
+        "nepali": "तापक्रम"
+      },
+      {
+        "korean": "환기하다",
+        "english": "to ventilate",
+        "nepali": "हावा ओहोरदोहोर गराउनु (भेन्टिलेसन)"
+      },
+      {
+        "korean": "직사광선",
+        "english": "direct sunlight",
+        "nepali": "सिधा घामको किरण"
+      },
+      {
+        "korean": "보관하다",
+        "english": "to store / keep",
+        "nepali": "भण्डारण गरेर राख्नु"
+      },
+      {
+        "korean": "변색되다",
+        "english": "to be discolored",
+        "nepali": "रंग उड्नु / बिग्रेनु"
+      },
+      {
+        "korean": "곰팡이가 피다",
+        "english": "to become moldy",
+        "nepali": "ढुसी पर्नु"
+      }
+    ]
+  },
+  "grammar1": {
+    "point": "-거나",
+    "meaningNp": "...वा / ...अथवा (विकल्प छनोट / Or)",
+    "explanationEn": "Attaches to verbs and adjectives to show an option or choice between two or more actions or states.",
+    "explanationNp": "क्रियापद वा विशेषणमा जोडिएर दुई वा दुईभन्दा बढी कार्य वा अवस्थामध्ये कुनै एक छान्ने विकल्प जनाउँछ।",
+    "ruleNp": "धातुमा 받침 भए पनि नभए पनि सिधै '-거나' जोडिन्छ।",
+    "examples": [
+      {
+        "korean": "주말에는 빨래를 하거나 방 청소를 해요.",
+        "english": "On weekends, I do laundry or clean my room.",
+        "nepali": "सप्ताहन्तमा म कपडा धुन्छु वा कोठा सफा गर्छु।"
+      },
+      {
+        "korean": "습도가 높거나 비가 오면 원사가 상할 수 있어요.",
+        "english": "If humidity is high or it rains, the yarn may spoil.",
+        "nepali": "ओस बढी भयो वा पानी पर्‍यो भने धागो बिग्रिन सक्छ।"
+      }
+    ]
+  },
+  "vocabulary2": {
+    "topicKo": "염색 가공 관련 어휘",
+    "topicEn": "Dyeing Process Vocabulary",
+    "topicNp": "कपडा रंग्याउने (डाइङ) सम्बन्धी शब्दावली",
+    "words": [
+      {
+        "korean": "천연 섬유",
+        "english": "natural fibers",
+        "nepali": "प्राकृतिक धागो/रेसा"
+      },
+      {
+        "korean": "합성 섬유",
+        "english": "synthetic fibers",
+        "nepali": "कृत्रिम धागो/रेसा (सिन्थेटिक)"
+      },
+      {
+        "korean": "면",
+        "english": "cotton",
+        "nepali": "सुती (कपास)"
+      },
+      {
+        "korean": "모",
+        "english": "wool",
+        "nepali": "ऊन"
+      },
+      {
+        "korean": "견 (실크)",
+        "english": "silk",
+        "nepali": "रेशम (सिल्क)"
+      },
+      {
+        "korean": "나일론",
+        "english": "nylon",
+        "nepali": "नाइलन"
+      },
+      {
+        "korean": "폴리에스터",
+        "english": "polyester",
+        "nepali": "पोलिएस्टर"
+      },
+      {
+        "korean": "염색하다",
+        "english": "to dye",
+        "nepali": "रंग लगाउनु / रंग्याउनु"
+      },
+      {
+        "korean": "탈색하다",
+        "english": "to bleach / decolorize",
+        "nepali": "रंग उडाउनु (ब्लिच गर्नु)"
+      },
+      {
+        "korean": "건조기",
+        "english": "dryer",
+        "nepali": "सुकाउने मेसिन (ड्रायर)"
+      }
+    ]
+  },
+  "grammar2": {
+    "point": "-아야/어야",
+    "meaningNp": "...भए मात्र / ...गरे मात्र (अनिवार्य सर्त / Only if / Must do in order to)",
+    "explanationEn": "Attaches to verbs and adjectives to indicate that the preceding clause is an essential prerequisite to achieve the following clause.",
+    "explanationNp": "क्रियापद वा विशेषणमा जोडिएर पछाडिको नतिजा प्राप्त गर्न अगाडिको सर्त अनिवार्य पूरा हुनैपर्छ भन्ने जनाउँछ।",
+    "ruleNp": "अन्तिम स्वरवर्ण ㅏ वा ㅗ भए '-아야', बाँकी भए '-어야', र 하다 मा '-해야' हुन्छ।",
+    "examples": [
+      {
+        "korean": "환기를 잘해야 원사에 곰팡이가 안 펴요.",
+        "english": "Only if you ventilate well will mold not grow on the yarn.",
+        "nepali": "राम्रोसँग हावा ओहोरदोहोर गराए मात्र धागोमा ढुसी पर्दैन।"
+      },
+      {
+        "korean": "열심히 연습해야 시험에 합격할 수 있어요.",
+        "english": "Only if you practice hard can you pass the exam.",
+        "nepali": "कडा मिहिनेत गरे मात्र परीक्षा उत्तीर्ण हुन सकिन्छ।"
+      }
+    ]
+  }
+}

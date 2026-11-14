@@ -10,28 +10,111 @@
     "• 상하수도 시공 과정에 대해 말할 수 있다.",
     "• 해야 하는 작업의 목적이나 결과를 표현할 수 있다."
   ],
-  "vocabulary": [],
+  "vocabulary": [
+    {
+      "korean": "준설하다",
+      "english": "to dredge / excavate underwater silt",
+      "nepali": "ड्रेजिङ गर्नु (पानीमुनिको माटो/बालुवा निकाल्नु)"
+    },
+    {
+      "korean": "흙 (토사)",
+      "english": "soil / sediment / dirt",
+      "nepali": "माटो तथा बालुवा"
+    },
+    {
+      "korean": "침전물",
+      "english": "sediment / silt",
+      "nepali": "तल जमेको लेदो/गेग्रान"
+    },
+    {
+      "korean": "수로",
+      "english": "waterway / canal / ditch",
+      "nepali": "पानी बग्ने कुलो / नहर"
+    },
+    {
+      "korean": "쌓이다",
+      "english": "to pile up / accumulate",
+      "nepali": "थुप्रिनु / जम्मा हुनु"
+    },
+    {
+      "korean": "퍼내다",
+      "english": "to scoop out / dredge up",
+      "nepali": "उधिनेर बाहिर निकाल्नु"
+    },
+    {
+      "korean": "제거하다 (긁어내다)",
+      "english": "to remove / scrape off",
+      "nepali": "हटाउनु / कोतरेर सफा गर्नु"
+    },
+    {
+      "korean": "굴착기 (포클레인)",
+      "english": "excavator",
+      "nepali": "डोजर / एक्काभेटर"
+    },
+    {
+      "korean": "덤프트럭",
+      "english": "dump truck",
+      "nepali": "टिपर (डम्प ट्रक)"
+    },
+    {
+      "korean": "상수도",
+      "english": "water supply (drinking water)",
+      "nepali": "खानेपानी प्रणाली"
+    },
+    {
+      "korean": "하수도",
+      "english": "sewerage / wastewater system",
+      "nepali": "ढल निकास प्रणाली"
+    },
+    {
+      "korean": "땅을 파다 (터파기)",
+      "english": "to excavate ground / dig trenches",
+      "nepali": "जमिन खन्नु (खाल्डो खन्ने)"
+    },
+    {
+      "korean": "관을 배치하다",
+      "english": "to lay / place pipes",
+      "nepali": "पाइप मिलाएर राख्नु"
+    },
+    {
+      "korean": "관을 연결하다",
+      "english": "to connect pipes",
+      "nepali": "पाइप जोड्नु"
+    },
+    {
+      "korean": "누수",
+      "english": "water leak",
+      "nepali": "पानी चुहावट"
+    },
+    {
+      "korean": "되메우기하다",
+      "english": "to backfill the trench",
+      "nepali": "माटोले खाल्डो पुर्नु"
+    },
+    {
+      "korean": "다지다",
+      "english": "to compact / tamp soil down",
+      "nepali": "माटो थिचेर बलियो बनाउनु"
+    }
+  ],
   "grammar": [
     {
-      "point": "토목 시공",
-      "explanation": "Civil Engineering 준설 작업에 대해 묻고 대답할 수 있다. 학습 목표 Can ask and answer questions about dredging work. LEARNING OBJECTIVES 상하수도 시공 과정에 대해 말할 수 있다. Can talk about the process of constructing water supply and sewage systems. CHAPTER 44 EPS-TOPIK 상수도관을 설치할 때 뭘 주의해야 돼요? 누수가 발생하지 않도록 관을 잘 연결해야 돼요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -아야겠/어야겠- 준설 관련 어휘 한국의 대규모 토목 공사 -도록 Vocabulary Related to Dredging Korea's Large-scale Civil Engineering Construction 상하수도 시공 관련 어휘 Vocabulary Related to Water Supply and Sewage Systems Construction 146 한국어 표준교재 2",
-      "examples": [],
-      "explanationNp": "토목 시공 सम्बन्धी व्याकरण नियम र प्रयोग।"
-    },
-    {
-      "point": "어 말하는 사람의 강한 의지를",
-      "explanation": "로 상황이 어떻게 되어야 할 것이라고 추측함을 나타낸다. 나타낸다. ‘-아야겠/어야겠-’ is attached to verbs and adjectives to indicate a ‘-아야겠/어야겠-’ is attached to supposition based on the speaker's thoughts about how a situation verbs to express the speaker's should be. strong will. ㅏ, ㅗ -아야겠- 파다 → 파야겠어요 제가 가 봐야겠어요. ㅓ, ㅜ, ㅣ… -어야겠- 섞다 → 섞어야겠어요 -하다 -해야겠- 처리하다 → 처리해야겠어요 유수프 씨, 콘크리트 타설 전에 철근을 결속해야겠어요. 가 : 내일 새벽에 출근해야 돼요. 나 : 그래요? 오늘 일찍 자야겠네요.",
+      "point": "-아야겠/어야겠-",
+      "explanation": "Used with verbs to express the speaker's strong will, determination, or realization that they must take action.",
+      "explanationNp": "कुनै कार्य तत्काल गर्नैपर्ने आवश्यकता महसुस गरी वक्ताले आफ्नो दृढ इच्छा वा निर्णय व्यक्त गर्दा प्रयोग गरिन्छ। अन्तिम स्वरवर्ण ㅏ वा ㅗ भए '-아야겠다', बाँकी भए '-어야겠다', 하다 मा '-해야겠다' हुन्छ।",
       "examples": [
-        "예 재 고 정리할 사람이 부족하니까",
-        "예 작업장에 냄새가 좀 심해서 창문을 열어야겠어요."
-      ],
-      "explanationNp": "어 말하는 사람의 강한 의지를 सम्बन्धी व्याकरण नियम र प्रयोग।"
+        "수로에 흙이 많이 쌓여서 얼른 준설해야겠어요. — कुलोमा माटो धेरै थुप्रिएछ, छिट्टै सफा गर्नुपर्ने भयो।",
+        "비가 오기 전에 작업을 끝내야겠어요. — पानी पर्नुअगाडि नै काम सक्नुपर्ला।"
+      ]
     },
     {
-      "point": "물이 잘 흐르다 원사가 변색되지 않다 원단이 오염되지 않다",
-      "explanation": "땅을 메울 때 사용할 수 있다 제시간에 작업을 시작할 수 있다 [ 보기 ] 원단이 오염되지 않도록 조심해서 옮겨 주세요. ⑴ 하천을 준설해야겠어요. ⑵ 온도 관리에 신경 쓰세요. ⑶ 자재를 미리 갖다 놓을게요. ⑷ 흙을 수로 가까이에 쌓아 두세요.",
-      "examples": [],
-      "explanationNp": "물이 잘 흐르다 원사가 변색되지 않다 원단이 오염되지 않다 सम्बन्धी व्याकरण नियम र प्रयोग।"
+      "point": "-도록",
+      "explanation": "Mainly attached to verbs to indicate the purpose, objective, or extent of the following action.",
+      "explanationNp": "क्रियापदमा जोडिएर पछाडिको कार्य के उद्देश्यले वा कुन सीमासम्म गरिन्छ भन्ने स्पष्ट पार्न प्रयोग गरिन्छ। धातुमा 받침 भए पनि नभए पनि सिधै '-도록' जोडिन्छ।",
+      "examples": [
+        "누수가 생기지 않도록 관을 잘 연결해야 돼요. — पानी नचुहिने गरी पाइप राम्रोसँग जोड्नुपर्छ।",
+        "모두 들을 수 있도록 크게 말씀해 주세요. — सबैले सुन्ने गरी ठूलो स्वरले भन्नुहोस्।"
+      ]
     }
   ],
   "conversations": [
@@ -205,6 +288,6 @@
       "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
-  "titleNp": "सिभिल इन्जिनियरिङ तथा सडक निर्माण",
+  "titleNp": "सिभिल निर्माण तथा सडक पूर्वाधार",
   "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_44.pdf"
 }

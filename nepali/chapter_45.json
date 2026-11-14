@@ -1,0 +1,162 @@
+{
+  "chapterNo": 45,
+  "titleKo": "농작물 재배",
+  "titleEn": "Crop Cultivation",
+  "titleNp": "कृषि तथा बाली उत्पादन",
+  "learningObjectives": [
+    {
+      "id": "ch45_obj_01",
+      "korean": "농작물 파종 및 모종 심기에 대해 말할 수 있다.",
+      "english": "Can talk about sowing seeds and planting seedlings.",
+      "nepali": "बीउ छर्ने र बेर्ना रोप्ने कामबारे कुराकानी गर्न सक्नुहुनेछ।"
+    },
+    {
+      "id": "ch45_obj_02",
+      "korean": "농작물 관리(거름, 농약, 잡초 제거)를 설명할 수 있다.",
+      "english": "Can explain crop care (fertilizing, spraying pesticides, weeding).",
+      "nepali": "बालीको स्याहार (मल हाल्ने, विषादी छर्ने, झार उखेल्ने) बारे व्याख्या गर्न सक्नुहुनेछ।"
+    }
+  ],
+  "vocabulary1": {
+    "topicKo": "전작 관련 어휘",
+    "topicEn": "Field Crops Vocabulary",
+    "topicNp": "खेतीपाती तथा बालीनाली",
+    "words": [
+      {
+        "korean": "논",
+        "english": "rice paddy",
+        "nepali": "खेत (धान रोप्ने)"
+      },
+      {
+        "korean": "밭",
+        "english": "dry field / vegetable farm",
+        "nepali": "बारी (तरकारी/अन्न फलाउने)"
+      },
+      {
+        "korean": "비닐하우스",
+        "english": "greenhouse / vinyl house",
+        "nepali": "प्लास्टिक टनेल (टनेल खेती)"
+      },
+      {
+        "korean": "씨앗을 뿌리다",
+        "english": "to sow seeds",
+        "nepali": "बीउ छर्नु"
+      },
+      {
+        "korean": "모종을 심다",
+        "english": "to plant seedlings",
+        "nepali": "बेर्ना रोप्नु"
+      },
+      {
+        "korean": "물(을) 주다",
+        "english": "to water crops",
+        "nepali": "पानी हाल्नु"
+      },
+      {
+        "korean": "거름을 주다",
+        "english": "to fertilize / give manure",
+        "nepali": "मल हाल्नु"
+      },
+      {
+        "korean": "지주대를 세우다",
+        "english": "to set up support stakes",
+        "nepali": "थाम्रो/लठ्ठी गाड्नु (सहारा दिन)"
+      },
+      {
+        "korean": "호미",
+        "english": "small hand hoe",
+        "nepali": "कुटो"
+      },
+      {
+        "korean": "삽",
+        "english": "shovel / spade",
+        "nepali": "बेल्चा"
+      }
+    ]
+  },
+  "grammar1": {
+    "point": "-(으)ㄹ까 하다",
+    "meaningNp": "...गर्ने कि भन्ने सोचाइ छ (अन्तिम निर्णय नभएको योजना / Thinking of doing...)",
+    "explanationEn": "Attaches to verbs to show an intention or plan that is not yet fully finalized.",
+    "explanationNp": "क्रियापदमा जोडिएर कुनै काम गर्ने मनसाय भए पनि पक्का निर्णय भइनसकेको विचार व्यक्त गर्न प्रयोग गरिन्छ।",
+    "ruleNp": "अन्त्यमा स्वरवर्ण वा 'ㄹ' भए '-ㄹ까 하다', व्यञ्जनवर्ण भए '-을까 하다' जोडिन्छ।",
+    "examples": [
+      {
+        "korean": "오후에는 밭에 모종을 심을까 해요.",
+        "english": "I'm thinking of planting seedlings in the field this afternoon.",
+        "nepali": "दिउँसो बारीमा बेर्ना रोप्ने कि भन्दैछु।"
+      },
+      {
+        "korean": "주말에는 집에서 푹 쉴까 해요.",
+        "english": "I'm thinking of getting a good rest at home this weekend.",
+        "nepali": "सप्ताहन्तमा घरमै आराम गर्ने कि भन्ने सोच छ।"
+      }
+    ]
+  },
+  "vocabulary2": {
+    "topicKo": "재배 작업 관련 어휘",
+    "topicEn": "Crop Care and Harvesting",
+    "topicNp": "बाली स्याहार तथा बाली भित्र्याउने काम",
+    "words": [
+      {
+        "korean": "잡초를 뽑다",
+        "english": "to weed / pull weeds",
+        "nepali": "झारपात उखेल्नु"
+      },
+      {
+        "korean": "벌레를 잡다",
+        "english": "to catch bugs / pests",
+        "nepali": "कीरा टिप्नु / मार्नु"
+      },
+      {
+        "korean": "농약을 치다",
+        "english": "to spray pesticides",
+        "nepali": "विषादी छर्कनु"
+      },
+      {
+        "korean": "수확하다 (거두다)",
+        "english": "to harvest / reap",
+        "nepali": "बाली भित्र्याउनु / टिप्नु"
+      },
+      {
+        "korean": "상자에 담다",
+        "english": "to pack into boxes",
+        "nepali": "बाकसमा हाल्नु"
+      },
+      {
+        "korean": "곡식",
+        "english": "grains / cereals",
+        "nepali": "अन्नबाली"
+      },
+      {
+        "korean": "채소",
+        "english": "vegetables",
+        "nepali": "सागसब्जी / तरकारी"
+      },
+      {
+        "korean": "과일",
+        "english": "fruits",
+        "nepali": "फलफूल"
+      }
+    ]
+  },
+  "grammar2": {
+    "point": "-아/어 버리다",
+    "meaningNp": "...गरिटोपल्यो / ...सिद्धियो (कार्य समाप्त भएको / Done completely / Ended up)",
+    "explanationEn": "Attaches to verbs to emphasize that an action is completely finished, expressing relief or regret.",
+    "explanationNp": "क्रियापदमा जोडिएर कुनै कार्य पूर्ण रूपमा सम्पन्न भइसक्यो भन्ने जनाउँछ। यसले हलुङ्गो भएको वा पछुतो लागेको भाव प्रकट गर्छ।",
+    "ruleNp": "अन्तिम स्वरवर्ण ㅏ वा ㅗ भए '-아 버리다', बाँकी भए '-어 버리다', 하다 मा '-해 버리다' हुन्छ।",
+    "examples": [
+      {
+        "korean": "오늘 해야 할 일을 다 끝내 버렸어요.",
+        "english": "I completely finished all the work I had to do today.",
+        "nepali": "आज गर्नुपर्ने काम सबै सिध्याइदिएँ।"
+      },
+      {
+        "korean": "잡초를 오전에 다 뽑아 버렸어요.",
+        "english": "I pulled out all the weeds in the morning.",
+        "nepali": "बिहानीपख नै सबै झार उखेलिसकें।"
+      }
+    ]
+  }
+}

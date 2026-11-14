@@ -1,0 +1,209 @@
+{
+  "chapterNo": 12,
+  "titleKo": "대중교통",
+  "titleEn": "Public Transportation",
+  "titleNp": "सार्वजनिक यातायात",
+  "learningObjectives": [
+    {
+      "id": "ch12_obj_01",
+      "korean": "대중교통 이용에 대해 묻고 대답할 수 있다.",
+      "english": "Can ask and answer questions about public transportation.",
+      "nepali": "सार्वजनिक यातायातको प्रयोगबारे सोध्न र उत्तर दिन सक्नुहुनेछ।"
+    },
+    {
+      "id": "ch12_obj_02",
+      "korean": "행동의 이유를 말할 수 있다.",
+      "english": "Can express the reason for an action.",
+      "nepali": "कुनै कार्य गर्नुको कारण खुलाउन सक्नुहुनेछ।"
+    }
+  ],
+  "vocabulary1": {
+    "topicKo": "교통수단",
+    "topicEn": "Transportation",
+    "topicNp": "यातायातका साधनहरू",
+    "words": [
+      {
+        "korean": "마을버스",
+        "english": "local town bus",
+        "nepali": "स्थानिय गाउँले बस (छोटो दूरीको)"
+      },
+      {
+        "korean": "시내버스",
+        "english": "city bus",
+        "nepali": "नगर बस (सहरभित्र चल्ने)"
+      },
+      {
+        "korean": "시외 / 고속버스",
+        "english": "intercity / express bus",
+        "nepali": "लामो दूरीको एक्सप्रेस बस"
+      },
+      {
+        "korean": "지하철",
+        "english": "subway / metro",
+        "nepali": "भूमिगत रेल (सबवे)"
+      },
+      {
+        "korean": "기차 / KTX",
+        "english": "train / high-speed bullet train",
+        "nepali": "रेल / तीव्र गतिको बुलेट रेल"
+      },
+      {
+        "korean": "택시",
+        "english": "taxi",
+        "nepali": "ट्याक्सी"
+      },
+      {
+        "korean": "비행기",
+        "english": "airplane",
+        "nepali": "हवाइजहाज"
+      },
+      {
+        "korean": "배",
+        "english": "ship / boat",
+        "nepali": "पानीजहाज"
+      },
+      {
+        "korean": "정류장",
+        "english": "bus stop",
+        "nepali": "बस बिसौनी (स्टप)"
+      },
+      {
+        "korean": "터미널",
+        "english": "bus terminal",
+        "nepali": "बस टर्मिनल"
+      },
+      {
+        "korean": "지하철역",
+        "english": "subway station",
+        "nepali": "सबवे स्टेसन"
+      },
+      {
+        "korean": "공항",
+        "english": "airport",
+        "nepali": "विमानस्थल (एयरपोर्ट)"
+      }
+    ]
+  },
+  "grammar1": {
+    "point": "(으)로 (수단 / 방법)",
+    "meaningNp": "द्वारा / बाट / ले (साधन र माध्यम / By / With)",
+    "explanationEn": "Attaches to nouns to indicate the means, vehicle, method, tool, or instrument used for an action.",
+    "explanationNp": "कुनै कार्य गर्न प्रयोग गरिने यातायातको साधन, औजार वा माध्यम जनाउन नामको पछाडि जोडिन्छ।",
+    "ruleNp": "बाच्छिम भए '-으로' (उदा: 지하철로, 버스로, 연필로)। बाच्छिम नभए वा 'ㄹ' बाच्छिम भए '-로' जोडिन्छ।",
+    "examples": [
+      {
+        "korean": "회사에 어떻게 가요? / 버스로 가요.",
+        "english": "Q: How do you go to work? / A: I go by bus.",
+        "nepali": "क: कम्पनीमा कसरी जानुहुन्छ? / ख: बसबाट जान्छु।"
+      },
+      {
+        "korean": "한국에 비행기로 왔어요.",
+        "english": "I came to Korea by airplane.",
+        "nepali": "कोरियामा हवाइजहाज चढेर आएँ।"
+      }
+    ]
+  },
+  "dialogue1": {
+    "titleNp": "संवाद १",
+    "lines": [
+      {
+        "speaker": "투안 (Tuan)",
+        "korean": "시청까지 어떻게 가요?",
+        "english": "How do I get to City Hall?",
+        "nepali": "नगरपालिका कार्यालय (सिटी हल) सम्म कसरी जाने होला?"
+      },
+      {
+        "speaker": "리한 (Rihan)",
+        "korean": "지하철을 타고 가세요. 지하철이 버스보다 더 빨라요.",
+        "english": "Take the subway. The subway is faster than the bus.",
+        "nepali": "सबवे चढेर जानुहोस्। सबवे बसभन्दा छिटो हुन्छ।"
+      }
+    ]
+  },
+  "vocabulary2": {
+    "topicKo": "이동 관련 어휘",
+    "topicEn": "Movement and Boarding",
+    "topicNp": "यात्रा तथा आवागमन क्रियाहरू",
+    "words": [
+      {
+        "korean": "타고 가다",
+        "english": "to go by (riding)",
+        "nepali": "चढेर जानु"
+      },
+      {
+        "korean": "타고 오다",
+        "english": "to come by (riding)",
+        "nepali": "चढेर आउनु"
+      },
+      {
+        "korean": "걸어가다",
+        "english": "to go on foot / walk",
+        "nepali": "हिँडेर जानु"
+      },
+      {
+        "korean": "걸어오다",
+        "english": "to come on foot / walk",
+        "nepali": "हिँडेर आउनु"
+      },
+      {
+        "korean": "내리다",
+        "english": "to get off / alight",
+        "nepali": "गाडीबाट ओर्लनु"
+      },
+      {
+        "korean": "갈아타다 / 환승하다",
+        "english": "to transfer (vehicles)",
+        "nepali": "गाडी फेर्नु (ट्रान्सफर गर्नु)"
+      },
+      {
+        "korean": "출근 시간",
+        "english": "rush hour (morning)",
+        "nepali": "काममा जाने व्यस्त समय (बिहान)"
+      },
+      {
+        "korean": "퇴근 시간",
+        "english": "rush hour (evening)",
+        "nepali": "कामबाट फर्कने व्यस्त समय (साँझ)"
+      },
+      {
+        "korean": "차가 막히다",
+        "english": "traffic is jammed",
+        "nepali": "ट्राफिक जाम हुनु"
+      }
+    ]
+  },
+  "grammar2": {
+    "point": "-아서/어서 (이유)",
+    "meaningNp": "-एको हुनाले / भएर (कारण जनाउने / Because / Since)",
+    "explanationEn": "Attaches to verbs and adjectives to show that the first clause is the reason or cause of the second clause.",
+    "explanationNp": "अगाडिको वाक्य पछाडिको घटना वा कार्यको कारण भएको जनाउँछ।",
+    "ruleNp": "धातुको स्वर 'ㅏ, ㅗ' भए '-아서' (उदा: 비가 와서), अन्य स्वर भए '-어서' (उदा: 맛있어서), '하다' भए '-해서' (उदा: 피곤해서)।",
+    "examples": [
+      {
+        "korean": "차가 막혀서 늦었어요.",
+        "english": "I was late because there was a traffic jam.",
+        "nepali": "गाडी जाम भएकाले ढिलो भयो।"
+      },
+      {
+        "korean": "날씨가 좋아서 산책했어요.",
+        "english": "I went for a walk because the weather was good.",
+        "nepali": "मौसम राम्रो भएकोले हिँडडुल गर्न गएँ।"
+      }
+    ]
+  },
+  "cultureAndInfo": {
+    "titleKo": "한국의 대중교통 및 교통카드",
+    "titleEn": "Public Transportation and T-Money Cards",
+    "titleNp": "कोरियाको यातायात कार्ड (T-Money) प्रणाली",
+    "sections": [
+      {
+        "subtitleNp": "१. यातायात कार्ड (교통카드 T-Money)",
+        "contentNp": "बस, सबवे र ट्याक्सीमा एउटै टी-मनी कार्डबाट सजिलै भाडा तिर्न सकिन्छ। कार्ड सुविधा पसल वा सबवे स्टेसनमा रिचार्ज गर्न सकिन्छ।"
+      },
+      {
+        "subtitleNp": "२. गाडी फेर्दा भाडा छुट (환승 할인)",
+        "contentNp": "बसबाट सबवे वा अर्को बसमा ३० मिनेटभित्र गाडी फेर्दा थप भाडा नलाग्ने गरी विशेष छुट दिइन्छ। ओर्लँदा कार्ड मेसिनमा छुनु (ट्याप गर्नु) अनिवार्य हुन्छ।"
+      }
+    ]
+  }
+}

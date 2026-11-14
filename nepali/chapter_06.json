@@ -1,0 +1,151 @@
+{
+  "version": 2,
+  "chapterNo": 6,
+  "titleKo": "하루 일과",
+  "titleEn": "Daily Routine",
+  "titleNp": "दैनिक दिनचर्या",
+  "learningObjectives": [
+    {
+      "id": "ch06_obj_01",
+      "korean": "시간을 말할 수 있다.",
+      "english": "Can say the time.",
+      "nepali": "समय बताउन सक्नुहुनेछ।"
+    },
+    {
+      "id": "ch06_obj_02",
+      "korean": "하루 일과를 묻고 대답할 수 있다.",
+      "english": "Can ask and answer about daily routines.",
+      "nepali": "दैनिक दिनचर्याको बारेमा सोध्न र उत्तर दिन सक्नुहुनेछ।"
+    }
+  ],
+  "vocabulary1": {
+    "topicKo": "시간 관련 어휘",
+    "topicEn": "Time",
+    "topicNp": "समय सम्बन्धी शब्दहरू",
+    "words": [
+      { "korean": "1시 (한 시)", "english": "1 o'clock", "nepali": "१ बजे" },
+      { "korean": "2시 (두 시)", "english": "2 o'clock", "nepali": "२ बजे" },
+      { "korean": "3시 (세 시)", "english": "3 o'clock", "nepali": "३ बजे" },
+      { "korean": "4시 (네 시)", "english": "4 o'clock", "nepali": "४ बजे" },
+      { "korean": "5시 (다섯 시)", "english": "5 o'clock", "nepali": "५ बजे" },
+      { "korean": "6시 (여섯 시)", "english": "6 o'clock", "nepali": "६ बजे" },
+      { "korean": "7시 (일곱 시)", "english": "7 o'clock", "nepali": "७ बजे" },
+      { "korean": "8시 (여덟 시)", "english": "8 o'clock", "nepali": "८ बजे" },
+      { "korean": "9시 (아홉 시)", "english": "9 o'clock", "nepali": "९ बजे" },
+      { "korean": "10시 (열 시)", "english": "10 o'clock", "nepali": "१० बजे" },
+      { "korean": "11시 (열한 시)", "english": "11 o'clock", "nepali": "११ बजे" },
+      { "korean": "12시 (열두 시)", "english": "12 o'clock", "nepali": "१२ बजे" },
+      { "korean": "분", "english": "minute", "nepali": "मिनेट (Sino-Korean संख्या: 일 분, 이 분, 삼십 분)" },
+      { "korean": "반", "english": "half (30 minutes)", "nepali": "साढे / आधा (३० मिनेट)" },
+      { "korean": "오전", "english": "a.m. / morning", "nepali": "बिहानीपख (A.M.)" },
+      { "korean": "오후", "english": "p.m. / afternoon", "nepali": "दिउँसो/अपराह्न (P.M.)" },
+      { "korean": "낮", "english": "daytime", "nepali": "दिउँसो" },
+      { "korean": "밤", "english": "night", "nepali": "राति" },
+      { "korean": "새벽", "english": "dawn / early morning", "nepali": "मिर्मिरे बिहानी" }
+    ]
+  },
+  "grammar1": {
+    "point": "-(스)ㅂ니다 / -(스)ㅂ니까?",
+    "meaningNp": "गर्दछु / गर्नुहुन्छ ? (औपचारिक शिष्ट रूप / Formal Polite)",
+    "explanationEn": "Formal polite sentence ending used in official, formal, or professional situations.",
+    "explanationNp": "औपचारिक अवस्था, कार्यस्थल, वा अन्तर्वार्तामा आदरपूर्वक कुरा गर्दा वाक्यको अन्त्यमा प्रयोग गरिन्छ। प्रश्न सोध्दा '-(스)ㅂ니까?' प्रयोग गरिन्छ।",
+    "ruleNp": "बाच्छिम नभए वा 'ㄹ' बाच्छिम भए '-ㅂ니다 / -ㅂ니까?', बाच्छिम भए '-습니다 / -습니까?' जोडिन्छ।",
+    "examples": [
+      {
+        "korean": "몇 시에 출근합니까? / 8시에 출근합니다.",
+        "english": "Q: What time do you go to work? / A: I go to work at 8 o'clock.",
+        "nepali": "क: कति बजे काममा जानुहुन्छ? / ख: ८ बजे काममा जान्छु।"
+      },
+      {
+        "korean": "지금 무엇을 합니까? / 식사합니다.",
+        "english": "Q: What are you doing now? / A: I am having a meal.",
+        "nepali": "क: अहिले के गर्दै हुनुहुन्छ? / ख: खाना खाँदैछु।"
+      }
+    ]
+  },
+  "dialogue1": {
+    "titleNp": "संवाद १",
+    "lines": [
+      {
+        "speaker": "투안 (Tuan)",
+        "korean": "지금 몇 시예요?",
+        "english": "What time is it now?",
+        "nepali": "अहिले कति बज्यो?"
+      },
+      {
+        "speaker": "리한 (Rihan)",
+        "korean": "11시예요.",
+        "english": "It's 11 o'clock.",
+        "nepali": "११ बज्यो।"
+      },
+      {
+        "speaker": "투안 (Tuan)",
+        "korean": "몇 시에 점심을 먹어요?",
+        "english": "What time do you eat lunch?",
+        "nepali": "कति बजे दिउँसोको खाना खानुहुन्छ?"
+      },
+      {
+        "speaker": "리한 (Rihan)",
+        "korean": "12시 30분에 먹어요.",
+        "english": "I eat at 12:30.",
+        "nepali": "१२:३० (साढे बाह्र) बजे खान्छु।"
+      }
+    ]
+  },
+  "vocabulary2": {
+    "topicKo": "일과 관련 어휘",
+    "topicEn": "Daily Routines",
+    "topicNp": "दिनचर्या सम्बन्धी क्रियाहरू",
+    "words": [
+      { "korean": "일어나다", "english": "to wake up / get up", "nepali": "उठ्नु (ओछ्यानबाट)" },
+      { "korean": "씻다", "english": "to wash", "nepali": "हातमुख धुनु" },
+      { "korean": "이를 닦다", "english": "to brush one's teeth", "nepali": "दाँत माझ्नु" },
+      { "korean": "식사하다", "english": "to have a meal", "nepali": "खाना खानु" },
+      { "korean": "출근하다", "english": "to go to work", "nepali": "काममा जानु (ड्युटी सुरु गर्नु)" },
+      { "korean": "퇴근하다", "english": "to leave work", "nepali": "कामबाट छुट्नु (ड्युटी समाप्त हुनु)" },
+      { "korean": "청소하다", "english": "to clean", "nepali": "सरसफाइ गर्नु" },
+      { "korean": "장을 보다", "english": "to buy groceries", "nepali": "तरकारी तथा सामान किनमेल गर्नु" },
+      { "korean": "산책하다", "english": "to take a walk", "nepali": "हिँडडुल गर्नु / टहल्नु" },
+      { "korean": "샤워하다", "english": "to take a shower", "nepali": "नुहाउनु" },
+      { "korean": "자다", "english": "to sleep", "nepali": "सुत्नु" }
+    ]
+  },
+  "grammar2": {
+    "point": "에서",
+    "meaningNp": "मा / बाट (कार्य हुने स्थान जनाउने प्रत्यय)",
+    "explanationEn": "Attaches to place nouns to indicate the location where an action takes place.",
+    "explanationNp": "स्थान जनाउने नामसँग जोडिएर कुनै सक्रिय कार्य (Action) भइरहेको स्थान जनाउँछ।",
+    "ruleNp": "स्थान + 에서 (उदा: 회사에서 일해요 = कम्पनीमा काम गर्छु, 집에서 쉬어요 = घरमा आराम गर्छु)। नोट: 'ए (에)' ले अस्तित्व/उपस्थिति जनाउँछ, 'एस (에서)' ले कार्य भइरहेको स्थान जनाउँछ।",
+    "examples": [
+      {
+        "korean": "어디에서 운동해요? / 공원에서 운동해요.",
+        "english": "Q: Where do you exercise? / A: I exercise in the park.",
+        "nepali": "क: कहाँ व्यायाम गर्नुहुन्छ? / ख: पार्कमा व्यायाम गर्छु।"
+      },
+      {
+        "korean": "식당에서 점심을 먹었어요.",
+        "english": "I ate lunch at the restaurant.",
+        "nepali": "रेस्टुरेन्टमा दिउँसोको खाना खाएँ।"
+      }
+    ]
+  },
+  "cultureAndInfo": {
+    "titleKo": "직장인의 하루",
+    "titleEn": "A Day in the Life of an Office Worker in Korea",
+    "titleNp": "कोरियाली कामदारहरूको दैनिक जीवन",
+    "sections": [
+      {
+        "subtitleNp": "१. काम सुरु हुने समय (출근 시간)",
+        "contentNp": "कोरियामा धेरैजसो कम्पनीहरूमा बिहान ९:०० बजे काम सुरु हुन्छ। कामदारहरू १० मिनेट अगावै पुगेर तयारी गर्छन्।"
+      },
+      {
+        "subtitleNp": "२. कामबाट छुट्ने समय (퇴근 시간)",
+        "contentNp": "साँझ ६:०० बजे सामान्य ड्युटी सकिन्छ। धेरैजसो कामदारहरू सबवे (भूमिगत रेल) वा बसबाट आउजाउ गर्छन्।"
+      },
+      {
+        "subtitleNp": "३. रात्रीकालीन आराम (취침 및 휴식)",
+        "contentNp": "साँझको खाना, नुहाइधुवाइ र व्यक्तिगत समयपछि सामान्यतया राति ११–१२ बजेतिर सुत्ने गर्छन्।"
+      }
+    ]
+  }
+}

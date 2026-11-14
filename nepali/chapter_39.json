@@ -1,0 +1,162 @@
+{
+  "chapterNo": 39,
+  "titleKo": "금속 가공",
+  "titleEn": "Metal Processing",
+  "titleNp": "धातु प्रशोधन",
+  "learningObjectives": [
+    {
+      "id": "ch39_obj_01",
+      "korean": "공구의 이름과 사용 방법을 말할 수 있다.",
+      "english": "Can name tools and explain their usage.",
+      "nepali": "औजारको नाम र प्रयोग विधि बताउन सक्नुहुनेछ।"
+    },
+    {
+      "id": "ch39_obj_02",
+      "korean": "절단 및 용접 관련 표현을 사용할 수 있다.",
+      "english": "Can use expressions related to cutting and welding.",
+      "nepali": "काट्ने र जोड्ने (वेल्डिङ) सम्बन्धी अभिव्यक्ति प्रयोग गर्न सक्नुहुनेछ।"
+    }
+  ],
+  "vocabulary1": {
+    "topicKo": "작업용 공구",
+    "topicEn": "Workplace Tools",
+    "topicNp": "कामका औजारहरू",
+    "words": [
+      {
+        "korean": "망치",
+        "english": "hammer",
+        "nepali": "हथौडा"
+      },
+      {
+        "korean": "전기 드릴",
+        "english": "electric drill",
+        "nepali": "बिजुली ड्रिल"
+      },
+      {
+        "korean": "쇠톱",
+        "english": "hacksaw",
+        "nepali": "फलामको आरा"
+      },
+      {
+        "korean": "줄",
+        "english": "metal file",
+        "nepali": "रेती"
+      },
+      {
+        "korean": "정",
+        "english": "chisel",
+        "nepali": "छिनो"
+      },
+      {
+        "korean": "리머",
+        "english": "reamer",
+        "nepali": "रिमर"
+      },
+      {
+        "korean": "바이스",
+        "english": "vise / bench clamp",
+        "nepali": "भाइस (कसार)"
+      },
+      {
+        "korean": "용접하다",
+        "english": "to weld",
+        "nepali": "वेल्डिङ गर्नु"
+      },
+      {
+        "korean": "용접기",
+        "english": "welding machine",
+        "nepali": "वेल्डिङ मेसिन"
+      },
+      {
+        "korean": "용접봉",
+        "english": "welding rod / electrode",
+        "nepali": "वेल्डिङ रड"
+      }
+    ]
+  },
+  "grammar1": {
+    "point": "-(으)라고 하다",
+    "meaningNp": "...गर भन्नुभयो (अरूको आदेश दोहोर्‍याउँदा / Someone told me to...)",
+    "explanationEn": "Used to relay a command or order from someone else.",
+    "explanationNp": "अरू कसैले गर भनेर आदेश दिएको कुरा दोहोर्‍याएर बताउँदा प्रयोग गरिन्छ।",
+    "ruleNp": "अन्त्यमा स्वरवर्ण भए '-라고 하다', व्यञ्जनवर्ण (받침) भए '-으라고 하다' जोडिन्छ।",
+    "examples": [
+      {
+        "korean": "반장님이 보호 장갑을 꼭 끼라고 했어요.",
+        "english": "The team leader told us to always wear protective gloves.",
+        "nepali": "टिम लिडरले सुरक्षा पन्जा अवश्य लगाउनू भन्नुभयो।"
+      },
+      {
+        "korean": "사장님이 안전 교육에 꼭 참석하라고 했어요.",
+        "english": "The boss told us to attend safety training without fail.",
+        "nepali": "बॉसले सुरक्षा तालिममा अवश्य सहभागी हुनू भन्नुभयो।"
+      }
+    ]
+  },
+  "vocabulary2": {
+    "topicKo": "절단 및 용접 관련 어휘",
+    "topicEn": "Cutting & Welding Terms",
+    "topicNp": "काट्ने र वेल्डिङ शब्दावली",
+    "words": [
+      {
+        "korean": "절단하다",
+        "english": "to cut / sever",
+        "nepali": "काट्नु"
+      },
+      {
+        "korean": "판금 가위",
+        "english": "sheet metal shears",
+        "nepali": "पाता काट्ने कैंची"
+      },
+      {
+        "korean": "절단기",
+        "english": "cutter / cutting machine",
+        "nepali": "कटिङ मेसिन"
+      },
+      {
+        "korean": "전기 절단기",
+        "english": "electric cutter / chop saw",
+        "nepali": "बिजुली कटर"
+      },
+      {
+        "korean": "굵다",
+        "english": "to be thick (diameter)",
+        "nepali": "बाक्लो (गोलो छेउ)"
+      },
+      {
+        "korean": "가늘다",
+        "english": "to be thin (diameter)",
+        "nepali": "पातलो (गोलो छेउ)"
+      },
+      {
+        "korean": "두껍다",
+        "english": "to be thick (flat)",
+        "nepali": "बाक्लो (चेप्टो)"
+      },
+      {
+        "korean": "얇다",
+        "english": "to be thin (flat)",
+        "nepali": "पातलो (चेप्टो)"
+      }
+    ]
+  },
+  "grammar2": {
+    "point": "-기 전에",
+    "meaningNp": "...गर्नुअगाडि (समय क्रम / Before doing...)",
+    "explanationEn": "Attaches to verbs to indicate that the action after '-기 전에' happens before the preceding action.",
+    "explanationNp": "क्रियापदमा जोडिएर कुनै कार्यभन्दा पहिले अर्को काम गरिन्छ भन्ने जनाउँछ।",
+    "ruleNp": "धातुमा सिधै '-기 전에' जोडिन्छ।",
+    "examples": [
+      {
+        "korean": "작업을 시작하기 전에 작업복을 입어요.",
+        "english": "Before starting work, I put on work clothes.",
+        "nepali": "काम सुरु गर्नुअगाडि कामको कपडा लगाउँछु।"
+      },
+      {
+        "korean": "용접하기 전에 안전 장비를 점검하세요.",
+        "english": "Please check safety equipment before welding.",
+        "nepali": "वेल्डिङ गर्नुअगाडि सुरक्षा सामान जाँच्नुहोस्।"
+      }
+    ]
+  }
+}

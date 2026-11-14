@@ -10,25 +10,101 @@
     "• 어떤 행동이 끝난 뒤에 이어서 하는 행동을 표현할 수 있다.",
     "• 어떤 일을 하는 방법을 아는지 묻고 대답할 수 있다."
   ],
-  "vocabulary": [],
+  "vocabulary": [
+    {
+      "korean": "설날",
+      "english": "Lunar New Year (1st day of 1st lunar month)",
+      "nepali": "सल्लल (चन्द्रपात्रोको पहिलो दिन / नयाँ वर्ष)"
+    },
+    {
+      "korean": "한복을 입다",
+      "english": "to wear Hanbok",
+      "nepali": "हान्बोक लगाउनु"
+    },
+    {
+      "korean": "세배하다",
+      "english": "to perform the New Year's bow to elders",
+      "nepali": "मान्यजनलाई नयाँ वर्षको ढोग गर्नु (सेबे)"
+    },
+    {
+      "korean": "세뱃돈",
+      "english": "New Year's gift money from elders",
+      "nepali": "ढोगेबापत पाइने दक्षिणा (सेबेत-दोन)"
+    },
+    {
+      "korean": "덕담을 하다/듣다",
+      "english": "to give/receive New Year's blessings",
+      "nepali": "आशीर्वाद दिनु / लिनु"
+    },
+    {
+      "korean": "떡국을 먹다",
+      "english": "to eat rice cake soup (Tteokguk)",
+      "nepali": "त्तोकगुक खानु (उमेर १ वर्ष बढ्ने प्रतीक सुप)"
+    },
+    {
+      "korean": "윷놀이를 하다",
+      "english": "to play Yutnori (traditional stick game)",
+      "nepali": "युन्नोरी खेल्नु (परम्परागत चार सिन्के पासा खेल)"
+    },
+    {
+      "korean": "추석 (한가위)",
+      "english": "Chuseok (Korean Harvest Thanksgiving)",
+      "nepali": "छुसक / हान्गावी (अगस्ट १५ को मुख्य बाली उत्सव)"
+    },
+    {
+      "korean": "고향에 내려가다",
+      "english": "to go down to one's hometown",
+      "nepali": "गाउँको घर जानु"
+    },
+    {
+      "korean": "부모님을 찾아뵙다",
+      "english": "to visit parents",
+      "nepali": "आमाबाबुलाई भेट्न जानु"
+    },
+    {
+      "korean": "차례를 지내다",
+      "english": "to perform ancestral memorial rites",
+      "nepali": "पितृ पूजा गर्नु (छारे)"
+    },
+    {
+      "korean": "성묘하다",
+      "english": "to visit and clean ancestral graves",
+      "nepali": "पुर्खाको चिहानमा गएर ढोग्नु र सफा गर्नु"
+    },
+    {
+      "korean": "송편을 만들다",
+      "english": "to make half-moon rice cakes (Songpyeon)",
+      "nepali": "सोङप्योन (चामलको अर्धचन्द्राकार मिठाइ) बनाउनु"
+    },
+    {
+      "korean": "보름달을 보다",
+      "english": "to view the full harvest moon",
+      "nepali": "पूरा पूर्णिमाको चन्द्रमा हेर्नु"
+    },
+    {
+      "korean": "소원을 빌다",
+      "english": "to make a wish upon the moon",
+      "nepali": "वर माग्नु / इच्छा पूरा होस् भनी प्रार्थना गर्नु"
+    }
+  ],
   "grammar": [
     {
-      "point": "한국의 명절",
-      "explanation": "Korean Traditional Holidays 설날에 뭐 했어요? 세배를 하고 나서 윷놀이를 했어요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -고 나서 설날 관련 어휘 한국의 명절 -(으)ㄹ 줄 알다, 모르다 Vocabulary Related to Korea's Traditional Holidays Lunar New Year 추석 관련 어휘 Vocabulary Related to Chuseok 설날과 추석에 하는 일에 대해 말할 수 있다. 학습 목표 Can talk about activities done on Lunar New Year and Chuseok. LEARNING OBJECTIVES 어떤 일을 하는 방법을 아는지 묻고 대답할 수 있다. Can ask and answer questions about knowing how to do something. 320 한국어 표준교재 1 CHAPTER 28 EPS-TOPIK 320 한국어 표준교재 1",
-      "examples": [],
-      "explanationNp": "한국의 명절 सम्बन्धी व्याकरण नियम र प्रयोग।"
+      "point": "-고 나서",
+      "explanation": "Attaches to verbs to emphasize that one action has completely concluded before the next action begins.",
+      "explanationNp": "क्रियापदमा जोडिएर पहिलो कार्य पूर्ण रूपमा सम्पन्न भइसकेपछि मात्र दोस्रो कार्य सुरु हुन्छ भन्ने स्पष्ट पार्न प्रयोग गरिन्छ। 받침 भए वा नभए पनि धातुमा सिधै '-고 나서' जोडिन्छ।",
+      "examples": [
+        "세배를 하고 나서 떡국을 먹었어요. — मान्यजनलाई ढोग गरिसकेपछि त्तोकगुक खायौं।",
+        "퇴근하고 나서 같이 운동해요. — कामबाट छुट्टी भइसकेपछि सँगै व्यायाम गरौं।"
+      ]
     },
     {
-      "point": "산책을 한국어를 다라 씨를 저녁을 샤워를",
-      "explanation": "했어요. 공부했어요. 만났어요. 먹었어요. 했어요. 08:00 09:00 10:00 13:00 14:00 17:00 18:00 19:00 21:00 21:30 ⑵ ⑷ ⑹ ⑻ 잠을 아침을 점심을 장을 봤어요. 텔레비전을 잤어요. 먹었어요. 먹었어요. 봤어요. ⑴ 마두 씨는 산책하고 나서 ⑵ 마두 씨는 아침을 먹고 나서 아침을 먹었어요. 한국어를 공부했어요. 322 한국어 표준교재 1",
-      "examples": [],
-      "explanationNp": "산책을 한국어를 다라 씨를 저녁을 샤워를 सम्बन्धी व्याकरण नियम र प्रयोग।"
-    },
-    {
-      "point": "외국어",
-      "explanation": "나 : 저는 한국어를 할 줄 알아요. 할 줄 알아요 한국어 가 : 영어도 할 줄 알아요? 할 줄 몰라요 영어 나 : 아니요, 영어는 할 줄 몰라요. 외국어 운동 요리 할 줄 알아요 할 줄 몰라요 28 한국의 명절 KOREAN TRADITIONAL HOLIDAYS 325",
-      "examples": [],
-      "explanationNp": "외국어 सम्बन्धी व्याकरण नियम र प्रयोग।"
+      "point": "-(으)ㄹ 줄 알다 / 모르다",
+      "explanation": "Attaches to verbs to express possessing or lacking the method, skill, or ability to do something.",
+      "explanationNp": "क्रियापदमा जोडिएर कुनै कार्य गर्ने विधि, सीप वा क्षमता आफूमा छ वा छैन भन्ने व्यक्त गर्न प्रयोग गरिन्छ। अन्त्यमा स्वरवर्ण वा 'ㄹ' भए '-ㄹ 줄 알다/모르다', व्यञ्जनवर्ण (받침) भए '-을 줄 알다/모르다' जोडिन्छ।",
+      "examples": [
+        "송편을 만들 줄 알아요? — तपाईंलाई सोङप्योन बनाउन आउँछ?",
+        "윷놀이를 할 줄 몰라요. — मलाई युन्नोरी खेल्न आउँदैन।"
+      ]
     }
   ],
   "conversations": [
@@ -226,6 +302,6 @@
       "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
-  "titleNp": "कोरियाली चाडपर्वहरू (छ्हूषक र सल्नाल)",
+  "titleNp": "कोरियाका चाडपर्वहरू",
   "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_28.pdf"
 }

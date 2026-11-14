@@ -12,44 +12,119 @@
   ],
   "vocabulary": [
     {
-      "korean": "길이",
-      "english": "length",
-      "nepali": "लम्बाइ"
+      "korean": "원목 (목재)",
+      "english": "hardwood / lumber / timber",
+      "nepali": "काठको मुढा / काठ"
     },
     {
-      "korean": "폭",
-      "english": "width",
-      "nepali": "चौडा"
+      "korean": "합판",
+      "english": "plywood",
+      "nepali": "प्लाईउड"
+    },
+    {
+      "korean": "줄자",
+      "english": "tape measure",
+      "nepali": "इन्चिटेप (नाप्ने फिता)"
+    },
+    {
+      "korean": "치수를 재다",
+      "english": "to measure dimensions",
+      "nepali": "नाप लिनु"
+    },
+    {
+      "korean": "재단하다",
+      "english": "to cut / saw wood to size",
+      "nepali": "नापअनुसार काठ काट्नु"
+    },
+    {
+      "korean": "자르다",
+      "english": "to cut",
+      "nepali": "काट्नु"
+    },
+    {
+      "korean": "톱질하다",
+      "english": "to saw",
+      "nepali": "आरा चलाउनु"
+    },
+    {
+      "korean": "대패",
+      "english": "hand plane / planer",
+      "nepali": "रन्दा"
+    },
+    {
+      "korean": "대패질하다",
+      "english": "to plane wood",
+      "nepali": "रन्दा लगाउनु / चिल्लो बनाउनु"
     },
     {
       "korean": "사포",
-      "english": "puttyhera",
-      "nepali": "पुट्टिहेरा"
+      "english": "sandpaper",
+      "nepali": "खाक्सी (स्यान्डपेपर)"
+    },
+    {
+      "korean": "사포질하다 (연마하다)",
+      "english": "to sandpaper / polish",
+      "nepali": "खाक्सीले घोट्नु / चिल्लो पार्नु"
+    },
+    {
+      "korean": "퍼티 (빠데)",
+      "english": "putty",
+      "nepali": "पुट्टिन (खाल्डाखुल्डी भर्ने पेस्ट)"
+    },
+    {
+      "korean": "퍼티헤라",
+      "english": "putty knife / spatula",
+      "nepali": "पुट्टिन लगाउने चक्कु/पत्ती"
+    },
+    {
+      "korean": "도장하다 (칠하다)",
+      "english": "to paint / coat / lacquer",
+      "nepali": "रंग/पालिस लगाउनु"
+    },
+    {
+      "korean": "페인트",
+      "english": "paint",
+      "nepali": "पेन्ट (रंग)"
+    },
+    {
+      "korean": "붓",
+      "english": "paint brush",
+      "nepali": "कुची (ब्रुस)"
     },
     {
       "korean": "롤러",
-      "english": "roller",
+      "english": "paint roller",
       "nepali": "रोलर"
+    },
+    {
+      "korean": "니스 (바니시)",
+      "english": "varnish / lacquer",
+      "nepali": "वार्निस (चम्काउने पालिस)"
+    },
+    {
+      "korean": "건조하다",
+      "english": "to dry",
+      "nepali": "सुकाउनु"
     }
   ],
   "grammar": [
     {
-      "point": "가구 제작",
-      "explanation": "Furniture Making 가구 제작 준비에 대해 말할 수 있다. 학습 목표 Can talk about preparing for furniture making tasks. LEARNING OBJECTIVES 가구 연마 및 도장 작업에 대해 묻고 대답할 수 있다. Can ask and answer questions about sanding and painting furniture. 126 한국어 표준교재 2 CHAPTER 42 EPS-TOPIK 반장님이 뭐라고 하셨어요? 오늘까지 도장 작업을 끝낼 수 있느냐고 하셨어요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -(으)ㄹ까 봐 가구 제작 준비 관련 어휘 빌트인 가구 -느냐고/(으)냐고 하다 Vocabulary Related to Furniture Built-in Furniture Making Preparation 가구 연마 및 도장 작업 관련 어휘 Vocabulary Related to Sanding and Painting Furniture 126 한국어 표준교재 2",
-      "examples": [],
-      "explanationNp": "가구 제작 सम्बन्धी व्याकरण नियम र प्रयोग।"
+      "point": "-(으)ㄹ까 봐",
+      "explanation": "Used with verbs or adjectives to express concern that an unfavorable situation might occur, prompting preparation or prevention.",
+      "explanationNp": "कुनै नराम्रो अवस्था आउला कि भन्ने चिन्ता वा डरले गर्दा त्यसको पूर्वतयारी वा सावधानी अपनाउँदा प्रयोग गरिन्छ। अन्त्यमा स्वरवर्ण वा 'ㄹ' भए '-ㄹ까 봐', व्यञ्जनवर्ण भए '-을까 봐' जोडिन्छ।",
+      "examples": [
+        "목재가 갈라질까 봐 조심해서 작업했어요. — काठ चिरिएला कि भन्ने डरले होसियारीपूर्वक काम गरें।",
+        "비가 올까 봐 우산을 챙겼어요. — पानी पर्ला कि भनेर छाता बोकेको छु।"
+      ]
     },
     {
-      "point": "고장 나다 기다리다 미끄러지다 지각하다",
-      "explanation": "⑴ 늦게 일어나서 회사에 택시를 탔어요. ⑵ 작업 중에 기계가 매일 꼼꼼하게 점검해요. ⑶ 작업장에서 사람들이 바닥을 깨끗하게 닦았어요. ⑷ 친구가 좀 늦을 거라고 미리 연락했어요.",
-      "examples": [],
-      "explanationNp": "고장 나다 기다리다 미끄러지다 지각하다 सम्बन्धी व्याकरण नियम र प्रयोग।"
-    },
-    {
-      "point": "언제 페인트를 칠하면",
-      "explanation": "돼요? 가 : 뭐라고 했어요? 나 : 언제 페인트를 칠하면 되느냐고 했어요. ⑴ ⑵ 도색 작업을 언제 페인트가 다 말랐어요? 시작해요? ⑶ ⑷ 젯소가 몇 통 남았어요? 열풍기를 몇 시간 동안 틀어야 돼요? 42 가구 제작 FURNITURE MAKING 131",
-      "examples": [],
-      "explanationNp": "언제 페인트를 칠하면 सम्बन्धी व्याकरण नियम र प्रयोग।"
+      "point": "-느냐고 / -(으)냐고 하다",
+      "explanation": "Used to indirectly quote a question asked by someone else. In spoken language, '-냐고 하다' is commonly used.",
+      "explanationNp": "अरू कसैले सोधेको प्रश्न अरूलाई दोहोर्‍याएर सुनाउँदा प्रयोग गरिन्छ। बोलीचालीमा छोटकरीमा '-냐고 하다' बढी प्रयोग हुन्छ। क्रियापदसँग '-느냐고 하다', विशेषणमा 받침 भए '-으냐고', नभए '-냐고' जोडिन्छ।",
+      "examples": [
+        "반장님이 치수를 다 쟀느냐고 물어보셨어요. — टिम लिडरले नाप सबै लियो कि भनेर सोध्नुभयो।",
+        "사장님이 오늘 작업이 힘드냐고 하셨어요. — साहुजीले आजको काम गाह्रो छ कि भनेर सोध्नुभयो।"
+      ]
     }
   ],
   "conversations": [
@@ -248,6 +323,6 @@
       "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
-  "titleNp": "फर्निचर निर्माण र काठको काम",
+  "titleNp": "काठ तथा फर्निचर निर्माण",
   "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_42.pdf"
 }

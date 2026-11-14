@@ -1,0 +1,157 @@
+{
+  "chapterNo": 37,
+  "titleKo": "기계 가공",
+  "titleEn": "Machine Processing",
+  "titleNp": "मेसिन प्रशोधन",
+  "learningObjectives": [
+    {
+      "id": "ch37_obj_01",
+      "korean": "기계 작동 방법에 대해 말할 수 있다.",
+      "english": "Can talk about how to operate a machine.",
+      "nepali": "मेसिन चलाउने तरिकाबारे बताउन सक्नुहुनेछ।"
+    },
+    {
+      "id": "ch37_obj_02",
+      "korean": "작업 지시를 이해하고 전달할 수 있다.",
+      "english": "Can understand and relay work instructions.",
+      "nepali": "काम सम्बन्धी निर्देशन बुझ्न र अरूलाई भन्न सक्नुहुनेछ।"
+    }
+  ],
+  "vocabulary1": {
+    "topicKo": "기계 가공 관련 어휘",
+    "topicEn": "Machine Processing Terms",
+    "topicNp": "मेसिन प्रशोधन शब्दावली",
+    "words": [
+      {
+        "korean": "도면",
+        "english": "blueprint / drawing",
+        "nepali": "नक्सा / ब्लुप्रिन्ट"
+      },
+      {
+        "korean": "깎다",
+        "english": "to cut / shave / whittle",
+        "nepali": "काट्नु / छिल्नु"
+      },
+      {
+        "korean": "구멍을 뚫다",
+        "english": "to drill a hole",
+        "nepali": "प्वाल पार्नु"
+      },
+      {
+        "korean": "도려내다",
+        "english": "to carve out",
+        "nepali": "खोप्नु / निकाल्नु"
+      },
+      {
+        "korean": "철판을 구부리다",
+        "english": "to bend a metal plate",
+        "nepali": "फलामको पाता मोड्नु"
+      },
+      {
+        "korean": "공작물을 갈다",
+        "english": "to grind a workpiece",
+        "nepali": "वर्कपिस घिस्नु / रन्दा लगाउनु"
+      },
+      {
+        "korean": "밀링 머신",
+        "english": "milling machine",
+        "nepali": "मिलिङ मेसिन"
+      },
+      {
+        "korean": "선반 기계",
+        "english": "lathe machine",
+        "nepali": "खराद मेसिन (लेथ)"
+      },
+      {
+        "korean": "프레스 기계",
+        "english": "press machine",
+        "nepali": "प्रेस मेसिन"
+      },
+      {
+        "korean": "드릴 기계",
+        "english": "drill machine",
+        "nepali": "ड्रिल मेसिन"
+      }
+    ]
+  },
+  "grammar1": {
+    "point": "-자고 하다",
+    "meaningNp": "...गरौं भन्नुभयो (अरूको प्रस्तावलाई दोहोर्‍याउँदा / Someone suggested that...)",
+    "explanationEn": "Used to relay a suggestion made by someone else to do something together.",
+    "explanationNp": "अरू कसैले सँगै गरौं भनेर प्रस्ताव गरेको कुरा दोहोर्‍याएर बताउँदा प्रयोग गरिन्छ।",
+    "ruleNp": "क्रियापदको धातुमा सिधै '-자고 하다' जोडिन्छ।",
+    "examples": [
+      {
+        "korean": "프엉 씨가 같이 점심을 먹자고 했어요.",
+        "english": "Phuong suggested we eat lunch together.",
+        "nepali": "फुअंगले सँगै खाना खाऔं भन्नुभयो।"
+      },
+      {
+        "korean": "반장님이 오후에 회의하자고 했어요.",
+        "english": "The team leader suggested having a meeting in the afternoon.",
+        "nepali": "टिम लिडरले दिउँसो मिटिङ गरौं भन्नुभयो।"
+      }
+    ]
+  },
+  "vocabulary2": {
+    "topicKo": "기계 조작 어휘",
+    "topicEn": "Machine Operation Terms",
+    "topicNp": "मेसिन सञ्चालन शब्दावली",
+    "words": [
+      {
+        "korean": "전원을 켜다/끄다",
+        "english": "to turn on/off (power)",
+        "nepali": "बिजुली खोल्नु / बन्द गर्नु"
+      },
+      {
+        "korean": "스위치를 누르다",
+        "english": "to press a switch/button",
+        "nepali": "स्विच थिच्नु"
+      },
+      {
+        "korean": "버튼을 누르다",
+        "english": "to press a button",
+        "nepali": "बटन थिच्नु"
+      },
+      {
+        "korean": "핸들을 돌리다",
+        "english": "to turn a handle / lever",
+        "nepali": "ह्यान्डल घुमाउनु"
+      },
+      {
+        "korean": "속도를 조절하다",
+        "english": "to adjust the speed",
+        "nepali": "गति मिलाउनु"
+      },
+      {
+        "korean": "정지하다",
+        "english": "to stop",
+        "nepali": "रोक्नु"
+      },
+      {
+        "korean": "작동시키다",
+        "english": "to operate / activate",
+        "nepali": "चलाउनु / सुरु गर्नु"
+      }
+    ]
+  },
+  "grammar2": {
+    "point": "-(으)ㄹ 때",
+    "meaningNp": "...गर्दा / ...हुँदा (समय / When / At the time of...)",
+    "explanationEn": "Attaches to verbs and adjectives to indicate the time or occasion when something happens.",
+    "explanationNp": "क्रियापद वा विशेषणमा जोडिएर कुनै कार्य भइरहेको समय वा अवसर जनाउँछ।",
+    "ruleNp": "अन्त्यमा स्वरवर्ण वा 'ㄹ' भए '-ㄹ 때', व्यञ्जनवर्ण भए '-을 때' जोडिन्छ।",
+    "examples": [
+      {
+        "korean": "기계를 사용할 때 안전 장갑을 끼세요.",
+        "english": "When using the machine, please wear safety gloves.",
+        "nepali": "मेसिन चलाउँदा सुरक्षा पन्जा लगाउनुहोस्।"
+      },
+      {
+        "korean": "작업할 때 안전모를 꼭 쓰세요.",
+        "english": "Always wear a hard hat when working.",
+        "nepali": "काम गर्दा सुरक्षा टोपी अवश्य लगाउनुहोस्।"
+      }
+    ]
+  }
+}

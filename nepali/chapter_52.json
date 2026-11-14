@@ -1,0 +1,147 @@
+{
+  "chapterNo": 52,
+  "titleKo": "음식 조리",
+  "titleEn": "Food Preparation",
+  "titleNp": "खाना पकाउने तथा भान्छा व्यवस्थापन",
+  "learningObjectives": [
+    {
+      "id": "ch52_obj_01",
+      "korean": "식재료 검수 및 보관 방법에 대해 말할 수 있다.",
+      "english": "Can talk about inspecting and storing food ingredients.",
+      "nepali": "खाद्य सामग्री जाँच्ने र सुरक्षित राख्ने तरिकाबारे बताउन सक्नुहुनेछ।"
+    },
+    {
+      "id": "ch52_obj_02",
+      "korean": "음식 위생 관리 및 유통기한을 설명할 수 있다.",
+      "english": "Can explain food hygiene and expiration dates.",
+      "nepali": "खानाको सरसफाइ र म्याद गुज्रने मिति (एक्सपायरी) बारे व्याख्या गर्न सक्नुहुनेछ।"
+    }
+  ],
+  "vocabulary1": {
+    "topicKo": "식재료 관리 관련 어휘",
+    "topicEn": "Managing Ingredients Vocabulary",
+    "topicNp": "खाद्य सामग्री व्यवस्थापन सम्बन्धी शब्दावली",
+    "words": [
+      {
+        "korean": "주문서를 확인하다",
+        "english": "to check the order form",
+        "nepali": "अर्डर फारम जाँच्नु"
+      },
+      {
+        "korean": "검수하다",
+        "english": "to inspect received goods for quality",
+        "nepali": "आएको सामान गुणस्तर जाँच्नु"
+      },
+      {
+        "korean": "밀폐용기",
+        "english": "airtight container",
+        "nepali": "हावा नछिर्ने बिर्को भएको भाँडो"
+      },
+      {
+        "korean": "소분하다 (나누다)",
+        "english": "to divide into portions / smaller packs",
+        "nepali": "थोरै थोरै भाग लगाएर प्याक गर्नु"
+      },
+      {
+        "korean": "냉장 보관",
+        "english": "refrigerated storage (0~10°C)",
+        "nepali": "फ्रिजमा राख्नु (रेफ्रिजरेसन)"
+      },
+      {
+        "korean": "냉동 보관",
+        "english": "frozen storage (below -18°C)",
+        "nepali": "डीपफ्रिजमा जमाएर राख्नु"
+      },
+      {
+        "korean": "해동하다",
+        "english": "to defrost / thaw",
+        "nepali": "बरफ पग्लन दिनु"
+      }
+    ]
+  },
+  "grammar1": {
+    "point": "-았어야/었어야 했는데",
+    "meaningNp": "...गर्नुपर्ने थियो (नगरेकोमा पछुतो / Should have done...)",
+    "explanationEn": "Attaches to verbs and adjectives to express regret, disappointment, or remorse over failing to do something in the past.",
+    "explanationNp": "विगतमा कुनै कार्य गर्नुपर्नेमा गर्न नसकेकोमा पश्चात्ताप वा खिन्नता व्यक्त गर्दा प्रयोग गरिन्छ।",
+    "ruleNp": "अन्तिम स्वरवर्ण ㅏ वा ㅗ भए '-았어야 했는데', बाँकी भए '-었어야 했는데', 하다 मा '-했어야 했는데' हुन्छ।",
+    "examples": [
+      {
+        "korean": "고기를 냉동실에 넣었어야 했는데 깜빡했어요.",
+        "english": "I should have put the meat in the freezer, but I forgot.",
+        "nepali": "मासुलाई डीपफ्रिजमा राख्नुपर्ने थियो, बिर्सेछु।"
+      },
+      {
+        "korean": "유통기한을 확인했어야 했는데 그냥 샀어요.",
+        "english": "I should have checked the expiration date, but bought it anyway.",
+        "nepali": "म्याद सकिने मिति हेर्नुपर्ने थियो, त्यसै किनेछु।"
+      }
+    ]
+  },
+  "vocabulary2": {
+    "topicKo": "음식 안전 관리 관련 어휘",
+    "topicEn": "Food Safety Management",
+    "topicNp": "खानाको गुणस्तर तथा सुरक्षा",
+    "words": [
+      {
+        "korean": "곡류",
+        "english": "grains / cereals",
+        "nepali": "अन्नबाली"
+      },
+      {
+        "korean": "해산물",
+        "english": "seafood",
+        "nepali": "समुद्री खाना"
+      },
+      {
+        "korean": "육류",
+        "english": "meat",
+        "nepali": "मासुजन्य पदार्थ"
+      },
+      {
+        "korean": "유제품",
+        "english": "dairy products",
+        "nepali": "दूधजन्य परिकार"
+      },
+      {
+        "korean": "실온",
+        "english": "room temperature",
+        "nepali": "कोठाको सामान्य तापक्रम"
+      },
+      {
+        "korean": "부패하다 (상하다)",
+        "english": "to rot / spoil",
+        "nepali": "सड्नु / बिग्रिनु"
+      },
+      {
+        "korean": "냄새가 나다",
+        "english": "to smell bad / have an odor",
+        "nepali": "गन्ध आउनु / दुर्गन्ध फैलिनु"
+      },
+      {
+        "korean": "식중독",
+        "english": "food poisoning",
+        "nepali": "खानाको विषाक्तता (फुड प्वाइजनिङ)"
+      }
+    ]
+  },
+  "grammar2": {
+    "point": "-(으)ㄴ 지",
+    "meaningNp": "...भएको यति समय बित्यो (समय बितेको अवधि / Since doing something)",
+    "explanationEn": "Attaches to verbs to indicate the amount of time that has elapsed since an action was performed.",
+    "explanationNp": "क्रियापदमा जोडिएर कुनै कार्य सम्पन्न भएको यति समय बित्यो भन्ने समयको अन्तराल देखाउँदा प्रयोग गरिन्छ। पछाडि '시간 + 되다/지나다' आउँछ।",
+    "ruleNp": "अन्त्यमा स्वरवर्ण भए '-ㄴ 지', व्यञ्जनवर्ण (받침) भए '-은 지' जोडिन्छ।",
+    "examples": [
+      {
+        "korean": "식재료를 냉장고에 넣은 지 일주일이 지났어요.",
+        "english": "It has been a week since I put the ingredients in the fridge.",
+        "nepali": "खानेकुरा फ्रिजमा राखेको एक हप्ता बितिसक्यो।"
+      },
+      {
+        "korean": "한국에 온 지 1년이 되었어요.",
+        "english": "It has been one year since I came to Korea.",
+        "nepali": "कोरिया आएको १ वर्ष भयो।"
+      }
+    ]
+  }
+}

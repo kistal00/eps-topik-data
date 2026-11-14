@@ -1,0 +1,151 @@
+{
+  "version": 2,
+  "chapterNo": 10,
+  "titleKo": "물건 구입",
+  "titleEn": "Shopping",
+  "titleNp": "सामान खरिद",
+  "learningObjectives": [
+    {
+      "id": "ch10_obj_01",
+      "korean": "물건의 상태에 대해 묻고 대답할 수 있다.",
+      "english": "Can ask and answer about the descriptions of things.",
+      "nepali": "सामानको अवस्था वा गुणको बारेमा सोध्न र उत्तर दिन सक्नुहुनेछ।"
+    },
+    {
+      "id": "ch10_obj_02",
+      "korean": "필요한 것을 상대방에게 요청할 수 있다.",
+      "english": "Can request items needed from others.",
+      "nepali": "आफूलाई चाहिएको कुरा अनुरोध वा माग गर्न सक्नुहुनेछ।"
+    }
+  ],
+  "vocabulary1": {
+    "topicKo": "상태 관련 어휘",
+    "topicEn": "Description Words",
+    "topicNp": "सामानको अवस्था र गुण सम्बन्धी शब्दहरू",
+    "words": [
+      { "korean": "크다", "english": "to be big", "nepali": "ठूलो हुनु" },
+      { "korean": "작다", "english": "to be small", "nepali": "सानो हुनु" },
+      { "korean": "싱싱하다", "english": "to be fresh", "nepali": "ताजा हुनु (फलफूल, तरकारी)" },
+      { "korean": "상하다", "english": "to be spoiled / rotten", "nepali": "बिग्रनु / सड्नु" },
+      { "korean": "많다", "english": "to be many / much", "nepali": "धेरै हुनु" },
+      { "korean": "적다", "english": "to be few / little", "nepali": "थोरै हुनु" },
+      { "korean": "싸다", "english": "to be cheap", "nepali": "सस्तो हुनु" },
+      { "korean": "비싸다", "english": "to be expensive", "nepali": "महँगो हुनु" },
+      { "korean": "가볍다", "english": "to be light", "nepali": "हल्का हुनु" },
+      { "korean": "무겁다", "english": "to be heavy", "nepali": "गह्रौं हुनु" },
+      { "korean": "길다", "english": "to be long", "nepali": "लामो हुनु" },
+      { "korean": "짧다", "english": "to be short", "nepali": "छोटो हुनु" },
+      { "korean": "과일 (수박, 사과, 딸기)", "english": "fruit (watermelon, apple, strawberry)", "nepali": "फलफूल (खर्बुजा, स्याउ, स्ट्रबेरी)" }
+    ]
+  },
+  "grammar1": {
+    "point": "-네요",
+    "meaningNp": "पो रहेछ / छ नि त! (आश्चर्य वा प्रशंसा सूचक प्रत्यय)",
+    "explanationEn": "Used to express exclamation, admiration, or surprise upon discovering or experiencing something new.",
+    "explanationNp": "आफूले भर्खरै देखेको, अनुभव गरेको वा थाहा पाएको कुरामा आश्चर्य वा प्रशंसा व्यक्त गर्दा प्रयोग गरिन्छ।",
+    "ruleNp": "धातु + 네요 (बाच्छिम भए पनि नभए पनि '네요' नै जोडिन्छ। उदा: 크네요 = ठूलो रहेछ!, 덥네요 = गर्मी रहेछ नि!)।",
+    "examples": [
+      {
+        "korean": "수박이 정말 크고 싱싱하네요!",
+        "english": "The watermelon is really big and fresh!",
+        "nepali": "खर्बुजा साँच्चै ठूलो र ताजा रहेछ नि!"
+      },
+      {
+        "korean": "투안 씨는 한국말을 참 잘하네요.",
+        "english": "Tuan, you speak Korean really well.",
+        "nepali": "तुआन जीले त कोरियन भाषा धेरै राम्रो बोल्नुहुँदो रहेछ।"
+      }
+    ]
+  },
+  "dialogue1": {
+    "titleNp": "संवाद १",
+    "lines": [
+      {
+        "speaker": "가게 주인 (Shopkeeper)",
+        "korean": "어서 오세요. 무엇을 도와드릴까요?",
+        "english": "Welcome. How can I help you?",
+        "nepali": "स्वागत छ। के सहयोग गरूँ होला?"
+      },
+      {
+        "speaker": "투안 (Tuan)",
+        "korean": "수박이 정말 크고 싱싱하네요. 얼마예요?",
+        "english": "The watermelon is really big and fresh. How much is it?",
+        "nepali": "खर्बुजा त धेरै ठूलो र ताजा रहेछ नि। कति हो?"
+      },
+      {
+        "speaker": "가게 주인 (Shopkeeper)",
+        "korean": "한 통에 20,000원이에요.",
+        "english": "It's 20,000 won for one.",
+        "nepali": "एउटा गोटाको २०,००० वन हो।"
+      },
+      {
+        "speaker": "투안 (Tuan)",
+        "korean": "조금 비싸요. 깎아 주세요.",
+        "english": "It's a little expensive. Please give me a discount.",
+        "nepali": "अलिकति महँगो भयो। अलि भाउ घटाइदिनुहोस् न।"
+      },
+      {
+        "speaker": "가게 주인 (Shopkeeper)",
+        "korean": "알겠어요. 18,000원만 주세요.",
+        "english": "All right. Just give me 18,000 won.",
+        "nepali": "हुन्छ, ल १८,००० वन मात्र दिनुहोस्।"
+      }
+    ]
+  },
+  "vocabulary2": {
+    "topicKo": "화폐 및 물품 구매",
+    "topicEn": "Currency and Purchasing",
+    "topicNp": "मुद्रा र किनमेल सम्बन्धी शब्दहरू",
+    "words": [
+      { "korean": "돈 / 현금", "english": "money / cash", "nepali": "पैसा / नगद" },
+      { "korean": "동전", "english": "coin", "nepali": "सिक्का (१०, ५०, १००, ५०० वन)" },
+      { "korean": "지폐", "english": "paper banknote", "nepali": "कागजी नोट (१०००, ५०००, १००००, ५०००० वन)" },
+      { "korean": "신용카드", "english": "credit card", "nepali": "क्रेडिट कार्ड" },
+      { "korean": "값 / 가격", "english": "price", "nepali": "मूल्य / भाउ" },
+      { "korean": "값을 깎다", "english": "to bargain / get a discount", "nepali": "भाउ घटाउनु / बार्गेनिङ गर्नु" },
+      { "korean": "계산하다", "english": "to pay / settle the bill", "nepali": "हिसाब गर्नु / रकम तिर्नु" },
+      { "korean": "넣다", "english": "to put in", "nepali": "हाल्नु / राख्नु" },
+      { "korean": "포장하다 / 싸다", "english": "to wrap / pack", "nepali": "प्याक गर्नु / पोको पार्नु" },
+      { "korean": "바꾸다 / 교환하다", "english": "to exchange", "nepali": "साट्नु (सामान फेर्नु / एक्सचेन्ज गर्नु)" },
+      { "korean": "환불하다", "english": "to get a refund", "nepali": "फिर्ता गरेर पैसा फिर्ता लिनु (रिफन्ड)" }
+    ]
+  },
+  "grammar2": {
+    "point": "-아/어 주세요",
+    "meaningNp": "गरिदिनुहोस् (अनुरोध वा शिष्ट आदेश / Request Ending)",
+    "explanationEn": "Attaches to verbs to politely request someone to perform an action for the speaker.",
+    "explanationNp": "क्रियाको धातुसँग जोडिएर अरू व्यक्तिलाई कुनै काम गरिदिनको लागि विनम्र अनुरोध गर्दा प्रयोग गरिन्छ।",
+    "ruleNp": "धातुको स्वर 'ㅏ, ㅗ' भए '-아 주세요' (उदा: 깎다 → 깎아 주세요 = घटाइदिनुहोस्), अन्य स्वर भए '-어 주세요' (उदा: 포장하다 → 포장해 주세요 = प्याक गरिदिनुहोस्, 바꾸다 → 바꿔 주세요 = साटिदिनुहोस्)।",
+    "examples": [
+      {
+        "korean": "봉투에 넣어 주세요.",
+        "english": "Please put it in a bag.",
+        "nepali": "झोलामा (प्लास्टिक ब्यागमा) हालिदिनुहोस्।"
+      },
+      {
+        "korean": "바지가 작아요. 다른 것으로 교환해 주세요.",
+        "english": "The pants are too small. Please exchange them for another.",
+        "nepali": "प्यान्ट सानो भयो। अर्कोसँग साटिदिनुहोस्।"
+      }
+    ]
+  },
+  "cultureAndInfo": {
+    "titleKo": "무인 판매점",
+    "titleEn": "Unmanned (Self-Checkout) Stores in Korea",
+    "titleNp": "कोरियामा मानवरहित (सेल्फ-सर्भिस) पसलहरू",
+    "sections": [
+      {
+        "subtitleNp": "१. मानवरहित पसलको अवधारणा (무인 매장)",
+        "contentNp": "कोरियामा आइसक्रिम पसल, कफी सप, २४ घण्टे लन्ड्री, र सुविधा पसलहरूमा कर्मचारी हुँदैनन्। ग्राहक आफैंले सामान छान्ने र मेसिनमा बारकोड स्क्यान गरेर कार्डबाट पैसा तिर्ने व्यवस्था हुन्छ।"
+      },
+      {
+        "subtitleNp": "२. किओस्क भुक्तानी मेसिन (키오스크 결제)",
+        "contentNp": "पसलमा राखिएको टच स्क्रिन किओस्क (Kiosk) मेसिनमा सामानको बारकोड देखाएर कार्ड वा मोबाइल पे (स्यामसुङ पे, काकाओ पे) बाट सजिलै भुक्तानी गर्न सकिन्छ।"
+      },
+      {
+        "subtitleNp": "३. ध्यान दिनुपर्ने सुरक्षा नियमहरू",
+        "contentNp": "सबै मानवरहित पसलहरूमा २४ घण्टा सीसीटीभी क्यामेरा जडान गरिएको हुन्छ, त्यसैले भुक्तानी नगरी सामान बाहिर निकाल्नु कानुनी अपराध मानिन्छ।"
+      }
+    ]
+  }
+}

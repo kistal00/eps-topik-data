@@ -12,37 +12,129 @@
   ],
   "vocabulary": [
     {
-      "korean": "대중교통",
-      "english": "Public Transportation",
-      "nepali": "सार्वजनिक यातायात"
+      "korean": "마을버스",
+      "english": "local town bus",
+      "nepali": "स्थानिय गाउँले बस (छोटो दूरीको)"
     },
     {
-      "korean": "타다",
-      "english": "to ride",
-      "nepali": "सवारी गर्न"
+      "korean": "시내버스",
+      "english": "city bus",
+      "nepali": "नगर बस (सहरभित्र चल्ने)"
+    },
+    {
+      "korean": "시외 / 고속버스",
+      "english": "intercity / express bus",
+      "nepali": "लामो दूरीको एक्सप्रेस बस"
+    },
+    {
+      "korean": "지하철",
+      "english": "subway / metro",
+      "nepali": "भूमिगत रेल (सबवे)"
+    },
+    {
+      "korean": "기차 / KTX",
+      "english": "train / high-speed bullet train",
+      "nepali": "रेल / तीव्र गतिको बुलेट रेल"
+    },
+    {
+      "korean": "택시",
+      "english": "taxi",
+      "nepali": "ट्याक्सी"
+    },
+    {
+      "korean": "비행기",
+      "english": "airplane",
+      "nepali": "हवाइजहाज"
+    },
+    {
+      "korean": "배",
+      "english": "ship / boat",
+      "nepali": "पानीजहाज"
+    },
+    {
+      "korean": "정류장",
+      "english": "bus stop",
+      "nepali": "बस बिसौनी (स्टप)"
+    },
+    {
+      "korean": "터미널",
+      "english": "bus terminal",
+      "nepali": "बस टर्मिनल"
+    },
+    {
+      "korean": "지하철역",
+      "english": "subway station",
+      "nepali": "सबवे स्टेसन"
+    },
+    {
+      "korean": "공항",
+      "english": "airport",
+      "nepali": "विमानस्थल (एयरपोर्ट)"
+    },
+    {
+      "korean": "타고 가다",
+      "english": "to go by (riding)",
+      "nepali": "चढेर जानु"
+    },
+    {
+      "korean": "타고 오다",
+      "english": "to come by (riding)",
+      "nepali": "चढेर आउनु"
+    },
+    {
+      "korean": "걸어가다",
+      "english": "to go on foot / walk",
+      "nepali": "हिँडेर जानु"
+    },
+    {
+      "korean": "걸어오다",
+      "english": "to come on foot / walk",
+      "nepali": "हिँडेर आउनु"
+    },
+    {
+      "korean": "내리다",
+      "english": "to get off / alight",
+      "nepali": "गाडीबाट ओर्लनु"
+    },
+    {
+      "korean": "갈아타다 / 환승하다",
+      "english": "to transfer (vehicles)",
+      "nepali": "गाडी फेर्नु (ट्रान्सफर गर्नु)"
+    },
+    {
+      "korean": "출근 시간",
+      "english": "rush hour (morning)",
+      "nepali": "काममा जाने व्यस्त समय (बिहान)"
+    },
+    {
+      "korean": "퇴근 시간",
+      "english": "rush hour (evening)",
+      "nepali": "कामबाट फर्कने व्यस्त समय (साँझ)"
+    },
+    {
+      "korean": "차가 막히다",
+      "english": "traffic is jammed",
+      "nepali": "ट्राफिक जाम हुनु"
     }
   ],
   "grammar": [
     {
-      "point": "대중교통",
-      "explanation": "Public Transportation 대중교통 이용에 대해 묻고 대답할 수 있다. 학습 목표 Can ask and answer questions about using public transportation. LEARNING OBJECTIVES 행동의 이유를 말할 수 있다. Can express the reason for an action. 160 한국어 표준교재 1 CHAPTER 12 EPS-TOPIK 회사에서 시내까지 어떻게 가요? 버스로 가요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION (으)로(수단) 교통수단 관련 어휘 한국의 대중교통 -아서/어서(이유) Vocabulary Related to Public Transportation in Korea Transportation 이동 관련 어휘 Vocabulary Related to Movement 160 한국어 표준교재 1",
-      "examples": [],
-      "explanationNp": "대중교통 सम्बन्धी व्याकरण नियम र प्रयोग।"
-    },
-    {
-      "point": "사와 결합하여 시작점과 종착점을",
-      "explanation": "또는 사용되는 도구나 재료를 나타낸다. 나타낸다. ‘(으)로’ combines with nouns to show the means or method of ‘~에서 ~까지’ combines with nouns an action, or the tool or material used. indicating places that show the starting point and destination. 받침 ○ 으로 트럭으로 받침 ×, 받침 ‘ㄹ’ 로 기차로, 지하철로 나 : 15분쯤 걸려요. 회사에 지하철로 가요. 가 : 한국에서 중국까지 어떻게 갔어요? 나 : 배로 갔어요.",
+      "point": "(으)로 (수단 / 방법)",
+      "explanation": "Attaches to nouns to indicate the means, vehicle, method, tool, or instrument used for an action.",
+      "explanationNp": "कुनै कार्य गर्न प्रयोग गरिने यातायातको साधन, औजार वा माध्यम जनाउन नामको पछाडि जोडिन्छ। बाच्छिम भए '-으로' (उदा: 지하철로, 버스로, 연필로)। बाच्छिम नभए वा 'ㄹ' बाच्छिम भए '-로' जोडिन्छ।",
       "examples": [
-        "예 가 : 여기에서 약국까지 얼마나 걸려요?",
-        "예 여기까지 마을버스로 왔어요."
-      ],
-      "explanationNp": "사와 결합하여 시작점과 종착점을 सम्बन्धी व्याकरण नियम र प्रयोग।"
+        "회사에 어떻게 가요? / 버스로 가요. — क: कम्पनीमा कसरी जानुहुन्छ? / ख: बसबाट जान्छु।",
+        "한국에 비행기로 왔어요. — कोरियामा हवाइजहाज चढेर आएँ।"
+      ]
     },
     {
-      "point": "멀다 좋다 비싸다 친절하다 좋아하다",
-      "explanation": "[ 보기 ] 회사가 멀어서 차를 타고 가야 합니다. ⑴ 저는 커피를 매일 마십니다. ⑵ 날씨가 집까지 걸어갔습니다. ⑶ 수박이 너무 사지 않았습니다. ⑷ 다라 씨는 사람들이 다라 씨를 좋아합니다.",
-      "examples": [],
-      "explanationNp": "멀다 좋다 비싸다 친절하다 좋아하다 सम्बन्धी व्याकरण नियम र प्रयोग।"
+      "point": "-아서/어서 (이유)",
+      "explanation": "Attaches to verbs and adjectives to show that the first clause is the reason or cause of the second clause.",
+      "explanationNp": "अगाडिको वाक्य पछाडिको घटना वा कार्यको कारण भएको जनाउँछ। धातुको स्वर 'ㅏ, ㅗ' भए '-아서' (उदा: 비가 와서), अन्य स्वर भए '-어서' (उदा: 맛있어서), '하다' भए '-해서' (उदा: 피곤해서)।",
+      "examples": [
+        "차가 막혀서 늦었어요. — गाडी जाम भएकाले ढिलो भयो।",
+        "날씨가 좋아서 산책했어요. — मौसम राम्रो भएकोले हिँडडुल गर्न गएँ।"
+      ]
     }
   ],
   "conversations": [

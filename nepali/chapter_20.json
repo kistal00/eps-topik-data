@@ -1,0 +1,195 @@
+{
+  "chapterNo": 20,
+  "titleKo": "인터넷과 스마트폰",
+  "titleEn": "The Internet and Smartphones",
+  "titleNp": "इन्टरनेट र स्मार्टफोन",
+  "learningObjectives": [
+    {
+      "id": "ch20_obj_01",
+      "korean": "인터넷 생활에 대해 말할 수 있다.",
+      "english": "Can talk about internet usage.",
+      "nepali": "इन्टरनेट र अनलाइन सेवाहरूको प्रयोगबारे बताउन सक्नुहुनेछ।"
+    },
+    {
+      "id": "ch20_obj_02",
+      "korean": "스마트폰 사용에 대해 말할 수 있다.",
+      "english": "Can talk about smartphone apps and features.",
+      "nepali": "स्मार्टफोनका एपहरू र सुविधाहरूबारे कुराकानी गर्न सक्नुहुनेछ।"
+    }
+  ],
+  "vocabulary1": {
+    "topicKo": "인터넷 관련 어휘",
+    "topicEn": "Internet Vocabulary",
+    "topicNp": "इन्टरनेट शब्दावली",
+    "words": [
+      {
+        "korean": "인터넷",
+        "english": "internet",
+        "nepali": "इन्टरनेट"
+      },
+      {
+        "korean": "웹사이트",
+        "english": "website",
+        "nepali": "वेबसाइट"
+      },
+      {
+        "korean": "홈페이지",
+        "english": "homepage",
+        "nepali": "गृहपृष्ठ (होमपेज)"
+      },
+      {
+        "korean": "블로그",
+        "english": "blog",
+        "nepali": "ब्लग"
+      },
+      {
+        "korean": "검색하다",
+        "english": "to search",
+        "nepali": "सर्च गर्नु / खोज्नु"
+      },
+      {
+        "korean": "이메일",
+        "english": "e-mail",
+        "nepali": "इमेल"
+      },
+      {
+        "korean": "채팅하다",
+        "english": "to chat",
+        "nepali": "च्याट गर्नु"
+      },
+      {
+        "korean": "회원 가입",
+        "english": "membership sign-up",
+        "nepali": "सदस्यता दर्ता / साइन अप"
+      },
+      {
+        "korean": "회원 탈퇴",
+        "english": "cancelling membership",
+        "nepali": "खाता बन्द गर्नु"
+      },
+      {
+        "korean": "아이디 / 비밀번호",
+        "english": "ID / password",
+        "nepali": "आईडी र पासवर्ड"
+      },
+      {
+        "korean": "로그인 / 로그아웃",
+        "english": "log in / log out",
+        "nepali": "लगइन र लगआउट"
+      }
+    ]
+  },
+  "grammar1": {
+    "point": "-고 있다 (진행)",
+    "meaningNp": "गर्दैछु / गरिरहेको छु (वर्तमान अपूर्ण काल / Present Continuous)",
+    "explanationEn": "Attaches to verbs to show that an action is currently in progress.",
+    "explanationNp": "कुनै कार्य वर्तमान समयमा जारी रहेको जनाउँदा क्रियाको धातुमा जोडिन्छ।",
+    "ruleNp": "धातु + 고 있다 (उदा: 검색하고 있어요 = खोज्दैछु, 일하고 있어요 = काम गर्दैछु)।",
+    "examples": [
+      {
+        "korean": "지금 뭐 해요? / 인터넷으로 쇼핑하고 있어요.",
+        "english": "Q: What are you doing now? / A: I am shopping online.",
+        "nepali": "क: अहिले के गर्दै हुनुहुन्छ? / ख: इन्टरनेटबाट किनमेल गर्दैछु।"
+      }
+    ]
+  },
+  "dialogue1": {
+    "titleNp": "संवाद १",
+    "lines": [
+      {
+        "speaker": "투안 (Tuan)",
+        "korean": "지금 뭐 하고 있어요?",
+        "english": "What are you doing now?",
+        "nepali": "अहिले के गरिरहनुभएको छ?"
+      },
+      {
+        "speaker": "리한 (Rihan)",
+        "korean": "한국어 공부 앱을 다운로드하고 있어요.",
+        "english": "I am downloading a Korean language study app.",
+        "nepali": "कोरियन भाषा सिक्ने एप डाउनलोड गर्दैछु।"
+      }
+    ]
+  },
+  "vocabulary2": {
+    "topicKo": "스마트폰 관련 어휘",
+    "topicEn": "Smartphone Vocabulary",
+    "topicNp": "स्मार्टफोन र एप सम्बन्धी शब्दहरू",
+    "words": [
+      {
+        "korean": "스마트폰",
+        "english": "smartphone",
+        "nepali": "स्मार्टफोन"
+      },
+      {
+        "korean": "애플리케이션 (앱)",
+        "english": "application (app)",
+        "nepali": "मोबाइल एप"
+      },
+      {
+        "korean": "에스엔에스 (SNS)",
+        "english": "social media (SNS)",
+        "nepali": "सामाजिक सञ्जाल (फेसबुक, युट्युब आदि)"
+      },
+      {
+        "korean": "모바일 메신저",
+        "english": "mobile messenger",
+        "nepali": "मेसेन्जर (काकाओटक, ह्वाट्सएप)"
+      },
+      {
+        "korean": "와이파이",
+        "english": "Wi-Fi",
+        "nepali": "वाइफाइ"
+      },
+      {
+        "korean": "메시지를 보내다",
+        "english": "to send a message",
+        "nepali": "सन्देश (मेसेज) पठाउनु"
+      },
+      {
+        "korean": "메시지를 확인하다",
+        "english": "to check a message",
+        "nepali": "सन्देश हेर्नु / चेक गर्नु"
+      },
+      {
+        "korean": "댓글을 달다",
+        "english": "to post a comment",
+        "nepali": "कमेन्ट लेख्नु"
+      },
+      {
+        "korean": "다운로드하다",
+        "english": "to download",
+        "nepali": "डाउनलोड गर्नु"
+      },
+      {
+        "korean": "업로드하다",
+        "english": "to upload",
+        "nepali": "अपलोड गर्नु"
+      }
+    ]
+  },
+  "grammar2": {
+    "point": "-(으)ㄹ래요",
+    "meaningNp": "गर्नेछु / गर्छौ कि? (अनौपचारिक मनसाय / Will you? / I will)",
+    "explanationEn": "Used in casual polite spoken conversation among close people to express the speaker's intention or ask the listener's choice.",
+    "explanationNp": "दैनिक अनौपचारिक बोलचालमा आफ्नो चाहना बताउँदा वा साथीको इच्छा सोध्दा प्रयोग गरिन्छ।",
+    "ruleNp": "बाच्छिम भए '-을래요' (उदा: 먹을래요 = खानेछु), बाच्छिम नभए वा 'ㄹ' भए '-ㄹ래요' (उदा: 갈래요 = जानेछु)।",
+    "examples": [
+      {
+        "korean": "저는 커피를 마실래요. 투안 씨는 뭐 마실래요?",
+        "english": "I'll drink coffee. What would you like to drink, Tuan?",
+        "nepali": "म कफी पिउनेछु। तुआन जी के पिउनुहुन्छ?"
+      }
+    ]
+  },
+  "cultureAndInfo": {
+    "titleKo": "한국의 배달 앱 문화",
+    "titleEn": "Food Delivery Apps in Korea",
+    "titleNp": "कोरियाको अनलाइन खाना डेलिभरी संस्कृति",
+    "sections": [
+      {
+        "subtitleNp": "डेलिभरी एपहरूको सुविधा (배달의 민족, 요기요, 쿠팡이츠)",
+        "contentNp": "कोरियामा मोबाइल एपमार्फत चौबीसै घण्टा जुनसुकै खाना (चिकेन, पिज्जा, चाइनिज, कोरियन खाना) घरमै केही मिनेटभित्र डेलिभरी गराउन सकिन्छ।"
+      }
+    ]
+  }
+}

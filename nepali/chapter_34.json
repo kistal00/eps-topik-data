@@ -1,0 +1,162 @@
+{
+  "chapterNo": 34,
+  "titleKo": "성희롱 및 성추행 예방",
+  "titleEn": "Sexual Harassment and Assault Prevention",
+  "titleNp": "यौन दुर्व्यवहार रोकथाम",
+  "learningObjectives": [
+    {
+      "id": "ch34_obj_01",
+      "korean": "성희롱 예방법에 대해 설명할 수 있다.",
+      "english": "Can explain how to prevent sexual harassment.",
+      "nepali": "यौन दुर्व्यवहार रोक्ने उपायबारे व्याख्या गर्न सक्नुहुनेछ।"
+    },
+    {
+      "id": "ch34_obj_02",
+      "korean": "피해 시 대응 방법을 알 수 있다.",
+      "english": "Can know response measures when victimized.",
+      "nepali": "पीडित भएमा कसरी कारबाही गर्ने भन्ने जान्न सक्नुहुनेछ।"
+    }
+  ],
+  "vocabulary1": {
+    "topicKo": "성희롱 관련 어휘",
+    "topicEn": "Sexual Harassment Terms",
+    "topicNp": "यौन दुर्व्यवहार सम्बन्धी शब्दावली",
+    "words": [
+      {
+        "korean": "성희롱",
+        "english": "sexual harassment",
+        "nepali": "यौन दुर्व्यवहार"
+      },
+      {
+        "korean": "성추행",
+        "english": "sexual assault / molestation",
+        "nepali": "यौन आक्रमण"
+      },
+      {
+        "korean": "불쾌감",
+        "english": "discomfort / unpleasantness",
+        "nepali": "अप्रिय महसुस"
+      },
+      {
+        "korean": "수치심",
+        "english": "shame / humiliation",
+        "nepali": "लज्जा / अपमानको भावना"
+      },
+      {
+        "korean": "거부감",
+        "english": "a sense of repulsion / rejection",
+        "nepali": "अस्वीकार्यको भावना"
+      },
+      {
+        "korean": "성적 농담",
+        "english": "sexual joke",
+        "nepali": "यौन जोक / अश्लील मजाक"
+      },
+      {
+        "korean": "신체 접촉",
+        "english": "physical / bodily contact",
+        "nepali": "शारीरिक सम्पर्क / छुवाछुत"
+      },
+      {
+        "korean": "신고하다",
+        "english": "to report / file a complaint",
+        "nepali": "उजुरी दिनु / रिपोर्ट गर्नु"
+      },
+      {
+        "korean": "상담 센터",
+        "english": "counseling center",
+        "nepali": "परामर्श केन्द्र"
+      },
+      {
+        "korean": "피해자",
+        "english": "victim",
+        "nepali": "पीडित व्यक्ति"
+      },
+      {
+        "korean": "거부 의사를 표현하다",
+        "english": "to express refusal",
+        "nepali": "अस्वीकार गर्ने इच्छा व्यक्त गर्नु"
+      }
+    ]
+  },
+  "grammar1": {
+    "point": "-던데요",
+    "meaningNp": "...रहेछ / ...देखें (आफूले अनुभव गरेको कुरा बताउँदा / I noticed that...)",
+    "explanationEn": "Used to share a new observation or experience firsthand with the listener, inviting a reaction.",
+    "explanationNp": "वक्ताले आफैंले प्रत्यक्ष अनुभव गरेको नयाँ कुरा बताउँदा श्रोताको प्रतिक्रिया अपेक्षा गर्दै प्रयोग गरिन्छ।",
+    "ruleNp": "धातुमा सिधै '-던데요' जोडिन्छ।",
+    "examples": [
+      {
+        "korean": "그 교육이 도움이 많이 되던데요.",
+        "english": "That training was really helpful (I noticed).",
+        "nepali": "त्यो तालिम निकै उपयोगी रहेछ।"
+      },
+      {
+        "korean": "새 직원이 일을 아주 잘하던데요.",
+        "english": "The new employee was doing very well (I saw).",
+        "nepali": "नयाँ कर्मचारीले काम एकदम राम्रो गरिरहेको देखें।"
+      }
+    ]
+  },
+  "vocabulary2": {
+    "topicKo": "성추행 예방 및 대응",
+    "topicEn": "Prevention & Response",
+    "topicNp": "रोकथाम र कारबाही उपायहरू",
+    "words": [
+      {
+        "korean": "예방 교육",
+        "english": "prevention education / training",
+        "nepali": "रोकथाम तालिम"
+      },
+      {
+        "korean": "인권",
+        "english": "human rights",
+        "nepali": "मानव अधिकार"
+      },
+      {
+        "korean": "존엄성",
+        "english": "dignity",
+        "nepali": "सम्मान / प्रतिष्ठा"
+      },
+      {
+        "korean": "동의 없이",
+        "english": "without consent",
+        "nepali": "सहमति बिना"
+      },
+      {
+        "korean": "단호히 거부하다",
+        "english": "to firmly refuse",
+        "nepali": "कडाइका साथ इन्कार गर्नु"
+      },
+      {
+        "korean": "증거를 남기다",
+        "english": "to keep evidence / record",
+        "nepali": "प्रमाण बचाउनु / रेकर्ड राख्नु"
+      },
+      {
+        "korean": "도움을 요청하다",
+        "english": "to ask for help",
+        "nepali": "मद्दत माग्नु"
+      }
+    ]
+  },
+  "grammar2": {
+    "point": "-다고 하다 (간접 인용)",
+    "meaningNp": "...भन्नुहुन्छ / ...रे (अरूको कुरा दोहोर्‍याउँदा / Indirect Quotation: Someone says that...)",
+    "explanationEn": "Used to relay what someone else said (indirect quotation) with declarative sentences.",
+    "explanationNp": "अरू कसैले भनेको कुरा दोहोर्‍याएर बताउँदा प्रयोग गरिन्छ।",
+    "ruleNp": "क्रियापद/विशेषण '-다고 하다', नामपद '(이)라고 하다' हुन्छ।",
+    "examples": [
+      {
+        "korean": "부장님이 내일 교육이 있다고 했어요.",
+        "english": "The manager said there's training tomorrow.",
+        "nepali": "म्यानेजरले भोलि तालिम छ भन्नुभयो।"
+      },
+      {
+        "korean": "친구가 한국 생활이 재미있다고 했어요.",
+        "english": "My friend said life in Korea is fun.",
+        "nepali": "साथीले कोरियाको जीवन रमाइलो छ रे भन्यो।"
+      }
+    ]
+  }
+}

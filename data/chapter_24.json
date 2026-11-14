@@ -12,38 +12,114 @@
   ],
   "vocabulary": [
     {
-      "korean": "은행",
-      "english": "Bank",
-      "nepali": "बैंक"
+      "korean": "통장",
+      "english": "bankbook",
+      "nepali": "बैंक खाताको पासबुक"
     },
     {
-      "korean": "아궁",
-      "english": "account holder",
-      "nepali": "खातावाला"
+      "korean": "신분증",
+      "english": "ID card",
+      "nepali": "परिचय पत्र (विदेशी दर्ता कार्ड/राहदानी)"
     },
     {
-      "korean": "신청서",
-      "english": "application form",
-      "nepali": "आवेदन फारम"
+      "korean": "계좌 번호",
+      "english": "account number",
+      "nepali": "खाता नम्बर"
     },
     {
-      "korean": "작성하다",
-      "english": "to fill out",
-      "nepali": "भर्ने"
+      "korean": "비밀번호",
+      "english": "PIN / password",
+      "nepali": "गोप्य पिन नम्बर (पासवर्ड)"
+    },
+    {
+      "korean": "도장",
+      "english": "stamp / seal",
+      "nepali": "छाप (स्ट्याम्प)"
+    },
+    {
+      "korean": "서명 (싸인)",
+      "english": "signature",
+      "nepali": "दस्तखत (हस्ताक्षर)"
+    },
+    {
+      "korean": "체크카드",
+      "english": "debit card / check card",
+      "nepali": "डेबिट कार्ड (चेक कार्ड)"
+    },
+    {
+      "korean": "신용카드",
+      "english": "credit card",
+      "nepali": "क्रेडिट कार्ड"
+    },
+    {
+      "korean": "인터넷 뱅킹",
+      "english": "internet banking",
+      "nepali": "अनलाइन/इन्टरनेट बैंकिङ"
+    },
+    {
+      "korean": "현금 인출기 (ATM)",
+      "english": "Automated Teller Machine (ATM)",
+      "nepali": "पैसा निकाल्ने मेसिन (ATM)"
+    },
+    {
+      "korean": "입금하다",
+      "english": "to deposit money",
+      "nepali": "पैसा जम्मा गर्नु (डिपोजिट)"
+    },
+    {
+      "korean": "출금하다",
+      "english": "to withdraw money",
+      "nepali": "पैसा झिक्नु (विथड्र)"
+    },
+    {
+      "korean": "송금하다",
+      "english": "to transfer / wire money",
+      "nepali": "पैसा पठाउनु (ट्रान्सफर/रेमिट्यान्स)"
+    },
+    {
+      "korean": "계좌 이체",
+      "english": "account transfer",
+      "nepali": "खातामा रकम ट्रान्सफर"
+    },
+    {
+      "korean": "잔액 조회",
+      "english": "balance inquiry",
+      "nepali": "बाँकी रकम हेर्नु (ब्यालेन्स चेक)"
+    },
+    {
+      "korean": "통장 정리",
+      "english": "bankbook update",
+      "nepali": "पासबुक प्रिन्ट/अपडेट गर्नु"
+    },
+    {
+      "korean": "수수료",
+      "english": "transaction fee / service charge",
+      "nepali": "सेवा शुल्क (कमिसन)"
+    },
+    {
+      "korean": "환전하다",
+      "english": "to exchange currency",
+      "nepali": "सटीही गर्नु (करेन्सी साट्नु)"
     }
   ],
   "grammar": [
     {
-      "point": "은행",
-      "explanation": "Bank 은행을 방문한 목적에 대해 말할 수 있다. 학습 목표 Can state the purpose of a bank visit. LEARNING OBJECTIVES 은행 이용에 필요한 기본적인 표현을 사용할 수 있다. Can use basic expressions needed for banking. 280 한국어 표준교재 1 CHAPTER 24 EPS-TOPIK 어떻게 오셨어요? 통장하고 체크 카드를 만들려고 왔어요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -(으)려고 계좌 관련 어휘 한국의 은행 -(으)면 되다 Vocabulary Related to Bank Banks in Korea Accounts 은행 업무 관련 어휘 Vocabulary Related to Banking 280 한국어 표준교재 1",
-      "examples": [],
-      "explanationNp": "은행 सम्बन्धी व्याकरण नियम र प्रयोग।"
+      "point": "-(으)려고",
+      "explanation": "Attaches to verbs to express the speaker's intention or purpose for performing an action.",
+      "explanationNp": "क्रियापदको धातुमा जोडिएर कुनै कार्य गर्न लागेको उद्देश्य वा मनसाय व्यक्त गर्न प्रयोग गरिन्छ। अन्त्यमा स्वरवर्ण वा 'ㄹ' भएमा '-려고' र व्यञ्जनवर्ण (받침) भएमा '-으려고' जोडिन्छ।",
+      "examples": [
+        "통장을 만들려고 은행에 왔어요. — पासबुक बनाउने विचारले बैंकमा आएको हुँ।",
+        "고향에 돈을 보내려고 해요. — घरमा पैसा पठाउने विचार गरेको छु।"
+      ]
     },
     {
-      "point": "은행에 가다 메시지를 보내다 여권을 보여 주다 체크 카드를 만들다",
-      "explanation": "[보기] 전화를 안 받으면 메시지를 보내면 돼요. ⑴ 휴일에도 돈을 찾고 싶으면 . ⑵ 외국인 등록증이 없으면 . ⑶ 환전을 하고 싶으면 .",
-      "examples": [],
-      "explanationNp": "समय वा स्थान जनाउने प्रत्यय हो। नेपालीमा 'मा' वा 'तिर' भन्ने अर्थ लाग्दछ।"
+      "point": "-(으)면 되다",
+      "explanation": "Attaches to verbs and adjectives to indicate that doing this action or meeting this condition is sufficient.",
+      "explanationNp": "क्रियापद वा विशेषणमा जोडिएर तोकिएको कार्य गरेमा कुनै समस्या नहुने वा त्यति गरे पर्याप्त हुने कुरा जनाउँछ। अन्त्यमा स्वरवर्ण वा 'ㄹ' भएमा '-면 되다' र व्यञ्जनवर्ण (받침) भएमा '-으면 되다' जोडिन्छ।",
+      "examples": [
+        "여기에 서명하시면 됩니다. — यहाँ हस्ताक्षर गर्नुभए पुग्छ।",
+        "외국인등록증을 가져오면 돼요. — विदेशी दर्ता कार्ड लिएर आए हुन्छ।"
+      ]
     }
   ],
   "conversations": [
@@ -225,6 +301,6 @@
       "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
-  "titleNp": "बैंक र रेमिट्यान्स",
+  "titleNp": "बैंक",
   "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_24.pdf"
 }

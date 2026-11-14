@@ -1,0 +1,187 @@
+{
+  "chapterNo": 31,
+  "titleKo": "복장과 근무 태도",
+  "titleEn": "Attire and Work Attitude",
+  "titleNp": "कामको पोसाक र कर्तव्यनिष्ठा",
+  "learningObjectives": [
+    {
+      "id": "ch31_obj_01",
+      "korean": "근무 복장에 대해 말할 수 있다.",
+      "english": "Can talk about work attire.",
+      "nepali": "कामको पोसाकबारे बताउन सक्नुहुनेछ।"
+    },
+    {
+      "id": "ch31_obj_02",
+      "korean": "바람직한 근무 태도에 대해 말할 수 있다.",
+      "english": "Can talk about desirable work attitudes.",
+      "nepali": "राम्रो कामको व्यवहार र मनोवृत्तिबारे बताउन सक्नुहुनेछ।"
+    }
+  ],
+  "vocabulary1": {
+    "topicKo": "복장 관련 어휘",
+    "topicEn": "Attire Vocabulary",
+    "topicNp": "कामको पोसाक सम्बन्धी शब्दावली",
+    "words": [
+      {
+        "korean": "작업복",
+        "english": "work clothes / uniform",
+        "nepali": "कामको कपडा (वर्क यूनिफर्म)"
+      },
+      {
+        "korean": "유니폼",
+        "english": "uniform",
+        "nepali": "यूनिफर्म"
+      },
+      {
+        "korean": "정장",
+        "english": "formal wear / business suit",
+        "nepali": "औपचारिक पोसाक (सुट)"
+      },
+      {
+        "korean": "안전모",
+        "english": "hard hat / safety helmet",
+        "nepali": "सुरक्षा टोपी (हेल्मेट)"
+      },
+      {
+        "korean": "안전화",
+        "english": "safety shoes / boots",
+        "nepali": "सुरक्षा जुत्ता (सेफ्टी बुट)"
+      },
+      {
+        "korean": "안전 조끼",
+        "english": "safety vest",
+        "nepali": "सुरक्षा भेस्ट (जाली जाकेट)"
+      },
+      {
+        "korean": "장갑",
+        "english": "gloves",
+        "nepali": "पन्जा"
+      },
+      {
+        "korean": "갈아입다",
+        "english": "to change clothes",
+        "nepali": "कपडा फेर्नु"
+      },
+      {
+        "korean": "벗다",
+        "english": "to take off (clothes/shoes)",
+        "nepali": "फुकाल्नु / खोल्नु"
+      },
+      {
+        "korean": "단추를 잠그다",
+        "english": "to button up",
+        "nepali": "बटन लगाउनु"
+      },
+      {
+        "korean": "지퍼를 올리다",
+        "english": "to zip up",
+        "nepali": "जिप लगाउनु (माथि तान्नु)"
+      },
+      {
+        "korean": "넥타이를 매다",
+        "english": "to tie a necktie",
+        "nepali": "टाई बाँध्नु"
+      }
+    ]
+  },
+  "grammar1": {
+    "point": "-아/어 보이다",
+    "meaningNp": "...जस्तो देखिन्छ (बाह्य अवस्थाको अनुमान / Looks like / Appears)",
+    "explanationEn": "Mainly attached to adjectives to express that something appears or seems to be in a certain state.",
+    "explanationNp": "मुख्यतः विशेषणमा जोडिएर कुनै कुरा बाहिरबाट कस्तो देखिन्छ वा कस्तो अवस्थामा छ जस्तो लाग्छ भन्ने जनाउँछ।",
+    "ruleNp": "अन्तिम स्वरवर्ण ㅏ वा ㅗ भए '-아 보이다', बाँकी भए '-어 보이다', 하다 मा '-해 보이다' हुन्छ।",
+    "examples": [
+      {
+        "korean": "오늘 많이 피곤해 보여요.",
+        "english": "You look very tired today.",
+        "nepali": "आज धेरै थकित देखिनुहुन्छ।"
+      },
+      {
+        "korean": "그 작업복은 편해 보여요.",
+        "english": "Those work clothes look comfortable.",
+        "nepali": "त्यो कामको कपडा आरामदायक देखिन्छ।"
+      }
+    ]
+  },
+  "vocabulary2": {
+    "topicKo": "태도 관련 어휘",
+    "topicEn": "Work Attitude Vocabulary",
+    "topicNp": "कार्य व्यवहार सम्बन्धी शब्दावली",
+    "words": [
+      {
+        "korean": "예의가 있다",
+        "english": "to be polite / courteous",
+        "nepali": "शिष्ट/विनम्र हुनु"
+      },
+      {
+        "korean": "예의가 없다",
+        "english": "to be rude / impolite",
+        "nepali": "अशिष्ट/बेइज्जत हुनु"
+      },
+      {
+        "korean": "존댓말을 하다",
+        "english": "to use honorific language",
+        "nepali": "आदरार्थी भाषा प्रयोग गर्नु"
+      },
+      {
+        "korean": "반말을 하다",
+        "english": "to use casual (non-honorific) language",
+        "nepali": "तँ-तिमी भाषा बोल्नु"
+      },
+      {
+        "korean": "칭찬하다",
+        "english": "to praise / compliment",
+        "nepali": "प्रशंसा गर्नु"
+      },
+      {
+        "korean": "존중하다",
+        "english": "to respect",
+        "nepali": "सम्मान गर्नु"
+      },
+      {
+        "korean": "배려하다",
+        "english": "to be considerate / thoughtful",
+        "nepali": "ख्याल गर्नु"
+      },
+      {
+        "korean": "성실하다",
+        "english": "to be diligent / sincere",
+        "nepali": "कर्तव्यनिष्ठ/इमान्दार हुनु"
+      },
+      {
+        "korean": "불성실하다",
+        "english": "to be insincere / lazy",
+        "nepali": "काम नगर्ने/अलछी हुनु"
+      },
+      {
+        "korean": "지각하다",
+        "english": "to be late / tardy",
+        "nepali": "ढिलो आउनु (लेट हुनु)"
+      },
+      {
+        "korean": "결근하다",
+        "english": "to be absent from work",
+        "nepali": "कामबाट गैरहाजिर हुनु"
+      }
+    ]
+  },
+  "grammar2": {
+    "point": "-게",
+    "meaningNp": "...गरी / ...सरी (तरिका वा हद / Adverbial manner: In a ... way)",
+    "explanationEn": "Mainly attached to adjectives to show the degree or manner in which the following action is done.",
+    "explanationNp": "मुख्यतः विशेषणमा जोडिएर पछाडि आउने क्रियाको तरिका वा हद कसरी गरिन्छ भन्ने जनाउँछ।",
+    "ruleNp": "विशेषणको धातुमा सिधै '-게' जोडिन्छ।",
+    "examples": [
+      {
+        "korean": "칼로 씨는 항상 성실하게 일하네요.",
+        "english": "Karlo always works diligently.",
+        "nepali": "कार्लोजी सधैं कर्तव्यनिष्ठतापूर्वक काम गर्नुहुन्छ।"
+      },
+      {
+        "korean": "안전하게 작업하세요.",
+        "english": "Please work safely.",
+        "nepali": "सुरक्षित तरिकाले काम गर्नुहोस्।"
+      }
+    ]
+  }
+}

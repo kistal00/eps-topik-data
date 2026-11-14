@@ -1,0 +1,157 @@
+{
+  "chapterNo": 44,
+  "titleKo": "토목 시공",
+  "titleEn": "Civil Engineering",
+  "titleNp": "सिभिल निर्माण तथा सडक पूर्वाधार",
+  "learningObjectives": [
+    {
+      "id": "ch44_obj_01",
+      "korean": "준설 작업에 대해 묻고 대답할 수 있다.",
+      "english": "Can ask and answer questions about dredging work.",
+      "nepali": "पानीको निकास तथा माटो निकाल्ने (ड्रेजिङ) कामबारे सोधपुछ गर्न सक्नुहुनेछ।"
+    },
+    {
+      "id": "ch44_obj_02",
+      "korean": "상하수도 배관 시공 절차를 설명할 수 있다.",
+      "english": "Can explain water supply and sewer pipe laying procedures.",
+      "nepali": "खानेपानी र ढलको पाइप बिछ्याउने प्रक्रिया व्याख्या गर्न सक्नुहुनेछ।"
+    }
+  ],
+  "vocabulary1": {
+    "topicKo": "준설 관련 어휘",
+    "topicEn": "Dredging Vocabulary",
+    "topicNp": "माटो तथा गेग्रान सफाइ (ड्रेजिङ)",
+    "words": [
+      {
+        "korean": "준설하다",
+        "english": "to dredge / excavate underwater silt",
+        "nepali": "ड्रेजिङ गर्नु (पानीमुनिको माटो/बालुवा निकाल्नु)"
+      },
+      {
+        "korean": "흙 (토사)",
+        "english": "soil / sediment / dirt",
+        "nepali": "माटो तथा बालुवा"
+      },
+      {
+        "korean": "침전물",
+        "english": "sediment / silt",
+        "nepali": "तल जमेको लेदो/गेग्रान"
+      },
+      {
+        "korean": "수로",
+        "english": "waterway / canal / ditch",
+        "nepali": "पानी बग्ने कुलो / नहर"
+      },
+      {
+        "korean": "쌓이다",
+        "english": "to pile up / accumulate",
+        "nepali": "थुप्रिनु / जम्मा हुनु"
+      },
+      {
+        "korean": "퍼내다",
+        "english": "to scoop out / dredge up",
+        "nepali": "उधिनेर बाहिर निकाल्नु"
+      },
+      {
+        "korean": "제거하다 (긁어내다)",
+        "english": "to remove / scrape off",
+        "nepali": "हटाउनु / कोतरेर सफा गर्नु"
+      },
+      {
+        "korean": "굴착기 (포클레인)",
+        "english": "excavator",
+        "nepali": "डोजर / एक्काभेटर"
+      },
+      {
+        "korean": "덤프트럭",
+        "english": "dump truck",
+        "nepali": "टिपर (डम्प ट्रक)"
+      }
+    ]
+  },
+  "grammar1": {
+    "point": "-아야겠/어야겠-",
+    "meaningNp": "...गर्नैपर्ने भयो / ...गर्नुपर्ला (बलियो इच्छा वा निर्णय / Must / Intend to...)",
+    "explanationEn": "Used with verbs to express the speaker's strong will, determination, or realization that they must take action.",
+    "explanationNp": "कुनै कार्य तत्काल गर्नैपर्ने आवश्यकता महसुस गरी वक्ताले आफ्नो दृढ इच्छा वा निर्णय व्यक्त गर्दा प्रयोग गरिन्छ।",
+    "ruleNp": "अन्तिम स्वरवर्ण ㅏ वा ㅗ भए '-아야겠다', बाँकी भए '-어야겠다', 하다 मा '-해야겠다' हुन्छ।",
+    "examples": [
+      {
+        "korean": "수로에 흙이 많이 쌓여서 얼른 준설해야겠어요.",
+        "english": "A lot of sediment has piled up in the canal, so I must dredge it quickly.",
+        "nepali": "कुलोमा माटो धेरै थुप्रिएछ, छिट्टै सफा गर्नुपर्ने भयो।"
+      },
+      {
+        "korean": "비가 오기 전에 작업을 끝내야겠어요.",
+        "english": "I must finish the work before it rains.",
+        "nepali": "पानी पर्नुअगाडि नै काम सक्नुपर्ला।"
+      }
+    ]
+  },
+  "vocabulary2": {
+    "topicKo": "상하수도 시공 관련 어휘",
+    "topicEn": "Water Supply & Sewage Construction",
+    "topicNp": "खानेपानी र ढल पाइप जडान",
+    "words": [
+      {
+        "korean": "상수도",
+        "english": "water supply (drinking water)",
+        "nepali": "खानेपानी प्रणाली"
+      },
+      {
+        "korean": "하수도",
+        "english": "sewerage / wastewater system",
+        "nepali": "ढल निकास प्रणाली"
+      },
+      {
+        "korean": "땅을 파다 (터파기)",
+        "english": "to excavate ground / dig trenches",
+        "nepali": "जमिन खन्नु (खाल्डो खन्ने)"
+      },
+      {
+        "korean": "관을 배치하다",
+        "english": "to lay / place pipes",
+        "nepali": "पाइप मिलाएर राख्नु"
+      },
+      {
+        "korean": "관을 연결하다",
+        "english": "to connect pipes",
+        "nepali": "पाइप जोड्नु"
+      },
+      {
+        "korean": "누수",
+        "english": "water leak",
+        "nepali": "पानी चुहावट"
+      },
+      {
+        "korean": "되메우기하다",
+        "english": "to backfill the trench",
+        "nepali": "माटोले खाल्डो पुर्नु"
+      },
+      {
+        "korean": "다지다",
+        "english": "to compact / tamp soil down",
+        "nepali": "माटो थिचेर बलियो बनाउनु"
+      }
+    ]
+  },
+  "grammar2": {
+    "point": "-도록",
+    "meaningNp": "...हुने गरी / ...गर्नका लागि (उद्देश्य वा सीमा / So that / In order to)",
+    "explanationEn": "Mainly attached to verbs to indicate the purpose, objective, or extent of the following action.",
+    "explanationNp": "क्रियापदमा जोडिएर पछाडिको कार्य के उद्देश्यले वा कुन सीमासम्म गरिन्छ भन्ने स्पष्ट पार्न प्रयोग गरिन्छ।",
+    "ruleNp": "धातुमा 받침 भए पनि नभए पनि सिधै '-도록' जोडिन्छ।",
+    "examples": [
+      {
+        "korean": "누수가 생기지 않도록 관을 잘 연결해야 돼요.",
+        "english": "You must connect the pipes well so that leaks do not occur.",
+        "nepali": "पानी नचुहिने गरी पाइप राम्रोसँग जोड्नुपर्छ।"
+      },
+      {
+        "korean": "모두 들을 수 있도록 크게 말씀해 주세요.",
+        "english": "Please speak loudly so everyone can hear.",
+        "nepali": "सबैले सुन्ने गरी ठूलो स्वरले भन्नुहोस्।"
+      }
+    ]
+  }
+}

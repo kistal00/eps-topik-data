@@ -1,0 +1,150 @@
+{
+  "version": 2,
+  "chapterNo": 9,
+  "titleKo": "음식 주문",
+  "titleEn": "Ordering Food",
+  "titleNp": "खाना अर्डर",
+  "learningObjectives": [
+    {
+      "id": "ch09_obj_01",
+      "korean": "음식을 주문할 수 있다.",
+      "english": "Can order food.",
+      "nepali": "रेस्टुरेन्टमा खाना अर्डर गर्न सक्नुहुनेछ।"
+    },
+    {
+      "id": "ch09_obj_02",
+      "korean": "물건의 개수를 말할 수 있다.",
+      "english": "Can say how many items there are.",
+      "nepali": "सामानको संख्या र गन्तीका एकाइहरू बताउन सक्नुहुनेछ।"
+    }
+  ],
+  "vocabulary1": {
+    "topicKo": "음식 및 맛",
+    "topicEn": "Food and Taste",
+    "topicNp": "कोरियाली परिकार र स्वाद सम्बन्धी शब्दहरू",
+    "words": [
+      { "korean": "비빔밥", "english": "bibimbap", "nepali": "विबिमबाप (तरकारी, मासु र भात मुछेर खाने परिकार)" },
+      { "korean": "김밥", "english": "gimbap", "nepali": "गिमबाप (सामुद्रिक लेउले बेरेको चामलको रोल)" },
+      { "korean": "라면", "english": "ramen / instant noodles", "nepali": "चाउचाउ (राम्योन)" },
+      { "korean": "김치찌개", "english": "kimchi stew", "nepali": "खिम्ची झोल (खिम्ची-च्चिगे)" },
+      { "korean": "된장찌개", "english": "soybean paste stew", "nepali": "भटमासको पेस्ट झोल (दोन्जाङ-च्चिगे)" },
+      { "korean": "불고기", "english": "bulgogi (marinated beef)", "nepali": "बुलगोगी (गुलियो मसलेदार पोलेको मासु)" },
+      { "korean": "돈가스", "english": "pork cutlet", "nepali": "पोर्क कटलेट (दोनगासु)" },
+      { "korean": "치킨", "english": "fried chicken", "nepali": "फ्राइड चिकेन" },
+      { "korean": "맛있다", "english": "to be delicious / tasty", "nepali": "मिठो / स्वादिष्ट हुनु" },
+      { "korean": "맛없다", "english": "to be tasteless / bad", "nepali": "नमिठो हुनु" },
+      { "korean": "맵다", "english": "to be spicy", "nepali": "पिरो हुनु" },
+      { "korean": "달다", "english": "to be sweet", "nepali": "गुलियो हुनु" },
+      { "korean": "짜다", "english": "to be salty", "nepali": "नुनिलो हुनु" },
+      { "korean": "싱겁다", "english": "to be bland", "nepali": "खल्लो (कम नुन भएको) हुनु" }
+    ]
+  },
+  "grammar1": {
+    "point": "주세요",
+    "meaningNp": "दिनुहोस् (अनुरोध वा अर्डर गर्दा)",
+    "explanationEn": "Used after a noun to politely request or order the specified item.",
+    "explanationNp": "संज्ञाको पछाडि जोडिएर पसल वा रेस्टुरेन्टमा सामान माग्दा वा खाना अर्डर गर्दा प्रयोग गरिन्छ।",
+    "ruleNp": "वस्तु + 주세요 (उदा: 물 주세요 = पानी दिनुहोस्, 비빔밥 주세요 = विबिमबाप दिनुहोस्)।",
+    "examples": [
+      {
+        "korean": "사장님, 김치찌개 하나 주세요.",
+        "english": "Boss, please give me one kimchi stew.",
+        "nepali": "साहुजी, एउटा खिम्ची झोल दिनुहोस्।"
+      },
+      {
+        "korean": "시원한 물 좀 주세요.",
+        "english": "Please give me some cold water.",
+        "nepali": "कृपया चिसो पानी दिनुहोस्।"
+      }
+    ]
+  },
+  "dialogue1": {
+    "titleNp": "संवाद १",
+    "lines": [
+      {
+        "speaker": "식당 주인 (Waiter/Owner)",
+        "korean": "어서 오세요. 몇 분이세요?",
+        "english": "Welcome. How many people are there?",
+        "nepali": "स्वागत छ। कति जना हुनुहुन्छ?"
+      },
+      {
+        "speaker": "투안 (Tuan)",
+        "korean": "두 명이요. 자리 있어요?",
+        "english": "Two people. Do you have a table?",
+        "nepali": "दुई जना हौं। सिट खाली छ?"
+      },
+      {
+        "speaker": "식당 주인 (Waiter/Owner)",
+        "korean": "네, 있어요. 이쪽으로 앉으세요. 뭐 드릴까요?",
+        "english": "Yes, we do. Please sit here. What would you like to have?",
+        "nepali": "हजुर, छ। यता बस्नुहोस्। के लिने होला?"
+      },
+      {
+        "speaker": "투안 (Tuan)",
+        "korean": "저는 비빔밥 주세요. 리한 씨는 뭐 먹을래요?",
+        "english": "I'll have bibimbap. What will you eat, Rihan?",
+        "nepali": "मलाई विबिमबाप दिनुहोस्। रिहान जी चाहिँ के खानुहुन्छ?"
+      },
+      {
+        "speaker": "리한 (Rihan)",
+        "korean": "저는 김치찌개 주세요.",
+        "english": "Please give me kimchi stew.",
+        "nepali": "मलाई खिम्ची झोल दिनुहोस्।"
+      }
+    ]
+  },
+  "vocabulary2": {
+    "topicKo": "숫자와 분류사",
+    "topicEn": "Pure Korean Numbers and Classifiers",
+    "topicNp": "संख्या र गन्तीका एकाइहरू",
+    "words": [
+      { "korean": "하나, 둘, 셋, 넷, 다섯", "english": "1, 2, 3, 4, 5 (Pure Korean)", "nepali": "एक, दुई, तीन, चार, पाँच" },
+      { "korean": "여섯, 일곱, 여덟, 아홉, 열", "english": "6, 7, 8, 9, 10 (Pure Korean)", "nepali": "छ, सात, आठ, नौ, दश" },
+      { "korean": "개 (한 개, 두 개)", "english": "unit counter (general objects)", "nepali": "वटा (सामान्य वस्तु गन्दा: साबु, स्याउ आदि)" },
+      { "korean": "명 / 분 (두 명, 세 분)", "english": "counter for people (분 is honorific)", "nepali": "जना (मानिस गन्दा; '분' आदरार्थी)" },
+      { "korean": "마리 (한 마리, 두 마리)", "english": "counter for animals", "nepali": "वटा (पशुपन्छी वा जनावर गन्दा)" },
+      { "korean": "권 (한 권, 두 권)", "english": "counter for books", "nepali": "प्रति (किताब, कापी गन्दा)" },
+      { "korean": "병 (한 병, 두 병)", "english": "counter for bottles", "nepali": "बोतल (पानी, पेय पदार्थ गन्दा)" },
+      { "korean": "잔 (한 잔, 두 잔)", "english": "counter for cups / glasses", "nepali": "कप / ग्लास (कफी, चिया गन्दा)" },
+      { "korean": "그릇 / 공기", "english": "counter for bowls", "nepali": "कचौरा (भात, सुप गन्दा)" }
+    ]
+  },
+  "grammar2": {
+    "point": "하고",
+    "meaningNp": "र / सँग (नाम जोड्ने प्रत्यय)",
+    "explanationEn": "Used in spoken Korean to connect two nouns (and) or indicate with whom an action is performed.",
+    "explanationNp": "दुई नामहरूलाई जोड्दा 'र' वा कसैसँग मिलेर काम गर्दा 'सँग' भन्ने अर्थमा प्रयोग गरिन्छ।",
+    "ruleNp": "नाम + 하고 (बाच्छिम भए पनि नभए पनि '하고' नै जोडिन्छ)।",
+    "examples": [
+      {
+        "korean": "식당에서 밥하고 국을 먹었어요.",
+        "english": "I ate rice and soup at the restaurant.",
+        "nepali": "रेस्टुरेन्टमा भात र सुप खाएँ।"
+      },
+      {
+        "korean": "친구하고 같이 쇼핑했어요.",
+        "english": "I went shopping together with a friend.",
+        "nepali": "साथीसँग मिलेर किनमेल गरेँ।"
+      }
+    ]
+  },
+  "cultureAndInfo": {
+    "titleKo": "한국인의 식사",
+    "titleEn": "Korean Dining Culture",
+    "titleNp": "कोरियालीहरूको खाना खाने संस्कृति",
+    "sections": [
+      {
+        "subtitleNp": "१. खानाको संरचना (밥, 국, 반찬)",
+        "contentNp": "कोरियाली खानामा मुख्य भोजन भात (밥), सुप/झोल (국), र विभिन्न प्रकारका साइड डिश तरकारीहरू (반찬 - खिम्ची, सागसब्जी आदि) अनिवार्य हुन्छन्।"
+      },
+      {
+        "subtitleNp": "२. निःशुल्क साइड डिश थप्ने चलन (반찬 리필)",
+        "contentNp": "कोरियाका रेस्टुरेन्टहरूमा पानी र साइड डिशहरू (खिम्ची, मुला आदि) सित्तैंमा उपलब्ध हुन्छन् र चाहेजति पटक थपेर (रिफिल) खान पाइन्छ।"
+      },
+      {
+        "subtitleNp": "३. चपस्टिक र चम्चाको प्रयोग (수저 예절)",
+        "contentNp": "भात र सुप चम्चा (숟가락) ले खाइन्छ भने तरकारी चपस्टिक (젓가락) ले खाइन्छ। कचौरा हातमा उठाएर खानु असभ्य मानिन्छ; टेबुलमै राखेर खानुपर्छ।"
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "chapterNo": 21,
+  "titleKo": "병원",
+  "titleEn": "Hospital",
+  "titleNp": "अस्पताल",
+  "learningObjectives": [
+    {
+      "id": "ch21_obj_01",
+      "korean": "병원 접수에 필요한 표현을 사용할 수 있다.",
+      "english": "Can use expressions needed for hospital registration.",
+      "nepali": "अस्पतालमा नाम दर्ता (रसिद काट्दा) चाहिने अभिव्यक्तिहरू प्रयोग गर्न सक्नुहुनेछ।"
+    },
+    {
+      "id": "ch21_obj_02",
+      "korean": "신체 및 증상에 대해 말할 수 있다.",
+      "english": "Can describe body parts and symptoms.",
+      "nepali": "शरीरका अङ्गहरू र रोगका लक्षणहरूबारे बताउन सक्नुहुनेछ।"
+    }
+  ],
+  "vocabulary1": {
+    "topicKo": "접수 및 진료 관련 어휘",
+    "topicEn": "Hospital Registration and Consultations",
+    "topicNp": "दर्ता तथा उपचार सम्बन्धी शब्दावली",
+    "words": [
+      {
+        "korean": "접수를 하다",
+        "english": "to register / check in",
+        "nepali": "नाम दर्ता गर्नु / रसिद काट्नु"
+      },
+      {
+        "korean": "기다리다",
+        "english": "to wait",
+        "nepali": "पर्खनु"
+      },
+      {
+        "korean": "체온을 재다",
+        "english": "to take body temperature",
+        "nepali": "शरीरको तापक्रम नाप्नु"
+      },
+      {
+        "korean": "진료를 하다/받다",
+        "english": "to provide/receive medical consultation",
+        "nepali": "स्वास्थ्य परीक्षण गर्नु / गराउनु"
+      },
+      {
+        "korean": "치료를 하다/받다",
+        "english": "to provide/receive treatment",
+        "nepali": "उपचार गर्नु / उपचार लिनु"
+      },
+      {
+        "korean": "엑스레이를 찍다",
+        "english": "to take an X-ray",
+        "nepali": "एक्स-रे खिच्नु"
+      },
+      {
+        "korean": "주사를 놓다/맞다",
+        "english": "to give/get an injection",
+        "nepali": "सुई लगाइदिनु / सुई लगाउनु"
+      },
+      {
+        "korean": "수술을 하다/받다",
+        "english": "to perform/undergo surgery",
+        "nepali": "शल्यक्रिया (अपरेसन) गर्नु / गराउनु"
+      },
+      {
+        "korean": "입원하다",
+        "english": "to be hospitalized",
+        "nepali": "अस्पताल भर्ना हुनु"
+      },
+      {
+        "korean": "퇴원하다",
+        "english": "to be discharged from hospital",
+        "nepali": "अस्पतालबाट डिस्चार्ज हुनु"
+      }
+    ]
+  },
+  "grammar1": {
+    "point": "-(으)면",
+    "meaningNp": "...भने (सर्त वा कल्पना / If / When)",
+    "explanationEn": "Attaches to verbs and adjectives to show that the preceding clause is a condition or supposition for the following clause.",
+    "explanationNp": "क्रियापद वा विशेषणको पछाडि जोडिएर अगाडिको वाक्य पछाडिको कार्यका लागि सर्त वा अनुमान भएको जनाउँछ।",
+    "ruleNp": "धातुको अन्त्यमा स्वरवर्ण वा 'ㄹ' भएमा '-면' र व्यञ्जनवर्ण (받침) भएमा '-으면' जोडिन्छ।",
+    "examples": [
+      {
+        "korean": "열이 나면 이 약을 드세요.",
+        "english": "If you have a fever, please take this medicine.",
+        "nepali": "ज्वरो आयो भने यो औषधि खानुहोस्।"
+      },
+      {
+        "korean": "시간이 있으면 같이 밥 먹어요.",
+        "english": "If you have time, let's eat together.",
+        "nepali": "समय छ भने सँगै खाना खाऔं।"
+      }
+    ]
+  },
+  "vocabulary2": {
+    "topicKo": "신체 및 증상 관련 어휘 1",
+    "topicEn": "Body Parts and Symptoms 1",
+    "topicNp": "शरीरका अङ्ग र लक्षण १",
+    "words": [
+      {
+        "korean": "머리",
+        "english": "head / hair",
+        "nepali": "टाउको / कपाल"
+      },
+      {
+        "korean": "눈",
+        "english": "eye",
+        "nepali": "आँखा"
+      },
+      {
+        "korean": "귀",
+        "english": "ear",
+        "nepali": "कान"
+      },
+      {
+        "korean": "코",
+        "english": "nose",
+        "nepali": "नाक"
+      },
+      {
+        "korean": "입",
+        "english": "mouth",
+        "nepali": "मुख"
+      },
+      {
+        "korean": "얼굴",
+        "english": "face",
+        "nepali": "अनुहार"
+      },
+      {
+        "korean": "어깨",
+        "english": "shoulder",
+        "nepali": "काँध"
+      },
+      {
+        "korean": "가슴",
+        "english": "chest",
+        "nepali": "छाती"
+      },
+      {
+        "korean": "배",
+        "english": "stomach / belly",
+        "nepali": "पेट"
+      },
+      {
+        "korean": "팔",
+        "english": "arm",
+        "nepali": "हात (कुमदेखि नाडीसम्म)"
+      },
+      {
+        "korean": "손",
+        "english": "hand",
+        "nepali": "हात (हत्केला)"
+      },
+      {
+        "korean": "다리",
+        "english": "leg",
+        "nepali": "खुट्टा (तिघ्रादेखि घुँडासम्म)"
+      },
+      {
+        "korean": "발",
+        "english": "foot",
+        "nepali": "खुट्टा (पैताला)"
+      },
+      {
+        "korean": "손가락",
+        "english": "finger",
+        "nepali": "हातको औंला"
+      },
+      {
+        "korean": "발가락",
+        "english": "toe",
+        "nepali": "खुट्टाको औंला"
+      },
+      {
+        "korean": "허리",
+        "english": "waist / back",
+        "nepali": "कम्मर"
+      }
+    ]
+  },
+  "grammar2": {
+    "point": "-지 마세요",
+    "meaningNp": "...नगर्नुहोस् (निषेध वा अनुरोध / Please do not...)",
+    "explanationEn": "Attaches to verbs to request that someone refrain from doing an action, or to prohibit an action politely.",
+    "explanationNp": "क्रियापदको धातुमा जोडिएर कुनै कार्य नगर्न विनम्रतापूर्वक अनुरोध गर्न वा निषेध गर्न प्रयोग गरिन्छ।",
+    "ruleNp": "धातुमा 받침 भए पनि नभए पनि सिधै '-지 마세요' जोडिन्छ।",
+    "examples": [
+      {
+        "korean": "여기에 앉지 마세요.",
+        "english": "Please do not sit here.",
+        "nepali": "यहाँ नबस्नुहोस्।"
+      },
+      {
+        "korean": "신발을 신고 방에 들어가지 마세요.",
+        "english": "Please do not enter the room with shoes on.",
+        "nepali": "जुत्ता लगाएर कोठाभित्र नपस्नुहोस्।"
+      }
+    ]
+  }
+}

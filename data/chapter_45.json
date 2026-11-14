@@ -11,59 +11,114 @@
   ],
   "vocabulary": [
     {
-      "korean": "비료",
-      "english": "fertilizer",
-      "nepali": "स्थानीय सहजकर्ता"
+      "korean": "논",
+      "english": "rice paddy",
+      "nepali": "खेत (धान रोप्ने)"
     },
     {
-      "korean": "모판",
-      "english": "seedbed",
-      "nepali": "अंकुरित शयनकक्ष"
+      "korean": "밭",
+      "english": "dry field / vegetable farm",
+      "nepali": "बारी (तरकारी/अन्न फलाउने)"
+    },
+    {
+      "korean": "비닐하우스",
+      "english": "greenhouse / vinyl house",
+      "nepali": "प्लास्टिक टनेल (टनेल खेती)"
+    },
+    {
+      "korean": "씨앗을 뿌리다",
+      "english": "to sow seeds",
+      "nepali": "बीउ छर्नु"
+    },
+    {
+      "korean": "모종을 심다",
+      "english": "to plant seedlings",
+      "nepali": "बेर्ना रोप्नु"
+    },
+    {
+      "korean": "물(을) 주다",
+      "english": "to water crops",
+      "nepali": "पानी हाल्नु"
+    },
+    {
+      "korean": "거름을 주다",
+      "english": "to fertilize / give manure",
+      "nepali": "मल हाल्नु"
+    },
+    {
+      "korean": "지주대를 세우다",
+      "english": "to set up support stakes",
+      "nepali": "थाम्रो/लठ्ठी गाड्नु (सहारा दिन)"
     },
     {
       "korean": "호미",
-      "english": "hoe",
-      "nepali": "हो"
+      "english": "small hand hoe",
+      "nepali": "कुटो"
     },
     {
-      "korean": "곡괭이",
-      "english": "pickaxe",
-      "nepali": "पिक्याक्स"
+      "korean": "삽",
+      "english": "shovel / spade",
+      "nepali": "बेल्चा"
     },
     {
-      "korean": "예초기",
-      "english": "weed cutter",
-      "nepali": "खरबुजा काट्ने"
+      "korean": "잡초를 뽑다",
+      "english": "to weed / pull weeds",
+      "nepali": "झारपात उखेल्नु"
     },
     {
-      "korean": "나르다",
-      "english": "to carry",
-      "nepali": "बोक्ने"
+      "korean": "벌레를 잡다",
+      "english": "to catch bugs / pests",
+      "nepali": "कीरा टिप्नु / मार्नु"
     },
     {
-      "korean": "스마트팜",
-      "english": "Smart Farms",
-      "nepali": "स्मार्ट फार्महरू"
+      "korean": "농약을 치다",
+      "english": "to spray pesticides",
+      "nepali": "विषादी छर्कनु"
+    },
+    {
+      "korean": "수확하다 (거두다)",
+      "english": "to harvest / reap",
+      "nepali": "बाली भित्र्याउनु / टिप्नु"
+    },
+    {
+      "korean": "상자에 담다",
+      "english": "to pack into boxes",
+      "nepali": "बाकसमा हाल्नु"
+    },
+    {
+      "korean": "곡식",
+      "english": "grains / cereals",
+      "nepali": "अन्नबाली"
+    },
+    {
+      "korean": "채소",
+      "english": "vegetables",
+      "nepali": "सागसब्जी / तरकारी"
+    },
+    {
+      "korean": "과일",
+      "english": "fruits",
+      "nepali": "फलफूल"
     }
   ],
   "grammar": [
     {
-      "point": "농작물 재배",
-      "explanation": "Crop Cultivation 농작물 재배에 필요한 어휘와 표현을 사용할 수 있다. 학습 목표 Can use the vocabulary and expressions needed for farm work. LEARNING OBJECTIVES 작업 중 금지 사항에 대해 말할 수 있다. Can talk about prohibited actions during work. 156 한국어 표준교재 2 CHAPTER 45 EPS-TOPIK 이것도 딸까요? 아니요. 작은 것은 따지 말고 큰 것만 따세요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -(으)ㄹ까 하다 전작 관련 어휘 스마트팜 -지 말고 Vocabulary Related to Field Crops Smart Farms 과수 재배 관련 어휘 Vocabulary Related to Orchard Cultivation 156 한국어 표준교재 2",
-      "examples": [],
-      "explanationNp": "농작물 재배 सम्बन्धी व्याकरण नियम र प्रयोग।"
+      "point": "-(으)ㄹ까 하다",
+      "explanation": "Attaches to verbs to show an intention or plan that is not yet fully finalized.",
+      "explanationNp": "क्रियापदमा जोडिएर कुनै काम गर्ने मनसाय भए पनि पक्का निर्णय भइनसकेको विचार व्यक्त गर्न प्रयोग गरिन्छ। अन्त्यमा स्वरवर्ण वा 'ㄹ' भए '-ㄹ까 하다', व्यञ्जनवर्ण भए '-을까 하다' जोडिन्छ।",
+      "examples": [
+        "오후에는 밭에 모종을 심을까 해요. — दिउँसो बारीमा बेर्ना रोप्ने कि भन्दैछु।",
+        "주말에는 집에서 푹 쉴까 해요. — सप्ताहन्तमा घरमै आराम गर्ने कि भन्ने सोच छ।"
+      ]
     },
     {
-      "point": "따다 심다",
-      "explanation": "⑶ ⑷ 가 : 주말에 뭘 하실 거예요? 가 : 뭘 사실 거예요? 나 : 비 닐하우스를 나 : 파 종 상자를 . . 사다 설치하다",
-      "examples": [],
-      "explanationNp": "따다 심다 सम्बन्धी व्याकरण नियम र प्रयोग।"
-    },
-    {
-      "point": "벗다 두다 뿌리다 올라가다",
-      "explanation": "[보기] 마스크를 벗지 말고 쓰고 하세요. ⑴ 참외를 거기에 저쪽으로 옮기세요. ⑵ 아직 비료를 기다리세요. ⑶ 사다리에 아래에서 따세요.",
-      "examples": [],
-      "explanationNp": "벗다 두다 뿌리다 올라가다 सम्बन्धी व्याकरण नियम र प्रयोग।"
+      "point": "-아/어 버리다",
+      "explanation": "Attaches to verbs to emphasize that an action is completely finished, expressing relief or regret.",
+      "explanationNp": "क्रियापदमा जोडिएर कुनै कार्य पूर्ण रूपमा सम्पन्न भइसक्यो भन्ने जनाउँछ। यसले हलुङ्गो भएको वा पछुतो लागेको भाव प्रकट गर्छ। अन्तिम स्वरवर्ण ㅏ वा ㅗ भए '-아 버리다', बाँकी भए '-어 버리다', 하다 मा '-해 버리다' हुन्छ।",
+      "examples": [
+        "오늘 해야 할 일을 다 끝내 버렸어요. — आज गर्नुपर्ने काम सबै सिध्याइदिएँ।",
+        "잡초를 오전에 다 뽑아 버렸어요. — बिहानीपख नै सबै झार उखेलिसकें।"
+      ]
     }
   ],
   "conversations": [
@@ -306,6 +361,6 @@
       "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
-  "titleNp": "कृषि तथा बालीनाली खेती",
+  "titleNp": "कृषि तथा बाली उत्पादन",
   "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_45.pdf"
 }

@@ -12,30 +12,169 @@
   ],
   "vocabulary": [
     {
-      "korean": "자매",
-      "english": "sisters",
-      "nepali": "बहिनीहरू"
+      "korean": "할아버지",
+      "english": "grandfather",
+      "nepali": "हजुरबुबा"
     },
     {
-      "korean": "남매",
-      "english": "brother",
-      "nepali": "achu"
+      "korean": "할머니",
+      "english": "grandmother",
+      "nepali": "हजुरआमा"
+    },
+    {
+      "korean": "아버지",
+      "english": "father",
+      "nepali": "बुबा"
+    },
+    {
+      "korean": "어머니",
+      "english": "mother",
+      "nepali": "आमा"
+    },
+    {
+      "korean": "형 / 오빠",
+      "english": "older brother",
+      "nepali": "दाइ (केटाले '형', केटीले '오빠' भन्ने)"
+    },
+    {
+      "korean": "누나 / 언니",
+      "english": "older sister",
+      "nepali": "दीदी (केटाले '누나', केटीले '언니' भन्ने)"
+    },
+    {
+      "korean": "동생 (남동생 / 여동생)",
+      "english": "younger sibling",
+      "nepali": "भाइ (남동생) / बहिनी (여동생)"
+    },
+    {
+      "korean": "이름 → 성함",
+      "english": "name (honorific)",
+      "nepali": "नाम → शुभनाम (आदरार्थी)"
+    },
+    {
+      "korean": "나이 → 연세",
+      "english": "age (honorific)",
+      "nepali": "उमेर → पाको उमेर (आदरार्थी)"
+    },
+    {
+      "korean": "집 → 댁",
+      "english": "house (honorific)",
+      "nepali": "घर → निवास (आदरार्थी)"
+    },
+    {
+      "korean": "밥 → 진지",
+      "english": "meal (honorific)",
+      "nepali": "खाना → भोजन (आदरार्थी)"
+    },
+    {
+      "korean": "있다 → 계시다",
+      "english": "to exist (honorific)",
+      "nepali": "हुनुहुन्छ (आदरार्थी)"
+    },
+    {
+      "korean": "자다 → 주무시다",
+      "english": "to sleep (honorific)",
+      "nepali": "सुत्नुहुन्छ (आदरार्थी)"
+    },
+    {
+      "korean": "말하다 → 말씀하시다",
+      "english": "to speak (honorific)",
+      "nepali": "भन्नुहुन्छ / बोल्नुहुन्छ (आदरार्थी)"
+    },
+    {
+      "korean": "아프다 → 편찮으시다",
+      "english": "to be sick (honorific)",
+      "nepali": "बिरामी हुनुहुन्छ (आदरार्थी)"
+    },
+    {
+      "korean": "죽다 → 돌아가시다",
+      "english": "to pass away",
+      "nepali": "स्वर्गारोहण हुनु / बित्नु (आदरार्थी)"
+    },
+    {
+      "korean": "예쁘다",
+      "english": "to be pretty",
+      "nepali": "सुन्दरी हुनु"
+    },
+    {
+      "korean": "멋있다",
+      "english": "to be cool / handsome",
+      "nepali": "आकर्षक / ह्यान्डसम हुनु"
+    },
+    {
+      "korean": "귀엽다",
+      "english": "to be cute",
+      "nepali": "प्यारो / क्युट हुनु"
+    },
+    {
+      "korean": "잘생기다",
+      "english": "to be good-looking",
+      "nepali": "सुन्दर / राम्रो देखिनु"
+    },
+    {
+      "korean": "키가 크다",
+      "english": "to be tall",
+      "nepali": "अग्लो हुनु"
+    },
+    {
+      "korean": "키가 작다",
+      "english": "to be short",
+      "nepali": "होचो हुनु"
+    },
+    {
+      "korean": "머리가 길다",
+      "english": "to have long hair",
+      "nepali": "लामो कपाल हुनु"
+    },
+    {
+      "korean": "머리가 짧다",
+      "english": "to have short hair",
+      "nepali": "छोटो कपाल हुनु"
+    },
+    {
+      "korean": "착하다",
+      "english": "to be kind-hearted / nice",
+      "nepali": "असल / सोझो / दयालु हुनु"
+    },
+    {
+      "korean": "친절하다",
+      "english": "to be kind / friendly",
+      "nepali": "भद्र / सहयोगी स्वभावको हुनु"
+    },
+    {
+      "korean": "부지런하다",
+      "english": "to be diligent / hard-working",
+      "nepali": "लगनशील / परिश्रमी हुनु"
+    },
+    {
+      "korean": "활발하다",
+      "english": "to be lively / active",
+      "nepali": "फुर्तिलो / हँसिलो हुनु"
+    },
+    {
+      "korean": "똑똑하다",
+      "english": "to be smart / clever",
+      "nepali": "बाठो / चलाख / तीक्ष्ण हुनु"
     }
   ],
   "grammar": [
     {
-      "point": "가족과 친구",
-      "explanation": "Family and Friends 가족과 친구에 대해 묻고 대답할 수 있다. 학습 목표 Can ask and answer questions about family and friends. LEARNING OBJECTIVES 외모와 성격에 대해 말할 수 있다. Can talk about appearance and personality. CHAPTER 08 EPS-TOPIK 아버지께서 키가 크시네요. 키가 크고 멋있으세요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -(으)시- 가족 높임말과 반말 -고 Family Honorific Language and Non- honorific (Banmal) 외모와 성격 Appearances and Personality 120 한국어 표준교재 1",
-      "examples": [],
-      "explanationNp": "가족과 친구 सम्बन्धी व्याकरण नियम र प्रयोग।"
+      "point": "-(으)시-",
+      "explanation": "An honorific suffix inserted into verbs or adjectives to elevate the subject of the sentence.",
+      "explanationNp": "वाक्यको कर्ता (आफूभन्दा ठूला, मान्यजन वा बुबाआमा) लाई उच्च आदर व्यक्त गर्न क्रिया वा विशेषणको धातुमा जोडिन्छ। कर्तासँग '이/가' को साटो '께서', '은/는' को साटो '께서는' प्रयोग गरिन्छ। बाच्छिम भए '-으시-' (उदा: 읽다 → 읽으세요), बाच्छिम नभए '-시-' (उदा: 가다 → 가세요, 키가 크다 → 키가 크세요) जोडिन्छ।",
+      "examples": [
+        "아버지께서 댁에 계세요. — बुबा घरमा (निवासमा) हुनुहुन्छ।",
+        "할아버지께서는 연세가 많으세요. — हजुरबुबाको उमेर धेरै छ।"
+      ]
     },
     {
-      "point": "두 가지 이상의 행위를 시간적인 순서",
-      "explanation": "‘-고’는 동사, 형용사에 붙여 두 가지 이상의 상태, 행위, 사실을 대로 연결할 때에도 ‘-고’를 사용한다. 나열함을 나타낸다. ‘-고’ is also used to connect two or more actions in chronological order. ‘-고’ is attached to verbs and adjectives to list two or more states, actions, or facts. 예 카림 씨는 운동을 하고 샤워했어요. 저는 음식을 만들고 민민아웅 씨는 설거지를 해요. 다라 씨는 캄보디아 사람이고 칼로 씨는 필리핀 사람이에요.",
+      "point": "-고",
+      "explanation": "Connects two or more clauses, actions, states, or adjectives in chronological or coordinating order.",
+      "explanationNp": "दुई वा दुईभन्दा बढी क्रिया, विशेषण वा वाक्यहरूलाई 'र' वा 'अनि' भनी जोड्न धातुको पछाडि प्रयोग गरिन्छ। धातु + 고 (बाच्छिम भए पनि नभए पनि '고' नै जोडिन्छ। उदा: 크다 → 크고, 먹다 → 먹고, 일하다 → 일하고)।",
       "examples": [
-        "예 닛차난 씨는 키가 크고 머리가 길어요."
-      ],
-      "explanationNp": "두 가지 이상의 행위를 시간적인 순서 सम्बन्धी व्याकरण नियम र प्रयोग।"
+        "제 동생은 키가 크고 똑똑해요. — मेरो भाइ अग्लो र चलाख छ।",
+        "카림 씨는 운동을 하고 샤워를 했어요. — करिम जीले व्यायाम गरेर नुहाउनुभयो।"
+      ]
     }
   ],
   "conversations": [

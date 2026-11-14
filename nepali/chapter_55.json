@@ -1,0 +1,152 @@
+{
+  "chapterNo": 55,
+  "titleKo": "산업 안전 및 위생 장비",
+  "titleEn": "Industrial Safety and Hygiene Equipment",
+  "titleNp": "व्यक्तिगत सुरक्षा तथा स्वच्छता उपकरणहरू (PPE)",
+  "learningObjectives": [
+    {
+      "id": "ch55_obj_01",
+      "korean": "보호구(PPE)의 종류와 기능을 설명할 수 있다.",
+      "english": "Can explain types and functions of personal protective equipment.",
+      "nepali": "व्यक्तिगत सुरक्षा सामग्रीका प्रकार र कामहरूबारे व्याख्या गर्न सक्नुहुनेछ।"
+    },
+    {
+      "id": "ch55_obj_02",
+      "korean": "위생 장비 착용 및 관리법을 말할 수 있다.",
+      "english": "Can talk about wearing and managing hygiene equipment.",
+      "nepali": "स्वच्छता उपकरण लगाउने र स्याहार गर्ने तरिका बताउन सक्नुहुनेछ।"
+    }
+  ],
+  "vocabulary1": {
+    "topicKo": "개인 보호구(PPE) 관련 어휘",
+    "topicEn": "Personal Protective Equipment (PPE)",
+    "topicNp": "व्यक्तिगत सुरक्षा सामग्री (PPE)",
+    "words": [
+      {
+        "korean": "보호구",
+        "english": "protective equipment / PPE",
+        "nepali": "सुरक्षा सामग्री"
+      },
+      {
+        "korean": "안전모",
+        "english": "safety helmet / hard hat",
+        "nepali": "सुरक्षा टोपी (हेल्मेट)"
+      },
+      {
+        "korean": "보안경",
+        "english": "safety glasses / goggles",
+        "nepali": "सुरक्षा चस्मा"
+      },
+      {
+        "korean": "용접면",
+        "english": "welding helmet / face shield",
+        "nepali": "वेल्डिङ गर्दा लगाउने मुखौटा"
+      },
+      {
+        "korean": "귀마개 (방음용)",
+        "english": "earplugs",
+        "nepali": "कानमा लगाउने ठेडी (इयरप्लग)"
+      },
+      {
+        "korean": "방진마스크",
+        "english": "dust respirator mask",
+        "nepali": "धुलो छेक्ने मास्क"
+      },
+      {
+        "korean": "방독마스크",
+        "english": "gas mask / vapor respirator",
+        "nepali": "विषालु ग्यास छेक्ने ग्यास मास्क"
+      },
+      {
+        "korean": "안전장갑",
+        "english": "safety gloves",
+        "nepali": "सुरक्षा पन्जा"
+      },
+      {
+        "korean": "안전대 (안전벨트)",
+        "english": "safety harness / fall protection",
+        "nepali": "सुरक्षा पेटी (हार्नेस)"
+      },
+      {
+        "korean": "안전화",
+        "english": "safety boots / steel-toe shoes",
+        "nepali": "सुरक्षा जुत्ता (स्टिल-टो सेफ्टी जुत्ता)"
+      }
+    ]
+  },
+  "grammar1": {
+    "point": "-(으)ㄴ 채로",
+    "meaningNp": "...लगाएकै अवस्थामा / ...भएकै स्थितिमा (अवस्था कायमै / In the state of having done...)",
+    "explanationEn": "Attaches to verbs to show that an action was completed and its resulting state is continuously maintained while doing something else.",
+    "explanationNp": "क्रियापदमा जोडिएर अगाडिको कार्य गरिसकेर सोही अवस्था कायमै राख्दै अर्को काम गर्दा प्रयोग गरिन्छ।",
+    "ruleNp": "अन्त्यमा स्वरवर्ण भए '-ㄴ 채로', व्यञ्जनवर्ण (받침) भए '-은 채로' जोडिन्छ।",
+    "examples": [
+      {
+        "korean": "안전모를 쓴 채로 작업장에 들어가세요.",
+        "english": "Enter the workplace with your helmet on.",
+        "nepali": "सुरक्षा टोपी लगाएको अवस्थामा नै कार्यस्थलमा पस्नुहोस्।"
+      },
+      {
+        "korean": "신발을 신은 채로 방에 들어가지 마세요.",
+        "english": "Do not enter the room with your shoes on.",
+        "nepali": "जुत्ता लगाएको अवस्थामा कोठाभित्र नपस्नुहोस्।"
+      }
+    ]
+  },
+  "vocabulary2": {
+    "topicKo": "위생 장비 관련 어휘",
+    "topicEn": "Hygiene Equipment Vocabulary",
+    "topicNp": "सरसफाइ तथा स्वच्छता उपकरण",
+    "words": [
+      {
+        "korean": "위생모",
+        "english": "sanitary cap / hairnet",
+        "nepali": "कपाल छोप्ने जाली टोपी"
+      },
+      {
+        "korean": "위생복",
+        "english": "sanitary gown / food uniform",
+        "nepali": "सेतो स्वच्छता कपडा"
+      },
+      {
+        "korean": "위생화 (장화)",
+        "english": "sanitary boots / rubber boots",
+        "nepali": "रबरको गम्बुट"
+      },
+      {
+        "korean": "소독기",
+        "english": "sterilizer / sanitizer machine",
+        "nepali": "कीटाणु मार्ने मेसिन"
+      },
+      {
+        "korean": "손 소독제",
+        "english": "hand sanitizer",
+        "nepali": "हात सफा गर्ने स्यानिटाइजर"
+      },
+      {
+        "korean": "에어샤워",
+        "english": "air shower",
+        "nepali": "हावाको फोहोराले धुलो हटाउने च्याम्बर (एयर सावर)"
+      }
+    ]
+  },
+  "grammar2": {
+    "point": "-아/어 놓다 (반복 적용)",
+    "meaningNp": "...गरेर राख्नु (तयार अवस्थामा / Keep in ready condition)",
+    "explanationEn": "Attaches to transitive verbs to show that an action is performed and preserved in that state for immediate availability.",
+    "explanationNp": "सकर्मक क्रियामा जोडिएर कुनै सुरक्षा उपकरण तयार पारेर राखिएको जनाउँछ।",
+    "ruleNp": "अन्तिम स्वरवर्ण ㅏ वा ㅗ भए '-아 놓다', बाँकी भए '-어 놓다', 하다 मा '-해 놓다' हुन्छ।",
+    "examples": [
+      {
+        "korean": "보호구를 항상 깨끗하게 소독해 놓으세요.",
+        "english": "Keep protective equipment cleanly sanitized.",
+        "nepali": "सुरक्षा सामग्री सधैं सफासँग कीटाणुरहित गरेर राख्नुहोस्।"
+      },
+      {
+        "korean": "작업 전에 도구를 준비해 놓았어요.",
+        "english": "I prepared the tools before work.",
+        "nepali": "काम सुरु गर्नुअगाडि औजारहरू तयार गरेर राखेको छु।"
+      }
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "version": 1,
   "chapterNo": 18,
-  "title": "취미",
-  "titleEn": "Hobbies",
+  "title": "취미와 여가",
+  "titleEn": "Hobbies and Leisure",
   "learningObjectives": [
     "취미에 대해 말할 수 있다.",
     "좋아하는 운동에 대해 말할 수 있다.",
@@ -15,32 +15,97 @@
   ],
   "vocabulary": [
     {
-      "korean": "취미",
-      "english": "Hobbies",
-      "nepali": "रूचीहरू"
+      "korean": "독서하다",
+      "english": "to read books",
+      "nepali": "किताब पढ्नु / अध्ययन गर्नु"
+    },
+    {
+      "korean": "낚시하다",
+      "english": "to fish",
+      "nepali": "माछा मार्नु"
+    },
+    {
+      "korean": "여행하다",
+      "english": "to travel",
+      "nepali": "भ्रमण गर्नु / घुम्न जानु"
+    },
+    {
+      "korean": "등산하다",
+      "english": "to hike / climb mountains",
+      "nepali": "ट्रेकिङ जानु / पहाड चढ्नु"
+    },
+    {
+      "korean": "사진을 찍다",
+      "english": "to take photos",
+      "nepali": "फोटो खिच्नु"
+    },
+    {
+      "korean": "외국어를 배우다",
+      "english": "to learn a foreign language",
+      "nepali": "विदेशी भाषा सिक्नु"
+    },
+    {
+      "korean": "음악을 듣다",
+      "english": "to listen to music",
+      "nepali": "गीत/संगीत सुन्नु"
+    },
+    {
+      "korean": "축구하다",
+      "english": "to play soccer",
+      "nepali": "फुटबल खेल्नु"
+    },
+    {
+      "korean": "농구하다",
+      "english": "to play basketball",
+      "nepali": "बास्केटबल खेल्नु"
+    },
+    {
+      "korean": "야구하다",
+      "english": "to play baseball",
+      "nepali": "बेसबल खेल्नु"
+    },
+    {
+      "korean": "수영하다",
+      "english": "to swim",
+      "nepali": "पौडी खेल्नु"
+    },
+    {
+      "korean": "테니스를 치다",
+      "english": "to play tennis",
+      "nepali": "टेनिस खेल्नु"
+    },
+    {
+      "korean": "배드민턴을 치다",
+      "english": "to play badminton",
+      "nepali": "ब्याडमिन्टन खेल्नु"
+    },
+    {
+      "korean": "볼링을 치다",
+      "english": "to bowl",
+      "nepali": "बलिङ खेल्नु"
+    },
+    {
+      "korean": "자전거를 타다",
+      "english": "to ride a bicycle",
+      "nepali": "साइकल चलाउनु"
     }
   ],
   "grammar": [
     {
-      "point": "취미",
-      "explanation": "Hobbies 취미에 대해 말할 수 있다. 학습 목표 Can talk about hobbies. LEARNING OBJECTIVES 좋아하는 운동에 대해 말할 수 있다. Can talk about favorite sports. 220 한국어 표준교재 1 CHAPTER 18 EPS-TOPIK 저는 축구하는 것을 좋아해요. 저도 축구를 좋아해요. 이번 주말에 같이 축구할까요? 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -는 것 취미 관련 어휘 한국인의 여가 생활 -(으)ㄹ까요? Vocabulary Related to Hobbies Korea People's Leisure Activities 운동 관련 어휘 Vocabulary Related to Sports 220 한국어 표준교재 1",
-      "examples": [],
-      "explanationNp": "취미 सम्बन्धी व्याकरण नियम र प्रयोग।"
-    },
-    {
-      "point": "여행하다 외국어를 배우다",
-      "explanation": "⑵ ⑶ 가 : 같이 사진을 찍을래요? 가 : 왜 기숙사에 살아요? 나 : 저는 을 나 : 기숙사가 편해서 안 좋아해요. 이 좋아요. 사진을 찍다 기숙사에 살다",
-      "examples": [],
-      "explanationNp": "여행하다 외국어를 배우다 सम्बन्धी व्याकरण नियम र प्रयोग।"
-    },
-    {
-      "point": "나 상대방의 제안을 승낙할",
-      "explanation": "‘-(으)ㄹ까요?’ is attached to a verb to suggest something or ask for 때 사용할 수 있다. someone’s opinion. ‘-아요/어요’ is also attached 받침 ○ -을까요? 먹다 → 먹을까요? to a verb to suggest doing something together or to 받침 , 받침 ‘ㄹ’ -ㄹ까요? 가다 → 갈까요? accept a suggestion. × 만들다 → 만들까요? 우리 주말에 뭐 할까요? 가 : 같이 저녁을 만들까요? 나 : 네, 좋아요.",
+      "point": "-(으)ㄹ 수 있다/없다",
+      "explanation": "Expresses the ability or possibility to perform an action.",
+      "explanationNp": "कुनै काम गर्न सक्ने क्षमता वा सम्भावना दर्शाउँदा धातुमा जोडिन्छ। बाच्छिम भए '-을 수 있다/없다' (उदा: 읽을 수 있어요 = पढ्न सक्छु), बाच्छिम नभए वा 'ㄹ' भए '-ㄹ 수 있다/없다' (उदा: 수영할 수 있어요 = पौडी खेल्न सक्छु)।",
       "examples": [
-        "예 우리 같이 저녁을 먹어요.",
-        "예 내일 같이 점심 먹을까요?"
-      ],
-      "explanationNp": "나 상대방의 제안을 승낙할 सम्बन्धी व्याकरण नियम र प्रयोग।"
+        "한국 음식을 만들 수 있어요. — म कोरियाली खाना बनाउन सक्छु।"
+      ]
+    },
+    {
+      "point": "-(으)러 가다/오다",
+      "explanation": "Used with movement verbs (가다, 오다, 다니다) to express the purpose of going or coming.",
+      "explanationNp": "कुनै उद्देश्यले कतै जाँदा वा आउँदा उद्देश्य जनाउन क्रियाको धातुमा जोडिन्छ। बाच्छिम भए '-으러 가다' (उदा: 밥을 먹으러 가요 = खाना खान जान्छु), बाच्छिम नभए वा 'ㄹ' भए '-러 가다' (उदा: 축구하러 가요 = फुटबल खेल्न जान्छु)।",
+      "examples": [
+        "주말에 친구하고 축구하러 갈 거예요. — सप्ताहन्तमा साथीसँग फुटबल खेल्न जानेछु।"
+      ]
     }
   ],
   "conversations": [
@@ -283,6 +348,6 @@
       "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
-  "titleNp": "रुचि तथा हबी",
+  "titleNp": "रुचि र फुर्सदका क्रियाकलापहरू",
   "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_18.pdf"
 }

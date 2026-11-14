@@ -1,0 +1,167 @@
+{
+  "chapterNo": 26,
+  "titleKo": "한국의 주거 문화와 음식 문화",
+  "titleEn": "Korean Housing Culture and Food Culture",
+  "titleNp": "कोरियाको आवास र खाना संस्कृति",
+  "learningObjectives": [
+    {
+      "id": "ch26_obj_01",
+      "korean": "한국의 주거 형태와 온돌 문화에 대해 설명할 수 있다.",
+      "english": "Can explain Korean housing types and ondol culture.",
+      "nepali": "कोरियाको घरको प्रकार र भुइँ तताउने (ओन्दोल) संस्कृतिबारे व्याख्या गर्न सक्नुहुनेछ।"
+    },
+    {
+      "id": "ch26_obj_02",
+      "korean": "한국의 대표 음식과 식사 예절을 이해할 수 있다.",
+      "english": "Can understand representative Korean food and dining etiquette.",
+      "nepali": "कोरियाका मुख्य खानाहरू र खानपिनको शिष्टाचार बुझ्न सक्नुहुनेछ।"
+    }
+  ],
+  "vocabulary1": {
+    "topicKo": "주거 문화 관련 어휘",
+    "topicEn": "Housing Culture Vocabulary",
+    "topicNp": "आवास तथा घरको संस्कृति",
+    "words": [
+      {
+        "korean": "한옥",
+        "english": "Hanok (traditional Korean house)",
+        "nepali": "हानोक (कोरियाको परम्परागत घर)"
+      },
+      {
+        "korean": "아파트",
+        "english": "apartment",
+        "nepali": "अपार्टमेन्ट"
+      },
+      {
+        "korean": "원룸",
+        "english": "studio apartment (one-room)",
+        "nepali": "वान-रुम (एउटै कोठामा सबै सुविधा भएको)"
+      },
+      {
+        "korean": "기숙사",
+        "english": "dormitory",
+        "nepali": "होस्टेल / कम्पनीको आवास (डर्मिटरी)"
+      },
+      {
+        "korean": "온돌",
+        "english": "Ondol (underfloor heating system)",
+        "nepali": "ओन्दोल (भुइँ तताउने कोरियन परम्परागत प्रविधि)"
+      },
+      {
+        "korean": "보일러",
+        "english": "boiler / water heater",
+        "nepali": "बोयलर (कोठा र पानी तताउने यन्त्र)"
+      },
+      {
+        "korean": "지붕",
+        "english": "roof",
+        "nepali": "छाना"
+      },
+      {
+        "korean": "마루",
+        "english": "wooden floor / veranda",
+        "nepali": "काठको बार्दली / भुइँ"
+      },
+      {
+        "korean": "방문",
+        "english": "room door",
+        "nepali": "कोठाको ढोका"
+      }
+    ]
+  },
+  "grammar1": {
+    "point": "-아도/어도 되다",
+    "meaningNp": "...गरे पनि हुन्छ (अनुमति / Permission / May do...)",
+    "explanationEn": "Attaches to verbs and adjectives to indicate permission or approval to do something.",
+    "explanationNp": "क्रिया वा विशेषणमा जोडिएर कुनै कार्य गर्न अनुमति वा छुट छ भन्ने जनाउँछ।",
+    "ruleNp": "अन्तिम स्वरवर्ण ㅏ वा ㅗ भए '-아도 되다', बाँकी स्वरवर्ण भए '-어도 되다', र 하다 क्रियामा '-해도 되다' हुन्छ।",
+    "examples": [
+      {
+        "korean": "여기서 사진을 찍어도 돼요?",
+        "english": "May I take pictures here?",
+        "nepali": "यहाँ फोटो खिचे पनि हुन्छ?"
+      },
+      {
+        "korean": "신발을 벗고 들어가도 됩니다.",
+        "english": "You may enter after taking off your shoes.",
+        "nepali": "जुत्ता खोलेर भित्र पसे पनि हुन्छ।"
+      }
+    ]
+  },
+  "vocabulary2": {
+    "topicKo": "음식 문화 관련 어휘",
+    "topicEn": "Food Culture Vocabulary",
+    "topicNp": "खाना तथा परिकार सम्बन्धी शब्दावली",
+    "words": [
+      {
+        "korean": "한식",
+        "english": "Korean food",
+        "nepali": "कोरियाली खाना"
+      },
+      {
+        "korean": "밥",
+        "english": "cooked rice / meal",
+        "nepali": "भात / खाना"
+      },
+      {
+        "korean": "국 (찌개)",
+        "english": "soup / stew",
+        "nepali": "झोल / सुप (चिगे)"
+      },
+      {
+        "korean": "반찬",
+        "english": "side dishes",
+        "nepali": "परिकारहरू / साइड डिश (पान्छान)"
+      },
+      {
+        "korean": "김치",
+        "english": "Kimchi",
+        "nepali": "किम्ची (अचार)"
+      },
+      {
+        "korean": "불고기",
+        "english": "Bulgogi (marinated beef)",
+        "nepali": "पुल्गोगी (पोलेको गुलियो मासु)"
+      },
+      {
+        "korean": "비빔밥",
+        "english": "Bibimbap (mixed rice)",
+        "nepali": "पिविमपाप (मिसाइएको भात)"
+      },
+      {
+        "korean": "삼겹살",
+        "english": "pork belly",
+        "nepali": "सामग्योप्सल (सुँगुरको तीनतले मासु)"
+      },
+      {
+        "korean": "숟가락",
+        "english": "spoon",
+        "nepali": "चम्चा"
+      },
+      {
+        "korean": "젓가락",
+        "english": "chopsticks",
+        "nepali": "चपस्टिक (काँटा सिन्का)"
+      }
+    ]
+  },
+  "grammar2": {
+    "point": "-는데 / -(으)ㄴ데 (대조)",
+    "meaningNp": "...तर पनि / ...हुँदाहुँदै (विपरीत कुरा / But / Contrast)",
+    "explanationEn": "Attaches to verbs and adjectives to express a contrast or unexpected turn between two clauses.",
+    "explanationNp": "अगाडिको वाक्य र पछाडिको वाक्यको अवस्था एकआपसमा विपरीत वा फरक हुँदा जोड्न प्रयोग गरिन्छ।",
+    "ruleNp": "क्रियापदसँग '-는데', विशेषणमा 받침 भए '-은데', नभए '-ㄴ데' जोडिन्छ।",
+    "examples": [
+      {
+        "korean": "한국 음식은 매운데 맛있어요.",
+        "english": "Korean food is spicy, but delicious.",
+        "nepali": "कोरियाली खाना पिरो छ, तर मिठो छ।"
+      },
+      {
+        "korean": "방은 작은데 깨끗해요.",
+        "english": "The room is small, but it is clean.",
+        "nepali": "कोठा सानो छ, तर सफा छ।"
+      }
+    ]
+  }
+}

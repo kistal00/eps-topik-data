@@ -1,0 +1,178 @@
+{
+  "version": 2,
+  "chapterNo": 5,
+  "titleKo": "날짜와 요일",
+  "titleEn": "Dates and Days of the Week",
+  "titleNp": "मिति र बारहरू",
+  "learningObjectives": [
+    {
+      "id": "ch05_obj_01",
+      "korean": "요일을 말할 수 있다.",
+      "english": "Can name the days of the week.",
+      "nepali": "हप्ताका बारहरू बताउन सक्नुहुनेछ।"
+    },
+    {
+      "id": "ch05_obj_02",
+      "korean": "날짜를 묻고 대답할 수 있다.",
+      "english": "Can ask and answer what date it is.",
+      "nepali": "मिति सोध्न र उत्तर दिन सक्नुहुनेछ।"
+    }
+  ],
+  "vocabulary1": {
+    "topicKo": "요일",
+    "topicEn": "Days of the Week",
+    "topicNp": "हप्ताका बारहरू",
+    "words": [
+      { "korean": "월요일", "english": "Monday", "nepali": "सोमबार" },
+      { "korean": "화요일", "english": "Tuesday", "nepali": "मङ्गलबार" },
+      { "korean": "수요일", "english": "Wednesday", "nepali": "बुधबार" },
+      { "korean": "목요일", "english": "Thursday", "nepali": "बिहीबार" },
+      { "korean": "금요일", "english": "Friday", "nepali": "शुक्रबार" },
+      { "korean": "토요일", "english": "Saturday", "nepali": "शनिबार" },
+      { "korean": "일요일", "english": "Sunday", "nepali": "आइतबार" },
+      { "korean": "어제", "english": "yesterday", "nepali": "हिजो" },
+      { "korean": "오늘", "english": "today", "nepali": "आज" },
+      { "korean": "내일", "english": "tomorrow", "nepali": "भोलि" },
+      { "korean": "평일", "english": "weekday", "nepali": "काम गर्ने दिन (सोम–शुक्र)" },
+      { "korean": "주말", "english": "weekend", "nepali": "सप्ताहन्त (शनि–आइत)" },
+      { "korean": "매일", "english": "everyday", "nepali": "हरेक दिन / सधैं" }
+    ]
+  },
+  "grammar1": {
+    "point": "에",
+    "meaningNp": "मा (समय सूचक प्रत्यय / Time Marker)",
+    "explanationEn": "Attaches to a time noun to indicate when an action takes place.",
+    "explanationNp": "समय जनाउने नामको पछाडि जोडिएर कुनै कार्य कुन समय वा बारमा हुन्छ भन्ने दर्शाउँछ।",
+    "ruleNp": "समय + 에 (उदा: 월요일에 = सोमबारमा, 몇 시에 = कति बजे)। ध्यान दिनुहोस्: '어제', '오늘', '내일', '지금' को पछाडि '에' जोडिँदैन।",
+    "examples": [
+      {
+        "korean": "금요일에 영화를 봐요.",
+        "english": "I watch a movie on Friday.",
+        "nepali": "शुक्रबार चलचित्र हेर्छु।"
+      },
+      {
+        "korean": "가: 몇 시에 자요? / 나: 11시에 자요.",
+        "english": "Q: What time do you sleep? / A: I sleep at 11 o'clock.",
+        "nepali": "क: कति बजे सुत्नुहुन्छ? / ख: ११ बजे सुत्छु।"
+      }
+    ]
+  },
+  "dialogue1": {
+    "titleNp": "संवाद १",
+    "lines": [
+      {
+        "speaker": "투안 (Tuan)",
+        "korean": "오늘이 무슨 요일이에요?",
+        "english": "What day of the week is today?",
+        "nepali": "आज कुन बार हो?"
+      },
+      {
+        "speaker": "리한 (Rihan)",
+        "korean": "수요일이에요.",
+        "english": "It's Wednesday.",
+        "nepali": "बुधबार हो।"
+      },
+      {
+        "speaker": "투안 (Tuan)",
+        "korean": "내일은 무슨 요일이에요?",
+        "english": "What day is tomorrow?",
+        "nepali": "भोलि चाहिँ कुन बार हो?"
+      },
+      {
+        "speaker": "리한 (Rihan)",
+        "korean": "목요일이에요.",
+        "english": "It's Thursday.",
+        "nepali": "बिहीबार हो।"
+      }
+    ]
+  },
+  "vocabulary2": {
+    "topicKo": "날짜 관련 어휘",
+    "topicEn": "Dates and Months",
+    "topicNp": "मिति र महिनाहरू",
+    "words": [
+      { "korean": "1월 (일월)", "english": "January", "nepali": "जनवरी (पहिलो महिना)" },
+      { "korean": "2월 (이월)", "english": "February", "nepali": "फेब्रुअरी" },
+      { "korean": "3월 (삼월)", "english": "March", "nepali": "मार्च" },
+      { "korean": "4월 (사월)", "english": "April", "nepali": "अप्रिल" },
+      { "korean": "5월 (오월)", "english": "May", "nepali": "मे" },
+      { "korean": "6월 (유월)", "english": "June", "nepali": "जुन (विशेष उच्चारण: 유월)" },
+      { "korean": "7월 (칠월)", "english": "July", "nepali": "जुलाई" },
+      { "korean": "8월 (팔월)", "english": "August", "nepali": "अगस्ट" },
+      { "korean": "9월 (구월)", "english": "September", "nepali": "सेप्टेम्बर" },
+      { "korean": "10월 (시월)", "english": "October", "nepali": "अक्टोबर (विशेष उच्चारण: 시월)" },
+      { "korean": "11월 (십일월)", "english": "November", "nepali": "नोभेम्बर" },
+      { "korean": "12월 (십이월)", "english": "December", "nepali": "डिसेम्बर" },
+      { "korean": "지난달", "english": "last month", "nepali": "गएको महिना" },
+      { "korean": "이번 달", "english": "this month", "nepali": "यो महिना" },
+      { "korean": "다음 달", "english": "next month", "nepali": "अर्को महिना" },
+      { "korean": "지난주", "english": "last week", "nepali": "गएको हप्ता" },
+      { "korean": "이번 주", "english": "this week", "nepali": "यो हप्ता" },
+      { "korean": "다음 주", "english": "next week", "nepali": "अर्को हप्ता" },
+      { "korean": "작년", "english": "last year", "nepali": "गएको वर्ष (पोहर साल)" },
+      { "korean": "올해", "english": "this year", "nepali": "यो वर्ष" },
+      { "korean": "내년", "english": "next year", "nepali": "आउने वर्ष (अर्को साल)" }
+    ]
+  },
+  "grammar2": {
+    "point": "-았 / 었-",
+    "meaningNp": "गरेँ / गर्‍यो / गर्नुभयो (सामान्य भूतकाल / Past Tense)",
+    "explanationEn": "Attaches to the stem of a verb or adjective to express an action or state that occurred in the past.",
+    "explanationNp": "क्रिया वा विशेषणको धातुसँग जोडिएर बितेको समयमा सम्पन्न भएको कार्य व्यक्त गर्दछ।",
+    "ruleNp": "धातुको अन्तिम स्वर 'ㅏ, ㅗ' भए '-았어요' (उदा: 가다 → 갔어요 = गएँ, 오다 → 왔어요 = आएँ), अन्य स्वर भए '-었어요' (उदा: 먹다 → 먹었어요 = खाएँ, 마시다 → 마셨어요 = पिएँ), '하다' भए '했어요' (उदा: 공부하다 → 공부했어요 = पढेँ) जोडिन्छ।",
+    "examples": [
+      {
+        "korean": "어제 친구를 만났어요.",
+        "english": "I met a friend yesterday.",
+        "nepali": "हिजो साथीलाई भेटेँ।"
+      },
+      {
+        "korean": "주말에 방을 청소했어요.",
+        "english": "I cleaned the room on the weekend.",
+        "nepali": "सप्ताहन्तमा कोठा सफा गरेँ।"
+      }
+    ]
+  },
+  "dialogue2": {
+    "titleNp": "संवाद २",
+    "lines": [
+      {
+        "speaker": "투안 (Tuan)",
+        "korean": "리한 씨, 주말에 뭐 했어요?",
+        "english": "Rihan, what did you do over the weekend?",
+        "nepali": "रिहान जी, सप्ताहन्तमा के गर्नुभयो?"
+      },
+      {
+        "speaker": "리한 (Rihan)",
+        "korean": "친구하고 한국어를 공부했어요. 투안 씨는요?",
+        "english": "I studied Korean with a friend. How about you, Tuan?",
+        "nepali": "साथीसँग कोरियन भाषा अध्ययन गरेँ। तुआन जीले चाहिँ के गर्नुभयो?"
+      },
+      {
+        "speaker": "투안 (Tuan)",
+        "korean": "저는 기숙사에서 쉬었어요.",
+        "english": "I rested at the dormitory.",
+        "nepali": "म होस्टेलमै आराम गरेँ।"
+      }
+    ]
+  },
+  "cultureAndInfo": {
+    "titleKo": "한국의 공휴일",
+    "titleEn": "Public Holidays in Korea",
+    "titleNp": "कोरियाका प्रमुख सार्वजनिक बिदाहरू",
+    "sections": [
+      {
+        "subtitleNp": "१. नयाँ वर्ष (신정 र 설날)",
+        "contentNp": "जनवरी १ (पश्चिमी नयाँ वर्ष) र 'सल्लल' (कोरियाली चन्द्र नयाँ वर्ष - ३ दिन बिदा, जहाँ परिवार भेला भई 'तक्गुक' खाने र मान्यजनलाई ढोग्ने चलन हुन्छ)।"
+      },
+      {
+        "subtitleNp": "२. छुसक (추석 - कोरियाली धन्यवाद दिवस)",
+        "contentNp": "कोरियाको सबैभन्दा ठूलो चाड (अन्नबाली भित्र्याउने उत्सव), जहाँ परिवार मिलेर 'सोङप्योन' चामलको परिकार बनाउँछन् र पुर्खाहरूको सम्झनामा पूजा गर्छन्।"
+      },
+      {
+        "subtitleNp": "३. अन्य राष्ट्रिय दिवसहरू",
+        "contentNp": "साम-इल दिवस (मार्च १), बुद्ध जयन्ती (मे महिना), बाल दिवस (मे ५), हाङ्गुल दिवस (अक्टोबर ९ - कोरियन लिपि स्थापना दिवस)।"
+      }
+    ]
+  }
+}

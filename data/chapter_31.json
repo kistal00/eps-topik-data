@@ -10,25 +10,141 @@
     "• 근무 태도에 대해 말할 수 있다.",
     "• 어떤 대상을 보고 짐작하거나 판단할 때 쓰는 표현을 사용할 수 있다."
   ],
-  "vocabulary": [],
+  "vocabulary": [
+    {
+      "korean": "작업복",
+      "english": "work clothes / uniform",
+      "nepali": "कामको कपडा (वर्क यूनिफर्म)"
+    },
+    {
+      "korean": "유니폼",
+      "english": "uniform",
+      "nepali": "यूनिफर्म"
+    },
+    {
+      "korean": "정장",
+      "english": "formal wear / business suit",
+      "nepali": "औपचारिक पोसाक (सुट)"
+    },
+    {
+      "korean": "안전모",
+      "english": "hard hat / safety helmet",
+      "nepali": "सुरक्षा टोपी (हेल्मेट)"
+    },
+    {
+      "korean": "안전화",
+      "english": "safety shoes / boots",
+      "nepali": "सुरक्षा जुत्ता (सेफ्टी बुट)"
+    },
+    {
+      "korean": "안전 조끼",
+      "english": "safety vest",
+      "nepali": "सुरक्षा भेस्ट (जाली जाकेट)"
+    },
+    {
+      "korean": "장갑",
+      "english": "gloves",
+      "nepali": "पन्जा"
+    },
+    {
+      "korean": "갈아입다",
+      "english": "to change clothes",
+      "nepali": "कपडा फेर्नु"
+    },
+    {
+      "korean": "벗다",
+      "english": "to take off (clothes/shoes)",
+      "nepali": "फुकाल्नु / खोल्नु"
+    },
+    {
+      "korean": "단추를 잠그다",
+      "english": "to button up",
+      "nepali": "बटन लगाउनु"
+    },
+    {
+      "korean": "지퍼를 올리다",
+      "english": "to zip up",
+      "nepali": "जिप लगाउनु (माथि तान्नु)"
+    },
+    {
+      "korean": "넥타이를 매다",
+      "english": "to tie a necktie",
+      "nepali": "टाई बाँध्नु"
+    },
+    {
+      "korean": "예의가 있다",
+      "english": "to be polite / courteous",
+      "nepali": "शिष्ट/विनम्र हुनु"
+    },
+    {
+      "korean": "예의가 없다",
+      "english": "to be rude / impolite",
+      "nepali": "अशिष्ट/बेइज्जत हुनु"
+    },
+    {
+      "korean": "존댓말을 하다",
+      "english": "to use honorific language",
+      "nepali": "आदरार्थी भाषा प्रयोग गर्नु"
+    },
+    {
+      "korean": "반말을 하다",
+      "english": "to use casual (non-honorific) language",
+      "nepali": "तँ-तिमी भाषा बोल्नु"
+    },
+    {
+      "korean": "칭찬하다",
+      "english": "to praise / compliment",
+      "nepali": "प्रशंसा गर्नु"
+    },
+    {
+      "korean": "존중하다",
+      "english": "to respect",
+      "nepali": "सम्मान गर्नु"
+    },
+    {
+      "korean": "배려하다",
+      "english": "to be considerate / thoughtful",
+      "nepali": "ख्याल गर्नु"
+    },
+    {
+      "korean": "성실하다",
+      "english": "to be diligent / sincere",
+      "nepali": "कर्तव्यनिष्ठ/इमान्दार हुनु"
+    },
+    {
+      "korean": "불성실하다",
+      "english": "to be insincere / lazy",
+      "nepali": "काम नगर्ने/अलछी हुनु"
+    },
+    {
+      "korean": "지각하다",
+      "english": "to be late / tardy",
+      "nepali": "ढिलो आउनु (लेट हुनु)"
+    },
+    {
+      "korean": "결근하다",
+      "english": "to be absent from work",
+      "nepali": "कामबाट गैरहाजिर हुनु"
+    }
+  ],
   "grammar": [
     {
-      "point": "복장과 근무 태도",
-      "explanation": "Attire and Work Attitude 근무 복장에 대해 말할 수 있다. 학습 목표 Can talk about work attire. LEARNING OBJECTIVES 근무 태도에 대해 말할 수 있다. Can talk about work attitude. CHAPTER 31 EPS-TOPIK 항상 성실하게 일해서 참 좋아요. 감사합니다. 앞으로도 열심히 할게요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -아/어 보이다 복장 관련 어휘 직장 내 언어 예절 -게 Vocabulary Related to Attire Language Etiquette in the 태도 관련 어휘 Workplace Vocabulary Related to Attitude 16 한국어 표준교재 2",
-      "examples": [],
-      "explanationNp": "복장과 근무 태도 सम्बन्धी व्याकरण नियम र प्रयोग।"
+      "point": "-아/어 보이다",
+      "explanation": "Mainly attached to adjectives to express that something appears or seems to be in a certain state.",
+      "explanationNp": "मुख्यतः विशेषणमा जोडिएर कुनै कुरा बाहिरबाट कस्तो देखिन्छ वा कस्तो अवस्थामा छ जस्तो लाग्छ भन्ने जनाउँछ। अन्तिम स्वरवर्ण ㅏ वा ㅗ भए '-아 보이다', बाँकी भए '-어 보이다', 하다 मा '-해 보이다' हुन्छ।",
+      "examples": [
+        "오늘 많이 피곤해 보여요. — आज धेरै थकित देखिनुहुन्छ।",
+        "그 작업복은 편해 보여요. — त्यो कामको कपडा आरामदायक देखिन्छ।"
+      ]
     },
     {
-      "point": "예 작업복이 좀 작아 보이는데 불편하지 않아요?",
-      "explanation": "필요 없는 물건을 치우니까 방이 넓어 보여요. 단추를 잠그니까 단정해 보이네요.",
-      "examples": [],
-      "explanationNp": "예 작업복이 좀 작아 보이는데 불편하지 않아요? सम्बन्धी व्याकरण नियम र प्रयोग।"
-    },
-    {
-      "point": "짧다 싸다 재미있다 단정하다",
-      "explanation": "⑴ 칼로 씨는 이야기를 해요. ⑵ 마두 씨는 항상 옷을 입어요. ⑶ 시장에 가면 옷을 살 수 있어요. ⑷ 날씨가 더워서 머리를 잘랐어요.",
-      "examples": [],
-      "explanationNp": "짧다 싸다 재미있다 단정하다 सम्बन्धी व्याकरण नियम र प्रयोग।"
+      "point": "-게",
+      "explanation": "Mainly attached to adjectives to show the degree or manner in which the following action is done.",
+      "explanationNp": "मुख्यतः विशेषणमा जोडिएर पछाडि आउने क्रियाको तरिका वा हद कसरी गरिन्छ भन्ने जनाउँछ। विशेषणको धातुमा सिधै '-게' जोडिन्छ।",
+      "examples": [
+        "칼로 씨는 항상 성실하게 일하네요. — कार्लोजी सधैं कर्तव्यनिष्ठतापूर्वक काम गर्नुहुन्छ।",
+        "안전하게 작업하세요. — सुरक्षित तरिकाले काम गर्नुहोस्।"
+      ]
     }
   ],
   "conversations": [
@@ -216,6 +332,6 @@
       "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
-  "titleNp": "कार्यस्थलको पोशाक र काम गर्ने मनोवृत्ति",
+  "titleNp": "कामको पोसाक र कर्तव्यनिष्ठा",
   "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_31.pdf"
 }

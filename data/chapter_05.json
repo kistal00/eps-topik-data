@@ -10,29 +10,196 @@
     "• 날짜를 묻고 답할 수 있다.",
     "• 과거의 일에 대해 말할 수 있다."
   ],
-  "vocabulary": [],
+  "vocabulary": [
+    {
+      "korean": "월요일",
+      "english": "Monday",
+      "nepali": "सोमबार"
+    },
+    {
+      "korean": "화요일",
+      "english": "Tuesday",
+      "nepali": "मङ्गलबार"
+    },
+    {
+      "korean": "수요일",
+      "english": "Wednesday",
+      "nepali": "बुधबार"
+    },
+    {
+      "korean": "목요일",
+      "english": "Thursday",
+      "nepali": "बिहीबार"
+    },
+    {
+      "korean": "금요일",
+      "english": "Friday",
+      "nepali": "शुक्रबार"
+    },
+    {
+      "korean": "토요일",
+      "english": "Saturday",
+      "nepali": "शनिबार"
+    },
+    {
+      "korean": "일요일",
+      "english": "Sunday",
+      "nepali": "आइतबार"
+    },
+    {
+      "korean": "어제",
+      "english": "yesterday",
+      "nepali": "हिजो"
+    },
+    {
+      "korean": "오늘",
+      "english": "today",
+      "nepali": "आज"
+    },
+    {
+      "korean": "내일",
+      "english": "tomorrow",
+      "nepali": "भोलि"
+    },
+    {
+      "korean": "평일",
+      "english": "weekday",
+      "nepali": "काम गर्ने दिन (सोम–शुक्र)"
+    },
+    {
+      "korean": "주말",
+      "english": "weekend",
+      "nepali": "सप्ताहन्त (शनि–आइत)"
+    },
+    {
+      "korean": "매일",
+      "english": "everyday",
+      "nepali": "हरेक दिन / सधैं"
+    },
+    {
+      "korean": "1월 (일월)",
+      "english": "January",
+      "nepali": "जनवरी (पहिलो महिना)"
+    },
+    {
+      "korean": "2월 (이월)",
+      "english": "February",
+      "nepali": "फेब्रुअरी"
+    },
+    {
+      "korean": "3월 (삼월)",
+      "english": "March",
+      "nepali": "मार्च"
+    },
+    {
+      "korean": "4월 (사월)",
+      "english": "April",
+      "nepali": "अप्रिल"
+    },
+    {
+      "korean": "5월 (오월)",
+      "english": "May",
+      "nepali": "मे"
+    },
+    {
+      "korean": "6월 (유월)",
+      "english": "June",
+      "nepali": "जुन (विशेष उच्चारण: 유월)"
+    },
+    {
+      "korean": "7월 (칠월)",
+      "english": "July",
+      "nepali": "जुलाई"
+    },
+    {
+      "korean": "8월 (팔월)",
+      "english": "August",
+      "nepali": "अगस्ट"
+    },
+    {
+      "korean": "9월 (구월)",
+      "english": "September",
+      "nepali": "सेप्टेम्बर"
+    },
+    {
+      "korean": "10월 (시월)",
+      "english": "October",
+      "nepali": "अक्टोबर (विशेष उच्चारण: 시월)"
+    },
+    {
+      "korean": "11월 (십일월)",
+      "english": "November",
+      "nepali": "नोभेम्बर"
+    },
+    {
+      "korean": "12월 (십이월)",
+      "english": "December",
+      "nepali": "डिसेम्बर"
+    },
+    {
+      "korean": "지난달",
+      "english": "last month",
+      "nepali": "गएको महिना"
+    },
+    {
+      "korean": "이번 달",
+      "english": "this month",
+      "nepali": "यो महिना"
+    },
+    {
+      "korean": "다음 달",
+      "english": "next month",
+      "nepali": "अर्को महिना"
+    },
+    {
+      "korean": "지난주",
+      "english": "last week",
+      "nepali": "गएको हप्ता"
+    },
+    {
+      "korean": "이번 주",
+      "english": "this week",
+      "nepali": "यो हप्ता"
+    },
+    {
+      "korean": "다음 주",
+      "english": "next week",
+      "nepali": "अर्को हप्ता"
+    },
+    {
+      "korean": "작년",
+      "english": "last year",
+      "nepali": "गएको वर्ष (पोहर साल)"
+    },
+    {
+      "korean": "올해",
+      "english": "this year",
+      "nepali": "यो वर्ष"
+    },
+    {
+      "korean": "내년",
+      "english": "next year",
+      "nepali": "आउने वर्ष (अर्को साल)"
+    }
+  ],
   "grammar": [
     {
-      "point": "날짜와 요일",
-      "explanation": "Dates and Days of the Week 요일을 말할 수 있다. 학습 목표 Can name the days of the week. LEARNING OBJECTIVES 날짜를 묻고 대답할 수 있다. Can ask and answer what date it is. 90 한국어 표준교재 1 CHAPTER 05 EPS-TOPIK SUNDAY MONDAY TUESDAY WEDNESDAY THURSDAY FRIDAY SATURDAY 일요일 월요일 화요일 수요일 목요일 금요일 토요일 4월 16일이 무슨 요일이에요? 화요일이에요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION 에(시간) 요일 양력과 음력 -았/었- Days of the Week Solar and Lunar Calendars 날짜 관련 어휘 Vocabulary Related to Dates 90 한국어 표준교재 1",
-      "examples": [],
-      "explanationNp": "날짜와 요일 सम्बन्धी व्याकरण नियम र प्रयोग।"
-    },
-    {
-      "point": "어떤 일이 일어나는 때를 나타내고, 장소",
-      "explanation": "나는 때를 나타낸다. 를 나타내는 명사와 결합하면 사람이나 물건이 존재하는 곳을 나타내거나 이동 ‘에’ combines with nouns to show the time when something happens. 의 목적지를 나타낸다. When '에' combines with a noun indicating time, it expresses the time 금요일에 영화를 봐요. when something happens, and when it 주말에 쉬어요. combines with a noun indicating a place, it shows the location where a person or ※ 시 간을 나타내는 ‘어제, 오늘, 내일, 지금’ 등과는 결합 object exists, or the destination of a movement. 하지 않는다. It does not combine with time-related words like 푸캄 씨는 집에 가요. ‘yesterday, today, tomorrow, now’, etc.",
+      "point": "에",
+      "explanation": "Attaches to a time noun to indicate when an action takes place.",
+      "explanationNp": "समय जनाउने नामको पछाडि जोडिएर कुनै कार्य कुन समय वा बारमा हुन्छ भन्ने दर्शाउँछ। समय + 에 (उदा: 월요일에 = सोमबारमा, 몇 시에 = कति बजे)। ध्यान दिनुहोस्: '어제', '오늘', '내일', '지금' को पछाडि '에' जोडिँदैन।",
       "examples": [
-        "예 월요일에 일해요.",
-        "예 다라 씨는 회사에 있어요.",
-        "예 오늘에 영화를 봐요. (X)"
-      ],
-      "explanationNp": "어떤 일이 일어나는 때를 나타내고, 장소 सम्बन्धी व्याकरण नियम र प्रयोग।"
+        "금요일에 영화를 봐요. — शुक्रबार चलचित्र हेर्छु।",
+        "가: 몇 시에 자요? / 나: 11시에 자요. — क: कति बजे सुत्नुहुन्छ? / ख: ११ बजे सुत्छु।"
+      ]
     },
     {
-      "point": "일요일 월요일 화요일 수요일 목요일 금요일 토요일",
-      "explanation": "1 2 3 4 가 : 5월 27일에 뭐 했어요? 5 6 7 8 9 10 11 나 : 쇼핑했어요. 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 오늘 ⑴ 가 : 5월 6일에 뭐 했어요? ⑵ 가 : 5월 10일에 뭐 했어요? 나 : . 나 : . ⑶ 가 : 지난주 화요일에 뭐 했어요? ⑷ 가 : 어제 뭐 했어요? 나 : . 나 : . 5 날짜와 요일 DATES AND DAYS OF THE WEEK 95",
-      "examples": [],
-      "explanationNp": "일요일 월요일 화요일 수요일 목요일 금요일 토요일 सम्बन्धी व्याकरण नियम र प्रयोग।"
+      "point": "-았 / 었-",
+      "explanation": "Attaches to the stem of a verb or adjective to express an action or state that occurred in the past.",
+      "explanationNp": "क्रिया वा विशेषणको धातुसँग जोडिएर बितेको समयमा सम्पन्न भएको कार्य व्यक्त गर्दछ। धातुको अन्तिम स्वर 'ㅏ, ㅗ' भए '-았어요' (उदा: 가다 → 갔어요 = गएँ, 오다 → 왔어요 = आएँ), अन्य स्वर भए '-었어요' (उदा: 먹다 → 먹었어요 = खाएँ, 마시다 → 마셨어요 = पिएँ), '하다' भए '했어요' (उदा: 공부하다 → 공부했어요 = पढेँ) जोडिन्छ।",
+      "examples": [
+        "어제 친구를 만났어요. — हिजो साथीलाई भेटेँ।",
+        "주말에 방을 청소했어요. — सप्ताहन्तमा कोठा सफा गरेँ।"
+      ]
     }
   ],
   "conversations": [

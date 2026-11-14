@@ -9,27 +9,116 @@
     "• 기숙사 시설과 규칙에 대해 말할 수 있다.",
     "• 구내식당 이용에 대해 말할 수 있다."
   ],
-  "vocabulary": [],
+  "vocabulary": [
+    {
+      "korean": "기숙사",
+      "english": "dormitory",
+      "nepali": "डर्मिटरी / कम्पनीको बसोबास"
+    },
+    {
+      "korean": "방",
+      "english": "room",
+      "nepali": "कोठा"
+    },
+    {
+      "korean": "복도",
+      "english": "hallway / corridor",
+      "nepali": "बाटो/कोरिडोर"
+    },
+    {
+      "korean": "계단",
+      "english": "stairs / staircase",
+      "nepali": "भर्‍याङ"
+    },
+    {
+      "korean": "출입문",
+      "english": "entrance door",
+      "nepali": "प्रवेश ढोका"
+    },
+    {
+      "korean": "세탁실",
+      "english": "laundry room",
+      "nepali": "कपडा धुने कोठा"
+    },
+    {
+      "korean": "샤워실",
+      "english": "shower room",
+      "nepali": "नुहाउने कोठा"
+    },
+    {
+      "korean": "조리실",
+      "english": "kitchen / cooking room",
+      "nepali": "खाना पकाउने कोठा"
+    },
+    {
+      "korean": "관리인",
+      "english": "building manager / caretaker",
+      "nepali": "व्यवस्थापक / केयरटेकर"
+    },
+    {
+      "korean": "규칙을 지키다",
+      "english": "to follow rules",
+      "nepali": "नियम पालना गर्नु"
+    },
+    {
+      "korean": "규칙을 어기다",
+      "english": "to break rules",
+      "nepali": "नियम तोड्नु"
+    },
+    {
+      "korean": "구내식당",
+      "english": "company cafeteria",
+      "nepali": "कम्पनीको क्यान्टिन"
+    },
+    {
+      "korean": "배식대",
+      "english": "serving counter / station",
+      "nepali": "खाना वितरण काउन्टर"
+    },
+    {
+      "korean": "식수대",
+      "english": "drinking water station",
+      "nepali": "पिउने पानीको ठाउँ"
+    },
+    {
+      "korean": "퇴식구",
+      "english": "tray return area",
+      "nepali": "थाल फिर्ता गर्ने ठाउँ"
+    },
+    {
+      "korean": "식판",
+      "english": "meal tray",
+      "nepali": "खानाको प्लेट/थाल"
+    },
+    {
+      "korean": "식단표",
+      "english": "menu board / meal schedule",
+      "nepali": "मेनु बोर्ड (दैनिक खानाको सूची)"
+    },
+    {
+      "korean": "줄을 서다",
+      "english": "to stand in line / queue up",
+      "nepali": "लाइनमा बस्नु"
+    }
+  ],
   "grammar": [
     {
-      "point": "회사 시설 이용",
-      "explanation": "Use of Company Facilities 기숙사 시설과 규칙에 대해 말할 수 있다. 학습 목표 Can talk about dormitory facilities and rules. LEARNING OBJECTIVES 구내식당 이용에 대해 말할 수 있다. Can talk about using the cafeteria. 26 한국어 표준교재 2 CHAPTER 32 EPS-TOPIK 기숙사는 불편하지요? 불편하지는 않지만 지켜야 되는 규칙이 있어요. 기숙사에서는 여러 사람이 함께 생활하잖아요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -잖아요 기숙사 관련 어휘 사내 공용 시설 사용 수칙 -아/어 놓다 Vocabulary Related to the Dormitory Rules for Using Shared Company 구내식당 관련 어휘 Facilities Vocabulary Related to the Cafeteria 26 한국어 표준교재 2",
-      "examples": [],
-      "explanationNp": "회사 시설 이용 सम्बन्धी व्याकरण नियम र प्रयोग।"
-    },
-    {
-      "point": "의문문에 사용되면 말하는 사",
-      "explanation": "‘-잖아요’는 동사, 형용사에 붙여 듣는 사람이 당연히 알 것으로 생각 람의 생각에 대해 듣는 사람이 하는 내용을 말하는 사람이 확인하듯이 말할 때 사용한다. 동조해 줄 것을 바란다는 의미 를 나타낸다. ‘-잖아요’ is attached to verbs or adjectives and is used when the When used in a question, it speaker is reaffirming something that they think the listener already conveys the speaker’s knows. expectation that the listener will agree with their thought. 좀 이따 나갈까요? 퇴근 시간에는 사람이 많잖아요. 예 가 : 늦으면 전화해야 되잖아요? 가 : 반장님이 안 보이시네요. 나 : 네, 맞아요. 나 : 아까 창고에 가셨잖아요.",
+      "point": "-잖아요",
+      "explanation": "Used to confirm something the speaker believes the listener already knows or should know.",
+      "explanationNp": "सुन्नेलाई पहिले नै थाहा भएको कुरा पुष्टि गर्दै भन्दा प्रयोग गरिन्छ। क्रियापद र विशेषणको धातुमा सिधै '-잖아요' जोडिन्छ।",
       "examples": [
-        "예 밤에는 세탁기를 돌리지 마세요. 시끄럽잖아요."
-      ],
-      "explanationNp": "समय वा स्थान जनाउने प्रत्यय हो। नेपालीमा 'मा' वा 'तिर' भन्ने अर्थ लाग्दछ।"
+        "기숙사에서 음식을 만들면 안 되잖아요. — डर्मिटरीमा खाना बनाउन पाइँदैन नि!",
+        "내일 회의가 있잖아요. — भोलि मिटिङ छ नि त!"
+      ]
     },
     {
-      "point": "준비하다 붙이다 사다 닦다",
-      "explanation": "우리 공장 구내식당은 식권을 미리 사면 할인이 돼요. 그래서 식권을 여러 장 ⑴ . 식당 아주머니가 식단표를 게시판에 ⑵ . 식단표를 보면 무슨 음식이 나오는지 알 수 있어요. 우리 구내식당은 매일 맛있는 음식과 반찬을 ⑶ . 그래서 사람들은 구내식당에서 점심 먹는 것을 좋아해요. 밥을 먹은 후에는 식판을 치우고 식탁을 깨끗하게 ⑷ . 그러면 다른 사람들이 기분 좋게 식사할 수 있어요. 32 회사 시설 이용 USE OF COMPANY FACILITIES 31",
-      "examples": [],
-      "explanationNp": "준비하다 붙이다 사다 닦다 सम्बन्धी व्याकरण नियम र प्रयोग।"
+      "point": "-아/어 놓다",
+      "explanation": "Attached to transitive verbs to show that after an action is completed, its result remains maintained.",
+      "explanationNp": "सकर्मक क्रियापदमा जोडिएर कुनै कार्य गरिसकेपछि त्यसको नतिजा कायमै रहेको जनाउँछ। अन्तिम स्वरवर्ण ㅏ वा ㅗ भए '-아 놓다', बाँकी भए '-어 놓다', 하다 मा '-해 놓다' हुन्छ।",
+      "examples": [
+        "에어컨을 켜 놓았어요. — एसी खोलेर राखेको छु।",
+        "내일 쓸 재료를 준비해 놓으세요. — भोलि चाहिने सामान तयार गरेर राख्नुहोस्।"
+      ]
     }
   ],
   "conversations": [
@@ -208,6 +297,6 @@
       "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
-  "titleNp": "कम्पनीका सुविधाहरूको प्रयोग",
+  "titleNp": "कम्पनीको सुविधा प्रयोग",
   "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_32.pdf"
 }

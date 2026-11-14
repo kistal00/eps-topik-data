@@ -11,19 +11,129 @@
     "• 스마트폰 사용에 대해 말할 수 있다.",
     "• 자신의 의사를 나타내거나 상대방의 의사를 물을 수 있다."
   ],
-  "vocabulary": [],
-  "grammar": [
+  "vocabulary": [
     {
-      "point": "인터넷과 스마트폰",
-      "explanation": "The Internet and Smartphones 인터넷 생활에 대해 말할 수 있다. 학습 목표 Can talk about life on the internet. LEARNING OBJECTIVES 스마트폰 사용에 대해 말할 수 있다. Can talk about smartphone use. 240 한국어 표준교재 1 CHAPTER 20 EPS-TOPIK 지금 뭐 해요? 호텔을 검색하고 있어요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -고 있다(진행) 인터넷 관련 어휘 배달 앱 -(으)ㄹ래요 Vocabulary Related to the Internet Delivery Apps 스마트폰 관련 어휘 Vocabulary Related to Smartphones 240 한국어 표준교재 1",
-      "examples": [],
-      "explanationNp": "인터넷과 스마트폰 सम्बन्धी व्याकरण नियम र प्रयोग।"
+      "korean": "인터넷",
+      "english": "internet",
+      "nepali": "इन्टरनेट"
     },
     {
-      "point": "친구 프엉 고향 친구 다라",
-      "explanation": "이번 토요일에 영화 볼래요? 오늘 저녁에 같이 저녁 먹고 오후 7:22 공원에서 ? 오후 7:24 네, 좋아요. 저도 영화를 보고 싶었어요. 어디에서 ? 오후 7:24 친구 프엉 좋아요. 저도 공원에서 산책하고 싶었어요. 동대문 어때요? 오후 7:24 오후 7:25 좋아요. 동대문에서 만나요. 고향 친구 다라 영화를 보고 뭐 할까요? 오후 7:27 저녁은 어디에서 뭘 친구 프엉 먹을까요? 오후 7:30 같이 저녁을 ? 동대문에 좋은 식당이 있어요. 오후 7:30 회사 근처 식당에서 네, 좋아요! ? 오후 7:31 오후 7:37 20 인터넷과 스마트폰 THE INTERNET AND SMARTPHONES 245",
-      "examples": [],
-      "explanationNp": "친구 프엉 고향 친구 다라 सम्बन्धी व्याकरण नियम र प्रयोग।"
+      "korean": "웹사이트",
+      "english": "website",
+      "nepali": "वेबसाइट"
+    },
+    {
+      "korean": "홈페이지",
+      "english": "homepage",
+      "nepali": "गृहपृष्ठ (होमपेज)"
+    },
+    {
+      "korean": "블로그",
+      "english": "blog",
+      "nepali": "ब्लग"
+    },
+    {
+      "korean": "검색하다",
+      "english": "to search",
+      "nepali": "सर्च गर्नु / खोज्नु"
+    },
+    {
+      "korean": "이메일",
+      "english": "e-mail",
+      "nepali": "इमेल"
+    },
+    {
+      "korean": "채팅하다",
+      "english": "to chat",
+      "nepali": "च्याट गर्नु"
+    },
+    {
+      "korean": "회원 가입",
+      "english": "membership sign-up",
+      "nepali": "सदस्यता दर्ता / साइन अप"
+    },
+    {
+      "korean": "회원 탈퇴",
+      "english": "cancelling membership",
+      "nepali": "खाता बन्द गर्नु"
+    },
+    {
+      "korean": "아이디 / 비밀번호",
+      "english": "ID / password",
+      "nepali": "आईडी र पासवर्ड"
+    },
+    {
+      "korean": "로그인 / 로그아웃",
+      "english": "log in / log out",
+      "nepali": "लगइन र लगआउट"
+    },
+    {
+      "korean": "스마트폰",
+      "english": "smartphone",
+      "nepali": "स्मार्टफोन"
+    },
+    {
+      "korean": "애플리케이션 (앱)",
+      "english": "application (app)",
+      "nepali": "मोबाइल एप"
+    },
+    {
+      "korean": "에스엔에스 (SNS)",
+      "english": "social media (SNS)",
+      "nepali": "सामाजिक सञ्जाल (फेसबुक, युट्युब आदि)"
+    },
+    {
+      "korean": "모바일 메신저",
+      "english": "mobile messenger",
+      "nepali": "मेसेन्जर (काकाओटक, ह्वाट्सएप)"
+    },
+    {
+      "korean": "와이파이",
+      "english": "Wi-Fi",
+      "nepali": "वाइफाइ"
+    },
+    {
+      "korean": "메시지를 보내다",
+      "english": "to send a message",
+      "nepali": "सन्देश (मेसेज) पठाउनु"
+    },
+    {
+      "korean": "메시지를 확인하다",
+      "english": "to check a message",
+      "nepali": "सन्देश हेर्नु / चेक गर्नु"
+    },
+    {
+      "korean": "댓글을 달다",
+      "english": "to post a comment",
+      "nepali": "कमेन्ट लेख्नु"
+    },
+    {
+      "korean": "다운로드하다",
+      "english": "to download",
+      "nepali": "डाउनलोड गर्नु"
+    },
+    {
+      "korean": "업로드하다",
+      "english": "to upload",
+      "nepali": "अपलोड गर्नु"
+    }
+  ],
+  "grammar": [
+    {
+      "point": "-고 있다 (진행)",
+      "explanation": "Attaches to verbs to show that an action is currently in progress.",
+      "explanationNp": "कुनै कार्य वर्तमान समयमा जारी रहेको जनाउँदा क्रियाको धातुमा जोडिन्छ। धातु + 고 있다 (उदा: 검색하고 있어요 = खोज्दैछु, 일하고 있어요 = काम गर्दैछु)।",
+      "examples": [
+        "지금 뭐 해요? / 인터넷으로 쇼핑하고 있어요. — क: अहिले के गर्दै हुनुहुन्छ? / ख: इन्टरनेटबाट किनमेल गर्दैछु।"
+      ]
+    },
+    {
+      "point": "-(으)ㄹ래요",
+      "explanation": "Used in casual polite spoken conversation among close people to express the speaker's intention or ask the listener's choice.",
+      "explanationNp": "दैनिक अनौपचारिक बोलचालमा आफ्नो चाहना बताउँदा वा साथीको इच्छा सोध्दा प्रयोग गरिन्छ। बाच्छिम भए '-을래요' (उदा: 먹을래요 = खानेछु), बाच्छिम नभए वा 'ㄹ' भए '-ㄹ래요' (उदा: 갈래요 = जानेछु)।",
+      "examples": [
+        "저는 커피를 마실래요. 투안 씨는 뭐 마실래요? — म कफी पिउनेछु। तुआन जी के पिउनुहुन्छ?"
+      ]
     }
   ],
   "conversations": [

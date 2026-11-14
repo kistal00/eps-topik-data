@@ -10,25 +10,126 @@
     "• 공구 사용법에 대해 묻고 대답할 수 있다.",
     "• 지금 하고 있는 일을 표현할 수 있다."
   ],
-  "vocabulary": [],
+  "vocabulary": [
+    {
+      "korean": "플라이어",
+      "english": "pliers",
+      "nepali": "प्लायर्स"
+    },
+    {
+      "korean": "롱 노즈 플라이어",
+      "english": "long-nosed pliers",
+      "nepali": "लामो नाकवाला प्लायर्स"
+    },
+    {
+      "korean": "펜치",
+      "english": "pincers / cutting pliers",
+      "nepali": "पेन्सी"
+    },
+    {
+      "korean": "스패너",
+      "english": "wrench / spanner",
+      "nepali": "स्प्यानर"
+    },
+    {
+      "korean": "토크 렌치",
+      "english": "torque wrench",
+      "nepali": "टर्क रेन्च"
+    },
+    {
+      "korean": "육각 렌치",
+      "english": "hex key / Allen key",
+      "nepali": "एलन की (हेक्सागन रेन्च)"
+    },
+    {
+      "korean": "볼트",
+      "english": "bolt",
+      "nepali": "बोल्ट"
+    },
+    {
+      "korean": "너트",
+      "english": "nut",
+      "nepali": "नट"
+    },
+    {
+      "korean": "나사못",
+      "english": "screw",
+      "nepali": "पेच (स्क्रू)"
+    },
+    {
+      "korean": "조이다",
+      "english": "to tighten",
+      "nepali": "कस्नु"
+    },
+    {
+      "korean": "풀다",
+      "english": "to loosen / unfasten",
+      "nepali": "खोल्नु / फुकाल्नु"
+    },
+    {
+      "korean": "일자 드라이버",
+      "english": "flat-head screwdriver",
+      "nepali": "सिधा नोकको स्क्रूड्राइभर"
+    },
+    {
+      "korean": "십자드라이버",
+      "english": "Phillips screwdriver",
+      "nepali": "क्रस नोकको स्क्रूड्राइभर"
+    },
+    {
+      "korean": "베어링",
+      "english": "bearings",
+      "nepali": "बेयरिङ"
+    },
+    {
+      "korean": "기어",
+      "english": "gear",
+      "nepali": "गियर"
+    },
+    {
+      "korean": "코일 스프링",
+      "english": "coil spring",
+      "nepali": "कोइल स्प्रिङ"
+    },
+    {
+      "korean": "수준기",
+      "english": "level instrument",
+      "nepali": "लेभल (तराजु)"
+    },
+    {
+      "korean": "마모되다",
+      "english": "to be worn out / abraded",
+      "nepali": "घिस्नु / लत्तिनु"
+    },
+    {
+      "korean": "조립하다",
+      "english": "to assemble",
+      "nepali": "जोड्नु"
+    },
+    {
+      "korean": "분해하다",
+      "english": "to disassemble / take apart",
+      "nepali": "खोल्नु / विच्छेद गर्नु"
+    }
+  ],
   "grammar": [
     {
-      "point": "기계 조립",
-      "explanation": "Machine Assembly CHAPTER 38 EPS-TOPIK 조립할 때 쓸 부품하고 공구는 준비됐어요? 네, 도면을 보면서 필요한 부품하고 공구도 챙겨 놓고 작업 순서도 확인했어요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -(으)면서 조립 공구와 부품 한국의 자동차 산업 -는 중이다 Assembly Tools and Parts Korea’s Automobile Industry 조립 및 분해 작업 관련 어휘 Vocabulary Related to the Assembly and Disassembly Process 조립 공구와 부품에 대해 말할 수 있다. 학습 목표 Can talk about assembly tools and parts. LEARNING OBJECTIVES 공구 사용법에 대해 묻고 대답할 수 있다. Can ask and answer questions about how to use tools. 86 한국어 표준교재 2",
-      "examples": [],
-      "explanationNp": "기계 조립 सम्बन्धी व्याकरण नियम र प्रयोग।"
+      "point": "-(으)면서",
+      "explanation": "Attaches to verbs/adjectives to show two actions happening simultaneously.",
+      "explanationNp": "क्रियापद वा विशेषणमा जोडिएर दुईवटा कार्य एकैसमयमा भइरहेको जनाउँछ। अन्त्यमा स्वरवर्ण वा 'ㄹ' भए '-면서', व्यञ्जनवर्ण भए '-으면서' जोडिन्छ।",
+      "examples": [
+        "음악을 들으면서 일해요. — गीत सुन्दासुन्दै काम गर्छु।",
+        "도면을 보면서 조립하세요. — नक्सा हेर्दैहेर्दै जोड्नुहोस्।"
+      ]
     },
     {
-      "point": "돕다 당기다 조이다 확인하다",
-      "explanation": "⑴ 스패너를 앞쪽으로 돌려야 조립이 잘돼요. ⑵ 직장에서는 서로 사이좋게 일해야 돼요. ⑶ 재작업하지 않게 작업 도면을 부품을 조립하세요. ⑷ 멍키 스패너로 부품의 고정 상태를 확인했어요.",
-      "examples": [],
-      "explanationNp": "돕다 당기다 조이다 확인하다 सम्बन्धी व्याकरण नियम र प्रयोग।"
-    },
-    {
-      "point": "풀다 조이다 가져오다 포장하다 분해하다",
-      "explanation": "[ 보기 ] 생산된 제품을 출하하려고 지금 포장하는 중입니다. ⑴ 조립이 잘못되어서 지금 제품을 . ⑵ 지금 스패너로 너트를 단단하게 . ⑶ 고장난 제품을 수리하려고 일자 드라이버로 나사못을 . ⑷ 조립할 부품을 창고에서 .",
-      "examples": [],
-      "explanationNp": "풀다 조이다 가져오다 포장하다 분해하다 सम्बन्धी व्याकरण नियम र प्रयोग।"
+      "point": "-는 중이다",
+      "explanation": "Attached to verbs to indicate that an action is currently in progress.",
+      "explanationNp": "क्रियापदमा जोडिएर कुनै कार्य यतिखेर जारी नै छ भन्ने जनाउँछ। धातुमा सिधै '-는 중이다' जोडिन्छ।",
+      "examples": [
+        "지금 기계를 조립하는 중이에요. — अहिले मेसिन जोड्ने काम गरिरहेको छु।",
+        "제품을 검사하는 중입니다. — उत्पादन जाँच गरिरहेको छ।"
+      ]
     }
   ],
   "conversations": [
@@ -237,6 +338,6 @@
       "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
-  "titleNp": "मेसिन जडान र औजार प्रयोग",
+  "titleNp": "मेसिन जोडबिजोड",
   "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_38.pdf"
 }

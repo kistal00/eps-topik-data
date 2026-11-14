@@ -13,59 +13,119 @@
   ],
   "vocabulary": [
     {
+      "korean": "한옥",
+      "english": "Hanok (traditional Korean house)",
+      "nepali": "हानोक (कोरियाको परम्परागत घर)"
+    },
+    {
+      "korean": "아파트",
+      "english": "apartment",
+      "nepali": "अपार्टमेन्ट"
+    },
+    {
+      "korean": "원룸",
+      "english": "studio apartment (one-room)",
+      "nepali": "वान-रुम (एउटै कोठामा सबै सुविधा भएको)"
+    },
+    {
+      "korean": "기숙사",
+      "english": "dormitory",
+      "nepali": "होस्टेल / कम्पनीको आवास (डर्मिटरी)"
+    },
+    {
+      "korean": "온돌",
+      "english": "Ondol (underfloor heating system)",
+      "nepali": "ओन्दोल (भुइँ तताउने कोरियन परम्परागत प्रविधि)"
+    },
+    {
+      "korean": "보일러",
+      "english": "boiler / water heater",
+      "nepali": "बोयलर (कोठा र पानी तताउने यन्त्र)"
+    },
+    {
+      "korean": "지붕",
+      "english": "roof",
+      "nepali": "छाना"
+    },
+    {
       "korean": "마루",
-      "english": "maru (floor space",
-      "nepali": "मारु (फ्लोर स्पेस)"
+      "english": "wooden floor / veranda",
+      "nepali": "काठको बार्दली / भुइँ"
     },
     {
-      "korean": "마당",
-      "english": "yard",
-      "nepali": "यार्ड"
+      "korean": "방문",
+      "english": "room door",
+      "nepali": "कोठाको ढोका"
     },
     {
-      "korean": "대문",
-      "english": "floor heating) floor",
-      "nepali": "भुइँ तताउने) भुइँ"
+      "korean": "한식",
+      "english": "Korean food",
+      "nepali": "कोरियाली खाना"
     },
     {
-      "korean": "현관문",
-      "english": "living room entrance",
-      "nepali": "बैठक कोठाको प्रवेशद्वार"
+      "korean": "밥",
+      "english": "cooked rice / meal",
+      "nepali": "भात / खाना"
     },
     {
-      "korean": "베란다",
-      "english": "veranda",
-      "nepali": "बरामदा"
-    },
-    {
-      "korean": "깍두기",
-      "english": "cubed radish kimchi",
-      "nepali": "घन मूली किमची"
+      "korean": "국 (찌개)",
+      "english": "soup / stew",
+      "nepali": "झोल / सुप (चिगे)"
     },
     {
       "korean": "반찬",
-      "english": "side dish",
-      "nepali": "साइड डिश"
+      "english": "side dishes",
+      "nepali": "परिकारहरू / साइड डिश (पान्छान)"
+    },
+    {
+      "korean": "김치",
+      "english": "Kimchi",
+      "nepali": "किम्ची (अचार)"
+    },
+    {
+      "korean": "불고기",
+      "english": "Bulgogi (marinated beef)",
+      "nepali": "पुल्गोगी (पोलेको गुलियो मासु)"
+    },
+    {
+      "korean": "비빔밥",
+      "english": "Bibimbap (mixed rice)",
+      "nepali": "पिविमपाप (मिसाइएको भात)"
+    },
+    {
+      "korean": "삼겹살",
+      "english": "pork belly",
+      "nepali": "सामग्योप्सल (सुँगुरको तीनतले मासु)"
+    },
+    {
+      "korean": "숟가락",
+      "english": "spoon",
+      "nepali": "चम्चा"
+    },
+    {
+      "korean": "젓가락",
+      "english": "chopsticks",
+      "nepali": "चपस्टिक (काँटा सिन्का)"
     }
   ],
   "grammar": [
     {
-      "point": "한국의 주거 문화와 음식 문화",
-      "explanation": "Korean Housing Culture and Food Culture 한국의 주거 문화에 대해 말할 수 있다. 학습 목표 Can talk about the housing culture in Korea. LEARNING OBJECTIVES 여러 나라의 음식 문화를 비교하여 말할 수 있다. Can compare food cultures of different countries. CHAPTER 26 EPS-TOPIK 집 구경 좀 해도 돼요? 네, 천천히 구경하세요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -아도/어도 되다 주거 문화 한국의 식사 예절 -는데/(으)ㄴ데(대조) Housing Culture Korean Dining Etiquette 음식 문화 Food Culture 300 한국어 표준교재 1",
-      "examples": [],
-      "explanationNp": "한국의 주거 문화와 음식 문화 सम्बन्धी व्याकरण नियम र प्रयोग।"
+      "point": "-아도/어도 되다",
+      "explanation": "Attaches to verbs and adjectives to indicate permission or approval to do something.",
+      "explanationNp": "क्रिया वा विशेषणमा जोडिएर कुनै कार्य गर्न अनुमति वा छुट छ भन्ने जनाउँछ। अन्तिम स्वरवर्ण ㅏ वा ㅗ भए '-아도 되다', बाँकी स्वरवर्ण भए '-어도 되다', र 하다 क्रियामा '-해도 되다' हुन्छ।",
+      "examples": [
+        "여기서 사진을 찍어도 돼요? — यहाँ फोटो खिचे पनि हुन्छ?",
+        "신발을 벗고 들어가도 됩니다. — जुत्ता खोलेर भित्र पसे पनि हुन्छ।"
+      ]
     },
     {
-      "point": "예 이 빵을 먹어도 돼요?",
-      "explanation": "가 : 방바닥에 앉아야 돼요? 나 : 아니요, 소파에 앉아도 돼요.",
-      "examples": [],
-      "explanationNp": "예 이 빵을 먹어도 돼요? सम्बन्धी व्याकरण नियम र प्रयोग।"
-    },
-    {
-      "point": "치킨은 생선구이는 김은",
-      "explanation": ". . .",
-      "examples": [],
-      "explanationNp": "치킨은 생선구이는 김은 सम्बन्धी व्याकरण नियम र प्रयोग।"
+      "point": "-는데 / -(으)ㄴ데 (대조)",
+      "explanation": "Attaches to verbs and adjectives to express a contrast or unexpected turn between two clauses.",
+      "explanationNp": "अगाडिको वाक्य र पछाडिको वाक्यको अवस्था एकआपसमा विपरीत वा फरक हुँदा जोड्न प्रयोग गरिन्छ। क्रियापदसँग '-는데', विशेषणमा 받침 भए '-은데', नभए '-ㄴ데' जोडिन्छ।",
+      "examples": [
+        "한국 음식은 매운데 맛있어요. — कोरियाली खाना पिरो छ, तर मिठो छ।",
+        "방은 작은데 깨끗해요. — कोठा सानो छ, तर सफा छ।"
+      ]
     }
   ],
   "conversations": [
@@ -251,6 +311,6 @@
       "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
-  "titleNp": "कोरियाली आवास तथा खाना संस्कृति",
+  "titleNp": "कोरियाको आवास र खाना संस्कृति",
   "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_26.pdf"
 }

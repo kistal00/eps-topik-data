@@ -10,27 +10,176 @@
     "• 동작이 일어나는 장소를 묻고 대답할 수 있다.",
     "• 하루 일과에 대해 묻고 대답할 수 있다."
   ],
-  "vocabulary": [],
-  "grammar": [
+  "vocabulary": [
     {
-      "point": "하루 일과",
-      "explanation": "Daily Routine 시간을 말할 수 있다. 학습 목표 Can say the time. LEARNING OBJECTIVES 하루 일과를 묻고 대답할 수 있다. Can ask and answer about daily routines 100 한국어 표준교재 1 CHAPTER 06 EPS-TOPIK 몇 시에 출근합니까? 8시에 출근합니다. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -(스)ㅂ니다, -(스)ㅂ니까? 시간 관련 어휘 직장인의 하루 에서 Vocabulary Related to Time A Day in the Life of an Office Worker 일과 관련 어휘 Vocabulary Related to Daily Routines 100 한국어 표준교재 1",
-      "examples": [],
-      "explanationNp": "하루 일과 सम्बन्धी व्याकरण नियम र प्रयोग।"
+      "korean": "1시 (한 시)",
+      "english": "1 o'clock",
+      "nepali": "१ बजे"
     },
     {
-      "point": "프엉 씨는 몇 시에 잡니까?",
-      "explanation": "아미나 씨는 12시에 점심을 먹었습니다.",
-      "examples": [],
-      "explanationNp": "समय वा स्थान जनाउने प्रत्यय हो। नेपालीमा 'मा' वा 'तिर' भन्ने अर्थ लाग्दछ।"
+      "korean": "2시 (두 시)",
+      "english": "2 o'clock",
+      "nepali": "२ बजे"
+    },
+    {
+      "korean": "3시 (세 시)",
+      "english": "3 o'clock",
+      "nepali": "३ बजे"
+    },
+    {
+      "korean": "4시 (네 시)",
+      "english": "4 o'clock",
+      "nepali": "४ बजे"
+    },
+    {
+      "korean": "5시 (다섯 시)",
+      "english": "5 o'clock",
+      "nepali": "५ बजे"
+    },
+    {
+      "korean": "6시 (여섯 시)",
+      "english": "6 o'clock",
+      "nepali": "६ बजे"
+    },
+    {
+      "korean": "7시 (일곱 시)",
+      "english": "7 o'clock",
+      "nepali": "७ बजे"
+    },
+    {
+      "korean": "8시 (여덟 시)",
+      "english": "8 o'clock",
+      "nepali": "८ बजे"
+    },
+    {
+      "korean": "9시 (아홉 시)",
+      "english": "9 o'clock",
+      "nepali": "९ बजे"
+    },
+    {
+      "korean": "10시 (열 시)",
+      "english": "10 o'clock",
+      "nepali": "१० बजे"
+    },
+    {
+      "korean": "11시 (열한 시)",
+      "english": "11 o'clock",
+      "nepali": "११ बजे"
+    },
+    {
+      "korean": "12시 (열두 시)",
+      "english": "12 o'clock",
+      "nepali": "१२ बजे"
+    },
+    {
+      "korean": "분",
+      "english": "minute",
+      "nepali": "मिनेट (Sino-Korean संख्या: 일 분, 이 분, 삼십 분)"
+    },
+    {
+      "korean": "반",
+      "english": "half (30 minutes)",
+      "nepali": "साढे / आधा (३० मिनेट)"
+    },
+    {
+      "korean": "오전",
+      "english": "a.m. / morning",
+      "nepali": "बिहानीपख (A.M.)"
+    },
+    {
+      "korean": "오후",
+      "english": "p.m. / afternoon",
+      "nepali": "दिउँसो/अपराह्न (P.M.)"
+    },
+    {
+      "korean": "낮",
+      "english": "daytime",
+      "nepali": "दिउँसो"
+    },
+    {
+      "korean": "밤",
+      "english": "night",
+      "nepali": "राति"
+    },
+    {
+      "korean": "새벽",
+      "english": "dawn / early morning",
+      "nepali": "मिर्मिरे बिहानी"
+    },
+    {
+      "korean": "일어나다",
+      "english": "to wake up / get up",
+      "nepali": "उठ्नु (ओछ्यानबाट)"
+    },
+    {
+      "korean": "씻다",
+      "english": "to wash",
+      "nepali": "हातमुख धुनु"
+    },
+    {
+      "korean": "이를 닦다",
+      "english": "to brush one's teeth",
+      "nepali": "दाँत माझ्नु"
+    },
+    {
+      "korean": "식사하다",
+      "english": "to have a meal",
+      "nepali": "खाना खानु"
+    },
+    {
+      "korean": "출근하다",
+      "english": "to go to work",
+      "nepali": "काममा जानु (ड्युटी सुरु गर्नु)"
+    },
+    {
+      "korean": "퇴근하다",
+      "english": "to leave work",
+      "nepali": "कामबाट छुट्नु (ड्युटी समाप्त हुनु)"
+    },
+    {
+      "korean": "청소하다",
+      "english": "to clean",
+      "nepali": "सरसफाइ गर्नु"
+    },
+    {
+      "korean": "장을 보다",
+      "english": "to buy groceries",
+      "nepali": "तरकारी तथा सामान किनमेल गर्नु"
+    },
+    {
+      "korean": "산책하다",
+      "english": "to take a walk",
+      "nepali": "हिँडडुल गर्नु / टहल्नु"
+    },
+    {
+      "korean": "샤워하다",
+      "english": "to take a shower",
+      "nepali": "नुहाउनु"
+    },
+    {
+      "korean": "자다",
+      "english": "to sleep",
+      "nepali": "सुत्नु"
+    }
+  ],
+  "grammar": [
+    {
+      "point": "-(스)ㅂ니다 / -(스)ㅂ니까?",
+      "explanation": "Formal polite sentence ending used in official, formal, or professional situations.",
+      "explanationNp": "औपचारिक अवस्था, कार्यस्थल, वा अन्तर्वार्तामा आदरपूर्वक कुरा गर्दा वाक्यको अन्त्यमा प्रयोग गरिन्छ। प्रश्न सोध्दा '-(스)ㅂ니까?' प्रयोग गरिन्छ। बाच्छिम नभए वा 'ㄹ' बाच्छिम भए '-ㅂ니다 / -ㅂ니까?', बाच्छिम भए '-습니다 / -습니까?' जोडिन्छ।",
+      "examples": [
+        "몇 시에 출근합니까? / 8시에 출근합니다. — क: कति बजे काममा जानुहुन्छ? / ख: ८ बजे काममा जान्छु।",
+        "지금 무엇을 합니까? / 식사합니다. — क: अहिले के गर्दै हुनुहुन्छ? / ख: खाना खाँदैछु।"
+      ]
     },
     {
       "point": "에서",
-      "explanation": "‘에서’와 ‘에’는 모두 장소를 나타내는 명사 ‘에서’는 장소를 나타내는 명사와 결합하여 어떤 에 붙여 사용하지만 ‘에서’는 행위가 이루 일이 이루어지고 있는 장소임을 나타낸다. 어지는 장소를 나타내고, ‘에’는 사람이나 물건이 있는 장소를 나타낸다. ‘에서’ is combined with nouns to show a place or Both ‘에서’ and ‘에’ are used with nouns location where an action occurs. indicating a place, but ‘에서’ indicates where where a person or object is located. 다라 씨는 휴게실에서 신문을 읽습니다. 마두 씨는 편의점에서 주스를 삽니다. 예 왕민 씨는 기숙사에서 청소해요. 유수프 씨는 공원에 있어요.",
+      "explanation": "Attaches to place nouns to indicate the location where an action takes place.",
+      "explanationNp": "स्थान जनाउने नामसँग जोडिएर कुनै सक्रिय कार्य (Action) भइरहेको स्थान जनाउँछ। स्थान + 에서 (उदा: 회사에서 일해요 = कम्पनीमा काम गर्छु, 집에서 쉬어요 = घरमा आराम गर्छु)। नोट: 'ए (에)' ले अस्तित्व/उपस्थिति जनाउँछ, 'एस (에서)' ले कार्य भइरहेको स्थान जनाउँछ।",
       "examples": [
-        "예 아지자 씨는 공원에서 운동을 해요. an action happens, while ‘에’ indicates"
-      ],
-      "explanationNp": "समय वा स्थान जनाउने प्रत्यय हो। नेपालीमा 'मा' वा 'तिर' भन्ने अर्थ लाग्दछ।"
+        "어디에서 운동해요? / 공원에서 운동해요. — क: कहाँ व्यायाम गर्नुहुन्छ? / ख: पार्कमा व्यायाम गर्छु।",
+        "식당에서 점심을 먹었어요. — रेस्टुरेन्टमा दिउँसोको खाना खाएँ।"
+      ]
     }
   ],
   "conversations": [
@@ -154,6 +303,6 @@
       "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
-  "titleNp": "दैनिक तालिका र कार्यहरू",
+  "titleNp": "दैनिक दिनचर्या",
   "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_06.pdf"
 }

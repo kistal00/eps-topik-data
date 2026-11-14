@@ -12,34 +12,104 @@
   ],
   "vocabulary": [
     {
-      "korean": "거푸집",
-      "english": "formwork",
-      "nepali": "फारमवर्क"
+      "korean": "철근",
+      "english": "rebar / reinforcing steel",
+      "nepali": "फलामे रड (डन्डी)"
     },
     {
-      "korean": "공사장",
-      "english": "construction site",
-      "nepali": "निर्माण स्थल"
+      "korean": "배근하다",
+      "english": "to arrange / place rebar",
+      "nepali": "रड बिछ्याउनु"
+    },
+    {
+      "korean": "결속선",
+      "english": "binding wire / tie wire",
+      "nepali": "रड बाँध्ने मसिनो तार"
+    },
+    {
+      "korean": "결속 핸들 (갈고리)",
+      "english": "tie wire twister / rebar hook",
+      "nepali": "तार बटार्ने हुक (रड बाँध्ने औजार)"
+    },
+    {
+      "korean": "결속하다",
+      "english": "to bind / tie together",
+      "nepali": "बाँध्नु (तारले कसेर)"
+    },
+    {
+      "korean": "시멘트",
+      "english": "cement",
+      "nepali": "सिमेन्ट"
+    },
+    {
+      "korean": "모래",
+      "english": "sand",
+      "nepali": "बालुवा"
+    },
+    {
+      "korean": "자갈",
+      "english": "gravel / pebbles",
+      "nepali": "गिट्टी"
+    },
+    {
+      "korean": "콘크리트",
+      "english": "concrete",
+      "nepali": "कङ्क्रिट (सिमेन्ट+बालुवा+गिट्टीको घोल)"
+    },
+    {
+      "korean": "거푸집",
+      "english": "formwork / mold for concrete",
+      "nepali": "फर्मा (ढलान अड्याउने काठ/फलामको फ्रेम)"
+    },
+    {
+      "korean": "거푸집을 설치하다",
+      "english": "to assemble/erect formwork",
+      "nepali": "फर्मा ठड्याउनु / ठोक्नु"
+    },
+    {
+      "korean": "타설하다",
+      "english": "to pour concrete",
+      "nepali": "कङ्क्रिट ढलान खन्याउनु (ढलाई गर्नु)"
+    },
+    {
+      "korean": "레미콘",
+      "english": "ready-mix concrete truck",
+      "nepali": "रेमिकोन (कङ्क्रिट घोल्ने ठूलो गाडी)"
+    },
+    {
+      "korean": "펌프카",
+      "english": "concrete pump truck",
+      "nepali": "कङ्क्रिट पम्प गाडी (माथिल्लो तलामा फाल्ने)"
+    },
+    {
+      "korean": "양생하다",
+      "english": "to cure / dry concrete",
+      "nepali": "ढलानलाई पानी हालेर सुकाउनु/पकाउनु (क्युरिङ)"
+    },
+    {
+      "korean": "해체하다",
+      "english": "to dismantle / tear down formwork",
+      "nepali": "फर्मा फुकाल्नु / हटाउनु"
     }
   ],
   "grammar": [
     {
-      "point": "건축 시공",
-      "explanation": "Building Construction CHAPTER 43 EPS-TOPIK 거푸집을 설치하고 나면 바로 콘크리트를 타설해요? 체결 상태를 점검해야 되니까 하루 이틀 정도는 기다려야 할걸요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -(으)ㄹ 텐데 철근 결속 관련 어휘 건설 현장의 중장비 -(으)ㄹ걸요 Vocabulary Related to Rebar Heavy Machinery at Construction Reinforcement Sites 거푸집 설치 관련 어휘 Vocabulary Related to Formwork Assembly 철근을 결속하는 방법과 이유에 대해 묻고 대답할 수 있다. 학습 목표 Can ask and answer questions about the methods and reasons for binding rebar. LEARNING OBJECTIVES 거푸집 설치 방법에 대해 묻고 대답할 수 있다. Can ask and answer questions about how to assemble formwork. 136 한국어 표준교재 2",
-      "examples": [],
-      "explanationNp": "건축 시공 सम्बन्धी व्याकरण नियम र प्रयोग।"
+      "point": "-(으)ㄹ 텐데",
+      "explanation": "Used to infer or guess a situation in the first clause that serves as context/background for the suggestion or comment in the second clause.",
+      "explanationNp": "अगाडिको वाक्यमा कुनै अवस्थाको बलियो अनुमान गरेर त्यसैको आधारमा पछाडिको वाक्यमा सुझाव वा प्रश्न गर्दा प्रयोग गरिन्छ। अन्त्यमा स्वरवर्ण वा 'ㄹ' भए '-ㄹ 텐데', व्यञ्जनवर्ण भए '-을 텐데' जोडिन्छ।",
+      "examples": [
+        "날씨가 더울 텐데 물을 자주 마시세요. — गर्मी होला, त्यसैले पानी बारम्बार पिउनुहोस्।",
+        "철근이 무거울 텐데 둘이서 같이 들어요. — रड गह्रौं होला, दुईजना मिलेर उचालाैं।"
+      ]
     },
     {
-      "point": "있다 춥다 비가 오다 실어야 하다 콘크리트를 타설하다",
-      "explanation": "[ 보기 ] 가 : 내일 콘크리트를 타설할 텐데 준비를 잘해 주세요. 나 : 네, 철근 결속 상태를 한 번 더 점검하겠습니다. ⑴ 가 : 결속선이 더 필요할 것 같은데 재고가 있어요? 나 : 창고에 결속선이 제가 확인해 보겠습니다. ⑵ 가 : 마두 씨, 냉동 창고에 들어가면 옷을 따뜻하게 입으세요. 나 : 네, 그럼 옷을 갈아입고 올게요. ⑶ 가 : 저녁에 시멘트를 옮겨야 하지 않을까요? 나 : 그래요? 그럼 제가 시멘트를 창고로 옮기고 퇴근하겠습니다. ⑷ 가 : 지금 차에 철근을 누가 좀 도와줄 수 있어요? 나 : 제가 방금 작업이 끝나 쉬고 있는데 도와드릴게요. 138 한국어 표준교재 2",
-      "examples": [],
-      "explanationNp": "있다 춥다 비가 오다 실어야 하다 콘크리트를 타설하다 सम्बन्धी व्याकरण नियम र प्रयोग।"
-    },
-    {
-      "point": "있다 되다 걸리다 식사하다 도착하다",
-      "explanation": "[ 보기 ] 가 : 콘크리트 믹서는 언제 와요? 나 : 오전에 출발했으니까 곧 도착할걸요. ⑴ 가 : 웨지핀이 부족한데 더 있을까요? 나 : 웨지핀은 창고에 더 . 창고에서 가져오면 될 거예요. ⑵ 가 : 기둥 거푸집 설치는 혼자 하면 되나요? 나 : 혼자 하면 오래 . 유수프 씨하고 같이 하세요. ⑶ 가 : 유수프 씨가 안 보이는데 어디에서 뭘 하고 있어요? 나 : 아마 식당에서 . 너무 바빠서 점심시간에 밥을 못 먹었거든요. ⑷ 가 : 다음에 무슨 작업을 할지 누구한테 물어보면 될까요? 나 : 반장님이 알고 있을 테니까 반장님한테 물어보면 .",
-      "examples": [],
-      "explanationNp": "있다 되다 걸리다 식사하다 도착하다 सम्बन्धी व्याकरण नियम र प्रयोग।"
+      "point": "-(으)ㄹ걸요",
+      "explanation": "Used in conversation to express a soft assumption or speculation about something not completely certain. Spoken with rising intonation.",
+      "explanationNp": "कुराकानीमा आफूले अनुमान गरेको कुरा श्रोतालाई नम्र रूपमा बताउँदा प्रयोग गरिन्छ। अन्त्यमा स्वरवर्ण वा 'ㄹ' भए '-ㄹ걸요', व्यञ्जनवर्ण भए '-을걸요' जोडिन्छ।",
+      "examples": [
+        "지금 가면 작업이 끝났을걸요. — अहिले जानुभयो भने काम सकिइसक्यो होला।",
+        "내일은 비가 안 올걸요. — भोलि पानी नपर्ला नि।"
+      ]
     }
   ],
   "conversations": [
@@ -247,6 +317,6 @@
       "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
-  "titleNp": "भवन निर्माण कार्य",
+  "titleNp": "भवन तथा घर निर्माण",
   "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_43.pdf"
 }

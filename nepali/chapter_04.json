@@ -1,0 +1,167 @@
+{
+  "version": 2,
+  "chapterNo": 4,
+  "titleKo": "동작과 사물",
+  "titleEn": "Actions and Objects",
+  "titleNp": "दैनिक कार्य र वस्तुहरू",
+  "learningObjectives": [
+    {
+      "id": "ch04_obj_01",
+      "korean": "하고 있는 일을 말할 수 있다.",
+      "english": "Can talk about what someone is doing.",
+      "nepali": "गरिरहेको कामको बारेमा बताउन सक्नुहुनेछ।"
+    },
+    {
+      "id": "ch04_obj_02",
+      "korean": "무엇을 하는지 묻고 대답할 수 있다.",
+      "english": "Can ask and answer what someone is doing.",
+      "nepali": "के गरिरहेको छ भनी सोध्न र उत्तर दिन सक्नुहुनेछ।"
+    }
+  ],
+  "vocabulary1": {
+    "topicKo": "일상 관련 동작 동사",
+    "topicEn": "Everyday Life Verbs",
+    "topicNp": "दैनिक क्रियाहरू",
+    "words": [
+      { "korean": "일하다", "english": "to work", "nepali": "काम गर्नु" },
+      { "korean": "공부하다", "english": "to study", "nepali": "अध्ययन गर्नु / पढ्नु" },
+      { "korean": "운동하다", "english": "to exercise / workout", "nepali": "व्यायाम गर्नु" },
+      { "korean": "전화하다", "english": "to call / make a phone call", "nepali": "फोन गर्नु" },
+      { "korean": "요리하다", "english": "to cook", "nepali": "खाना पकाउनु" },
+      { "korean": "쇼핑하다", "english": "to shop", "nepali": "किनमेल गर्नु" },
+      { "korean": "쉬다", "english": "to take a rest", "nepali": "आराम गर्नु" },
+      { "korean": "자다", "english": "to sleep", "nepali": "सुत्नु" },
+      { "korean": "가다", "english": "to go", "nepali": "जानु" },
+      { "korean": "오다", "english": "to come", "nepali": "आउनु" },
+      { "korean": "하다", "english": "to do", "nepali": "गर्नु" }
+    ]
+  },
+  "grammar1": {
+    "point": "-아요 / 어요",
+    "meaningNp": "गर्दछु / गर्छिन् / गर्नुहुन्छ (सामान्य वर्तमान काल / Present Tense)",
+    "explanationEn": "Attaches to the stem of a verb or adjective to express an action or state in informal, polite present tense.",
+    "explanationNp": "क्रिया वा विशेषणको धातु (Stem) सँग जोडिएर वर्तमान कालको सामान्य आदरार्थी रूप बनाउँछ।",
+    "ruleNp": "धातुको अन्तिम स्वर 'ㅏ, ㅗ' भए '-아요' (उदा: 가다 → 가요, 보다 → 봐요), अन्य स्वर भए '-어요' (उदा: 먹다 → 먹어요, 마시다 → 마셔요), '하다' भए '해요' (उदा: 일하다 → 일해요) जोडिन्छ।",
+    "examples": [
+      {
+        "korean": "지금 뭐 해요? / 텔레비전을 봐요.",
+        "english": "Q: What are you doing now? / A: I am watching television.",
+        "nepali": "क: अहिले के गर्दै हुनुहुन्छ? / ख: टिभी हेर्दैछु।"
+      },
+      {
+        "korean": "투안 씨는 회사에서 일해요.",
+        "english": "Tuan works at the company.",
+        "nepali": "तुआन जी कम्पनीमा काम गर्नुहुन्छ।"
+      }
+    ]
+  },
+  "dialogue1": {
+    "titleNp": "संवाद १",
+    "lines": [
+      {
+        "speaker": "투안 (Tuan)",
+        "korean": "리한 씨, 지금 뭐 해요?",
+        "english": "Rihan, what are you doing now?",
+        "nepali": "रिहान जी, अहिले के गर्दै हुनुहुन्छ?"
+      },
+      {
+        "speaker": "리한 (Rihan)",
+        "korean": "텔레비전을 봐요. 투안 씨는 뭐 해요?",
+        "english": "I'm watching TV. What are you doing, Tuan?",
+        "nepali": "टिभी हेर्दैछु। तुआन जी चाहिँ के गर्दै हुनुहुन्छ?"
+      },
+      {
+        "speaker": "투안 (Tuan)",
+        "korean": "저는 지금 요리해요.",
+        "english": "I am cooking right now.",
+        "nepali": "म अहिले खाना पकाउँदैछु।"
+      }
+    ]
+  },
+  "vocabulary2": {
+    "topicKo": "일상 관련 명사",
+    "topicEn": "Everyday Life Nouns",
+    "topicNp": "दैनिक उपभोग्य वस्तु र कार्यहरू",
+    "words": [
+      { "korean": "밥", "english": "cooked rice / meal", "nepali": "भात / खाना" },
+      { "korean": "빵", "english": "bread", "nepali": "पाउरोटी / ब्रेड" },
+      { "korean": "물", "english": "water", "nepali": "पानी" },
+      { "korean": "주스", "english": "juice", "nepali": "जुस" },
+      { "korean": "먹다", "english": "to eat", "nepali": "खानु" },
+      { "korean": "마시다", "english": "to drink", "nepali": "पिउनु" },
+      { "korean": "사과", "english": "apple", "nepali": "स्याउ" },
+      { "korean": "과자", "english": "snack / cookie", "nepali": "बिस्कुट / स्न्याक्स" },
+      { "korean": "우유", "english": "milk", "nepali": "दूध" },
+      { "korean": "커피", "english": "coffee", "nepali": "कफी" },
+      { "korean": "보다", "english": "to see / watch", "nepali": "हेर्नु" },
+      { "korean": "읽다", "english": "to read", "nepali": "पढ्नु" },
+      { "korean": "텔레비전", "english": "television", "nepali": "टेलिभिजन" },
+      { "korean": "영화", "english": "movie", "nepali": "चलचित्र / फिल्म" },
+      { "korean": "책", "english": "book", "nepali": "किताब" },
+      { "korean": "신문", "english": "newspaper", "nepali": "पत्रपत्रिका" },
+      { "korean": "지금", "english": "now", "nepali": "अहिले" },
+      { "korean": "오늘", "english": "today", "nepali": "आज" }
+    ]
+  },
+  "grammar2": {
+    "point": "을 / 를",
+    "meaningNp": "लाई (कर्म कारक प्रत्यय / Object Particle)",
+    "explanationEn": "Attaches to a noun that is the object of a transitive verb.",
+    "explanationNp": "सकर्मक क्रियाको कर्म (Object) को पछाडि जोडिएर क्रियाको असर पर्ने वस्तु जनाउँछ।",
+    "ruleNp": "बाच्छिम भए '을' (उदा: 밥을 먹어요 = भात खान्छु, 책을 읽어요 = किताब पढ्छु), बाच्छिम नभए '를' (उदा: 사과를 먹어요 = स्याउ खान्छु, 커피를 마셔요 = कफी पिउँछु) जोडिन्छ।",
+    "examples": [
+      {
+        "korean": "아침에 빵을 먹어요.",
+        "english": "I eat bread in the morning.",
+        "nepali": "बिहान पाउरोटी खान्छु।"
+      },
+      {
+        "korean": "친구하고 영화를 봐요.",
+        "english": "I watch a movie with a friend.",
+        "nepali": "साथीसँग फिल्म हेर्छु।"
+      }
+    ]
+  },
+  "dialogue2": {
+    "titleNp": "संवाद २",
+    "lines": [
+      {
+        "speaker": "수피카 (Supika)",
+        "korean": "투안 씨, 지금 커피 마셔요?",
+        "english": "Tuan, are you drinking coffee now?",
+        "nepali": "तुआन जी, अहिले कफी पिउँदै हुनुहुन्छ?"
+      },
+      {
+        "speaker": "투안 (Tuan)",
+        "korean": "네, 커피를 마셔요. 수피카 씨는요?",
+        "english": "Yes, I'm drinking coffee. How about you, Supika?",
+        "nepali": "हो, कफी पिउँदैछु। सुफिका जी चाहिँ नि?"
+      },
+      {
+        "speaker": "수피카 (Supika)",
+        "korean": "저는 사과를 먹어요.",
+        "english": "I am eating an apple.",
+        "nepali": "म स्याउ खाँदैछु।"
+      }
+    ]
+  },
+  "cultureAndInfo": {
+    "titleKo": "한국의 좌식 문화",
+    "titleEn": "Floor-Sitting Culture in Korea",
+    "titleNp": "कोरियाको भुइँमा बस्ने संस्कृति",
+    "sections": [
+      {
+        "subtitleNp": "१. जुत्ता फुकाल्ने शिष्टाचार (신발을 벗는 문화)",
+        "contentNp": "कोरियामा घरभित्र प्रवेश गर्दा ढोकामै (ह्योनग्वान) जुत्ता फुकालेर चप्पल वा खाली खुट्टा हिँड्ने गरिन्छ।"
+      },
+      {
+        "subtitleNp": "२. ओन्दोल भुइँ तताउने प्रणाली (온돌 문화)",
+        "contentNp": "कोरियामा जाडो मौसममा भुइँ तातो बनाउने 'ओन्दोल' प्रविधि भएकाले भुइँमै बस्ने र ओछ्यान लगाएर सुत्ने परम्परा छ।"
+      },
+      {
+        "subtitleNp": "३. रेस्टुरेन्टमा भुइँ बसाइ (식당 좌식)",
+        "contentNp": "धेरैजसो परम्परागत कोरियाली रेस्टुरेन्टहरूमा भुइँमा गुन्द्री वा कुसनमा पलेँटी कसेर खाना खाने चलन हुन्छ।"
+      }
+    ]
+  }
+}

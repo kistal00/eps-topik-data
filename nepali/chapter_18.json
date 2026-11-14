@@ -1,0 +1,165 @@
+{
+  "chapterNo": 18,
+  "titleKo": "취미와 여가",
+  "titleEn": "Hobbies and Leisure",
+  "titleNp": "रुचि र फुर्सदका क्रियाकलापहरू",
+  "learningObjectives": [
+    {
+      "id": "ch18_obj_01",
+      "korean": "취미에 대해 묻고 대답할 수 있다.",
+      "english": "Can talk about hobbies and interests.",
+      "nepali": "आफ्ना रुचि र सोखहरूबारे बताउन सक्नुहुनेछ।"
+    },
+    {
+      "id": "ch18_obj_02",
+      "korean": "할 수 있는 운동에 대해 말할 수 있다.",
+      "english": "Can talk about sports and physical activities.",
+      "nepali": "गर्न सक्ने खेलकुद र व्यायामबारे बताउन सक्नुहुनेछ।"
+    }
+  ],
+  "vocabulary1": {
+    "topicKo": "취미",
+    "topicEn": "Hobbies",
+    "topicNp": "रुचि तथा सोखहरू",
+    "words": [
+      {
+        "korean": "독서하다",
+        "english": "to read books",
+        "nepali": "किताब पढ्नु / अध्ययन गर्नु"
+      },
+      {
+        "korean": "낚시하다",
+        "english": "to fish",
+        "nepali": "माछा मार्नु"
+      },
+      {
+        "korean": "여행하다",
+        "english": "to travel",
+        "nepali": "भ्रमण गर्नु / घुम्न जानु"
+      },
+      {
+        "korean": "등산하다",
+        "english": "to hike / climb mountains",
+        "nepali": "ट्रेकिङ जानु / पहाड चढ्नु"
+      },
+      {
+        "korean": "사진을 찍다",
+        "english": "to take photos",
+        "nepali": "फोटो खिच्नु"
+      },
+      {
+        "korean": "외국어를 배우다",
+        "english": "to learn a foreign language",
+        "nepali": "विदेशी भाषा सिक्नु"
+      },
+      {
+        "korean": "음악을 듣다",
+        "english": "to listen to music",
+        "nepali": "गीत/संगीत सुन्नु"
+      }
+    ]
+  },
+  "grammar1": {
+    "point": "-(으)ㄹ 수 있다/없다",
+    "meaningNp": "गर्न सक्छु / गर्न सक्दिनँ (क्षमता र सम्भावना / Can / Cannot)",
+    "explanationEn": "Expresses the ability or possibility to perform an action.",
+    "explanationNp": "कुनै काम गर्न सक्ने क्षमता वा सम्भावना दर्शाउँदा धातुमा जोडिन्छ।",
+    "ruleNp": "बाच्छिम भए '-을 수 있다/없다' (उदा: 읽을 수 있어요 = पढ्न सक्छु), बाच्छिम नभए वा 'ㄹ' भए '-ㄹ 수 있다/없다' (उदा: 수영할 수 있어요 = पौडी खेल्न सक्छु)।",
+    "examples": [
+      {
+        "korean": "한국 음식을 만들 수 있어요.",
+        "english": "I can make Korean food.",
+        "nepali": "म कोरियाली खाना बनाउन सक्छु।"
+      }
+    ]
+  },
+  "dialogue1": {
+    "titleNp": "संवाद १",
+    "lines": [
+      {
+        "speaker": "투안 (Tuan)",
+        "korean": "리한 씨는 취미가 뭐예요?",
+        "english": "Rihan, what is your hobby?",
+        "nepali": "रिहान जीको रुचि के हो?"
+      },
+      {
+        "speaker": "리한 (Rihan)",
+        "korean": "제 취미는 등산이에요. 주말마다 산에 가요. 투안 씨는요?",
+        "english": "My hobby is hiking. I go to the mountains every weekend. What about you?",
+        "nepali": "मेरो रुचि पहाड चढ्नु (ट्रेकिङ) हो। म हरेक सप्ताहन्तमा पहाड जान्छु। तुआन जीको चाहिँ?"
+      }
+    ]
+  },
+  "vocabulary2": {
+    "topicKo": "운동",
+    "topicEn": "Sports",
+    "topicNp": "खेलकुद सम्बन्धी शब्दहरू",
+    "words": [
+      {
+        "korean": "축구하다",
+        "english": "to play soccer",
+        "nepali": "फुटबल खेल्नु"
+      },
+      {
+        "korean": "농구하다",
+        "english": "to play basketball",
+        "nepali": "बास्केटबल खेल्नु"
+      },
+      {
+        "korean": "야구하다",
+        "english": "to play baseball",
+        "nepali": "बेसबल खेल्नु"
+      },
+      {
+        "korean": "수영하다",
+        "english": "to swim",
+        "nepali": "पौडी खेल्नु"
+      },
+      {
+        "korean": "테니스를 치다",
+        "english": "to play tennis",
+        "nepali": "टेनिस खेल्नु"
+      },
+      {
+        "korean": "배드민턴을 치다",
+        "english": "to play badminton",
+        "nepali": "ब्याडमिन्टन खेल्नु"
+      },
+      {
+        "korean": "볼링을 치다",
+        "english": "to bowl",
+        "nepali": "बलिङ खेल्नु"
+      },
+      {
+        "korean": "자전거를 타다",
+        "english": "to ride a bicycle",
+        "nepali": "साइकल चलाउनु"
+      }
+    ]
+  },
+  "grammar2": {
+    "point": "-(으)러 가다/오다",
+    "meaningNp": "-नको लागि जानु / आउनु (उद्देश्य सूचक / In order to)",
+    "explanationEn": "Used with movement verbs (가다, 오다, 다니다) to express the purpose of going or coming.",
+    "explanationNp": "कुनै उद्देश्यले कतै जाँदा वा आउँदा उद्देश्य जनाउन क्रियाको धातुमा जोडिन्छ।",
+    "ruleNp": "बाच्छिम भए '-으러 가다' (उदा: 밥을 먹으러 가요 = खाना खान जान्छु), बाच्छिम नभए वा 'ㄹ' भए '-러 가다' (उदा: 축구하러 가요 = फुटबल खेल्न जान्छु)।",
+    "examples": [
+      {
+        "korean": "주말에 친구하고 축구하러 갈 거예요.",
+        "english": "I'm going to play soccer with my friend on the weekend.",
+        "nepali": "सप्ताहन्तमा साथीसँग फुटबल खेल्न जानेछु।"
+      }
+    ]
+  },
+  "cultureAndInfo": {
+    "titleKo": "한국인의 여가 생활",
+    "titleEn": "Leisure Life of Koreans",
+    "titleNp": "कोरियालीहरूको फुर्सद र क्लब गतिविधि",
+    "sections": [
+      {
+        "subtitleNp": "रुचि समूहहरू (동호회)",
+        "contentNp": "कोरियामा एउटै रुचि भएका व्यक्तिहरू (फुटबल, ट्रेकिङ, साइकल आदि) मिलेर क्लब बनाउँछन् र फुर्सदको समयमा सँगै खेलकुद खेल्ने चलन धेरै लोकप्रिय छ।"
+      }
+    ]
+  }
+}

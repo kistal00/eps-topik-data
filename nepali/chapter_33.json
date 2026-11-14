@@ -1,0 +1,167 @@
+{
+  "chapterNo": 33,
+  "titleKo": "동료와의 관계",
+  "titleEn": "Colleague Relationships",
+  "titleNp": "सहकर्मीसँगको सम्बन्ध",
+  "learningObjectives": [
+    {
+      "id": "ch33_obj_01",
+      "korean": "직장의 분위기에 대해 말할 수 있다.",
+      "english": "Can talk about workplace atmosphere.",
+      "nepali": "कम्पनीको वातावरणबारे बताउन सक्नुहुनेछ।"
+    },
+    {
+      "id": "ch33_obj_02",
+      "korean": "동료와의 관계 문제를 설명할 수 있다.",
+      "english": "Can explain relationship issues with colleagues.",
+      "nepali": "सहकर्मीसँगको सम्बन्धका समस्या व्याख्या गर्न सक्नुहुनेछ।"
+    }
+  ],
+  "vocabulary1": {
+    "topicKo": "직장의 분위기 관련 어휘",
+    "topicEn": "Workplace Atmosphere",
+    "topicNp": "कार्यस्थलको वातावरण",
+    "words": [
+      {
+        "korean": "동료",
+        "english": "colleague / co-worker",
+        "nepali": "सहकर्मी"
+      },
+      {
+        "korean": "상사",
+        "english": "boss / superior",
+        "nepali": "बॉस / माथिल्लो अधिकारी"
+      },
+      {
+        "korean": "부하",
+        "english": "subordinate",
+        "nepali": "मातहतका कर्मचारी"
+      },
+      {
+        "korean": "사이가 좋다",
+        "english": "to have a good relationship",
+        "nepali": "राम्रो सम्बन्ध हुनु"
+      },
+      {
+        "korean": "사이가 나쁘다",
+        "english": "to have a bad relationship",
+        "nepali": "नराम्रो सम्बन्ध हुनु"
+      },
+      {
+        "korean": "가깝다",
+        "english": "to be close",
+        "nepali": "नजिक/घनिष्ठ हुनु"
+      },
+      {
+        "korean": "격려하다",
+        "english": "to encourage",
+        "nepali": "प्रोत्साहन गर्नु"
+      },
+      {
+        "korean": "서로 위해 주다",
+        "english": "to care for each other",
+        "nepali": "एकअर्काको ख्याल गर्नु"
+      },
+      {
+        "korean": "분위기가 좋다",
+        "english": "to have a good atmosphere",
+        "nepali": "वातावरण राम्रो हुनु"
+      }
+    ]
+  },
+  "grammar1": {
+    "point": "-는/(으)ㄴ 편이다",
+    "meaningNp": "प्रायः ...तिरको हो / ...पक्षको हो (ठोकुवा नगरी सामान्यतः / Tends to be / Rather...)",
+    "explanationEn": "Used to express that something generally leans toward a certain category or quality, rather than stating definitively.",
+    "explanationNp": "कुनै कुरा एकतर्फी ठोकुवा गर्नुभन्दा सामान्यतः त्यो पक्षतिर पर्छ भन्ने नरम तरिकाले व्यक्त गर्न प्रयोग गरिन्छ।",
+    "ruleNp": "क्रियापदसँग '-는 편이다', विशेषणमा 받침 भए '-은 편이다', नभए '-ㄴ 편이다' जोडिन्छ।",
+    "examples": [
+      {
+        "korean": "우리 회사 분위기는 좋은 편이에요.",
+        "english": "Our company atmosphere tends to be good.",
+        "nepali": "हाम्रो कम्पनीको वातावरण प्रायः राम्रो तर्फ नै छ।"
+      },
+      {
+        "korean": "저는 아침에 일찍 일어나는 편이에요.",
+        "english": "I tend to wake up early in the morning.",
+        "nepali": "म प्रायः बिहान चाँडै उठ्ने तिरको छु।"
+      }
+    ]
+  },
+  "vocabulary2": {
+    "topicKo": "동료와의 관계 관련 어휘",
+    "topicEn": "Colleague Relations",
+    "topicNp": "सहकर्मीसँगको आपसी व्यवहार",
+    "words": [
+      {
+        "korean": "믿다",
+        "english": "to trust / believe",
+        "nepali": "विश्वास गर्नु"
+      },
+      {
+        "korean": "의지하다",
+        "english": "to rely on / depend",
+        "nepali": "भर पर्नु"
+      },
+      {
+        "korean": "아끼다",
+        "english": "to cherish / value",
+        "nepali": "माया गर्नु"
+      },
+      {
+        "korean": "화를 내다",
+        "english": "to get angry",
+        "nepali": "रिसाउनु"
+      },
+      {
+        "korean": "짜증을 내다",
+        "english": "to get irritated",
+        "nepali": "झ्यापिनु / चिडचिडाउनु"
+      },
+      {
+        "korean": "말다툼을 하다",
+        "english": "to argue / quarrel",
+        "nepali": "बाकबाक गर्नु / झगडा गर्नु"
+      },
+      {
+        "korean": "소리를 지르다",
+        "english": "to yell / shout",
+        "nepali": "कराउनु"
+      },
+      {
+        "korean": "오해하다",
+        "english": "to misunderstand",
+        "nepali": "गलत बुझ्नु"
+      },
+      {
+        "korean": "사과하다",
+        "english": "to apologize",
+        "nepali": "माफी माग्नु"
+      },
+      {
+        "korean": "화해하다",
+        "english": "to make up / reconcile",
+        "nepali": "मिलापत्र गर्नु / मिल्नु"
+      }
+    ]
+  },
+  "grammar2": {
+    "point": "-거든요",
+    "meaningNp": "...किनभने / ...हो भने (श्रोतालाई नयाँ कारण बताउँदा / You see, the reason is...)",
+    "explanationEn": "Used to provide new information or a reason that the speaker thinks the listener doesn't know.",
+    "explanationNp": "वक्ताले श्रोतालाई थाहा नभएको कुरा जानकारी दिँदै कारण बताउँदा प्रयोग गरिन्छ।",
+    "ruleNp": "धातुमा सिधै '-거든요' जोडिन्छ।",
+    "examples": [
+      {
+        "korean": "내일 좀 일찍 올게요. 병원에 가야 하거든요.",
+        "english": "I'll come a bit early tomorrow. I have to go to the hospital, you see.",
+        "nepali": "भोलि अलि चाँडै आउँछु। अस्पताल जानुपर्छ, किनभने।"
+      },
+      {
+        "korean": "조금 쉬어야겠어요. 많이 아프거든요.",
+        "english": "I need to rest a bit. I'm quite sick, you see.",
+        "nepali": "अलि आराम गर्नुपर्छ। निकै बिरामी भएको हो किनभने।"
+      }
+    ]
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "chapterNo": 17,
+  "titleKo": "약속",
+  "titleEn": "Appointments",
+  "titleNp": "भेटघाट र बाचा",
+  "learningObjectives": [
+    {
+      "id": "ch17_obj_01",
+      "korean": "약속 시간과 장소를 정할 수 있다.",
+      "english": "Can set the time and place for an appointment.",
+      "nepali": "भेट्ने समय र स्थान तय गर्न सक्नुहुनेछ।"
+    },
+    {
+      "id": "ch17_obj_02",
+      "korean": "상대방에게 제안할 수 있다.",
+      "english": "Can make suggestions to others.",
+      "nepali": "अरूलाई सँगै केही गर्न प्रस्ताव राख्न सक्नुहुनेछ।"
+    }
+  ],
+  "vocabulary1": {
+    "topicKo": "약속 관련 어휘",
+    "topicEn": "Appointment Terms",
+    "topicNp": "भेटघाट सम्बन्धी शब्दहरू",
+    "words": [
+      {
+        "korean": "약속을 하다",
+        "english": "to make an appointment",
+        "nepali": "भेट्ने बाचा/समय तय गर्नु"
+      },
+      {
+        "korean": "약속을 지키다",
+        "english": "to keep an appointment",
+        "nepali": "बाचा पूरा गर्नु / समयको पालना गर्नु"
+      },
+      {
+        "korean": "약속을 어기다",
+        "english": "to break an appointment",
+        "nepali": "बाचा तोड्नु / समयमा नपुग्नु"
+      },
+      {
+        "korean": "약속에 늦다",
+        "english": "to be late for an appointment",
+        "nepali": "भेटघाटको समयमा ढिलो पुग्नु"
+      },
+      {
+        "korean": "일찍",
+        "english": "early",
+        "nepali": "चाँडै / समय अगावै"
+      },
+      {
+        "korean": "늦게",
+        "english": "late",
+        "nepali": "ढिलो गरी"
+      }
+    ]
+  },
+  "grammar1": {
+    "point": "-(으)ㄹ까요?",
+    "meaningNp": "गरौं कि? / भेटौं कि? (सल्लाह वा प्रस्ताव / Shall we?)",
+    "explanationEn": "Used when suggesting an action together or asking for the listener's opinion.",
+    "explanationNp": "सुन्ने व्यक्तिलाई सँगै केही गर्न प्रस्ताव गर्दा वा उसको विचार सोध्दा प्रयोग गरिन्छ।",
+    "ruleNp": "बाच्छिम भए '-을까요?' (उदा: 먹을까요? = खाउँ कि?), बाच्छिम नभए वा 'ㄹ' भए '-ㄹ까요?' (उदा: 갈까요? = जाउँ कि?, 만날까요? = भेटौं कि?)।",
+    "examples": [
+      {
+        "korean": "우리 몇 시에 만날까요? / 6시에 만나요.",
+        "english": "Q: What time shall we meet? / A: Let's meet at 6.",
+        "nepali": "क: हामी कति बजे भेटौं त? / ख: ६ बजे भेटौं।"
+      }
+    ]
+  },
+  "dialogue1": {
+    "titleNp": "संवाद १",
+    "lines": [
+      {
+        "speaker": "수피카 (Supika)",
+        "korean": "투안 씨, 내일 시간 있어요?",
+        "english": "Tuan, do you have time tomorrow?",
+        "nepali": "तुआन जी, भोलि फुर्सद छ?"
+      },
+      {
+        "speaker": "투안 (Tuan)",
+        "korean": "네, 시간 있어요. 왜요?",
+        "english": "Yes, I do. Why?",
+        "nepali": "हजुर छ, किन होला?"
+      },
+      {
+        "speaker": "수피카 (Supika)",
+        "korean": "같이 영화 볼까요?",
+        "english": "Shall we watch a movie together?",
+        "nepali": "सँगै चलचित्र (फिल्म) हेर्न जाऔं कि?"
+      }
+    ]
+  },
+  "vocabulary2": {
+    "topicKo": "약속 장소",
+    "topicEn": "Meeting Places",
+    "topicNp": "भेटघाट गर्ने स्थानहरू",
+    "words": [
+      {
+        "korean": "영화관 / 극장",
+        "english": "movie theater / cinema",
+        "nepali": "चलचित्र हल (सिनेमा हल)"
+      },
+      {
+        "korean": "커피숍",
+        "english": "coffee shop",
+        "nepali": "कफी सप"
+      },
+      {
+        "korean": "정문",
+        "english": "main entrance / gate",
+        "nepali": "मुख्य ढोका / प्रवेशद्वार"
+      }
+    ]
+  },
+  "grammar2": {
+    "point": "-(으)ㅂ시다",
+    "meaningNp": "गरौं (औपचारिक प्रस्ताव / Let's do)",
+    "explanationEn": "Used to make a formal suggestion or agreement to act together.",
+    "explanationNp": "औपचारिक रूपमा अरूलाई सँगै कार्य गर्न अनुरोध गर्दा प्रयोग गरिन्छ।",
+    "ruleNp": "बाच्छिम भए '-읍시다' (उदा: 먹읍시다 = खाऔं), बाच्छिम नभए वा 'ㄹ' भए '-ㅂ시다' (उदा: 만납시다 = भेटौं, 갑시다 = जाऔं)।",
+    "examples": [
+      {
+        "korean": "회사 앞에서 만납시다.",
+        "english": "Let's meet in front of the company.",
+        "nepali": "कम्पनी अगाडि भेटौं।"
+      }
+    ]
+  },
+  "cultureAndInfo": {
+    "titleKo": "한국인의 약속 문화",
+    "titleEn": "Appointment Etiquette in Korea",
+    "titleNp": "कोरियालीहरूको समय पालना र भेटघाटको नियम",
+    "sections": [
+      {
+        "subtitleNp": "समय पालना (시간 엄수)",
+        "contentNp": "कोरियामा तोकिएको समयभन्दा ५ देखि १० मिनेट अगावै पुग्नुपर्छ। ढिलो हुने भए पहिल्यै फोन वा मेसेज गरेर जानकारी गराउनु अनिवार्य शिष्टाचार हो।"
+      }
+    ]
+  }
+}

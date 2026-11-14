@@ -12,23 +12,109 @@
   ],
   "vocabulary": [
     {
-      "korean": "압축하다",
-      "english": "to compress",
-      "nepali": "खुम्च्याउनु"
+      "korean": "도면",
+      "english": "blueprint / drawing",
+      "nepali": "नक्सा / ब्लुप्रिन्ट"
+    },
+    {
+      "korean": "깎다",
+      "english": "to cut / shave / whittle",
+      "nepali": "काट्नु / छिल्नु"
+    },
+    {
+      "korean": "구멍을 뚫다",
+      "english": "to drill a hole",
+      "nepali": "प्वाल पार्नु"
+    },
+    {
+      "korean": "도려내다",
+      "english": "to carve out",
+      "nepali": "खोप्नु / निकाल्नु"
+    },
+    {
+      "korean": "철판을 구부리다",
+      "english": "to bend a metal plate",
+      "nepali": "फलामको पाता मोड्नु"
+    },
+    {
+      "korean": "공작물을 갈다",
+      "english": "to grind a workpiece",
+      "nepali": "वर्कपिस घिस्नु / रन्दा लगाउनु"
+    },
+    {
+      "korean": "밀링 머신",
+      "english": "milling machine",
+      "nepali": "मिलिङ मेसिन"
+    },
+    {
+      "korean": "선반 기계",
+      "english": "lathe machine",
+      "nepali": "खराद मेसिन (लेथ)"
+    },
+    {
+      "korean": "프레스 기계",
+      "english": "press machine",
+      "nepali": "प्रेस मेसिन"
+    },
+    {
+      "korean": "드릴 기계",
+      "english": "drill machine",
+      "nepali": "ड्रिल मेसिन"
+    },
+    {
+      "korean": "전원을 켜다/끄다",
+      "english": "to turn on/off (power)",
+      "nepali": "बिजुली खोल्नु / बन्द गर्नु"
+    },
+    {
+      "korean": "스위치를 누르다",
+      "english": "to press a switch/button",
+      "nepali": "स्विच थिच्नु"
+    },
+    {
+      "korean": "버튼을 누르다",
+      "english": "to press a button",
+      "nepali": "बटन थिच्नु"
+    },
+    {
+      "korean": "핸들을 돌리다",
+      "english": "to turn a handle / lever",
+      "nepali": "ह्यान्डल घुमाउनु"
+    },
+    {
+      "korean": "속도를 조절하다",
+      "english": "to adjust the speed",
+      "nepali": "गति मिलाउनु"
+    },
+    {
+      "korean": "정지하다",
+      "english": "to stop",
+      "nepali": "रोक्नु"
+    },
+    {
+      "korean": "작동시키다",
+      "english": "to operate / activate",
+      "nepali": "चलाउनु / सुरु गर्नु"
     }
   ],
   "grammar": [
     {
-      "point": "기계 가공",
-      "explanation": "Machine Processing 기계 작동 방법에 대해 말할 수 있다. 학습 목표 Can talk about how to operate a machine. LEARNING OBJECTIVES 기구와 작업에 대해 묻고 대답할 수 있다. Can ask and answer questions about tools and tasks. 76 한국어 표준교재 2 CHAPTER 37 EPS-TOPIK 무슨 일이에요? 전원을 켜도 기계가 작동하지 않아요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -아도/어도 기계 작동 관련 어휘 한국의 가전제품 -자고 하다 Vocabulary Related to Korea's Home Appliances Operating Machines 기구와 용도 관련 어휘 Vocabulary Related to Tools and their Uses 76 한국어 표준교재 2",
-      "examples": [],
-      "explanationNp": "기계 가공 सम्बन्धी व्याकरण नियम र प्रयोग।"
+      "point": "-자고 하다",
+      "explanation": "Used to relay a suggestion made by someone else to do something together.",
+      "explanationNp": "अरू कसैले सँगै गरौं भनेर प्रस्ताव गरेको कुरा दोहोर्‍याएर बताउँदा प्रयोग गरिन्छ। क्रियापदको धातुमा सिधै '-자고 하다' जोडिन्छ।",
+      "examples": [
+        "프엉 씨가 같이 점심을 먹자고 했어요. — फुअंगले सँगै खाना खाऔं भन्नुभयो।",
+        "반장님이 오후에 회의하자고 했어요. — टिम लिडरले दिउँसो मिटिङ गरौं भन्नुभयो।"
+      ]
     },
     {
-      "point": "전원을 켜다 여러 번 읽다 계속 전화하다 오랫동안 환기를 하다",
-      "explanation": "⑴ 늦은 밤이라서 받지 않아요. ⑵ 기계가 작동되지 않으면 점검을 하세요. ⑶ 한국어 실력이 부족해서 설명서를 이해하지 못했어요. ⑷ 환풍기를 안 켜서 냄새가 없어지지 않아요.",
-      "examples": [],
-      "explanationNp": "전원을 켜다 여러 번 읽다 계속 전화하다 오랫동안 환기를 하다 सम्बन्धी व्याकरण नियम र प्रयोग।"
+      "point": "-(으)ㄹ 때",
+      "explanation": "Attaches to verbs and adjectives to indicate the time or occasion when something happens.",
+      "explanationNp": "क्रियापद वा विशेषणमा जोडिएर कुनै कार्य भइरहेको समय वा अवसर जनाउँछ। अन्त्यमा स्वरवर्ण वा 'ㄹ' भए '-ㄹ 때', व्यञ्जनवर्ण भए '-을 때' जोडिन्छ।",
+      "examples": [
+        "기계를 사용할 때 안전 장갑을 끼세요. — मेसिन चलाउँदा सुरक्षा पन्जा लगाउनुहोस्।",
+        "작업할 때 안전모를 꼭 쓰세요. — काम गर्दा सुरक्षा टोपी अवश्य लगाउनुहोस्।"
+      ]
     }
   ],
   "conversations": [
@@ -197,6 +283,6 @@
       "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
-  "titleNp": "मेसिन प्रोसेसिङ र सञ्चालन",
+  "titleNp": "मेसिन प्रशोधन",
   "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_37.pdf"
 }

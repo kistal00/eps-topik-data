@@ -11,19 +11,116 @@
     "• 양식업에서 사용하는 장비의 이름을 말할 수 있다.",
     "• 결심한 것이나 결정한 것을 표현할 수 있다."
   ],
-  "vocabulary": [],
-  "grammar": [
+  "vocabulary": [
     {
-      "point": "연안 어업과 양식",
-      "explanation": "Coastal Fishery and Aquaculture 어업 도구와 어업 활동에 대해 말할 수 있다. 학습 목표 Can talk about fishery tools and activities. LEARNING OBJECTIVES 양식업에서 사용하는 장비에 대해 묻고 대답할 수 있다. Can ask and answer questions about equipment used in aquaculture. 176 한국어 표준교재 2 CHAPTER 47 EPS-TOPIK 오늘 그물을 수선하기로 했지요? 맞아요. 그물이 찢어져서 빨리 고쳐야 돼요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -는 동안에 어업 도구와 어업 활동 관련 어휘 한국의 양식업 -기로 하다 Vocabulary Related to Fishery Tools Korea's Aquaculture Industry and Activities 양식업 관련 어휘 Vocabulary Related to Aquaculture 176 한국어 표준교재 2",
-      "examples": [],
-      "explanationNp": "연안 어업과 양식 सम्बन्धी व्याकरण नियम र प्रयोग।"
+      "korean": "그물",
+      "english": "fishing net",
+      "nepali": "माछा मार्ने जाल"
     },
     {
-      "point": "청소하다 칠하다 수선하다 설치하다",
-      "explanation": "⑴ 페인트를 냄새가 많이 날 거예요. ⑵ 통발을 배가 흔들리지 않도록 해 주세요. ⑶ 갑판을 푸캄 씨는 밧줄을 정리해 주세요. ⑷ 이 그물을 사용할 다른 그물을 준비해 주세요. 178 한국어 표준교재 2",
-      "examples": [],
-      "explanationNp": "청소하다 칠하다 수선하다 설치하다 सम्बन्धी व्याकरण नियम र प्रयोग।"
+      "korean": "통발",
+      "english": "fish trap / pot",
+      "nepali": "धोक्से (माछा/काँक्रा पार्ने जालको भाँडो)"
+    },
+    {
+      "korean": "양망기",
+      "english": "net hauler / net winch",
+      "nepali": "जाल तान्ने मेसिन"
+    },
+    {
+      "korean": "밧줄",
+      "english": "thick rope",
+      "nepali": "मोटो डोरी"
+    },
+    {
+      "korean": "닻",
+      "english": "anchor",
+      "nepali": "जहाज अड्याउने लङ्गर"
+    },
+    {
+      "korean": "부표",
+      "english": "buoy / float",
+      "nepali": "पानीमा तैरिने संकेत (बोया)"
+    },
+    {
+      "korean": "바늘대",
+      "english": "net mending needle",
+      "nepali": "जाल बुन्ने सियो"
+    },
+    {
+      "korean": "그물을 던지다",
+      "english": "to cast a fishing net",
+      "nepali": "जाल हान्नु / फ्याँक्नु"
+    },
+    {
+      "korean": "그물을 끌어올리다",
+      "english": "to pull up a net",
+      "nepali": "जाल माथि तान्नु"
+    },
+    {
+      "korean": "고기를 잡다",
+      "english": "to catch fish",
+      "nepali": "माछा समात्नु"
+    },
+    {
+      "korean": "양식장",
+      "english": "aquaculture farm / fish farm",
+      "nepali": "माछा पालन केन्द्र / पोखरी"
+    },
+    {
+      "korean": "수조",
+      "english": "water tank",
+      "nepali": "पानीको ट्यांकी"
+    },
+    {
+      "korean": "펌프",
+      "english": "water pump",
+      "nepali": "पानी तान्ने पम्प"
+    },
+    {
+      "korean": "산소 공급기",
+      "english": "oxygen supply system / aerator",
+      "nepali": "अक्सिजन दिने मेसिन"
+    },
+    {
+      "korean": "온도계",
+      "english": "thermometer",
+      "nepali": "तापक्रम नाप्ने यन्त्र (थर्मोमिटर)"
+    },
+    {
+      "korean": "치어",
+      "english": "fry / young fish",
+      "nepali": "माछाको भुरा"
+    },
+    {
+      "korean": "사료를 주다",
+      "english": "to feed fish",
+      "nepali": "माछालाई दाना खुवाउनु"
+    },
+    {
+      "korean": "수질 관리",
+      "english": "water quality management",
+      "nepali": "पानीको गुणस्तर व्यवस्थापन"
+    }
+  ],
+  "grammar": [
+    {
+      "point": "-는 동안에",
+      "explanation": "Attaches to verbs to indicate the duration of time during which an action or state continues.",
+      "explanationNp": "क्रियापदमा जोडिएर कुनै कार्य चलिरहेको समय अवधिभर अर्को घटना घट्दा प्रयोग गरिन्छ। '에' नराखेर '-는 동안' मात्र पनि भनिन्छ। धातुमा 받침 भए पनि नभए पनि सिधै '-는 동안에' जोडिन्छ।",
+      "examples": [
+        "배가 이동하는 동안에 그물을 손질하세요. — डुङ्गा अगाडि बढिरहेको बेलामा जाल मर्मत गर्नुहोस्।",
+        "점심을 먹는 동안에 비가 내렸어요. — दिउँसोको खाना खाइरहँदा पानी पर्‍यो।"
+      ]
+    },
+    {
+      "point": "-기로 하다",
+      "explanation": "Attaches to verbs to indicate a decision, plan, resolution, or mutual agreement to do something.",
+      "explanationNp": "क्रियापदमा जोडिएर कुनै कार्य गर्ने निर्णय, पक्का योजना वा आपसमा भएको सहमति व्यक्त गर्न प्रयोग गरिन्छ। धातुमा सिधै '-기로 하다' जोडिन्छ।",
+      "examples": [
+        "내일 새벽에 바다로 나가기로 했어요. — भोलि बिहानै समुन्द्रमा जाने निर्णय गर्‍यौं।",
+        "제가 수조를 청소하기로 했어요. — मैले पानीको ट्यांकी सफा गर्ने निधो गरें।"
+      ]
     }
   ],
   "conversations": [
@@ -147,6 +244,6 @@
       "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
-  "titleNp": "तटीय माछापालन र जलकृषि",
+  "titleNp": "समुद्री माछा मार्ने र माछा पालन",
   "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_47.pdf"
 }

@@ -12,39 +12,124 @@
   ],
   "vocabulary": [
     {
+      "korean": "혼합하다",
+      "english": "to mix / blend",
+      "nepali": "मिसाउनु"
+    },
+    {
+      "korean": "원재료",
+      "english": "raw material",
+      "nepali": "कच्चा सामान"
+    },
+    {
+      "korean": "첨가제",
+      "english": "additive",
+      "nepali": "थपिने रसायन (एडिटिभ)"
+    },
+    {
+      "korean": "혼합기",
+      "english": "mixer",
+      "nepali": "मिक्सर मेसिन"
+    },
+    {
+      "korean": "측정하다",
+      "english": "to measure",
+      "nepali": "नाप्नु"
+    },
+    {
       "korean": "가로",
-      "english": "width",
-      "nepali": "चौडा"
+      "english": "width / horizontal",
+      "nepali": "चौडाइ"
     },
     {
       "korean": "세로",
-      "english": "vertical",
-      "nepali": "ठाडो"
+      "english": "length / vertical",
+      "nepali": "लम्बाइ"
     },
     {
-      "korean": "조치",
-      "english": "action",
-      "nepali": "बाहिर र हाम्रो भाग्यमा राख्नुहोस्"
+      "korean": "높이",
+      "english": "height",
+      "nepali": "उचाइ"
+    },
+    {
+      "korean": "두께",
+      "english": "thickness",
+      "nepali": "मोटाइ"
+    },
+    {
+      "korean": "사출기",
+      "english": "injection molding machine",
+      "nepali": "इन्जेक्सन मोल्डिङ मेसिन"
+    },
+    {
+      "korean": "금형",
+      "english": "mold / die",
+      "nepali": "साँचा (मोल्ड)"
+    },
+    {
+      "korean": "불량품",
+      "english": "defective product",
+      "nepali": "खराब उत्पादन (डिफेक्टिभ)"
+    },
+    {
+      "korean": "검사하다",
+      "english": "to inspect / examine",
+      "nepali": "जाँच गर्नु"
+    },
+    {
+      "korean": "불량품이 나오다",
+      "english": "to have defective products come out",
+      "nepali": "खराब उत्पादन निस्कनु"
+    },
+    {
+      "korean": "휘다",
+      "english": "to bend / warp",
+      "nepali": "बाङ्गिनु"
+    },
+    {
+      "korean": "성형이 덜 되다",
+      "english": "to be under-molded / incompletely formed",
+      "nepali": "आकार पूरा नबन्नु"
+    },
+    {
+      "korean": "깨지다",
+      "english": "to break / crack",
+      "nepali": "भाँचिनु / चुर्नु"
+    },
+    {
+      "korean": "검은 점이 생기다",
+      "english": "to have black spots appear",
+      "nepali": "कालो थोप्ला देखिनु"
+    },
+    {
+      "korean": "기포가 생기다",
+      "english": "to have air bubbles form",
+      "nepali": "हावाको बुदबुदा बन्नु"
+    },
+    {
+      "korean": "양품",
+      "english": "good / acceptable product",
+      "nepali": "राम्रो उत्पादन (पास भएको)"
     }
   ],
   "grammar": [
     {
-      "point": "플라스틱 고무 성형",
-      "explanation": "Plastic and Rubber Molding 혼합과 측정에 필요한 표현을 사용할 수 있다. 학습 목표 Can use expressions needed for mixing and measuring. LEARNING OBJECTIVES 불량 발생에 대해 묻고 대답할 수 있다. Can ask and answer questions about the occurrence of defects. 106 한국어 표준교재 2 CHAPTER 40 EPS-TOPIK 불량이 발생했어요. 온도가 너무 높은가 봐요. 온도를 조절하세요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -는 대신에 혼합 및 측정 관련 어휘 친환경 에너지 -나/(으)ㄴ가 보다 Vocabulary Related to Mixing And Eco-friendly Energy Measuring 제품 불량 관련 어휘 Vocabulary Related to Product Defects 106 한국어 표준교재 2",
-      "examples": [],
-      "explanationNp": "플라스틱 고무 성형 सम्बन्धी व्याकरण नियम र प्रयोग।"
+      "point": "-는 대신에",
+      "explanation": "Attached to verbs to indicate doing a different action instead of the preceding one.",
+      "explanationNp": "क्रियापदमा जोडिएर एउटा कार्यको सट्टा अर्को कार्य गरिने जनाउँछ। धातुमा सिधै '-는 대신에' जोडिन्छ।",
+      "examples": [
+        "망치로 두드리는 대신에 드라이버로 조여 보세요. — हथौडाले ठोक्नुको सट्टा स्क्रूड्राइभरले कस्नुहोस्।",
+        "기계를 고치는 대신에 새 것을 사자고 했어요. — मेसिन मर्मत गर्नुको सट्टा नयाँ किनौं भन्नुभयो।"
+      ]
     },
     {
-      "point": "자로 재다 망치로 박다 덮개로 덮어 놓다 핸드 카트로 옮기다",
-      "explanation": "[ 보기 ] 길이를 정확히 재야 하니까 자로 재는 대신에 버니어 캘리퍼스로 측정하세요. ⑴ 이건 너무 무거우니까 지게차로 운반하세요. ⑵ 이건 나사못이니까 드라이버로 조여야 돼요. ⑶ 비가 많이 올 것 같으니까 제품을 모두 창고 안으로 옮기는 게 좋겠어요.",
-      "examples": [],
-      "explanationNp": "자로 재다 망치로 박다 덮개로 덮어 놓다 핸드 카트로 옮기다 सम्बन्धी व्याकरण नियम र प्रयोग।"
-    },
-    {
-      "point": "높다 좋다 낮다 있다",
-      "explanation": "[ 보기 ] 온도가 높은가 봐요. 온도를 낮춰야겠어요. ⑴ ⑵ ⑶ 압력이 . 기계에 이상이 . 디안 씨 기분이 안 . 압력을 높여야겠어요. 작동을 중지해야겠어요. 이야기를 안 해요.",
-      "examples": [],
-      "explanationNp": "높다 좋다 낮다 있다 सम्बन्धी व्याकरण नियम र प्रयोग।"
+      "point": "-나/(으)ㄴ가 보다",
+      "explanation": "Attached to verbs/adjectives to make a guess based on evidence or observation.",
+      "explanationNp": "कुनै प्रमाण वा अवलोकनको आधारमा अनुमान गर्दा प्रयोग गरिन्छ। क्रियापद र 있다/없다 सँग '-나 보다', विशेषणमा 받침 भए '-은가 보다', नभए '-ㄴ가 보다' जोडिन्छ।",
+      "examples": [
+        "기계가 고장이 난 것을 보니 과열된 거나 봐요. — मेसिन बिग्रेको हेर्दा ओभरहिट भएछ जस्तो लाग्छ।",
+        "사람들이 많이 모인 걸 보니 행사가 있나 봐요. — मान्छेहरू धेरै भेला भएको हेर्दा कार्यक्रम छ जस्तो लाग्छ।"
+      ]
     }
   ],
   "conversations": [
@@ -278,6 +363,6 @@
       "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
-  "titleNp": "प्लास्टिक तथा रबर मोल्डिङ",
+  "titleNp": "प्लास्टिक र रबर मोल्डिङ",
   "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_40.pdf"
 }

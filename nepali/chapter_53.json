@@ -1,0 +1,167 @@
+{
+  "chapterNo": 53,
+  "titleKo": "산업 안전 및 보건 표지",
+  "titleEn": "Industrial Safety and Health Signs",
+  "titleNp": "औद्योगिक सुरक्षा तथा स्वास्थ्य संकेत चिन्हहरू",
+  "learningObjectives": [
+    {
+      "id": "ch53_obj_01",
+      "korean": "산업 현장의 경고 표지를 이해하고 위험을 예방할 수 있다.",
+      "english": "Can understand warning signs at industrial sites and prevent hazards.",
+      "nepali": "कार्यस्थलका चेतावनी चिन्हहरू (वार्निङ साइन) बुझेर दुर्घटनाबाट जोगिन सक्नुहुनेछ।"
+    },
+    {
+      "id": "ch53_obj_02",
+      "korean": "금지 표지의 의미를 알고 수칙을 준수할 수 있다.",
+      "english": "Can know the meaning of prohibition signs and follow rules.",
+      "nepali": "निषेधित संकेत चिन्हहरू (प्रोहिबिसन साइन) बुझेर नियम पालना गर्न सक्नुहुनेछ।"
+    }
+  ],
+  "vocabulary1": {
+    "topicKo": "경고 표지 관련 어휘",
+    "topicEn": "Warning Signs (Yellow Triangle)",
+    "topicNp": "चेतावनी संकेत चिन्हहरू (पहेँलो त्रिकोण)",
+    "words": [
+      {
+        "korean": "경고 표지",
+        "english": "warning sign",
+        "nepali": "चेतावनी संकेत चिन्ह"
+      },
+      {
+        "korean": "인화성 물질 경고",
+        "english": "warning: flammable materials",
+        "nepali": "प्रज्वलनशील पदार्थको चेतावनी (आगो लाग्न सक्ने)"
+      },
+      {
+        "korean": "산화성 물질 경고",
+        "english": "warning: oxidizing substances",
+        "nepali": "अक्सिडाइजिङ पदार्थको चेतावनी"
+      },
+      {
+        "korean": "폭발성 물질 경고",
+        "english": "warning: explosive substances",
+        "nepali": "विस्फोटक पदार्थको चेतावनी"
+      },
+      {
+        "korean": "급성 독성 물질 경고",
+        "english": "warning: toxic / poisonous substances",
+        "nepali": "अत्यधिक विषाक्त पदार्थको चेतावनी"
+      },
+      {
+        "korean": "부식성 물질 경고",
+        "english": "warning: corrosive substances",
+        "nepali": "खियाउने/गाल्ने एसिड पदार्थको चेतावनी"
+      },
+      {
+        "korean": "방사선 물질 경고",
+        "english": "warning: radioactive materials",
+        "nepali": "रेडियोधर्मी पदार्थको चेतावनी"
+      },
+      {
+        "korean": "고압 전기 경고",
+        "english": "warning: high-voltage electricity",
+        "nepali": "उच्च भोल्टेज बिजुलीको चेतावनी"
+      },
+      {
+        "korean": "매달린 물체 경고",
+        "english": "warning: overhead suspended objects",
+        "nepali": "झुन्डिएको वस्तुको चेतावनी (माथिबाट खस्न सक्ने)"
+      },
+      {
+        "korean": "낙하물 경고",
+        "english": "warning: falling objects",
+        "nepali": "खस्ने वस्तुको चेतावनी"
+      }
+    ]
+  },
+  "grammar1": {
+    "point": "-(으)ㄹ지도 모르다",
+    "meaningNp": "...हुन पनि सक्छ / ...हुन बेर छैन (अनिश्चित सम्भावना / Might / May possibly)",
+    "explanationEn": "Attaches to verbs and adjectives to express that there is a possibility an event or state might happen, though not certain.",
+    "explanationNp": "क्रियापद वा विशेषणमा जोडिएर कुनै घटना घट्ने वा नराम्रो अवस्था आउने सम्भावना छ भनी अनिश्चितता व्यक्त गर्दा प्रयोग गरिन्छ।",
+    "ruleNp": "अन्त्यमा स्वरवर्ण वा 'ㄹ' भए '-ㄹ지도 모르다', व्यञ्जनवर्ण भए '-을지도 모르다' जोडिन्छ।",
+    "examples": [
+      {
+        "korean": "위에서 물건이 떨어질지도 모르니까 안전모를 쓰세요.",
+        "english": "Objects might fall from above, so please wear a hard hat.",
+        "nepali": "माथिबाट सामान खस्न पनि सक्छ, त्यसैले सुरक्षा टोपी लगाउनुहोस्।"
+      },
+      {
+        "korean": "바닥이 미끄러울지도 몰라요.",
+        "english": "The floor might be slippery.",
+        "nepali": "भुइँ चिप्लो हुन पनि सक्छ।"
+      }
+    ]
+  },
+  "vocabulary2": {
+    "topicKo": "금지 표지 관련 어휘",
+    "topicEn": "Prohibition Signs (Red Circle)",
+    "topicNp": "निषेध संकेत चिन्हहरू (रातो वृत्त)",
+    "words": [
+      {
+        "korean": "금지 표지",
+        "english": "prohibition sign",
+        "nepali": "निषेध संकेत चिन्ह"
+      },
+      {
+        "korean": "금연",
+        "english": "no smoking",
+        "nepali": "धुम्रपान निषेध"
+      },
+      {
+        "korean": "화기 금지",
+        "english": "no open flames / no ignition",
+        "nepali": "आगो बाल्न निषेध"
+      },
+      {
+        "korean": "보행 금지",
+        "english": "no pedestrians / no walking",
+        "nepali": "हिँडडुल गर्न निषेध"
+      },
+      {
+        "korean": "물기 엄금",
+        "english": "keep away from water / moisture prohibited",
+        "nepali": "पानी छुन सख्त मनाही"
+      },
+      {
+        "korean": "차량 통행 금지",
+        "english": "no vehicles allowed",
+        "nepali": "सवारी साधन आवतजावत निषेध"
+      },
+      {
+        "korean": "탑승 금지",
+        "english": "no riding / do not board",
+        "nepali": "सवारीमा चढ्न निषेध"
+      },
+      {
+        "korean": "접근 금지",
+        "english": "no entry / keep out",
+        "nepali": "नजिक जान निषेध (प्रवेश निषेध)"
+      },
+      {
+        "korean": "사용 금지",
+        "english": "do not use",
+        "nepali": "प्रयोग गर्न निषेध"
+      }
+    ]
+  },
+  "grammar2": {
+    "point": "-(으)면 안 되다 (반복 강화)",
+    "meaningNp": "...गर्न पाइँदैन / गर्नुहुँदैन (सख्त कानुनी निषेध / Must not / Prohibited)",
+    "explanationEn": "Attaches to verbs to emphasize strict prohibition, safety rules, and compliance requirements in industrial sites.",
+    "explanationNp": "कार्यस्थलमा सुरक्षा नियम उल्लंघन गर्न पाइँदैन भनी कडाइका साथ निषेध गर्न प्रयोग गरिन्छ।",
+    "ruleNp": "अन्त्यमा स्वरवर्ण वा 'ㄹ' भए '-면 안 되다', व्यञ्जनवर्ण (받침) भए '-으면 안 되다' जोडिन्छ।",
+    "examples": [
+      {
+        "korean": "화기 금지 구역에서는 라이터를 켜면 안 돼요.",
+        "english": "You must not use a lighter in no-flame zones.",
+        "nepali": "आगो बाल्न निषेध गरिएको ठाउँमा लाइटर बाल्न पाइँदैन।"
+      },
+      {
+        "korean": "보호구를 착용하지 않고 들어가면 안 됩니다.",
+        "english": "You must not enter without wearing protective equipment.",
+        "nepali": "सुरक्षा सामग्री नलगाई भित्र पस्नुहुँदैन।"
+      }
+    ]
+  }
+}

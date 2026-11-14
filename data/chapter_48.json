@@ -12,33 +12,104 @@
   ],
   "vocabulary": [
     {
-      "korean": "갑판",
-      "english": "deck",
-      "nepali": "डेक"
+      "korean": "선체",
+      "english": "ship hull",
+      "nepali": "जहाजको मुख्य ढाँचा (जिउ)"
     },
     {
-      "korean": "프로펠러",
-      "english": "propeller",
-      "nepali": "प्रोपेलर"
+      "korean": "조타실",
+      "english": "wheelhouse / steering cabin",
+      "nepali": "जहाज हाँक्ने चालक कक्ष"
+    },
+    {
+      "korean": "선원실",
+      "english": "crew's quarters / cabin",
+      "nepali": "चालक दल बस्ने कोठा"
+    },
+    {
+      "korean": "도장",
+      "english": "painting / coating",
+      "nepali": "रंगरोगन (पेन्टिङ)"
+    },
+    {
+      "korean": "녹",
+      "english": "rust",
+      "nepali": "खिया"
+    },
+    {
+      "korean": "녹을 제거하다",
+      "english": "to remove rust",
+      "nepali": "खिया हटाउनु"
+    },
+    {
+      "korean": "도료 (페인트)",
+      "english": "paint / coating material",
+      "nepali": "पेन्ट / रंग"
+    },
+    {
+      "korean": "스프레이건",
+      "english": "spray paint gun",
+      "nepali": "स्प्रे गन (पेन्टिङ गन)"
+    },
+    {
+      "korean": "변색되다",
+      "english": "to discolor",
+      "nepali": "रंग खुइलिनु"
+    },
+    {
+      "korean": "비계 (아시바)",
+      "english": "scaffolding",
+      "nepali": "खट (अग्लो ठाउँमा काम गर्न बाँधिने फलामे ढाँचा)"
+    },
+    {
+      "korean": "강관",
+      "english": "steel pipe",
+      "nepali": "फलामे पाइप"
     },
     {
       "korean": "안전난간",
-      "english": "safety railing",
-      "nepali": "सुरक्षा रेलिङ"
+      "english": "safety railing / handrail",
+      "nepali": "सुरक्षा रेलिङ (खस्नबाट रोक्ने बार)"
+    },
+    {
+      "korean": "작업발판",
+      "english": "work platform / plank",
+      "nepali": "टेकेर काम गर्ने फल्याक (प्लेटफर्म)"
+    },
+    {
+      "korean": "클램프",
+      "english": "clamp / coupler",
+      "nepali": "क्ल्याम्प (पाइप जोड्ने फलामे क्लिप)"
+    },
+    {
+      "korean": "고소 작업",
+      "english": "high-altitude work",
+      "nepali": "अग्लो ठाउँमा गरिने काम"
+    },
+    {
+      "korean": "안전대 (안전벨트)",
+      "english": "safety harness / lanyard",
+      "nepali": "सुरक्षा पेटी (सेफ्टी हार्नेस)"
     }
   ],
   "grammar": [
     {
-      "point": "선체 건조",
-      "explanation": "Ship Hull Construction CHAPTER 48 EPS-TOPIK 반장님, 도장 작업을 다 끝냈습니다. 모두 열심히 해 준 덕분에 예상보다 빨리 마쳤네요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -아지다/어지다 선박 도장 관련 어휘 한국의 조선업 -는/(으)ㄴ 덕분에 Vocabulary Related to Ship Painting Korea’s Shipbuilding Industry 강관 비계 설치 관련 어휘 Vocabulary Related to Steel Pipe Scaffold Installation 선박 도장 작업에 대해 말할 수 있다. 학습 목표 Can talk about ship painting tasks. LEARNING OBJECTIVES 강관 비계 구조에 대해 묻고 대답할 수 있다. Can ask and answer questions about the structure of steel pipe scaffolding. 186 한국어 표준교재 2",
-      "examples": [],
-      "explanationNp": "선체 건조 सम्बन्धी व्याकरण नियम र प्रयोग।"
+      "point": "-아지다/어지다",
+      "explanation": "Attaches to adjectives to express a gradual change or transition of state over time.",
+      "explanationNp": "विशेषणमा जोडिएर समयक्रमसँगै कुनै अवस्था बिस्तारै परिवर्तन हुँदै जानु भन्ने बुझाउँछ। अन्तिम स्वरवर्ण ㅏ वा ㅗ भए '-아지다', बाँकी भए '-어지다', 하다 मा '-해지다' हुन्छ।",
+      "examples": [
+        "페인트를 칠하니 배가 아주 깨끗해졌어요. — रंग लगाएपछि जहाज एकदम सफा देखिन थाल्यो।",
+        "날씨가 점점 추워져요. — मौसम बिस्तारै चिसो हुँदै गइरहेको छ।"
+      ]
     },
     {
-      "point": "옮기다 만들다 기다리다 칠하다",
-      "explanation": "⑴ 벌써부터 고향에 갈 날이 아요/어요. ⑵ 제품이 완성되면 바로 창고로 아요/어요. ⑶ 표면이 깨끗해서 페인트가 잘 아요/어요. ⑷ 선체는 부식에 강한 철판으로 아요/어요. 188 한국어 표준교재 2",
-      "examples": [],
-      "explanationNp": "옮기다 만들다 기다리다 칠하다 सम्बन्धी व्याकरण नियम र प्रयोग।"
+      "point": "-는/(으)ㄴ 덕분에",
+      "explanation": "Attaches to verbs and nouns to indicate that the preceding action/situation is the cause for a positive, successful outcome.",
+      "explanationNp": "सकारात्मक र राम्रो नतिजा आउनुमा अगाडिको कार्य वा व्यक्तिको योगदान कारण रहेको जनाउँदा प्रयोग गरिन्छ। वर्तमान क्रियासँग '-는 덕분에', विगतमा '-은/ㄴ 덕분에', नामपदसँग '덕분에' जोडिन्छ।",
+      "examples": [
+        "안전대를 착용한 덕분에 다치지 않았어요. — सुरक्षा पेटी बाँधेको कृपाले गर्दा चोट लागेन।",
+        "동료들이 도와준 덕분에 일을 일찍 끝냈어요. — साथीहरूले सहयोग गरिदिएकोले काम चाँडै सकियो।"
+      ]
     }
   ],
   "conversations": [
@@ -162,6 +233,6 @@
       "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
-  "titleNp": "पानीजहाज निर्माण कार्य",
+  "titleNp": "पानीजहाज निर्माण (सिपबिल्डिङ)",
   "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_48.pdf"
 }

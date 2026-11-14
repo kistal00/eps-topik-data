@@ -12,31 +12,117 @@
   ],
   "vocabulary": [
     {
+      "korean": "위",
+      "english": "up / above / on",
+      "nepali": "माथि"
+    },
+    {
+      "korean": "아래 / 밑",
+      "english": "down / below / under",
+      "nepali": "मुनि / तल"
+    },
+    {
+      "korean": "앞",
+      "english": "front",
+      "nepali": "अगाडि"
+    },
+    {
+      "korean": "뒤",
+      "english": "behind / back",
+      "nepali": "पछाडि"
+    },
+    {
+      "korean": "안",
+      "english": "inside",
+      "nepali": "भित्र"
+    },
+    {
+      "korean": "밖",
+      "english": "outside",
+      "nepali": "बाहिर"
+    },
+    {
+      "korean": "오른쪽",
+      "english": "right side",
+      "nepali": "दायाँपट्टि"
+    },
+    {
+      "korean": "왼쪽",
+      "english": "left side",
+      "nepali": "बायाँपट्टि"
+    },
+    {
+      "korean": "건너편 / 맞은편",
+      "english": "across the street",
+      "nepali": "पारिपट्टि / सामुन्ने"
+    },
+    {
+      "korean": "옆",
+      "english": "next to / beside",
+      "nepali": "छेउमा"
+    },
+    {
+      "korean": "사이",
+      "english": "between",
+      "nepali": "बीचमा"
+    },
+    {
+      "korean": "올라가다 / 오다",
+      "english": "to go up / come up",
+      "nepali": "माथि उक्लनु / आउनु"
+    },
+    {
+      "korean": "내려가다 / 오다",
+      "english": "to go down / come down",
+      "nepali": "तल ओर्लनु / आउनु"
+    },
+    {
+      "korean": "들어가다 / 오다",
+      "english": "to go in / come in",
+      "nepali": "भित्र पस्नु / आउनु"
+    },
+    {
+      "korean": "나가다 / 오다",
+      "english": "to go out / come out",
+      "nepali": "बाहिर निस्कनु / आउनु"
+    },
+    {
       "korean": "건너가다",
-      "english": "to cross",
-      "nepali": "पार गर्न"
+      "english": "to cross the street",
+      "nepali": "बाटो काट्नु"
+    },
+    {
+      "korean": "횡단보도",
+      "english": "crosswalk",
+      "nepali": "जेब्रा क्रसिङ"
+    },
+    {
+      "korean": "육교",
+      "english": "pedestrian overpass",
+      "nepali": "आकाशे पुल"
+    },
+    {
+      "korean": "사거리",
+      "english": "four-way intersection",
+      "nepali": "चौबाटो (चौक)"
     }
   ],
   "grammar": [
     {
-      "point": "길 찾기",
-      "explanation": "Getting Directions 위치와 방향에 대해 묻고 대답할 수 있다. 학습 목표 Can ask and answer questions about location and directions. LEARNING OBJECTIVES 명령형 문장을 사용해 다른 사람에게 지시할 수 있다. Can use imperative sentences to give instructions to others. 180 한국어 표준교재 1 CHAPTER 14 EPS-TOPIK 이 근처에 약국이 있어요? 네, 사거리에서 오른쪽으로 가세요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION (으)로(방향) 위치와 방향 도로명 주소 -(으)세요 Location and Directions Street Addresses 이동 동사 Movement Verbs 180 한국어 표준교재 1",
-      "examples": [],
-      "explanationNp": "길 찾기 सम्बन्धी व्याकरण नियम र प्रयोग।"
-    },
-    {
-      "point": "아래로",
-      "explanation": "받침 ×, 받침 ‘ㄹ’ 로 서울로 마두 씨는 어디로 갔어요? 이 기차는 서울로 가요.",
+      "point": "(으)로 (방향)",
+      "explanation": "Attaches to place or directional nouns to indicate the destination or direction of movement.",
+      "explanationNp": "कुन दिशातर्फ जाने भन्ने गन्तव्य वा दिशा खुलाउँदा नामको पछाडि जोडिन्छ। बाच्छिम भए '-으로' (उदा: 밑으로 = तलतिर), बाच्छिम नभए वा 'ㄹ' भए '-로' (उदा: 오른쪽으로 = दायाँतर्फ, 앞으로 = अगाडितिर)।",
       "examples": [
-        "예 여기에서 오른쪽으로 가야 해요."
-      ],
-      "explanationNp": "아래로 सम्बन्धी व्याकरण नियम र प्रयोग।"
+        "사거리에서 오른쪽으로 가세요. — चौबाटोबाट दायाँतर्फ जानुहोस्।"
+      ]
     },
     {
-      "point": "오다 들어가다 건너가다 내려가다",
-      "explanation": "⑴ 약국은 건물 안에 있어요. 건물 안으로 . ⑵ 4층에는 화장실이 없어요. 3층으로 . ⑶ 편의점은 맞은편에 있어요. 횡단보도를 . ⑷ 내일 우리 집에서 프엉 씨 생일 파티를 할 거예요. 6시에 우리 집에 .",
-      "examples": [],
-      "explanationNp": "오다 들어가다 건너가다 내려가다 सम्बन्धी व्याकरण नियम र प्रयोग।"
+      "point": "-(으)세요",
+      "explanation": "Used to politely order, command, or request the listener to perform an action.",
+      "explanationNp": "सुन्ने व्यक्तिलाई कुनै कार्य गर्नको लागि आदरपूर्वक आग्रह वा निर्देशन दिँदा क्रियाको धातुमा जोडिन्छ। बाच्छिम भए '-으세요' (उदा: 앉으세요 = बस्नुहोस्), बाच्छिम नभए वा 'ㄹ' भए '-세요' (उदा: 가세요 = जानुहोस्)।",
+      "examples": [
+        "횡단보도를 건너가세요. — जेब्रा क्रसिङबाट बाटो काट्नुहोस्।"
+      ]
     }
   ],
   "conversations": [
@@ -225,6 +311,6 @@
       "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
-  "titleNp": "बाटो खोज्ने तरिका",
+  "titleNp": "बाटो खोज्ने",
   "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_14.pdf"
 }

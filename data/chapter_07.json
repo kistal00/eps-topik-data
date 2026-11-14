@@ -14,37 +14,119 @@
   ],
   "vocabulary": [
     {
-      "korean": "날씨",
-      "english": "Weather",
-      "nepali": "मौसम"
+      "korean": "봄",
+      "english": "spring",
+      "nepali": "वसन्त ऋतु (मार्च–मे: न्यानो र फूल फुल्ने समय)"
     },
     {
-      "korean": "계절",
-      "english": "seasons",
-      "nepali": "ऋतुहरू"
+      "korean": "여름",
+      "english": "summer",
+      "nepali": "ग्रीष्म ऋतु / गर्मी महिना (जुन–अगस्ट: धेरै गर्मी र वर्षा हुने)"
+    },
+    {
+      "korean": "가을",
+      "english": "fall / autumn",
+      "nepali": "शरद ऋतु (सेप्टेम्बर–नोभेम्बर: शीतल र पात झर्ने समय)"
+    },
+    {
+      "korean": "겨울",
+      "english": "winter",
+      "nepali": "शिशिर ऋतु / जाडो महिना (डिसेम्बर–फेब्रुअरी: धेरै जाडो र हिउँ पर्ने)"
+    },
+    {
+      "korean": "따뜻하다",
+      "english": "to be warm",
+      "nepali": "न्यानो हुनु"
+    },
+    {
+      "korean": "덥다",
+      "english": "to be hot",
+      "nepali": "गर्मी हुनु"
+    },
+    {
+      "korean": "시원하다",
+      "english": "to be cool / refreshing",
+      "nepali": "शीतल हुनु"
+    },
+    {
+      "korean": "춥다",
+      "english": "to be cold",
+      "nepali": "जाडो हुनु"
+    },
+    {
+      "korean": "어렵다",
+      "english": "to be difficult",
+      "nepali": "गाह्रो / कठिन हुनु"
+    },
+    {
+      "korean": "쉽다",
+      "english": "to be easy",
+      "nepali": "सजिलो हुनु"
+    },
+    {
+      "korean": "날씨가 좋다",
+      "english": "to have good weather",
+      "nepali": "मौसम राम्रो हुनु"
+    },
+    {
+      "korean": "날씨가 나쁘다",
+      "english": "to have bad weather",
+      "nepali": "मौसम खराब हुनु"
+    },
+    {
+      "korean": "맑다",
+      "english": "to be clear / sunny",
+      "nepali": "आकाश सफा हुनु / घाम लाग्नु"
+    },
+    {
+      "korean": "흐리다",
+      "english": "to be cloudy",
+      "nepali": "बादल लाग्नु / धुम्म हुनु"
+    },
+    {
+      "korean": "비가 오다",
+      "english": "to rain",
+      "nepali": "पानी पर्नु"
+    },
+    {
+      "korean": "비가 그치다",
+      "english": "to stop raining",
+      "nepali": "पानी पर्न रोकिनु"
+    },
+    {
+      "korean": "눈이 오다",
+      "english": "to snow",
+      "nepali": "हिउँ पर्नु"
+    },
+    {
+      "korean": "눈이 그치다",
+      "english": "to stop snowing",
+      "nepali": "हिउँ पर्न रोकिनु"
+    },
+    {
+      "korean": "바람이 불다",
+      "english": "to be windy",
+      "nepali": "हावा चल्नु"
     }
   ],
   "grammar": [
     {
-      "point": "계절과 날씨",
-      "explanation": "Seasons and the Weather 좋아하는 계절에 대해 말할 수 있다. 학습 목표 Can talk about one's favorite season. LEARNING OBJECTIVES 날씨에 대해 묻고 대답할 수 있다. Can ask and answer questions about the weather. 110 한국어 표준교재 1 CHAPTER 07 EPS-TOPIK 오늘은 날씨가 어때요? 너무 더워요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION ‘ㅂ’ 불규칙 활용 계절 날씨 안 Seasons Weather 날씨 Weather 110 한국어 표준교재 1",
-      "examples": [],
-      "explanationNp": "계절과 날씨 सम्बन्धी व्याकरण नियम र प्रयोग।"
-    },
-    {
-      "point": "여름 겨울 주스 일",
-      "explanation": "춥다 덥다 쉽다 차갑다 ⑴ ⑵ ⑶ 112 한국어 표준교재 1",
-      "examples": [],
-      "explanationNp": "여름 겨울 주스 일 सम्बन्धी व्याकरण नियम र प्रयोग।"
+      "point": "‘ㅂ’ 불규칙 활용",
+      "explanation": "When an irregular verb or adjective stem ending in 'ㅂ' meets a vowel ending, 'ㅂ' changes to '우'.",
+      "explanationNp": "धातुको अन्त्यमा 'ㅂ' बाच्छिम भएका केही विशेषण र क्रियाहरू स्वर वर्णबाट सुरु हुने प्रत्ययसँग जोडिँदा 'ㅂ' हटेर '우' मा परिणत हुन्छ। 덥다 → 더우 + 어요 → 더워요 (गर्मी छ), 춥다 → 추우 + 어요 → 추워요 (जाडो छ), 어렵다 → 어려워요 (गाह्रो छ)। ध्यान दिनुहोस्: '잡다' (समात्नु) र '입다' (लगाउनु) नियमित हुन् (잡아요, 입어요)।",
+      "examples": [
+        "오늘은 날씨가 너무 더워요. — आज मौसम एकदमै गर्मी छ।",
+        "한국의 겨울은 정말 추워요. — कोरियाको जाडो महिना साँच्चै धेरै चिसो हुन्छ।"
+      ]
     },
     {
       "point": "안",
-      "explanation": "‘안’ 대신에 ‘-지 않다’를 동사, ‘안’은 동사, 형용사의 앞에 놓여 행위나 상태를 단순히 부정함을 형용사 뒤에 붙여 부정의 뜻을 나타낼 수 있다. 나타내거나 주어가 의지를 가지고 하지 않음을 나타낸다. Instead of ‘안’, ‘-지 않다’ can be ‘안’ is placed before verbs and adjectives to simply negate the action attached after verbs and or state or to show the subject does not want to do something. adjectives to show negation. 흐엉은 기분이 안 좋아요. ※ 명 사와 ‘-하다’가 결합된 동사를 부정할 때는 명사와 ‘하다’ 사이에 ‘안’을 쓴다. When negating verbs that combine a noun and ‘-하다’, ‘안’ is placed between the noun and ‘하다’. 나는 운동 안 해요.",
+      "explanation": "Placed before verbs and adjectives to simply negate an action, state, or to show lack of intent.",
+      "explanationNp": "क्रिया वा विशेषणको अगाडि राखिएर कार्य वा अवस्थालाई नकारात्मक बनाउँछ (होइन/गर्दिन भन्ने अर्थ दिन्छ)। 안 + क्रिया/विशेषण (उदा: 안 가요 = जाँदिन, 안 더워요 = गर्मी छैन, 안 먹어요 = खान्न)। नोट: '하다' क्रियामा '공부 안 해요', '운동 안 해요' भनिन्छ।",
       "examples": [
-        "예 비가 안 와요. 예 비가 오지 않아요.",
-        "예 오늘은 일 안 해요."
-      ],
-      "explanationNp": "안 सम्बन्धी व्याकरण नियम र प्रयोग।"
+        "아침을 안 먹었어요. — बिहानको खाना खाइनँ।",
+        "어제는 비가 안 왔어요. — हिजो पानी परेन।"
+      ]
     }
   ],
   "conversations": [

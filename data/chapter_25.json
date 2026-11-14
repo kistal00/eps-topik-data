@@ -13,29 +13,104 @@
   ],
   "vocabulary": [
     {
-      "korean": "외국인",
-      "english": "K",
-      "nepali": "K"
+      "korean": "한국어 교육",
+      "english": "Korean language education",
+      "nepali": "कोरियन भाषा तालिम"
+    },
+    {
+      "korean": "컴퓨터 교육",
+      "english": "computer education",
+      "nepali": "कम्प्युटर तालिम"
+    },
+    {
+      "korean": "태권도 교육",
+      "english": "Taekwondo class",
+      "nepali": "तेक्वान्दो तालिम"
+    },
+    {
+      "korean": "무료 진료",
+      "english": "free medical clinic",
+      "nepali": "निःशुल्क स्वास्थ्य जाँच"
+    },
+    {
+      "korean": "법률 상담",
+      "english": "legal counseling",
+      "nepali": "कानुनी परामर्श"
+    },
+    {
+      "korean": "안전 교육",
+      "english": "industrial safety training",
+      "nepali": "औद्योगिक सुरक्षा तालिम"
+    },
+    {
+      "korean": "한국 문화 체험",
+      "english": "Korean culture experience",
+      "nepali": "कोरियाली संस्कृति अनुभव"
+    },
+    {
+      "korean": "모집하다",
+      "english": "to recruit / gather participants",
+      "nepali": "आवेदन खुलाउनु / भर्ना लिनु"
+    },
+    {
+      "korean": "신청하다",
+      "english": "to apply",
+      "nepali": "निवेदन दिनु / फारम भर्नु"
+    },
+    {
+      "korean": "수업을 듣다",
+      "english": "to take a class",
+      "nepali": "कक्षा लिनु / पढ्नु"
+    },
+    {
+      "korean": "상담을 받다",
+      "english": "to receive counseling",
+      "nepali": "परामर्श लिनु"
+    },
+    {
+      "korean": "예약하다",
+      "english": "to make an appointment / reserve",
+      "nepali": "अग्रिम बुकिङ गर्नु"
+    },
+    {
+      "korean": "자원봉사자",
+      "english": "volunteer",
+      "nepali": "स्वयंसेवक"
+    },
+    {
+      "korean": "통역",
+      "english": "interpretation",
+      "nepali": "दोभाषे सेवा (अनुवाद)"
+    },
+    {
+      "korean": "상담사",
+      "english": "counselor",
+      "nepali": "परामर्शदाता"
+    },
+    {
+      "korean": "행사에 참여하다",
+      "english": "to participate in an event",
+      "nepali": "कार्यक्रममा सहभागी हुनु"
     }
   ],
   "grammar": [
     {
-      "point": "외국인 근로자 지원기관",
-      "explanation": "Foreign Workers Support Center 교육 프로그램에 대해 말할 수 있다. 학습 목표 Can talk about educational programs. LEARNING OBJECTIVES 프로그램 신청에 필요한 표현을 사용할 수 있다. Can use expressions needed for program applications. 290 한국어 표준교재 1 CHAPTER 25 EPS-TOPIK 어떻게 오셨어요? 한국어 수업을 신청하러 왔어요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -(으)러 교육 프로그램 관련 어휘 외국인력상담센터 -기 때문에 Vocabulary Related to Educational Foreign Workers Counseling Center Programs 프로그램 이용 방법 관련 어휘 Vocabulary Related to Program Participation 290 한국어 표준교재 1",
-      "examples": [],
-      "explanationNp": "외국인 근로자 지원기관 सम्बन्धी व्याकरण नियम र प्रयोग।"
+      "point": "-(으)러",
+      "explanation": "Attaches to verbs to show the purpose of moving. Always used with motion verbs like 가다 (go), 오다 (come), 다니다 (attend).",
+      "explanationNp": "क्रियापदमा जोडिएर हिँडडुल वा आवतजावत गर्नुको उद्देश्य जनाउँछ। यसको पछाडि सधैं '가다 (जानु)', '오다 (आउनु)', '다니다 (धाउनु)' जस्ता गतिशीलता जनाउने क्रिया आउँछन्। अन्त्यमा स्वरवर्ण वा 'ㄹ' भएमा '-러' र व्यञ्जनवर्ण (받침) भएमा '-으러' जोडिन्छ।",
+      "examples": [
+        "한국어를 배우러 지원센터에 가요. — कोरियन भाषा सिक्न सहायता केन्द्रमा जान्छु।",
+        "점심을 먹으러 식당에 왔어요. — दिउँसोको खाना खान रेस्टुरेन्टमा आएको हुँ।"
+      ]
     },
     {
-      "point": "한국 회사에서 일하다 텔레비전을 보다 배드민턴을 치다 법률 교육을 받다",
-      "explanation": "⑴ 한국에 가요. ⑵ 휴게실에 가요. ⑶ 공원에 가요. ⑷ 센터에 가요.",
-      "examples": [],
-      "explanationNp": "समय वा स्थान जनाउने प्रत्यय हो। नेपालीमा 'मा' वा 'तिर' भन्ने अर्थ लाग्दछ।"
-    },
-    {
-      "point": "한국어 수업을 듣다",
-      "explanation": "⑴ ⑵ ⑶ ⑷ 자원 봉사를 하다 진료를 받다 콘서트에 가다 친구를 만나다 25 외국인 근로자 지원기관 FOREIGN WORKERS SUPPORT CENTER 295",
-      "examples": [],
-      "explanationNp": "한국어 수업을 듣다 सम्बन्धी व्याकरण नियम र प्रयोग।"
+      "point": "-기 때문에",
+      "explanation": "Attaches to verb/adjective stems to explicitly express reasons or causes. When attached to nouns, '명사 때문에' is used.",
+      "explanationNp": "क्रियापद वा विशेषणमा जोडिएर कुनै परिणामको प्रत्यक्ष र स्पष्ट कारण व्यक्त गर्दछ। नामपदमा सिधै 'नाम + 때문에' हुन्छ। 받침 भए वा नभए पनि धातुमा सिधै '-기 때문에' जोडिन्छ।",
+      "examples": [
+        "일이 많기 때문에 주말에도 일해요. — काम धेरै भएको कारणले गर्दा सप्ताहन्तमा पनि काम गर्छु।",
+        "비 때문에 길이 많이 막혀요. — पानी परेकोले गर्दा बाटोमा धेरै जाम छ।"
+      ]
     }
   ],
   "conversations": [
@@ -323,6 +398,6 @@
       "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
-  "titleNp": "विदेशी कामदार सहयोग केन्द्र",
+  "titleNp": "विदेशी श्रमिक सहायता केन्द्र",
   "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_25.pdf"
 }

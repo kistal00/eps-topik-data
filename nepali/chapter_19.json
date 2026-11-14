@@ -1,0 +1,180 @@
+{
+  "chapterNo": 19,
+  "titleKo": "요리와 음식",
+  "titleEn": "Cooking and Food",
+  "titleNp": "खाना पकाउने र परिकार",
+  "learningObjectives": [
+    {
+      "id": "ch19_obj_01",
+      "korean": "요리 재료와 조리법에 대해 말할 수 있다.",
+      "english": "Can describe cooking ingredients and methods.",
+      "nepali": "खानाका सामग्री र पकाउने तरिकाहरूबारे बताउन सक्नुहुनेछ।"
+    },
+    {
+      "id": "ch19_obj_02",
+      "korean": "경험에 대해 묻고 대답할 수 있다.",
+      "english": "Can talk about food experiences.",
+      "nepali": "खाना खाइसकेको वा बनाइसकेको अनुभवबारे बताउन सक्नुहुनेछ।"
+    }
+  ],
+  "vocabulary1": {
+    "topicKo": "재료 및 양념",
+    "topicEn": "Ingredients and Seasonings",
+    "topicNp": "खानाका सामग्री र मसलाहरू",
+    "words": [
+      {
+        "korean": "소고기",
+        "english": "beef",
+        "nepali": "गाईको मासु"
+      },
+      {
+        "korean": "돼지고기",
+        "english": "pork",
+        "nepali": "सुँगुर/बंगुरको मासु"
+      },
+      {
+        "korean": "닭고기",
+        "english": "chicken meat",
+        "nepali": "कुखुराको मासु"
+      },
+      {
+        "korean": "생선",
+        "english": "fish",
+        "nepali": "माछा"
+      },
+      {
+        "korean": "양파",
+        "english": "onion",
+        "nepali": "प्याज"
+      },
+      {
+        "korean": "마늘",
+        "english": "garlic",
+        "nepali": "लसुन"
+      },
+      {
+        "korean": "당근",
+        "english": "carrot",
+        "nepali": "गाजर"
+      },
+      {
+        "korean": "소금",
+        "english": "salt",
+        "nepali": "नुन"
+      },
+      {
+        "korean": "설탕",
+        "english": "sugar",
+        "nepali": "चिनी"
+      },
+      {
+        "korean": "간장",
+        "english": "soy sauce",
+        "nepali": "सोया सस (भटमासको झोल)"
+      },
+      {
+        "korean": "참기름",
+        "english": "sesame oil",
+        "nepali": "तिलको तेल"
+      }
+    ]
+  },
+  "grammar1": {
+    "point": "-아/어 보다",
+    "meaningNp": "गरिहेर्नु / अनुभव हुनु (To try doing / Have experienced)",
+    "explanationEn": "Attaches to verbs to express trying something out or having experienced something in the past.",
+    "explanationNp": "कुनै कार्य गरेर हेर्ने प्रयास वा विगतमा त्यस्तो काम गरिसकेको अनुभव व्यक्त गर्दा प्रयोग गरिन्छ।",
+    "ruleNp": "धातुको स्वर 'ㅏ, ㅗ' भए '-아 보다' (उदा: 가 보다 = गइहेर्नु), अन्य स्वर भए '-어 보다' (उदा: 먹어 보다 = खाइहेर्नु)।",
+    "examples": [
+      {
+        "korean": "한국 음식을 만들어 봤어요.",
+        "english": "I have tried cooking Korean food.",
+        "nepali": "मैले कोरियाली खाना बनाएर हेरेको छु।"
+      }
+    ]
+  },
+  "dialogue1": {
+    "titleNp": "संवाद १",
+    "lines": [
+      {
+        "speaker": "투안 (Tuan)",
+        "korean": "리한 씨, 삼계탕 먹어 봤어요?",
+        "english": "Rihan, have you ever tried samgyetang?",
+        "nepali": "रिहान जी, साम्गेताङ (कुखुराको सुप) खाइहेर्नुभएको छ?"
+      },
+      {
+        "speaker": "리한 (Rihan)",
+        "korean": "네, 먹어 봤어요. 정말 맛있었어요.",
+        "english": "Yes, I have tried it. It was really delicious.",
+        "nepali": "हजुर, खाइसकेको छु। धेरै नै मिठो थियो।"
+      }
+    ]
+  },
+  "vocabulary2": {
+    "topicKo": "조리법",
+    "topicEn": "Cooking Methods",
+    "topicNp": "पकाउने विधिहरू",
+    "words": [
+      {
+        "korean": "깎다",
+        "english": "to peel",
+        "nepali": "ताछ्नु (फलफूलको बोक्रा)"
+      },
+      {
+        "korean": "썰다",
+        "english": "to chop / slice",
+        "nepali": "टुक्रा पार्नु / काट्नु"
+      },
+      {
+        "korean": "끓이다",
+        "english": "to boil (soup/liquid)",
+        "nepali": "उमाल्नु (सुप, पानी, चिया)"
+      },
+      {
+        "korean": "삶다",
+        "english": "to boil (solid foods)",
+        "nepali": "उसिन्नु (अन्डा, आलु, मासु)"
+      },
+      {
+        "korean": "볶다",
+        "english": "to stir-fry",
+        "nepali": "भुट्नु (थोरै तेलमा)"
+      },
+      {
+        "korean": "튀기다",
+        "english": "to deep-fry",
+        "nepali": "तार्नु (धेरै तेलमा डुबाएर)"
+      },
+      {
+        "korean": "굽다",
+        "english": "to roast / grill",
+        "nepali": "पोल्नु / सेक्नु"
+      }
+    ]
+  },
+  "grammar2": {
+    "point": "-아서/어서 (순차)",
+    "meaningNp": "-एर (क्रमबद्ध कार्य / And then)",
+    "explanationEn": "Connects two actions where the first action must occur before the second, with a close chronological connection.",
+    "explanationNp": "पहिलो कार्य सम्पन्न गरेर मात्र त्यसैसँग सम्बन्धित दोस्रो कार्य गर्दा प्रयोग गरिन्छ।",
+    "ruleNp": "धातु + 아서/어서 (उदा: 손을 씻어서 요리해요 = हात धोएर खाना पकाउँछु)।",
+    "examples": [
+      {
+        "korean": "감자를 썰어서 볶으세요.",
+        "english": "Slice the potatoes and stir-fry them.",
+        "nepali": "आलु काटेर भुट्नुहोस्।"
+      }
+    ]
+  },
+  "cultureAndInfo": {
+    "titleKo": "특별한 날 먹는 음식",
+    "titleEn": "Foods for Special Occasions in Korea",
+    "titleNp": "कोरियामा विशेष अवसरमा खाने परिकार",
+    "sections": [
+      {
+        "subtitleNp": "जन्मदिनमा मियोक-कुक (미역국)",
+        "contentNp": "जन्मदिनमा कोरियालीहरूले सामुद्रिक लेउको सुप (मियोक-कुक) खाने गर्छन्। यो आमाले बच्चा जन्माएपछि खाने पौष्टिक सुप भएकाले आमाको गुण र मायाको सम्झना गर्न खाइन्छ।"
+      }
+    ]
+  }
+}

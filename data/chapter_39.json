@@ -10,19 +10,116 @@
     "• 절단과 용접 작업에 대해 이야기할 수 있다.",
     "• 지시받은 내용을 다른 사람에게 전달할 수 있다."
   ],
-  "vocabulary": [],
-  "grammar": [
+  "vocabulary": [
     {
-      "point": "금속 가공",
-      "explanation": "Metal Processing 공구의 이름과 사용 방법을 말할 수 있다. 학습 목표 Can talk about the names and usages of tools. LEARNING OBJECTIVES 절단과 용접 작업에 대해 이야기할 수 있다. Can talk about cutting and welding work. CHAPTER 39 EPS-TOPIK 오늘은 무슨 일을 해요? 반장님이 용접 작업을 하라고 했어요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -(으)라고 하다 작업용 공구 관련 어휘 그라인더 사용 시 주의 사항 -기 전에 Vocabulary Related to Workplace Safety Precautions When Using a Tools Grinder 절단 및 용접 관련 어휘 Vocabulary Related to Cutting and Welding 96 한국어 표준교재 2",
-      "examples": [],
-      "explanationNp": "금속 가공 सम्बन्धी व्याकरण नियम र प्रयोग।"
+      "korean": "망치",
+      "english": "hammer",
+      "nepali": "हथौडा"
     },
     {
-      "point": "자를 곳에",
-      "explanation": "가 : 진수 씨가 뭐라고 했어요? 금을 그으세요. 나 : 자를 곳에 금을 그으라고 했어요. ⑴ ⑵ 못을 가 : 진 수 씨가 뭐라고 파이프를 가 : 진 수 씨가 뭐라고 박으세요. 자르세요. 했어요? 했어요? 나 : . 나 : . ⑶ ⑷ 바이스로 물체를 가 : 진 수 씨가 뭐라고 전기 드릴로 가 : 진 수 씨가 뭐라고 고정하세요. 구멍을 뚫으세요. 했어요? 했어요? 나 : . 나 : .",
-      "examples": [],
-      "explanationNp": "समय वा स्थान जनाउने प्रत्यय हो। नेपालीमा 'मा' वा 'तिर' भन्ने अर्थ लाग्दछ।"
+      "korean": "전기 드릴",
+      "english": "electric drill",
+      "nepali": "बिजुली ड्रिल"
+    },
+    {
+      "korean": "쇠톱",
+      "english": "hacksaw",
+      "nepali": "फलामको आरा"
+    },
+    {
+      "korean": "줄",
+      "english": "metal file",
+      "nepali": "रेती"
+    },
+    {
+      "korean": "정",
+      "english": "chisel",
+      "nepali": "छिनो"
+    },
+    {
+      "korean": "리머",
+      "english": "reamer",
+      "nepali": "रिमर"
+    },
+    {
+      "korean": "바이스",
+      "english": "vise / bench clamp",
+      "nepali": "भाइस (कसार)"
+    },
+    {
+      "korean": "용접하다",
+      "english": "to weld",
+      "nepali": "वेल्डिङ गर्नु"
+    },
+    {
+      "korean": "용접기",
+      "english": "welding machine",
+      "nepali": "वेल्डिङ मेसिन"
+    },
+    {
+      "korean": "용접봉",
+      "english": "welding rod / electrode",
+      "nepali": "वेल्डिङ रड"
+    },
+    {
+      "korean": "절단하다",
+      "english": "to cut / sever",
+      "nepali": "काट्नु"
+    },
+    {
+      "korean": "판금 가위",
+      "english": "sheet metal shears",
+      "nepali": "पाता काट्ने कैंची"
+    },
+    {
+      "korean": "절단기",
+      "english": "cutter / cutting machine",
+      "nepali": "कटिङ मेसिन"
+    },
+    {
+      "korean": "전기 절단기",
+      "english": "electric cutter / chop saw",
+      "nepali": "बिजुली कटर"
+    },
+    {
+      "korean": "굵다",
+      "english": "to be thick (diameter)",
+      "nepali": "बाक्लो (गोलो छेउ)"
+    },
+    {
+      "korean": "가늘다",
+      "english": "to be thin (diameter)",
+      "nepali": "पातलो (गोलो छेउ)"
+    },
+    {
+      "korean": "두껍다",
+      "english": "to be thick (flat)",
+      "nepali": "बाक्लो (चेप्टो)"
+    },
+    {
+      "korean": "얇다",
+      "english": "to be thin (flat)",
+      "nepali": "पातलो (चेप्टो)"
+    }
+  ],
+  "grammar": [
+    {
+      "point": "-(으)라고 하다",
+      "explanation": "Used to relay a command or order from someone else.",
+      "explanationNp": "अरू कसैले गर भनेर आदेश दिएको कुरा दोहोर्‍याएर बताउँदा प्रयोग गरिन्छ। अन्त्यमा स्वरवर्ण भए '-라고 하다', व्यञ्जनवर्ण (받침) भए '-으라고 하다' जोडिन्छ।",
+      "examples": [
+        "반장님이 보호 장갑을 꼭 끼라고 했어요. — टिम लिडरले सुरक्षा पन्जा अवश्य लगाउनू भन्नुभयो।",
+        "사장님이 안전 교육에 꼭 참석하라고 했어요. — बॉसले सुरक्षा तालिममा अवश्य सहभागी हुनू भन्नुभयो।"
+      ]
+    },
+    {
+      "point": "-기 전에",
+      "explanation": "Attaches to verbs to indicate that the action after '-기 전에' happens before the preceding action.",
+      "explanationNp": "क्रियापदमा जोडिएर कुनै कार्यभन्दा पहिले अर्को काम गरिन्छ भन्ने जनाउँछ। धातुमा सिधै '-기 전에' जोडिन्छ।",
+      "examples": [
+        "작업을 시작하기 전에 작업복을 입어요. — काम सुरु गर्नुअगाडि कामको कपडा लगाउँछु।",
+        "용접하기 전에 안전 장비를 점검하세요. — वेल्डिङ गर्नुअगाडि सुरक्षा सामान जाँच्नुहोस्।"
+      ]
     }
   ],
   "conversations": [
@@ -230,6 +327,6 @@
       "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
-  "titleNp": "धातु प्रशोधन र वेल्डिङ",
+  "titleNp": "धातु प्रशोधन",
   "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_39.pdf"
 }

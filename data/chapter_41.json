@@ -10,19 +10,126 @@
     "• 염색 가공 공정 관련 어휘를 익혀 활용할 수 있다.",
     "• 어떤 일을 이루기 위해 필요한 조건에 대해 표현할 수 있다."
   ],
-  "vocabulary": [],
-  "grammar": [
+  "vocabulary": [
     {
-      "point": "섬유 제조",
-      "explanation": "Textile Manufacturing 원사 보관 및 관리 시 주의해야 할 점에 대해 묻고 대답할 수 있다. 학습 목표 Can ask and answer questions about precautions for storing and managing yarn. LEARNING OBJECTIVES 염색 가공 공정 관련 어휘를 익혀 활용할 수 있다. Can proficiently use vocabulary related to the dyeing process. CHAPTER 41 EPS-TOPIK 원사는 온도와 습도에 민감해서 변색되거나 오염되기 쉬워요. 네, 조심해서 관리하겠습니다. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -거나 원사 보관 및 관리 관련 어휘 한국의 섬유와 패션 산업 -아야/어야 Vocabulary Related to Yarn Storage Korea’s Textile and Fashion Industry and Management 염색 가공 관련 어휘 Vocabulary Related to the Dyeing Process 116 한국어 표준교재 2",
-      "examples": [],
-      "explanationNp": "섬유 제조 सम्बन्धी व्याकरण नियम र प्रयोग।"
+      "korean": "원사",
+      "english": "raw yarn / thread",
+      "nepali": "कच्चा धागो"
     },
     {
-      "point": "온도가 높다 성형이 덜 되었다 철사를 구부리다",
-      "explanation": "검은 줄이 생겼다 통풍이 잘 안되다 작은 부품을 잡다 ⑴ 가 : 언제 롱 노즈 플라이어를 사용해요? 나 : (으)ㄹ 때 사용해요. ⑵ 가 : 이제 제품 검사를 하려고 해요. 나 : (으)ㄴ/는 것이 있으면 알려 주세요. ⑶ 가 : 원사는 어떻게 보관하면 변색돼요? 나 : 보관 창고의 (으)면 변색될 수 있어요. 118 한국어 표준교재 2",
-      "examples": [],
-      "explanationNp": "온도가 높다 성형이 덜 되었다 철사를 구부리다 सम्बन्धी व्याकरण नियम र प्रयोग।"
+      "korean": "습도",
+      "english": "humidity",
+      "nepali": "आर्द्रता (हावामा हुने ओस/चिसोपना)"
+    },
+    {
+      "korean": "습하다",
+      "english": "to be humid / damp",
+      "nepali": "ओसिलो हुनु"
+    },
+    {
+      "korean": "건조하다",
+      "english": "to be dry",
+      "nepali": "सुख्खा हुनु"
+    },
+    {
+      "korean": "온도",
+      "english": "temperature",
+      "nepali": "तापक्रम"
+    },
+    {
+      "korean": "환기하다",
+      "english": "to ventilate",
+      "nepali": "हावा ओहोरदोहोर गराउनु (भेन्टिलेसन)"
+    },
+    {
+      "korean": "직사광선",
+      "english": "direct sunlight",
+      "nepali": "सिधा घामको किरण"
+    },
+    {
+      "korean": "보관하다",
+      "english": "to store / keep",
+      "nepali": "भण्डारण गरेर राख्नु"
+    },
+    {
+      "korean": "변색되다",
+      "english": "to be discolored",
+      "nepali": "रंग उड्नु / बिग्रेनु"
+    },
+    {
+      "korean": "곰팡이가 피다",
+      "english": "to become moldy",
+      "nepali": "ढुसी पर्नु"
+    },
+    {
+      "korean": "천연 섬유",
+      "english": "natural fibers",
+      "nepali": "प्राकृतिक धागो/रेसा"
+    },
+    {
+      "korean": "합성 섬유",
+      "english": "synthetic fibers",
+      "nepali": "कृत्रिम धागो/रेसा (सिन्थेटिक)"
+    },
+    {
+      "korean": "면",
+      "english": "cotton",
+      "nepali": "सुती (कपास)"
+    },
+    {
+      "korean": "모",
+      "english": "wool",
+      "nepali": "ऊन"
+    },
+    {
+      "korean": "견 (실크)",
+      "english": "silk",
+      "nepali": "रेशम (सिल्क)"
+    },
+    {
+      "korean": "나일론",
+      "english": "nylon",
+      "nepali": "नाइलन"
+    },
+    {
+      "korean": "폴리에스터",
+      "english": "polyester",
+      "nepali": "पोलिएस्टर"
+    },
+    {
+      "korean": "염색하다",
+      "english": "to dye",
+      "nepali": "रंग लगाउनु / रंग्याउनु"
+    },
+    {
+      "korean": "탈색하다",
+      "english": "to bleach / decolorize",
+      "nepali": "रंग उडाउनु (ब्लिच गर्नु)"
+    },
+    {
+      "korean": "건조기",
+      "english": "dryer",
+      "nepali": "सुकाउने मेसिन (ड्रायर)"
+    }
+  ],
+  "grammar": [
+    {
+      "point": "-거나",
+      "explanation": "Attaches to verbs and adjectives to show an option or choice between two or more actions or states.",
+      "explanationNp": "क्रियापद वा विशेषणमा जोडिएर दुई वा दुईभन्दा बढी कार्य वा अवस्थामध्ये कुनै एक छान्ने विकल्प जनाउँछ। धातुमा 받침 भए पनि नभए पनि सिधै '-거나' जोडिन्छ।",
+      "examples": [
+        "주말에는 빨래를 하거나 방 청소를 해요. — सप्ताहन्तमा म कपडा धुन्छु वा कोठा सफा गर्छु।",
+        "습도가 높거나 비가 오면 원사가 상할 수 있어요. — ओस बढी भयो वा पानी पर्‍यो भने धागो बिग्रिन सक्छ।"
+      ]
+    },
+    {
+      "point": "-아야/어야",
+      "explanation": "Attaches to verbs and adjectives to indicate that the preceding clause is an essential prerequisite to achieve the following clause.",
+      "explanationNp": "क्रियापद वा विशेषणमा जोडिएर पछाडिको नतिजा प्राप्त गर्न अगाडिको सर्त अनिवार्य पूरा हुनैपर्छ भन्ने जनाउँछ। अन्तिम स्वरवर्ण ㅏ वा ㅗ भए '-아야', बाँकी भए '-어야', र 하다 मा '-해야' हुन्छ।",
+      "examples": [
+        "환기를 잘해야 원사에 곰팡이가 안 펴요. — राम्रोसँग हावा ओहोरदोहोर गराए मात्र धागोमा ढुसी पर्दैन।",
+        "열심히 연습해야 시험에 합격할 수 있어요. — कडा मिहिनेत गरे मात्र परीक्षा उत्तीर्ण हुन सकिन्छ।"
+      ]
     }
   ],
   "conversations": [
@@ -211,6 +318,6 @@
       "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
-  "titleNp": "कपडा तथा धागो उत्पादन",
+  "titleNp": "कपडा उत्पादन (टेक्सटाइल)",
   "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_41.pdf"
 }

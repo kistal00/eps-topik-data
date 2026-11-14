@@ -11,21 +11,111 @@
     "• 일상생활에서 하면 안 되는 행동에 대해 말할 수 있다.",
     "• 가능한 일과 불가능한 일을 말할 수 있다."
   ],
-  "vocabulary": [],
-  "grammar": [
+  "vocabulary": [
     {
-      "point": "한국의 예절",
-      "explanation": "Korean Etiquette 한국에서는 밥그릇을 들고 밥을 먹으면 안 돼요. 그래요? 몰랐어요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -(으)ㄹ 수 있다, 없다 공공장소에서의 예절 관련 어휘 공공 생활 예절 -(으)면 안 되다 Vocabulary Related to Etiquette in Public Etiquette Public Places Disrespectful Actions 공공장소에서 지켜야 할 예절에 대해 말할 수 있다. 학습 목표 Can talk about etiquette that should be observed in public places. LEARNING OBJECTIVES 일상생활에서 하면 안 되는 행동에 대해 말할 수 있다. Can talk about actions that should not be done in daily life. 330 한국어 표준교재 1 CHAPTER 29 EPS-TOPIK 330 한국어 표준교재 1",
-      "examples": [
-        "예의에 어긋난 행동"
-      ],
-      "explanationNp": "한국의 예절 सम्बन्धी व्याकरण नियम र प्रयोग।"
+      "korean": "떠들다",
+      "english": "to make noise / be loud",
+      "nepali": "हल्ला गर्नु"
     },
     {
-      "point": "어디 가?",
-      "explanation": "가 : 어른들께 ? 나 : 아니요, . ⑵ 가 : 어른들께 ? 나 : 아니요, .",
-      "examples": [],
-      "explanationNp": "어디 가? सम्बन्धी व्याकरण नियम र प्रयोग।"
+      "korean": "뛰어다니다",
+      "english": "to run around recklessly",
+      "nepali": "यताउति दौडधुप गर्नु"
+    },
+    {
+      "korean": "새치기하다",
+      "english": "to cut in line / jump the queue",
+      "nepali": "लाइन मिच्नु"
+    },
+    {
+      "korean": "침을 뱉다",
+      "english": "to spit on the ground",
+      "nepali": "थुक्नु"
+    },
+    {
+      "korean": "담배를 피우다",
+      "english": "to smoke a cigarette",
+      "nepali": "चुरोट पिउनु"
+    },
+    {
+      "korean": "담배꽁초를 버리다",
+      "english": "to litter cigarette butts",
+      "nepali": "चुरोटको ठूटो जथाभावी फाल्नु"
+    },
+    {
+      "korean": "무단 횡단을 하다",
+      "english": "to jaywalk (cross street illegally)",
+      "nepali": "जथाभावी बाटो काट्नु (जेब्राक्रस बाहेकबाट)"
+    },
+    {
+      "korean": "신호를 위반하다",
+      "english": "to violate traffic signals",
+      "nepali": "ट्राफिक बत्ती मिच्नु"
+    },
+    {
+      "korean": "음식물을 반입하다",
+      "english": "to bring food inside",
+      "nepali": "खानेकुरा भित्र लैजानु"
+    },
+    {
+      "korean": "전시품을 만지다",
+      "english": "to touch exhibits",
+      "nepali": "प्रदर्शनीका सामान छुनु"
+    },
+    {
+      "korean": "반말을 하다",
+      "english": "to speak in non-honorific language to elders",
+      "nepali": "अपशब्द/अनादरार्थी भाषा बोल्नु (तँ भन्नु)"
+    },
+    {
+      "korean": "손을 흔들다",
+      "english": "to wave hands casually at elders",
+      "nepali": "ठूलाबडालाई हात हल्लाएर अभिवादन गर्नु"
+    },
+    {
+      "korean": "한 손으로 물건을 주다/받다",
+      "english": "to give/receive items with one hand",
+      "nepali": "एक हातले सामान दिनु / लिनु"
+    },
+    {
+      "korean": "다리를 꼬고 앉다",
+      "english": "to sit with legs crossed",
+      "nepali": "खुट्टामाथि खुट्टा चढाएर बस्नु"
+    },
+    {
+      "korean": "밥그릇을 들고 먹다",
+      "english": "to hold the rice bowl while eating",
+      "nepali": "भातको कचौरा हातमा उठाएर खानु"
+    },
+    {
+      "korean": "소리를 내며 먹다",
+      "english": "to make smacking noises while eating",
+      "nepali": "आवाज निकालेर चपाउनु"
+    },
+    {
+      "korean": "고개를 돌리고 마시다",
+      "english": "to turn one's head away when drinking alcohol with elders",
+      "nepali": "मान्यजनसँग रक्सी पिउँदा शिर अर्कोतर्फ फर्काएर पिउनु"
+    }
+  ],
+  "grammar": [
+    {
+      "point": "-(으)ㄹ 수 있다 / 없다",
+      "explanation": "Attaches to verbs to show possibility or capability of performing an action.",
+      "explanationNp": "क्रियापदमा जोडिएर कुनै कार्य गर्न सक्ने क्षमता वा सम्भावना छ (सकिन्छ) वा छैन (सकिँदैन) भन्ने जनाउँछ। अन्त्यमा स्वरवर्ण वा 'ㄹ' भए '-ㄹ 수 있다/없다', व्यञ्जनवर्ण (받침) भए '-을 수 있다/없다' जोडिन्छ।",
+      "examples": [
+        "여기서 담배를 피울 수 없어요. — यहाँ चुरोट पिउन पाइँदैन (सकिँदैन)।",
+        "주말에는 도서관을 이용할 수 있습니다. — सप्ताहन्तमा पुस्तकालय प्रयोग गर्न सकिन्छ।"
+      ]
+    },
+    {
+      "point": "-(으)면 안 되다",
+      "explanation": "Attaches to verbs and adjectives to indicate prohibition or that doing the action is unacceptable.",
+      "explanationNp": "क्रियापद वा विशेषणमा जोडिएर कुनै कार्य गर्न सख्त मनाही गरिएको वा गर्नुहुँदैन भन्ने कुरा जनाउँछ। अन्त्यमा स्वरवर्ण वा 'ㄹ' भए '-면 안 되다', व्यञ्जनवर्ण (받침) भए '-으면 안 되다' जोडिन्छ।",
+      "examples": [
+        "한국에서는 밥그릇을 들고 밥을 먹으면 안 돼요. — कोरियामा खाना खाँदा भातको कचौरा हातले उठाएर खानुहुँदैन।",
+        "어른 앞에서는 담배를 피우면 안 됩니다. — ठूलाबडाको अगाडि चुरोट पिउनुहुँदैन।"
+      ]
     }
   ],
   "conversations": [
@@ -248,6 +338,6 @@
       "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
-  "titleNp": "कोरियाली शिष्टाचार र संस्कार",
+  "titleNp": "कोरियाको संस्कार र शिष्टाचार",
   "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_29.pdf"
 }

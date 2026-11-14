@@ -1,0 +1,157 @@
+{
+  "chapterNo": 50,
+  "titleKo": "산림 자원 조성",
+  "titleEn": "Forest Resource Management",
+  "titleNp": "वन स्रोत तथा रुख कटान",
+  "learningObjectives": [
+    {
+      "id": "ch50_obj_01",
+      "korean": "굴취 및 분 감기 작업 절차를 설명할 수 있다.",
+      "english": "Can explain trenching and root ball wrapping procedures.",
+      "nepali": "रुखको जरा खन्ने र जराको डल्लो बाँध्ने कामको प्रक्रिया बताउन सक्नुहुनेछ।"
+    },
+    {
+      "id": "ch50_obj_02",
+      "korean": "벌목 및 조재 작업에 대해 말할 수 있다.",
+      "english": "Can talk about tree felling and bucking work.",
+      "nepali": "रुख ढाल्ने र हाँगाबिँगा छिमल्ने कामबारे कुरा गर्न सक्नुहुनेछ।"
+    }
+  ],
+  "vocabulary1": {
+    "topicKo": "굴취 및 분 감기 관련 어휘",
+    "topicEn": "Trenching and Root Ball Wrapping",
+    "topicNp": "बिरुवा उखेल्ने र जरा बाँध्ने कार्य",
+    "words": [
+      {
+        "korean": "나무",
+        "english": "tree",
+        "nepali": "रुख / बिरुवा"
+      },
+      {
+        "korean": "잎",
+        "english": "leaf",
+        "nepali": "पात"
+      },
+      {
+        "korean": "가지",
+        "english": "branch",
+        "nepali": "हाँगा"
+      },
+      {
+        "korean": "뿌리",
+        "english": "root",
+        "nepali": "जरा"
+      },
+      {
+        "korean": "굴취하다 (파내다)",
+        "english": "to dig up / excavate a tree with roots",
+        "nepali": "बिरुवा जरासहित उखेल्नु"
+      },
+      {
+        "korean": "분 감기",
+        "english": "root ball wrapping",
+        "nepali": "माटोसहितको जरा बोरा र डोरीले बाँध्नु"
+      },
+      {
+        "korean": "고무줄",
+        "english": "rubber band / elastic tie",
+        "nepali": "रबरको फिता"
+      },
+      {
+        "korean": "녹화 마대 (가마니)",
+        "english": "burlap sack / root wrapping cloth",
+        "nepali": "जरा बेर्ने जुटको बोरा"
+      },
+      {
+        "korean": "전정 가위",
+        "english": "pruning shears",
+        "nepali": "हाँगा काट्ने कैंची"
+      },
+      {
+        "korean": "톱",
+        "english": "saw",
+        "nepali": "आरा"
+      }
+    ]
+  },
+  "grammar1": {
+    "point": "-다가",
+    "meaningNp": "...गर्दागर्दै बीचमै (कार्यको बीचमा अर्को घटना / While doing, then interrupted)",
+    "explanationEn": "Attaches to verbs to show that an action was ongoing and then interrupted or replaced by another action or situation.",
+    "explanationNp": "कुनै कार्य चलिरहेको बेलामा बीचमै रोकिएर अर्कै कार्य सुरु हुँदा वा अर्को घटना घट्दा प्रयोग गरिन्छ।",
+    "ruleNp": "धातुमा सिधै '-다가' जोडिन्छ।",
+    "examples": [
+      {
+        "korean": "나무를 파내다가 돌을 발견했어요.",
+        "english": "While digging up the tree, I found a rock.",
+        "nepali": "रुख खन्दाखन्दै बीचमा ठूलो ढुङ्गा भेट्टाएँ।"
+      },
+      {
+        "korean": "길을 걷다가 친구를 만났어요.",
+        "english": "While walking on the road, I met a friend.",
+        "nepali": "बाटोमा हिँड्दाहिँड्दै साथीसँग भेट भयो।"
+      }
+    ]
+  },
+  "vocabulary2": {
+    "topicKo": "벌목 작업 관련 어휘",
+    "topicEn": "Logging Work Vocabulary",
+    "topicNp": "काठ कटान तथा मुढा व्यवस्थापन",
+    "words": [
+      {
+        "korean": "벌목하다",
+        "english": "to fell / cut down trees",
+        "nepali": "रुख ढाल्नु / काट्नु"
+      },
+      {
+        "korean": "엔진톱 (체인소)",
+        "english": "chainsaw",
+        "nepali": "चेनस (मोटर आरा)"
+      },
+      {
+        "korean": "조재하다",
+        "english": "to buck / lop off branches and cut logs",
+        "nepali": "हाँगाबिँगा छिमल्नु र मुढा बनाउनु"
+      },
+      {
+        "korean": "집재하다",
+        "english": "to gather / skid logs to one location",
+        "nepali": "काठका मुढाहरू एकै ठाउँमा जम्मा गर्नु"
+      },
+      {
+        "korean": "운재하다",
+        "english": "to haul / transport timber",
+        "nepali": "काठ ढुवानी गरेर लैजानु"
+      },
+      {
+        "korean": "원목",
+        "english": "log / round timber",
+        "nepali": "काठको मुढा"
+      },
+      {
+        "korean": "산림청",
+        "english": "Korea Forest Service",
+        "nepali": "कोरियाली वन विभाग"
+      }
+    ]
+  },
+  "grammar2": {
+    "point": "간접 인용 축약형 (-대요, -냬요, -래요, -재요)",
+    "meaningNp": "...रे / ...भन्छन् (बोलीचालीमा अरूको भनाइको छोटकरी रूप / Contracted indirect speech)",
+    "explanationEn": "Colloquial contracted forms of indirect quotations in Korean: -다고 해요 → -대요, -냐고 해요 → -냬요, -(으)라고 해요 → -(으)래요, -자고 해요 → -재요.",
+    "explanationNp": "अरूको भनाइ दोहोर्‍याउँदा बोलीचालीमा छोटकरी बनाइन्छ: -다고 해요 को सट्टा -대요, -냐고 해요 को सट्टा -냬요, -(으)라고 해요 को सट्टा -래요, र -자고 해요 को सट्टा -재요 प्रयोग हुन्छ।",
+    "ruleNp": "वाक्यको प्रकृतिअनुसार (भनाइ, प्रश्न, आदेश, प्रस्ताव) छोटकरी रूप प्रयोग हुन्छ।",
+    "examples": [
+      {
+        "korean": "반장님이 오늘 작업이 일찍 끝난대요.",
+        "english": "The leader says today's work will end early.",
+        "nepali": "टिम लिडरले आजको काम चाँडै सकिन्छ रे भन्नुभयो।"
+      },
+      {
+        "korean": "내일 같이 등산 가재요.",
+        "english": "He suggested going hiking together tomorrow.",
+        "nepali": "भोलि सँगै पहाड चढ्न जाऔं भन्छ।"
+      }
+    ]
+  }
+}

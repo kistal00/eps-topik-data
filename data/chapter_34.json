@@ -11,19 +11,116 @@
     "• 직접 들은 사실을 사람들에게 전달할 수 있다.",
     "② 성희롱은 피해자에게 큰 정신적 고통을 줄 수 있다."
   ],
-  "vocabulary": [],
-  "grammar": [
+  "vocabulary": [
     {
-      "point": "성희롱 및 성추행 예방",
-      "explanation": "Sexual Harassment and Assault Prevention 성희롱 예방법에 대해 설명할 수 있다. 학습 목표 Can explain how to prevent sexual harassment. LEARNING OBJECTIVES 성희롱 대처 방법에 대해 묻고 대답할 수 있다. Can talk about how to handle sexual harassment. 46 한국어 표준교재 2 CHAPTER 34 EPS-TOPIK 아까 유진 씨 표정이 안 좋아 보이던데요. 마두 씨의 성적 농담 때문에 불쾌했어요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -던데요 성희롱 관련 어휘 직장 내 성희롱 -(느)ㄴ다고/다고 하다 Vocabulary Related to Sexual Workplace Sexual Harassment Harassment 성희롱 예방과 대처 방법 관련 어휘 Vocabulary Related to the Prevention and Handling of Sexual Harassment 46 한국어 표준교재 2",
-      "examples": [],
-      "explanationNp": "성희롱 및 성추행 예방 सम्बन्धी व्याकरण नियम र प्रयोग।"
+      "korean": "성희롱",
+      "english": "sexual harassment",
+      "nepali": "यौन दुर्व्यवहार"
     },
     {
-      "point": "표정이 어둡다",
-      "explanation": "나 : 부장님이 성적 농담을 하셨거든요. 가 : 자야 씨가 . ⑴ 소리를 지르다 나 : 손님이 불쾌한 신체 접촉을 한 것 같아요. 가 : 아궁 씨가 . ⑵ 화를 내다 나 : 어떤 직원이 회사에서 음란물을 보고 있었거든요. 가 : 유수프 씨가 . ⑶ 기분이 나빠 보이다 나 : 동료가 심한 음담패설을 했거든요.",
-      "examples": [],
-      "explanationNp": "표정이 어둡다 सम्बन्धी व्याकरण नियम र प्रयोग।"
+      "korean": "성추행",
+      "english": "sexual assault / molestation",
+      "nepali": "यौन आक्रमण"
+    },
+    {
+      "korean": "불쾌감",
+      "english": "discomfort / unpleasantness",
+      "nepali": "अप्रिय महसुस"
+    },
+    {
+      "korean": "수치심",
+      "english": "shame / humiliation",
+      "nepali": "लज्जा / अपमानको भावना"
+    },
+    {
+      "korean": "거부감",
+      "english": "a sense of repulsion / rejection",
+      "nepali": "अस्वीकार्यको भावना"
+    },
+    {
+      "korean": "성적 농담",
+      "english": "sexual joke",
+      "nepali": "यौन जोक / अश्लील मजाक"
+    },
+    {
+      "korean": "신체 접촉",
+      "english": "physical / bodily contact",
+      "nepali": "शारीरिक सम्पर्क / छुवाछुत"
+    },
+    {
+      "korean": "신고하다",
+      "english": "to report / file a complaint",
+      "nepali": "उजुरी दिनु / रिपोर्ट गर्नु"
+    },
+    {
+      "korean": "상담 센터",
+      "english": "counseling center",
+      "nepali": "परामर्श केन्द्र"
+    },
+    {
+      "korean": "피해자",
+      "english": "victim",
+      "nepali": "पीडित व्यक्ति"
+    },
+    {
+      "korean": "거부 의사를 표현하다",
+      "english": "to express refusal",
+      "nepali": "अस्वीकार गर्ने इच्छा व्यक्त गर्नु"
+    },
+    {
+      "korean": "예방 교육",
+      "english": "prevention education / training",
+      "nepali": "रोकथाम तालिम"
+    },
+    {
+      "korean": "인권",
+      "english": "human rights",
+      "nepali": "मानव अधिकार"
+    },
+    {
+      "korean": "존엄성",
+      "english": "dignity",
+      "nepali": "सम्मान / प्रतिष्ठा"
+    },
+    {
+      "korean": "동의 없이",
+      "english": "without consent",
+      "nepali": "सहमति बिना"
+    },
+    {
+      "korean": "단호히 거부하다",
+      "english": "to firmly refuse",
+      "nepali": "कडाइका साथ इन्कार गर्नु"
+    },
+    {
+      "korean": "증거를 남기다",
+      "english": "to keep evidence / record",
+      "nepali": "प्रमाण बचाउनु / रेकर्ड राख्नु"
+    },
+    {
+      "korean": "도움을 요청하다",
+      "english": "to ask for help",
+      "nepali": "मद्दत माग्नु"
+    }
+  ],
+  "grammar": [
+    {
+      "point": "-던데요",
+      "explanation": "Used to share a new observation or experience firsthand with the listener, inviting a reaction.",
+      "explanationNp": "वक्ताले आफैंले प्रत्यक्ष अनुभव गरेको नयाँ कुरा बताउँदा श्रोताको प्रतिक्रिया अपेक्षा गर्दै प्रयोग गरिन्छ। धातुमा सिधै '-던데요' जोडिन्छ।",
+      "examples": [
+        "그 교육이 도움이 많이 되던데요. — त्यो तालिम निकै उपयोगी रहेछ।",
+        "새 직원이 일을 아주 잘하던데요. — नयाँ कर्मचारीले काम एकदम राम्रो गरिरहेको देखें।"
+      ]
+    },
+    {
+      "point": "-다고 하다 (간접 인용)",
+      "explanation": "Used to relay what someone else said (indirect quotation) with declarative sentences.",
+      "explanationNp": "अरू कसैले भनेको कुरा दोहोर्‍याएर बताउँदा प्रयोग गरिन्छ। क्रियापद/विशेषण '-다고 하다', नामपद '(이)라고 하다' हुन्छ।",
+      "examples": [
+        "부장님이 내일 교육이 있다고 했어요. — म्यानेजरले भोलि तालिम छ भन्नुभयो।",
+        "친구가 한국 생활이 재미있다고 했어요. — साथीले कोरियाको जीवन रमाइलो छ रे भन्यो।"
+      ]
     }
   ],
   "conversations": [
@@ -216,6 +313,6 @@
       "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
-  "titleNp": "कार्यस्थलमा यौन दुर्व्यवहार रोकथाम",
+  "titleNp": "यौन दुर्व्यवहार रोकथाम",
   "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_34.pdf"
 }

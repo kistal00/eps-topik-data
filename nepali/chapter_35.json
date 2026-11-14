@@ -1,0 +1,157 @@
+{
+  "chapterNo": 35,
+  "titleKo": "작업장 관리",
+  "titleEn": "Workplace Management",
+  "titleNp": "कार्यस्थल व्यवस्थापन",
+  "learningObjectives": [
+    {
+      "id": "ch35_obj_01",
+      "korean": "작업장의 환경 관리에 대해 말할 수 있다.",
+      "english": "Can talk about managing the workplace environment.",
+      "nepali": "कार्यस्थलको वातावरण व्यवस्थापनबारे बताउन सक्नुहुनेछ।"
+    },
+    {
+      "id": "ch35_obj_02",
+      "korean": "정리 정돈에 대해 설명할 수 있다.",
+      "english": "Can explain about organizing and tidying up.",
+      "nepali": "मिलाउने र सजाउनेबारे बताउन सक्नुहुनेछ।"
+    }
+  ],
+  "vocabulary1": {
+    "topicKo": "작업장 관리 어휘",
+    "topicEn": "Workplace Management Terms",
+    "topicNp": "कार्यस्थल व्यवस्थापन शब्दावली",
+    "words": [
+      {
+        "korean": "작업장",
+        "english": "workplace / work site",
+        "nepali": "कार्यस्थल (फ्याक्ट्री फ्लोर)"
+      },
+      {
+        "korean": "정리하다",
+        "english": "to organize / sort out",
+        "nepali": "मिलाउनु / व्यवस्थित गर्नु"
+      },
+      {
+        "korean": "정돈하다",
+        "english": "to tidy up / arrange neatly",
+        "nepali": "सफासँग सजाउनु"
+      },
+      {
+        "korean": "청소하다",
+        "english": "to clean",
+        "nepali": "सरसफाइ गर्नु"
+      },
+      {
+        "korean": "쓸다",
+        "english": "to sweep",
+        "nepali": "कुच्नु / बढार्नु"
+      },
+      {
+        "korean": "닦다",
+        "english": "to wipe / polish",
+        "nepali": "पुछ्नु"
+      },
+      {
+        "korean": "치우다",
+        "english": "to put away / clear out",
+        "nepali": "हटाउनु / राख्नु"
+      },
+      {
+        "korean": "정리정돈",
+        "english": "organizing and tidying",
+        "nepali": "व्यवस्थापन र सजावट"
+      },
+      {
+        "korean": "표시를 하다",
+        "english": "to mark / label",
+        "nepali": "चिन्ह/लेबल लगाउनु"
+      },
+      {
+        "korean": "분류하다",
+        "english": "to sort / classify",
+        "nepali": "छुट्याउनु / वर्गीकरण गर्नु"
+      }
+    ]
+  },
+  "grammar1": {
+    "point": "-아/어야 하다",
+    "meaningNp": "...गर्नैपर्छ (कर्तव्य / Must / Have to)",
+    "explanationEn": "Attaches to verbs and adjectives to express obligation, duty, or necessity.",
+    "explanationNp": "क्रियापद वा विशेषणमा जोडिएर कुनै कार्य गर्नु अनिवार्य छ वा गर्नैपर्छ भन्ने जनाउँछ।",
+    "ruleNp": "अन्तिम स्वरवर्ण ㅏ वा ㅗ भए '-아야 하다', बाँकी भए '-어야 하다', 하다 मा '-해야 하다' हुन्छ।",
+    "examples": [
+      {
+        "korean": "퇴근하기 전에 작업장을 청소해야 해요.",
+        "english": "You must clean the workplace before leaving.",
+        "nepali": "छुट्टी हुनुअगाडि कार्यस्थल सफा गर्नैपर्छ।"
+      },
+      {
+        "korean": "공구는 제자리에 놓아야 합니다.",
+        "english": "Tools must be put back in their places.",
+        "nepali": "औजारहरू ठाउँमा नै राख्नुपर्छ।"
+      }
+    ]
+  },
+  "vocabulary2": {
+    "topicKo": "자재 관리 어휘",
+    "topicEn": "Material Management",
+    "topicNp": "सामग्री व्यवस्थापन",
+    "words": [
+      {
+        "korean": "자재",
+        "english": "materials / supplies",
+        "nepali": "कच्चा सामान / सामग्री"
+      },
+      {
+        "korean": "재고",
+        "english": "inventory / stock",
+        "nepali": "स्टक / भण्डार"
+      },
+      {
+        "korean": "입고",
+        "english": "receiving / goods-in",
+        "nepali": "सामान प्राप्त गर्नु (गोदाममा)"
+      },
+      {
+        "korean": "출고",
+        "english": "shipping out / goods-out",
+        "nepali": "सामान बाहिर पठाउनु"
+      },
+      {
+        "korean": "창고",
+        "english": "warehouse / storage",
+        "nepali": "गोदाम / भण्डार घर"
+      },
+      {
+        "korean": "선입선출",
+        "english": "FIFO (first in, first out)",
+        "nepali": "पहिले आएको पहिले जाने (FIFO)"
+      },
+      {
+        "korean": "유통기한",
+        "english": "expiration date / shelf life",
+        "nepali": "म्याद सकिने मिति (एक्सपायरी)"
+      }
+    ]
+  },
+  "grammar2": {
+    "point": "-아/어 두다",
+    "meaningNp": "...गरेर राख्नु (भविष्यका लागि / Do and keep for later use)",
+    "explanationEn": "Attached to verbs to show that an action is completed in advance for future use or reference.",
+    "explanationNp": "क्रियापदमा जोडिएर कुनै कार्य भविष्यका लागि अगाउमा गरेर राखिएको जनाउँछ।",
+    "ruleNp": "'-아/어 놓다' सँग मिल्दोजुल्दो। अन्तिम स्वर ㅏ/ㅗ भए '-아 두다', बाँकी '-어 두다', 하다 '-해 두다'।",
+    "examples": [
+      {
+        "korean": "재고를 미리 확인해 두세요.",
+        "english": "Please check the inventory in advance.",
+        "nepali": "स्टक पहिलेनै जाँचेर राख्नुहोस्।"
+      },
+      {
+        "korean": "공구 상자를 정리해 두었어요.",
+        "english": "I organized the tool box (for later).",
+        "nepali": "औजारको बाकस मिलाएर राखेको छु।"
+      }
+    ]
+  }
+}

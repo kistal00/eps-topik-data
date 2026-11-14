@@ -1,0 +1,185 @@
+{
+  "chapterNo": 14,
+  "titleKo": "길 찾기",
+  "titleEn": "Getting Directions",
+  "titleNp": "बाटो खोज्ने",
+  "learningObjectives": [
+    {
+      "id": "ch14_obj_01",
+      "korean": "위치와 방향에 대해 묻고 대답할 수 있다.",
+      "english": "Can ask and answer questions about locations and directions.",
+      "nepali": "स्थान र दिशाको बारेमा सोध्न र उत्तर दिन सक्नुहुनेछ।"
+    },
+    {
+      "id": "ch14_obj_02",
+      "korean": "명령형 문장을 사용해 지시할 수 있다.",
+      "english": "Can give instructions using imperative forms.",
+      "nepali": "आदरार्थी आज्ञार्थक वाक्य प्रयोग गरी अरूलाई निर्देशन दिन सक्नुहुनेछ।"
+    }
+  ],
+  "vocabulary1": {
+    "topicKo": "위치와 방향",
+    "topicEn": "Location and Directions",
+    "topicNp": "स्थान र दिशाहरू",
+    "words": [
+      {
+        "korean": "위",
+        "english": "up / above / on",
+        "nepali": "माथि"
+      },
+      {
+        "korean": "아래 / 밑",
+        "english": "down / below / under",
+        "nepali": "मुनि / तल"
+      },
+      {
+        "korean": "앞",
+        "english": "front",
+        "nepali": "अगाडि"
+      },
+      {
+        "korean": "뒤",
+        "english": "behind / back",
+        "nepali": "पछाडि"
+      },
+      {
+        "korean": "안",
+        "english": "inside",
+        "nepali": "भित्र"
+      },
+      {
+        "korean": "밖",
+        "english": "outside",
+        "nepali": "बाहिर"
+      },
+      {
+        "korean": "오른쪽",
+        "english": "right side",
+        "nepali": "दायाँपट्टि"
+      },
+      {
+        "korean": "왼쪽",
+        "english": "left side",
+        "nepali": "बायाँपट्टि"
+      },
+      {
+        "korean": "건너편 / 맞은편",
+        "english": "across the street",
+        "nepali": "पारिपट्टि / सामुन्ने"
+      },
+      {
+        "korean": "옆",
+        "english": "next to / beside",
+        "nepali": "छेउमा"
+      },
+      {
+        "korean": "사이",
+        "english": "between",
+        "nepali": "बीचमा"
+      }
+    ]
+  },
+  "grammar1": {
+    "point": "(으)로 (방향)",
+    "meaningNp": "तर्फ / तिर (दिशा जनाउने / Toward)",
+    "explanationEn": "Attaches to place or directional nouns to indicate the destination or direction of movement.",
+    "explanationNp": "कुन दिशातर्फ जाने भन्ने गन्तव्य वा दिशा खुलाउँदा नामको पछाडि जोडिन्छ।",
+    "ruleNp": "बाच्छिम भए '-으로' (उदा: 밑으로 = तलतिर), बाच्छिम नभए वा 'ㄹ' भए '-로' (उदा: 오른쪽으로 = दायाँतर्फ, 앞으로 = अगाडितिर)।",
+    "examples": [
+      {
+        "korean": "사거리에서 오른쪽으로 가세요.",
+        "english": "Turn right at the intersection.",
+        "nepali": "चौबाटोबाट दायाँतर्फ जानुहोस्।"
+      }
+    ]
+  },
+  "dialogue1": {
+    "titleNp": "संवाद १",
+    "lines": [
+      {
+        "speaker": "투안 (Tuan)",
+        "korean": "이 근처에 약국이 있어요?",
+        "english": "Is there a pharmacy nearby?",
+        "nepali": "यो वरिपरि औषधि पसल छ?"
+      },
+      {
+        "speaker": "행인 (Pedestrian)",
+        "korean": "네, 저 사거리에서 오른쪽으로 가세요. 병원 옆에 있어요.",
+        "english": "Yes, go right at that intersection. It's next to the hospital.",
+        "nepali": "हजुर छ, त्यो चौबाटोबाट दायाँ जानुहोस्। अस्पतालको छेउमै छ।"
+      }
+    ]
+  },
+  "vocabulary2": {
+    "topicKo": "이동 동사 및 도로",
+    "topicEn": "Movement Verbs and Roads",
+    "topicNp": "हिँडडुल सम्बन्धी क्रिया र सडक",
+    "words": [
+      {
+        "korean": "올라가다 / 오다",
+        "english": "to go up / come up",
+        "nepali": "माथि उक्लनु / आउनु"
+      },
+      {
+        "korean": "내려가다 / 오다",
+        "english": "to go down / come down",
+        "nepali": "तल ओर्लनु / आउनु"
+      },
+      {
+        "korean": "들어가다 / 오다",
+        "english": "to go in / come in",
+        "nepali": "भित्र पस्नु / आउनु"
+      },
+      {
+        "korean": "나가다 / 오다",
+        "english": "to go out / come out",
+        "nepali": "बाहिर निस्कनु / आउनु"
+      },
+      {
+        "korean": "건너가다",
+        "english": "to cross the street",
+        "nepali": "बाटो काट्नु"
+      },
+      {
+        "korean": "횡단보도",
+        "english": "crosswalk",
+        "nepali": "जेब्रा क्रसिङ"
+      },
+      {
+        "korean": "육교",
+        "english": "pedestrian overpass",
+        "nepali": "आकाशे पुल"
+      },
+      {
+        "korean": "사거리",
+        "english": "four-way intersection",
+        "nepali": "चौबाटो (चौक)"
+      }
+    ]
+  },
+  "grammar2": {
+    "point": "-(으)세요",
+    "meaningNp": "गर्नुहोस् / जानुहोस् (शिष्ट आज्ञार्थक / Please do)",
+    "explanationEn": "Used to politely order, command, or request the listener to perform an action.",
+    "explanationNp": "सुन्ने व्यक्तिलाई कुनै कार्य गर्नको लागि आदरपूर्वक आग्रह वा निर्देशन दिँदा क्रियाको धातुमा जोडिन्छ।",
+    "ruleNp": "बाच्छिम भए '-으세요' (उदा: 앉으세요 = बस्नुहोस्), बाच्छिम नभए वा 'ㄹ' भए '-세요' (उदा: 가세요 = जानुहोस्)।",
+    "examples": [
+      {
+        "korean": "횡단보도를 건너가세요.",
+        "english": "Please cross the crosswalk.",
+        "nepali": "जेब्रा क्रसिङबाट बाटो काट्नुहोस्।"
+      }
+    ]
+  },
+  "cultureAndInfo": {
+    "titleKo": "도로명 주소",
+    "titleEn": "Korean Street Name Address System",
+    "titleNp": "कोरियाको सडक नाममा आधारित ठेगाना प्रणाली",
+    "sections": [
+      {
+        "subtitleNp": "सडक र भवन नम्बर (도로명과 건물번호)",
+        "contentNp": "कोरियामा बाटोको चौडाइ अनुसार 'देरो' (ठूलो सडक), 'रो' (गल्ली), र 'गिल' (सानो बाटो) नामकरण गरी घर नम्बर क्रमैसँग तोकिएको हुन्छ, जसले गर्दा जीपीएसमा बाटो खोज्न सजिलो हुन्छ।"
+      }
+    ]
+  }
+}

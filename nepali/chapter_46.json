@@ -1,0 +1,157 @@
+{
+  "chapterNo": 46,
+  "titleKo": "사육 관리",
+  "titleEn": "Livestock Management",
+  "titleNp": "पशुपालन तथा गोठ व्यवस्थापन",
+  "learningObjectives": [
+    {
+      "id": "ch46_obj_01",
+      "korean": "가축 사료 급여 방법에 대해 묻고 대답할 수 있다.",
+      "english": "Can ask and answer questions about feeding livestock.",
+      "nepali": "पशुपक्षीलाई दानापानी खुवाउने तरिकाबारे सोधपुछ गर्न सक्नुहुनेछ।"
+    },
+    {
+      "id": "ch46_obj_02",
+      "korean": "축사 청소 및 분뇨 처리를 설명할 수 있다.",
+      "english": "Can explain barn cleaning and manure disposal.",
+      "nepali": "गोठ सफा गर्ने र गोबर/मल व्यवस्थापनबारे व्याख्या गर्न सक्नुहुनेछ।"
+    }
+  ],
+  "vocabulary1": {
+    "topicKo": "사료 급여 관련 어휘",
+    "topicEn": "Livestock Feeding Vocabulary",
+    "topicNp": "दानापानी खुवाउने सम्बन्धी शब्दावली",
+    "words": [
+      {
+        "korean": "사료",
+        "english": "feed / animal fodder",
+        "nepali": "पशुको दाना"
+      },
+      {
+        "korean": "급여하다 (먹이다)",
+        "english": "to feed / supply fodder",
+        "nepali": "दानापानी खुवाउनु"
+      },
+      {
+        "korean": "배합사료",
+        "english": "mixed formula feed",
+        "nepali": "मिश्रित दाना"
+      },
+      {
+        "korean": "건초",
+        "english": "hay / dried grass",
+        "nepali": "सुकेको पराल / घाँस"
+      },
+      {
+        "korean": "물통",
+        "english": "water trough / tank",
+        "nepali": "पानी खाने भाँडो/डुँड"
+      },
+      {
+        "korean": "밥통 (사료통)",
+        "english": "feed trough / feeder",
+        "nepali": "दाना खाने डुँड"
+      },
+      {
+        "korean": "소",
+        "english": "cow / cattle",
+        "nepali": "गाई / गोरु"
+      },
+      {
+        "korean": "돼지",
+        "english": "pig / swine",
+        "nepali": "सुँगुर / बङ्गुर"
+      },
+      {
+        "korean": "닭",
+        "english": "chicken",
+        "nepali": "कुखुरा"
+      }
+    ]
+  },
+  "grammar1": {
+    "point": "-(으)ㄴ 적이 있다 / 없다",
+    "meaningNp": "...गरेको अनुभव छ / छैन (विगतको अनुभव / Have / Have not experienced)",
+    "explanationEn": "Attaches to verbs to express having or not having the past experience of doing something.",
+    "explanationNp": "क्रियापदमा जोडिएर विगतमा कुनै कार्य गरेको अनुभव आफूसँग छ वा छैन भन्ने बताउन प्रयोग गरिन्छ।",
+    "ruleNp": "अन्त्यमा स्वरवर्ण भए '-ㄴ 적이 있다/없다', व्यञ्जनवर्ण (받침) भए '-은 적이 있다/없다' जोडिन्छ।",
+    "examples": [
+      {
+        "korean": "소에게 사료를 준 적이 있어요?",
+        "english": "Have you ever fed cows before?",
+        "nepali": "गाईलाई दाना खुवाएको अनुभव छ?"
+      },
+      {
+        "korean": "트랙터를 운전해 본 적이 없어요.",
+        "english": "I have never driven a tractor before.",
+        "nepali": "ट्रयाक्टर चलाएको अनुभव छैन।"
+      }
+    ]
+  },
+  "vocabulary2": {
+    "topicKo": "축사 시설 및 관리 어휘",
+    "topicEn": "Barn Facilities and Cleaning",
+    "topicNp": "गोठ/फार्म तथा सरसफाइ",
+    "words": [
+      {
+        "korean": "축사",
+        "english": "livestock barn / shed",
+        "nepali": "गोठ / पशु फार्म"
+      },
+      {
+        "korean": "우사",
+        "english": "cow shed / cattle barn",
+        "nepali": "गाईगोठ"
+      },
+      {
+        "korean": "돈사",
+        "english": "pigpen / pigsty",
+        "nepali": "बङ्गुरको खोर"
+      },
+      {
+        "korean": "양계장",
+        "english": "poultry farm / chicken coop",
+        "nepali": "कुखुरा फार्म"
+      },
+      {
+        "korean": "분뇨",
+        "english": "manure / animal waste",
+        "nepali": "गोबर / मलमूत्र"
+      },
+      {
+        "korean": "분뇨 탱크",
+        "english": "manure storage tank",
+        "nepali": "मलमूत्र जम्मा गर्ने ट्यांकी"
+      },
+      {
+        "korean": "치우다",
+        "english": "to clean out / clear away manure",
+        "nepali": "सोहोर्नु / हटाउनु"
+      },
+      {
+        "korean": "소독하다",
+        "english": "to disinfect / sanitize",
+        "nepali": "कीटाणुरहित बनाउनु (औषधि छर्कनु)"
+      }
+    ]
+  },
+  "grammar2": {
+    "point": "-게 하다",
+    "meaningNp": "...गर्न लगाउनु / ...हुन दिनु (प्रेरणार्थक / To make or allow someone to do)",
+    "explanationEn": "Attaches to verbs to indicate causing or permitting someone else to do an action.",
+    "explanationNp": "क्रियापदमा जोडिएर अरू कसैलाई कुनै कार्य गर्न अह्राउनु वा अनुमति दिनु भन्ने जनाउँछ।",
+    "ruleNp": "धातुमा सिधै '-게 하다' जोडिन्छ।",
+    "examples": [
+      {
+        "korean": "가축들이 물을 충분히 마시게 하세요.",
+        "english": "Make sure the livestock drink enough water.",
+        "nepali": "पशुहरूलाई पर्याप्त पानी पिउन दिनुहोस्।"
+      },
+      {
+        "korean": "축사가 항상 청결하도록 환기하게 했어요.",
+        "english": "I made sure the barn is ventilated so it stays clean.",
+        "nepali": "गोठ सधैं सफा रहोस् भनेर हावा आउने बनाएँ।"
+      }
+    ]
+  }
+}

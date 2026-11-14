@@ -1,0 +1,152 @@
+{
+  "chapterNo": 51,
+  "titleKo": "숙박 서비스",
+  "titleEn": "Accommodation Services",
+  "titleNp": "होटेल तथा आवास सेवा",
+  "learningObjectives": [
+    {
+      "id": "ch51_obj_01",
+      "korean": "호텔 비품 및 청소 용품에 대해 말할 수 있다.",
+      "english": "Can talk about hotel supplies and cleaning tools.",
+      "nepali": "होटेलका सामग्री तथा सरसफाइका सामानहरूबारे कुराकानी गर्न सक्नुहुनेछ।"
+    },
+    {
+      "id": "ch51_obj_02",
+      "korean": "객실 정비 업무 대화를 나눌 수 있다.",
+      "english": "Can engage in conversations about room housekeeping tasks.",
+      "nepali": "होटेलको कोठा मिलाउने र सफा गर्ने (हाउसकिपिङ) कामबारे कुरा गर्न सक्नुहुनेछ।"
+    }
+  ],
+  "vocabulary1": {
+    "topicKo": "호텔 비품실 물품 관련 어휘",
+    "topicEn": "Hotel Supplies Room Items",
+    "topicNp": "होटेल भण्डार तथा सरसफाइ सामग्री",
+    "words": [
+      {
+        "korean": "비품실 (린넨실)",
+        "english": "supply room / linen room",
+        "nepali": "सामान कोठा (लिनन रुम)"
+      },
+      {
+        "korean": "청소도구함",
+        "english": "cleaning toolbox / cart",
+        "nepali": "सरसफाइका सामान राख्ने बाकस/ट्रली"
+      },
+      {
+        "korean": "방향제",
+        "english": "air freshener",
+        "nepali": "सुगन्ध छर्कने स्प्रे (एयर फ्रेसनर)"
+      },
+      {
+        "korean": "마른걸레",
+        "english": "dry cloth / dusting rag",
+        "nepali": "सुख्खा टालो"
+      },
+      {
+        "korean": "젖은걸레",
+        "english": "wet / damp cloth",
+        "nepali": "भिजेको टालो"
+      },
+      {
+        "korean": "세제",
+        "english": "cleaning detergent",
+        "nepali": "सफा गर्ने सर्फ/साबुन (डिटर्जेन्ट)"
+      },
+      {
+        "korean": "비누",
+        "english": "soap",
+        "nepali": "साबुन"
+      },
+      {
+        "korean": "샴푸",
+        "english": "shampoo",
+        "nepali": "स्याम्पु"
+      },
+      {
+        "korean": "수건 (타월)",
+        "english": "towel",
+        "nepali": "तौलिया"
+      }
+    ]
+  },
+  "grammar1": {
+    "point": "-았다가/었다가",
+    "meaningNp": "...गरेर फेरि... / ...गरेपछि अर्को (विपरीत कार्य / Did and then reversed/changed)",
+    "explanationEn": "Attaches to verbs to show that an action was completed, and then its result was immediately undone or replaced by a conflicting action.",
+    "explanationNp": "क्रियापदमा जोडिएर कुनै कार्य पूरा भएपछि फेरि त्यसको विपरीत कार्य गरियो वा अर्कै काम भयो भन्ने जनाउँछ।",
+    "ruleNp": "अन्तिम स्वरवर्ण ㅏ वा ㅗ भए '-았다가', बाँकी भए '-었다가', 하다 मा '-했다가' हुन्छ।",
+    "examples": [
+      {
+        "korean": "불을 켰다가 눈이 부셔서 껐어요.",
+        "english": "I turned on the light, but turned it off because it was dazzling.",
+        "nepali": "बत्ती बालेको थिएँ, आँखा तिरमिराएर फेरि निभाएँ।"
+      },
+      {
+        "korean": "비품실에 갔다가 필요한 물건을 챙겨 왔어요.",
+        "english": "I went to the supply room and came back with needed items.",
+        "nepali": "सामान कोठामा गएर चाहिने सामान लिएर आएँ।"
+      }
+    ]
+  },
+  "vocabulary2": {
+    "topicKo": "객실 정비 관련 어휘",
+    "topicEn": "Room Cleaning and Maintenance",
+    "topicNp": "कोठा व्यवस्थापन (हाउसकिपिङ)",
+    "words": [
+      {
+        "korean": "객실",
+        "english": "guest room",
+        "nepali": "होटेलको पाहुना कोठा"
+      },
+      {
+        "korean": "전등",
+        "english": "electric light / lamp",
+        "nepali": "बिजुलीको बत्ती"
+      },
+      {
+        "korean": "침대 시트",
+        "english": "bedsheet",
+        "nepali": "ओछ्यानको तन्ना"
+      },
+      {
+        "korean": "베개 커버",
+        "english": "pillowcase",
+        "nepali": "सिरानीको खोल"
+      },
+      {
+        "korean": "환기하다",
+        "english": "to ventilate",
+        "nepali": "हावा ओहोरदोहोर गराउनु"
+      },
+      {
+        "korean": "휴지통을 비우다",
+        "english": "to empty the trash can",
+        "nepali": "डस्टबिन खाली गर्नु"
+      },
+      {
+        "korean": "정비하다 (정돈하다)",
+        "english": "to make up the room / tidy",
+        "nepali": "कोठा चिटिक्क मिलाउनु"
+      }
+    ]
+  },
+  "grammar2": {
+    "point": "반말 (비격식 낮춤말)",
+    "meaningNp": "तँ-तिमी भाषा (अनादरार्थी वा नजिकका साथीभाइमा बोलिने भाषा / Casual speech: -아/어, -니, -자)",
+    "explanationEn": "Non-honorific informal speech used between very close friends, to someone younger, or in casual settings without honorific particles.",
+    "explanationNp": "आफूभन्दा साना वा एकदमै मिल्ने साथीसँग बोलिने अनादरार्थी भाषा हो। वाक्यको अन्त्यमा '-요' हटाइन्छ (예: 먹어, 가, 뭐 해?, 같이 가자)।",
+    "ruleNp": "साधारण वाक्यमा '-아/어', प्रश्नमा '-니? / -(으)냐?', प्रस्तावमा '-자', आदेशमा '-아/어(라)' हुन्छ।",
+    "examples": [
+      {
+        "korean": "지금 뭐 해? 같이 밥 먹으러 가자.",
+        "english": "What are you doing now? Let's go eat together.",
+        "nepali": "अहिले के गर्दैछस्? सँगै खाना खान जाऔं।"
+      },
+      {
+        "korean": "청소 다 끝났어? 이제 쉬어.",
+        "english": "Is cleaning all done? Rest now.",
+        "nepali": "सफाइ सबै सकियो? अब आराम गर।"
+      }
+    ]
+  }
+}

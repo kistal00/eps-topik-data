@@ -13,48 +13,109 @@
   ],
   "vocabulary": [
     {
-      "korean": "우체국",
-      "english": "Post Office",
-      "nepali": "पोस्ट अफिस"
+      "korean": "편지",
+      "english": "letter",
+      "nepali": "चिठी"
     },
     {
-      "korean": "한국산업인력공단",
-      "english": "post code",
-      "nepali": "पोस्ट कोड"
+      "korean": "편지 봉투",
+      "english": "letter envelope",
+      "nepali": "चिठीको खाम"
     },
     {
-      "korean": "부치다",
-      "english": "to send",
-      "nepali": "पठाउन"
+      "korean": "우표",
+      "english": "stamp",
+      "nepali": "हुलाक टिकट"
+    },
+    {
+      "korean": "엽서",
+      "english": "postcard",
+      "nepali": "पोस्टकार्ड"
+    },
+    {
+      "korean": "카드",
+      "english": "card (greeting card)",
+      "nepali": "कार्ड (शुभकामना कार्ड)"
+    },
+    {
+      "korean": "보내는 사람 (발신인)",
+      "english": "sender",
+      "nepali": "पठाउने मान्छे (प्रेषक)"
+    },
+    {
+      "korean": "받는 사람 (수신인)",
+      "english": "recipient / receiver",
+      "nepali": "पाउने मान्छे (प्रापक)"
+    },
+    {
+      "korean": "주소",
+      "english": "address",
+      "nepali": "ठेगाना"
+    },
+    {
+      "korean": "우편번호",
+      "english": "postal code / zip code",
+      "nepali": "हुलाक कोड (पिन कोड)"
+    },
+    {
+      "korean": "소포",
+      "english": "parcel / package",
+      "nepali": "पार्सल (पोका)"
+    },
+    {
+      "korean": "부치다 (보내다)",
+      "english": "to send / post",
+      "nepali": "पठाउनु (हुलाकबाट)"
     },
     {
       "korean": "배송하다",
-      "english": "to deliver",
-      "nepali": "डेलिभर गर्न"
+      "english": "to deliver / ship",
+      "nepali": "डेलिभरी गर्नु / ढुवानी गर्नु"
+    },
+    {
+      "korean": "저울에 올려놓다",
+      "english": "to put on the scale",
+      "nepali": "तराजुमा जोख्न राख्नु"
+    },
+    {
+      "korean": "무게를 재다",
+      "english": "to weigh / measure weight",
+      "nepali": "तौल जोख्नु"
+    },
+    {
+      "korean": "국제특급 (EMS)",
+      "english": "Express Mail Service (EMS)",
+      "nepali": "अन्तर्राष्ट्रिय द्रुत डाक सेवा (EMS)"
+    },
+    {
+      "korean": "항공편",
+      "english": "airmail",
+      "nepali": "हवाई ढुवानी (एयरमेल)"
+    },
+    {
+      "korean": "배편",
+      "english": "surface mail / ship delivery",
+      "nepali": "पानीजहाज ढुवानी (सिपिङ)"
     }
   ],
   "grammar": [
     {
-      "point": "우체국",
-      "explanation": "Post Office 소포 발송에 대해 묻고 대답할 수 있다. 학습 목표 Can ask and answer questions about sending packages. LEARNING OBJECTIVES 국제 우편 업무 처리에 필요한 표현을 사용할 수 있다. Can use expressions needed to handle international postal services. 270 한국어 표준교재 1 CHAPTER 23 EPS-TOPIK EMS로 보내실 거지요? 네, 요금이 얼마예요? 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -는데/(으)ㄴ데(배경) 우편 관련 어휘 한국의 우체국 서비스 -지요? Vocabulary Related to Postal Mail Korean Postal Service 우체국 업무 관련 어휘 Vocabulary Related to the Post Office 270 한국어 표준교재 1",
-      "examples": [],
-      "explanationNp": "우체국 सम्बन्धी व्याकरण नियम र प्रयोग।"
+      "point": "-는데 / -(으)ㄴ데 (배경)",
+      "explanation": "Attaches to verbs and adjectives to provide background information or context before asking a question, making a suggestion, or giving an explanation.",
+      "explanationNp": "क्रिया वा विशेषणमा जोडिएर मुख्य कुरा, प्रश्न वा अनुरोध गर्नुअगाडि त्यसको पृष्ठभूमि वा सन्दर्भ प्रस्तुत गर्न प्रयोग गरिन्छ। क्रियापदसँग '-는데', विशेषणमा 받침 भए '-은데', नभए '-ㄴ데', र नामपदसँग '인데' जोडिन्छ।",
+      "examples": [
+        "우체국에 가려고 하는데 어디에 있어요? — हुलाक कार्यालय जान खोज्दैछु, कहाँ होला?",
+        "날씨가 좋은데 우리 산책할까요? — मौसम राम्रो छ, हामी घुम्न जाने हो कि?"
+      ]
     },
     {
-      "point": "형용사",
-      "explanation": "크다 → 큰데 받침 , 받침 ‘ㄹ’ -ㄴ데 × 길다 → 긴데 배가 아픈데 약이 있어요? 가 : 월요일인데 회사에 안 가요? 나 : 네, 오늘부터 휴가예요.",
+      "point": "-지요?",
+      "explanation": "Used when the speaker wants to confirm something they believe the listener already knows or agrees with.",
+      "explanationNp": "वक्तालाई पहिले नै थाहा भएको कुरा श्रोतासँग पुष्टि गर्न वा सहमति माग्न प्रयोग गरिन्छ। क्रियापद र विशेषण दुवैको धातुमा सिधै '-지요?' (छोटकरीमा '-죠?') जोडिन्छ।",
       "examples": [
-        "예 퇴근하는데 비가 왔어요."
-      ],
-      "explanationNp": "형용사 सम्बन्धी व्याकरण नियम र प्रयोग।"
-    },
-    {
-      "point": "예 매운 음식을 좋아하지요?",
-      "explanation": "한국은 겨울에 춥지요? 가 : 아궁 씨 생일이 내일이지요? 나 : 아니요, 토요일이에요. ※ 말할 때는 ‘-죠?’와 같은 축약 형태로 사용할 수 있다. In conversation, it can be shortened to ‘-죠?’.",
-      "examples": [
-        "예 등기 우편으로 보내면 내일 도착하죠?"
-      ],
-      "explanationNp": "예 매운 음식을 좋아하지요? सम्बन्धी व्याकरण नियम र प्रयोग।"
+        "네팔에 소포를 보내려고 하지요? — नेपालमा पार्सल पठाउन लाग्नुभएको होइन त?",
+        "오늘 우체국 문을 열지요? — आज हुलाक खुल्छ नि, होइन र?"
+      ]
     }
   ],
   "conversations": [
@@ -207,6 +268,6 @@
       "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
-  "titleNp": "हुलाक कार्यालय र पार्सल",
+  "titleNp": "हुलाक कार्यालय",
   "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_23.pdf"
 }

@@ -1,0 +1,152 @@
+{
+  "chapterNo": 57,
+  "titleKo": "고용허가제",
+  "titleEn": "Employment Permit System (EPS)",
+  "titleNp": "रोजगार अनुमति प्रणाली (EPS)",
+  "learningObjectives": [
+    {
+      "id": "ch57_obj_01",
+      "korean": "고용허가제의 대상 업종에 대해 말할 수 있다.",
+      "english": "Can talk about the industries covered under the EPS.",
+      "nepali": "ईपीएस (EPS) अन्तर्गत रोजगारी पाइने क्षेत्रहरूबारे बताउन सक्नुहुनेछ।"
+    },
+    {
+      "id": "ch57_obj_02",
+      "korean": "고용허가제 취업 절차를 단계별로 설명할 수 있다.",
+      "english": "Can explain the step-by-step procedures to gain employment through EPS.",
+      "nepali": "ईपीएसमार्फत रोजगारी पाउने चरणबद्ध प्रक्रियाहरू व्याख्या गर्न सक्नुहुनेछ।"
+    }
+  ],
+  "vocabulary1": {
+    "topicKo": "고용허가제 대상 업종",
+    "topicEn": "Industries Under EPS",
+    "topicNp": "ईपीएसका काम गर्ने क्षेत्रहरू (उद्योगहरू)",
+    "words": [
+      {
+        "korean": "제조업",
+        "english": "manufacturing industry",
+        "nepali": "उत्पादनमूलक क्षेत्र (म्यानुफ्याक्चरिङ)"
+      },
+      {
+        "korean": "건설업",
+        "english": "construction industry",
+        "nepali": "भवन/पूर्वाधार निर्माण क्षेत्र (कन्स्ट्रक्सन)"
+      },
+      {
+        "korean": "농축산업",
+        "english": "agriculture and livestock",
+        "nepali": "कृषि तथा पशुपालन क्षेत्र"
+      },
+      {
+        "korean": "어업",
+        "english": "fishery industry",
+        "nepali": "माछा मार्ने तथा माछा पालन क्षेत्र"
+      },
+      {
+        "korean": "조선업",
+        "english": "shipbuilding industry",
+        "nepali": "पानीजहाज निर्माण क्षेत्र"
+      },
+      {
+        "korean": "서비스업",
+        "english": "service industry",
+        "nepali": "सेवा क्षेत्र (होटेल/रेस्टुरेन्ट आदि)"
+      },
+      {
+        "korean": "임업",
+        "english": "forestry industry",
+        "nepali": "वन पैदावार तथा रुख कटान क्षेत्र"
+      },
+      {
+        "korean": "광업",
+        "english": "mining industry",
+        "nepali": "खानी उत्खनन क्षेत्र"
+      }
+    ]
+  },
+  "grammar1": {
+    "point": "-는/(으)ㄴ 줄 알았다 / 몰랐다",
+    "meaningNp": "...होला भन्ने ठानेको थिएँ / ...भन्ने थाहा थिएन (भ्रम वा अज्ञानता / Thought that... / Didn't know that...)",
+    "explanationEn": "Used when the speaker mistakenly believed something that turned out to be false (알았다), or was unaware of a reality (몰랐다).",
+    "explanationNp": "वास्तविकताभन्दा फरक कुरा साँचो होला भनी भ्रममा परेको बेला '-줄 알았다' र कुनै कुरा पहिले थाहा नपाएको बेला '-줄 몰랐다' प्रयोग गरिन्छ।",
+    "ruleNp": "क्रियापद वर्तमानमा '-는 줄', भूतकालमा '-은/ㄴ 줄', विशेषणमा '-은/ㄴ 줄' जोडिन्छ।",
+    "examples": [
+      {
+        "korean": "고용허가제에 조선업도 포함되는 줄 몰랐어요.",
+        "english": "I didn't know shipbuilding was also included in EPS.",
+        "nepali": "ईपीएसमा पानीजहाज निर्माण पनि पर्छ भन्ने थाहा थिएन।"
+      },
+      {
+        "korean": "오늘 시험이 있는 줄 알았어요.",
+        "english": "I thought there was an exam today.",
+        "nepali": "आज परीक्षा होला भन्ने ठानेको थिएँ।"
+      }
+    ]
+  },
+  "vocabulary2": {
+    "topicKo": "고용허가제 취업 절차 어휘",
+    "topicEn": "EPS Employment Procedures",
+    "topicNp": "ईपीएस प्रक्रियाका चरणहरू",
+    "words": [
+      {
+        "korean": "한국어능력시험 (EPS-TOPIK)",
+        "english": "EPS-TOPIK exam",
+        "nepali": "ईपीएस कोरियन भाषा परीक्षा"
+      },
+      {
+        "korean": "구직 신청",
+        "english": "job application / roster registration",
+        "nepali": "रोजगार खोज फारम भर्ने (रोस्टर दर्ता)"
+      },
+      {
+        "korean": "표준근로계약서 체결",
+        "english": "signing standard labor contract",
+        "nepali": "श्रम सम्झौता पत्रमा हस्ताक्षर गर्नु"
+      },
+      {
+        "korean": "사증발급 인정서 (CCVI)",
+        "english": "Certificate for Confirmation of Visa Issuance",
+        "nepali": "भिसा जारी अनुमति पत्र (CCVI)"
+      },
+      {
+        "korean": "사전취업교육",
+        "english": "pre-employment orientation / training",
+        "nepali": "कोरिया जानुअघिको अभिमुखीकरण तालिम"
+      },
+      {
+        "korean": "입국",
+        "english": "entry into Korea",
+        "nepali": "कोरिया प्रवेश"
+      },
+      {
+        "korean": "취업 교육",
+        "english": "post-arrival employment training",
+        "nepali": "कोरिया पुगेपछिको कार्यस्थल तालिम"
+      },
+      {
+        "korean": "사업장 배치",
+        "english": "workplace placement / assignment",
+        "nepali": "कम्पनीमा खटाइने काम"
+      }
+    ]
+  },
+  "grammar2": {
+    "point": "-게 되다",
+    "meaningNp": "...हुन पुग्यो / ...गर्न पाउने भयो (अवस्था परिवर्तन वा परिणाम / Came to do / Ended up doing)",
+    "explanationEn": "Attaches to verbs to show that a situation, condition, or status changed due to external rules, circumstances, or events rather than direct personal intention.",
+    "explanationNp": "कुनै नियम, प्रक्रिया वा बाहिरी परिस्थितिका कारणले गर्दा आफूले चाहेको अवस्थामा पुग्न पायो वा नतिजा प्राप्त भयो भनी देखाउँदा प्रयोग गरिन्छ।",
+    "ruleNp": "क्रियापदको धातुमा सिधै '-게 되다' जोडिन्छ।",
+    "examples": [
+      {
+        "korean": "EPS-TOPIK에 합격해서 한국에 가게 되었어요.",
+        "english": "I passed EPS-TOPIK, so I get to go to Korea.",
+        "nepali": "ईपीएस परीक्षा पास गरेर कोरिया जान पाउने भएँ।"
+      },
+      {
+        "korean": "제조업 공장에서 일하게 되었습니다.",
+        "english": "I came to work at a manufacturing factory.",
+        "nepali": "उत्पादनमूलक कम्पनीमा काम गर्न पुगेको छु।"
+      }
+    ]
+  }
+}

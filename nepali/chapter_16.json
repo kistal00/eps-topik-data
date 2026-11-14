@@ -1,0 +1,165 @@
+{
+  "chapterNo": 16,
+  "titleKo": "집 구하기",
+  "titleEn": "Finding a House",
+  "titleNp": "कोठा/घर खोज्ने",
+  "learningObjectives": [
+    {
+      "id": "ch16_obj_01",
+      "korean": "구하고 있는 집에 대해 묻고 대답할 수 있다.",
+      "english": "Can ask and answer questions about housing.",
+      "nepali": "खोजिरहेको कोठा वा घरको अवस्थाबारे सोधपुछ गर्न सक्नुहुनेछ।"
+    },
+    {
+      "id": "ch16_obj_02",
+      "korean": "주거 환경에 대해 말할 수 있다.",
+      "english": "Can describe residential environments.",
+      "nepali": "बसोबासको वातावरण र सुविधाहरूबारे बताउन सक्नुहुनेछ।"
+    }
+  ],
+  "vocabulary1": {
+    "topicKo": "주거 형태 및 부동산",
+    "topicEn": "Housing Types and Real Estate",
+    "topicNp": "बसोबासका प्रकार र घरजग्गा शब्दावली",
+    "words": [
+      {
+        "korean": "아파트",
+        "english": "apartment",
+        "nepali": "अपार्टमेन्ट (आधुनिक बहु-तले भवन)"
+      },
+      {
+        "korean": "원룸",
+        "english": "studio apartment (one room)",
+        "nepali": "एकल कोठा (वान-रुम: भान्सा र शौचालय जोडिएको)"
+      },
+      {
+        "korean": "기숙사",
+        "english": "dormitory",
+        "nepali": "होस्टेल / कम्पनीको क्वार्टर"
+      },
+      {
+        "korean": "고시원",
+        "english": "goshiwon (tiny rented room)",
+        "nepali": "गोसीवन (अध्ययन गर्न बस्ने सानो सस्तो कोठा)"
+      },
+      {
+        "korean": "부동산",
+        "english": "real estate agency",
+        "nepali": "घरजग्गा दलाल कार्यालय (कन्सल्टेन्सी)"
+      },
+      {
+        "korean": "보증금",
+        "english": "deposit money",
+        "nepali": "सुरक्षा धरौटी रकम (डिपोजिट)"
+      },
+      {
+        "korean": "월세",
+        "english": "monthly rent",
+        "nepali": "मासिक भाडा"
+      },
+      {
+        "korean": "전세",
+        "english": "jeonse (key-money lease)",
+        "nepali": "जेन्से (एकमुष्ट धरौटी तिरी मासिक भाडा नतिर्ने कोरियाली प्रणाली)"
+      }
+    ]
+  },
+  "grammar1": {
+    "point": "-지만",
+    "meaningNp": "तर / तापनि (विपरितार्थी संयोजक / But / Although)",
+    "explanationEn": "Connects two contrasting clauses or ideas.",
+    "explanationNp": "अगाडिको वाक्य र पछाडिको वाक्यमा विपरित अर्थ आउँदा 'तर' भन्ने अर्थमा धातुमा जोडिन्छ।",
+    "ruleNp": "धातु + 지만 (बाच्छिम भए पनि नभए पनि '지만' नै जोडिन्छ। उदा: 크지만 = ठूलो छ तर, 비싸지만 = महँगो छ तर)।",
+    "examples": [
+      {
+        "korean": "방은 작지만 깨끗하고 조용해요.",
+        "english": "The room is small, but it's clean and quiet.",
+        "nepali": "कोठा सानो छ तर सफा र शान्त छ।"
+      }
+    ]
+  },
+  "dialogue1": {
+    "titleNp": "संवाद १",
+    "lines": [
+      {
+        "speaker": "부동산 중개인 (Realtor)",
+        "korean": "어떤 집을 찾으세요?",
+        "english": "What kind of house are you looking for?",
+        "nepali": "कस्तो खालको कोठा खोज्दै हुनुहुन्छ?"
+      },
+      {
+        "speaker": "투안 (Tuan)",
+        "korean": "회사 근처에 있는 원룸을 구하고 있어요. 보증금이 좀 적었으면 좋겠어요.",
+        "english": "I'm looking for a studio room near the company. I hope the deposit is low.",
+        "nepali": "कम्पनी नजिकैको वान-रुम खोजिरहेको छु। धरौटी रकम अलि थोरै भए हुन्थ्यो।"
+      }
+    ]
+  },
+  "vocabulary2": {
+    "topicKo": "주거 환경",
+    "topicEn": "Residential Environment",
+    "topicNp": "बसोबासको वातावरण",
+    "words": [
+      {
+        "korean": "조용하다",
+        "english": "to be quiet",
+        "nepali": "शान्त हुनु"
+      },
+      {
+        "korean": "시끄럽다",
+        "english": "to be noisy",
+        "nepali": "हल्लाखल्ला हुनु"
+      },
+      {
+        "korean": "깨끗하다",
+        "english": "to be clean",
+        "nepali": "सफा हुनु"
+      },
+      {
+        "korean": "더럽다",
+        "english": "to be dirty",
+        "nepali": "फोहोर हुनु"
+      },
+      {
+        "korean": "넓다",
+        "english": "to be spacious",
+        "nepali": "फराकिलो हुनु"
+      },
+      {
+        "korean": "좁다",
+        "english": "to be narrow / cramped",
+        "nepali": "साँघुरो हुनु"
+      },
+      {
+        "korean": "교통이 편리하다",
+        "english": "transportation is convenient",
+        "nepali": "यातायात सुविधा सहज हुनु"
+      }
+    ]
+  },
+  "grammar2": {
+    "point": "보다 (더)",
+    "meaningNp": "भन्दा (तुलनात्मक प्रत्यय / Than / Compared to)",
+    "explanationEn": "Attached to a noun of comparison to mean 'more than' or 'compared to'.",
+    "explanationNp": "दुई वस्तु, व्यक्ति वा स्थानबीच तुलना गर्दा 'भन्दा' भन्ने अर्थमा नामको पछाडि जोडिन्छ।",
+    "ruleNp": "नाम + 보다 (उदा: 버스보다 = बसभन्दा)।",
+    "examples": [
+      {
+        "korean": "지하철이 버스보다 더 빨라요.",
+        "english": "The subway is faster than the bus.",
+        "nepali": "सबवे बसभन्दा बढी छिटो हुन्छ।"
+      }
+    ]
+  },
+  "cultureAndInfo": {
+    "titleKo": "한국의 부동산 계약",
+    "titleEn": "Real Estate Contracts in Korea",
+    "titleNp": "कोरियामा कोठा सम्झौता र धरौटी सुरक्षा",
+    "sections": [
+      {
+        "subtitleNp": "बसोबास सम्झौता (확정일자)",
+        "contentNp": "कोरियामा कोठा भाडामा लिँदा घरजग्गा कार्यालयमार्फत लिखित सम्झौता गर्नुपर्छ र धरौटी रकम (डिपोजिट) फिर्ता सुरक्षित गर्न वडा कार्यालयमा दर्ता गराउनुपर्छ।"
+      }
+    ]
+  }
+}

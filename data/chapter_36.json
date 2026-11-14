@@ -10,25 +10,111 @@
     "• 출하 작업 진행 상황에 대해 말할 수 있다.",
     "• 자신이 할 일에 대해 상대방에게 말할 수 있다."
   ],
-  "vocabulary": [],
+  "vocabulary": [
+    {
+      "korean": "포장하다",
+      "english": "to pack / package",
+      "nepali": "प्याकिङ गर्नु"
+    },
+    {
+      "korean": "상자에 담다",
+      "english": "to put into boxes",
+      "nepali": "बाकसमा हाल्नु"
+    },
+    {
+      "korean": "밀봉하다",
+      "english": "to seal",
+      "nepali": "सिल गर्नु"
+    },
+    {
+      "korean": "테이프를 붙이다",
+      "english": "to apply tape",
+      "nepali": "टेप लगाउनु"
+    },
+    {
+      "korean": "라벨을 붙이다",
+      "english": "to attach a label",
+      "nepali": "लेबल टाँस्नु"
+    },
+    {
+      "korean": "완충재",
+      "english": "cushioning material",
+      "nepali": "झट्का रोक्ने सामग्री (बफर)"
+    },
+    {
+      "korean": "파렛트",
+      "english": "pallet",
+      "nepali": "प्यालेट (काठको चौरस ढकनी)"
+    },
+    {
+      "korean": "지게차",
+      "english": "forklift",
+      "nepali": "फोर्कलिफ्ट"
+    },
+    {
+      "korean": "컨베이어 벨트",
+      "english": "conveyor belt",
+      "nepali": "कन्भेयर बेल्ट"
+    },
+    {
+      "korean": "출하하다",
+      "english": "to ship / send out goods",
+      "nepali": "माल पठाउनु / डिस्प्याच गर्नु"
+    },
+    {
+      "korean": "배송하다",
+      "english": "to deliver",
+      "nepali": "डेलिभरी गर्नु"
+    },
+    {
+      "korean": "트럭에 싣다",
+      "english": "to load onto a truck",
+      "nepali": "ट्रकमा माल लाद्नु"
+    },
+    {
+      "korean": "내리다",
+      "english": "to unload",
+      "nepali": "माल ओरोस्नु"
+    },
+    {
+      "korean": "운반하다",
+      "english": "to transport / carry",
+      "nepali": "ओसार्नु"
+    },
+    {
+      "korean": "수량을 확인하다",
+      "english": "to check quantity",
+      "nepali": "परिमाण जाँच्नु"
+    },
+    {
+      "korean": "거래처",
+      "english": "client / business partner",
+      "nepali": "व्यापारी ग्राहक / बिजनेस पार्टनर"
+    },
+    {
+      "korean": "납품하다",
+      "english": "to deliver (goods to a client)",
+      "nepali": "ग्राहकलाई माल बुझाउनु"
+    }
+  ],
   "grammar": [
     {
-      "point": "출하 관리",
-      "explanation": "Shipment Management 포장 작업 과정에 대해 듣고 이해할 수 있다. 학습 목표 Can listen to and understand the elements of the packaging process. LEARNING OBJECTIVES 출하 작업 진행 상황에 대해 말할 수 있다. Can talk about the progress of the shipping process. CHAPTER 36 EPS-TOPIK 출하 준비를 아주 잘했네요. 감사합니다. 그럼, 출하 시간에 맞춰 차에 실어 놓겠습니다. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -(으)ㄴ 포장 및 적재 작업 관련 어휘 한국의 무역 특성 -겠- Vocabulary Related to Packaging Characteristics of Korean Trade and Loading Work 출하 관리 관련 어휘 Vocabulary Related to Shipment Management 66 한국어 표준교재 2",
-      "examples": [],
-      "explanationNp": "출하 관리 सम्बन्धी व्याकरण नियम र प्रयोग।"
+      "point": "-냐고 하다",
+      "explanation": "Used to relay a question someone else asked (indirect quotation of questions).",
+      "explanationNp": "अरू कसैले सोधेको प्रश्न दोहोर्‍याएर बताउँदा प्रयोग गरिन्छ। क्रिया/विशेषण '-냐고 하다', नामपद '(이)냐고 하다' हुन्छ।",
+      "examples": [
+        "반장님이 포장이 다 끝났냐고 했어요. — टिम लिडरले प्याकिङ सबै सकियो कि भनेर सोध्नुभयो।",
+        "사장님이 출하 준비가 되었냐고 물었어요. — बॉसले ढुवानीको तयारी भयो कि भनेर सोध्नुभयो।"
+      ]
     },
     {
-      "point": "제가 여기에 둔 포장 기준서 못 봤어요?",
-      "explanation": "파렛트에 쌓아 놓은 물건을 창고로 옮기세요.",
-      "examples": [],
-      "explanationNp": "समय वा स्थान जनाउने प्रत्यय हो। नेपालीमा 'मा' वा 'तिर' भन्ने अर्थ लाग्दछ।"
-    },
-    {
-      "point": "아궁 씨, 좀 도와주시겠습니까?",
-      "explanation": "",
-      "examples": [],
-      "explanationNp": "아궁 씨, 좀 도와주시겠습니까? सम्बन्धी व्याकरण नियम र प्रयोग।"
+      "point": "-달라고 하다",
+      "explanation": "Used to relay a request from someone else, specifically when the action benefits the requester.",
+      "explanationNp": "अरू कसैले आफूलाई केही गरिदिनुहोस् भनेर अनुरोध गरेको कुरा दोहोर्‍याउँदा प्रयोग गरिन्छ। क्रियापदको धातुमा सिधै '-달라고 하다' जोडिन्छ।",
+      "examples": [
+        "반장님이 상자를 더 가져다 달라고 했어요. — टिम लिडरले अरू बाकस ल्याइदिनुहोस् भन्नुभयो।",
+        "동료가 내일 좀 도와 달라고 했어요. — सहकर्मीले भोलि अलि सहयोग गरिदिनुहोस् भन्यो।"
+      ]
     }
   ],
   "conversations": [
@@ -172,6 +258,6 @@
       "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
-  "titleNp": "ढुवानी तथा सामान निकासी व्यवस्थापन",
+  "titleNp": "माल ढुवानी व्यवस्थापन",
   "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_36.pdf"
 }

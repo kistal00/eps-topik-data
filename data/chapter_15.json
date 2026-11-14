@@ -12,35 +12,112 @@
   ],
   "vocabulary": [
     {
-      "korean": "옷차림",
-      "english": "Clothing",
-      "nepali": "लुगाकपडा"
-    },
-    {
-      "korean": "색깔",
-      "english": "Colors",
-      "nepali": "काम"
-    },
-    {
       "korean": "입다",
-      "english": "to wear (clothes)",
-      "nepali": "लगाउनु (लुगा)"
+      "english": "to wear (clothes on body)",
+      "nepali": "लगाउनु (लुगा: 바지, 티셔츠, 치마)"
+    },
+    {
+      "korean": "신다",
+      "english": "to wear (on feet)",
+      "nepali": "लगाउनु (खुट्टामा: 운동화, 구두, 양말)"
+    },
+    {
+      "korean": "쓰다",
+      "english": "to wear (on head/eyes)",
+      "nepali": "लगाउनु (टाउको/आँखामा: 모자, 안경)"
+    },
+    {
+      "korean": "티셔츠",
+      "english": "t-shirt",
+      "nepali": "टी-सर्ट"
+    },
+    {
+      "korean": "청바지",
+      "english": "jeans",
+      "nepali": "जिन्स पाइन्ट"
+    },
+    {
+      "korean": "치마",
+      "english": "skirt",
+      "nepali": "स्कर्ट"
+    },
+    {
+      "korean": "운동화",
+      "english": "sneakers / sports shoes",
+      "nepali": "खेलकुदका जुत्ता (स्निकर्स)"
+    },
+    {
+      "korean": "구두",
+      "english": "formal dress shoes",
+      "nepali": "छालाको फर्मल जुत्ता"
+    },
+    {
+      "korean": "양말",
+      "english": "socks",
+      "nepali": "मोजा"
+    },
+    {
+      "korean": "모자",
+      "english": "cap / hat",
+      "nepali": "टोपी"
+    },
+    {
+      "korean": "빨간색",
+      "english": "red",
+      "nepali": "रातो रङ"
+    },
+    {
+      "korean": "노란색",
+      "english": "yellow",
+      "nepali": "पहेँलो रङ"
+    },
+    {
+      "korean": "파란색",
+      "english": "blue",
+      "nepali": "नीलो रङ"
+    },
+    {
+      "korean": "초록색",
+      "english": "green",
+      "nepali": "हरियो रङ"
+    },
+    {
+      "korean": "하얀색",
+      "english": "white",
+      "nepali": "सेतो रङ"
+    },
+    {
+      "korean": "까만색",
+      "english": "black",
+      "nepali": "कालो रङ"
+    },
+    {
+      "korean": "주황색",
+      "english": "orange",
+      "nepali": "सुन्तला रङ"
+    },
+    {
+      "korean": "보라색",
+      "english": "purple / violet",
+      "nepali": "बैजनी रङ"
     }
   ],
   "grammar": [
     {
-      "point": "옷차림",
-      "explanation": "Clothing 옷차림에 대해 묻고 대답할 수 있다. 학습 목표 Can ask and answer questions about clothing. LEARNING OBJECTIVES 물건의 색깔을 말할 수 있다. Can talk the color of objects. 190 한국어 표준교재 1 CHAPTER 15 EPS-TOPIK 마두 씨가 누구예요? 머리가 짧은 사람이에요. 검은색 옷을 입고 있어요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -고 있다(상태) 옷과 액세서리 한국의 전통 의상 -(으)ㄴ Clothing and Accessories Korea's Traditional Clothing 색깔 Colors 190 한국어 표준교재 1",
-      "examples": [],
-      "explanationNp": "옷차림 सम्बन्धी व्याकरण नियम र प्रयोग।"
+      "point": "-고 있다 (착용 상태)",
+      "explanation": "Used with dressing verbs (입다, 신다, 쓰다) to describe the continuing state of wearing an item.",
+      "explanationNp": "पहिरन सम्बन्धी क्रियाहरूसँग जोडिएर कुनै पोशाक लगाएर बसिरहेको अवस्था जनाउँछ। पहिरन क्रियाको धातु + 고 있다 (उदा: 모자를 쓰고 있어요 = टोपी लगाइरहनुभएको छ)।",
+      "examples": [
+        "마두 씨는 청바지를 입고 있어요. — मधु जीले जिन्स पाइन्ट लगाइरहनुभएको छ।"
+      ]
     },
     {
-      "point": "예 재미있는 책, 맛 있는 빵",
-      "explanation": "받침 ○ -은 작다 → 작은 받침 ×, 받침 ‘ㄹ’ -ㄴ 예쁘다 → 예쁜 따뜻한 잠바를 입어요. 책상 위에 작은 가방이 있어요.",
+      "point": "-(으)ㄴ (형용사 수식)",
+      "explanation": "Attaches to adjectives to modify the following noun, showing its current state or quality.",
+      "explanationNp": "विशेषणलाई नामको अगाडि राखेर त्यसको विशेषता व्याख्या गर्दा जोडिन्छ (जस्तै: ठूलो कोठा, राम्रो मान्छे)। बाच्छिम भए '-은' (उदा: 작다 → 작은 방 = सानो कोठा), बाच्छिम नभए वा 'ㄹ' भए '-ㄴ' (उदा: 예쁘다 → 예쁜 옷 = राम्रो लुगा)।",
       "examples": [
-        "예 예쁜 바지를 샀어요."
-      ],
-      "explanationNp": "예 재미있는 책, 맛 있는 빵 सम्बन्धी व्याकरण नियम र प्रयोग।"
+        "키가 큰 사람이 제 형이에요. — अग्लो हुनुभएको व्यक्ति मेरो दाइ हुनुहुन्छ।"
+      ]
     }
   ],
   "conversations": [
@@ -243,6 +320,6 @@
       "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
-  "titleNp": "पहिरन तथा पोशाक",
+  "titleNp": "पोशाक र पहिरन",
   "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_15.pdf"
 }

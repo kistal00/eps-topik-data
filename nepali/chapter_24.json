@@ -1,0 +1,162 @@
+{
+  "chapterNo": 24,
+  "titleKo": "은행",
+  "titleEn": "Bank",
+  "titleNp": "बैंक",
+  "learningObjectives": [
+    {
+      "id": "ch24_obj_01",
+      "korean": "은행 계좌 개설 및 송금에 대해 말할 수 있다.",
+      "english": "Can talk about opening a bank account and making remittances.",
+      "nepali": "बैंक खाता खोल्ने र स्वदेश पैसा रेमिट्यान्स पठाउनेबारे कुराकानी गर्न सक्नुहुनेछ।"
+    },
+    {
+      "id": "ch24_obj_02",
+      "korean": "ATM(현금인출기) 이용 방법을 설명할 수 있다.",
+      "english": "Can explain how to use an ATM.",
+      "nepali": "एटीएम (ATM) मेसिन चलाउने तरिका व्याख्या गर्न सक्नुहुनेछ।"
+    }
+  ],
+  "vocabulary1": {
+    "topicKo": "계좌 관련 어휘",
+    "topicEn": "Bank Accounts Vocabulary",
+    "topicNp": "बैंक खाता सम्बन्धी शब्दावली",
+    "words": [
+      {
+        "korean": "통장",
+        "english": "bankbook",
+        "nepali": "बैंक खाताको पासबुक"
+      },
+      {
+        "korean": "신분증",
+        "english": "ID card",
+        "nepali": "परिचय पत्र (विदेशी दर्ता कार्ड/राहदानी)"
+      },
+      {
+        "korean": "계좌 번호",
+        "english": "account number",
+        "nepali": "खाता नम्बर"
+      },
+      {
+        "korean": "비밀번호",
+        "english": "PIN / password",
+        "nepali": "गोप्य पिन नम्बर (पासवर्ड)"
+      },
+      {
+        "korean": "도장",
+        "english": "stamp / seal",
+        "nepali": "छाप (स्ट्याम्प)"
+      },
+      {
+        "korean": "서명 (싸인)",
+        "english": "signature",
+        "nepali": "दस्तखत (हस्ताक्षर)"
+      },
+      {
+        "korean": "체크카드",
+        "english": "debit card / check card",
+        "nepali": "डेबिट कार्ड (चेक कार्ड)"
+      },
+      {
+        "korean": "신용카드",
+        "english": "credit card",
+        "nepali": "क्रेडिट कार्ड"
+      },
+      {
+        "korean": "인터넷 뱅킹",
+        "english": "internet banking",
+        "nepali": "अनलाइन/इन्टरनेट बैंकिङ"
+      }
+    ]
+  },
+  "grammar1": {
+    "point": "-(으)려고",
+    "meaningNp": "...गर्ने विचारले / ...गर्नका लागि (उद्देश्य वा मनसाय / In order to / Intending to)",
+    "explanationEn": "Attaches to verbs to express the speaker's intention or purpose for performing an action.",
+    "explanationNp": "क्रियापदको धातुमा जोडिएर कुनै कार्य गर्न लागेको उद्देश्य वा मनसाय व्यक्त गर्न प्रयोग गरिन्छ।",
+    "ruleNp": "अन्त्यमा स्वरवर्ण वा 'ㄹ' भएमा '-려고' र व्यञ्जनवर्ण (받침) भएमा '-으려고' जोडिन्छ।",
+    "examples": [
+      {
+        "korean": "통장을 만들려고 은행에 왔어요.",
+        "english": "I came to the bank intending to open a bank account.",
+        "nepali": "पासबुक बनाउने विचारले बैंकमा आएको हुँ।"
+      },
+      {
+        "korean": "고향에 돈을 보내려고 해요.",
+        "english": "I plan to send money to my hometown.",
+        "nepali": "घरमा पैसा पठाउने विचार गरेको छु।"
+      }
+    ]
+  },
+  "vocabulary2": {
+    "topicKo": "은행 업무 관련 어휘",
+    "topicEn": "Banking Services & ATM",
+    "topicNp": "बैंकिङ कारोबार तथा एटीएम",
+    "words": [
+      {
+        "korean": "현금 인출기 (ATM)",
+        "english": "Automated Teller Machine (ATM)",
+        "nepali": "पैसा निकाल्ने मेसिन (ATM)"
+      },
+      {
+        "korean": "입금하다",
+        "english": "to deposit money",
+        "nepali": "पैसा जम्मा गर्नु (डिपोजिट)"
+      },
+      {
+        "korean": "출금하다",
+        "english": "to withdraw money",
+        "nepali": "पैसा झिक्नु (विथड्र)"
+      },
+      {
+        "korean": "송금하다",
+        "english": "to transfer / wire money",
+        "nepali": "पैसा पठाउनु (ट्रान्सफर/रेमिट्यान्स)"
+      },
+      {
+        "korean": "계좌 이체",
+        "english": "account transfer",
+        "nepali": "खातामा रकम ट्रान्सफर"
+      },
+      {
+        "korean": "잔액 조회",
+        "english": "balance inquiry",
+        "nepali": "बाँकी रकम हेर्नु (ब्यालेन्स चेक)"
+      },
+      {
+        "korean": "통장 정리",
+        "english": "bankbook update",
+        "nepali": "पासबुक प्रिन्ट/अपडेट गर्नु"
+      },
+      {
+        "korean": "수수료",
+        "english": "transaction fee / service charge",
+        "nepali": "सेवा शुल्क (कमिसन)"
+      },
+      {
+        "korean": "환전하다",
+        "english": "to exchange currency",
+        "nepali": "सटीही गर्नु (करेन्सी साट्नु)"
+      }
+    ]
+  },
+  "grammar2": {
+    "point": "-(으)면 되다",
+    "meaningNp": "...गरे हुन्छ / ...गरे पुग्छ (पर्याप्तता वा अनुमति / Just have to / Only need to)",
+    "explanationEn": "Attaches to verbs and adjectives to indicate that doing this action or meeting this condition is sufficient.",
+    "explanationNp": "क्रियापद वा विशेषणमा जोडिएर तोकिएको कार्य गरेमा कुनै समस्या नहुने वा त्यति गरे पर्याप्त हुने कुरा जनाउँछ।",
+    "ruleNp": "अन्त्यमा स्वरवर्ण वा 'ㄹ' भएमा '-면 되다' र व्यञ्जनवर्ण (받침) भएमा '-으면 되다' जोडिन्छ।",
+    "examples": [
+      {
+        "korean": "여기에 서명하시면 됩니다.",
+        "english": "You just need to sign here.",
+        "nepali": "यहाँ हस्ताक्षर गर्नुभए पुग्छ।"
+      },
+      {
+        "korean": "외국인등록증을 가져오면 돼요.",
+        "english": "You only need to bring your alien registration card.",
+        "nepali": "विदेशी दर्ता कार्ड लिएर आए हुन्छ।"
+      }
+    ]
+  }
+}

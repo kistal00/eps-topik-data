@@ -1,0 +1,144 @@
+{
+  "version": 2,
+  "chapterNo": 7,
+  "titleKo": "계절과 날씨",
+  "titleEn": "Seasons and the Weather",
+  "titleNp": "ऋतु र मौसम",
+  "learningObjectives": [
+    {
+      "id": "ch07_obj_01",
+      "korean": "좋아하는 계절에 대해 말할 수 있다.",
+      "english": "Can talk about one's favorite season.",
+      "nepali": "आफूलाई मनपर्ने ऋतुको बारेमा बताउन सक्नुहुनेछ।"
+    },
+    {
+      "id": "ch07_obj_02",
+      "korean": "날씨에 대해 묻고 대답할 수 있다.",
+      "english": "Can ask and answer questions about the weather.",
+      "nepali": "मौसमको बारेमा सोध्न र उत्तर दिन सक्नुहुनेछ।"
+    }
+  ],
+  "vocabulary1": {
+    "topicKo": "계절",
+    "topicEn": "Seasons",
+    "topicNp": "ऋतुहरू र मौसमका विशेषता",
+    "words": [
+      { "korean": "봄", "english": "spring", "nepali": "वसन्त ऋतु (मार्च–मे: न्यानो र फूल फुल्ने समय)" },
+      { "korean": "여름", "english": "summer", "nepali": "ग्रीष्म ऋतु / गर्मी महिना (जुन–अगस्ट: धेरै गर्मी र वर्षा हुने)" },
+      { "korean": "가을", "english": "fall / autumn", "nepali": "शरद ऋतु (सेप्टेम्बर–नोभेम्बर: शीतल र पात झर्ने समय)" },
+      { "korean": "겨울", "english": "winter", "nepali": "शिशिर ऋतु / जाडो महिना (डिसेम्बर–फेब्रुअरी: धेरै जाडो र हिउँ पर्ने)" },
+      { "korean": "따뜻하다", "english": "to be warm", "nepali": "न्यानो हुनु" },
+      { "korean": "덥다", "english": "to be hot", "nepali": "गर्मी हुनु" },
+      { "korean": "시원하다", "english": "to be cool / refreshing", "nepali": "शीतल हुनु" },
+      { "korean": "춥다", "english": "to be cold", "nepali": "जाडो हुनु" },
+      { "korean": "어렵다", "english": "to be difficult", "nepali": "गाह्रो / कठिन हुनु" },
+      { "korean": "쉽다", "english": "to be easy", "nepali": "सजिलो हुनु" }
+    ]
+  },
+  "grammar1": {
+    "point": "‘ㅂ’ 불규칙 활용",
+    "meaningNp": "'ㅂ' अनियमित रूपान्तरण नियम",
+    "explanationEn": "When an irregular verb or adjective stem ending in 'ㅂ' meets a vowel ending, 'ㅂ' changes to '우'.",
+    "explanationNp": "धातुको अन्त्यमा 'ㅂ' बाच्छिम भएका केही विशेषण र क्रियाहरू स्वर वर्णबाट सुरु हुने प्रत्ययसँग जोडिँदा 'ㅂ' हटेर '우' मा परिणत हुन्छ।",
+    "ruleNp": "덥다 → 더우 + 어요 → 더워요 (गर्मी छ), 춥다 → 추우 + 어요 → 추워요 (जाडो छ), 어렵다 → 어려워요 (गाह्रो छ)। ध्यान दिनुहोस्: '잡다' (समात्नु) र '입다' (लगाउनु) नियमित हुन् (잡아요, 입어요)।",
+    "examples": [
+      {
+        "korean": "오늘은 날씨가 너무 더워요.",
+        "english": "The weather is very hot today.",
+        "nepali": "आज मौसम एकदमै गर्मी छ।"
+      },
+      {
+        "korean": "한국의 겨울은 정말 추워요.",
+        "english": "Winter in Korea is really cold.",
+        "nepali": "कोरियाको जाडो महिना साँच्चै धेरै चिसो हुन्छ।"
+      }
+    ]
+  },
+  "dialogue1": {
+    "titleNp": "संवाद १",
+    "lines": [
+      {
+        "speaker": "투안 (Tuan)",
+        "korean": "비가 계속 오네요.",
+        "english": "It keeps raining.",
+        "nepali": "पानी परिरहेको छ नि।"
+      },
+      {
+        "speaker": "리한 (Rihan)",
+        "korean": "네, 안 그치네요. 투안 씨, 우산 있어요?",
+        "english": "Yes, it won't stop. Tuan, do you have an umbrella?",
+        "nepali": "हो, रोकिँदै रोकिँदैन। तुआन जी, छाता छ?"
+      },
+      {
+        "speaker": "투안 (Tuan)",
+        "korean": "아니요, 없어요. 리한 씨는요?",
+        "english": "No, I don't. How about you, Rihan?",
+        "nepali": "छैन। रिहान जीसँग छ?"
+      },
+      {
+        "speaker": "리한 (Rihan)",
+        "korean": "저는 있어요. 이따가 같이 쓰고 가요.",
+        "english": "I have one. Let's share it later.",
+        "nepali": "मसँग छ। पछि सँगै ओढेर जाउँला।"
+      }
+    ]
+  },
+  "vocabulary2": {
+    "topicKo": "날씨",
+    "topicEn": "Weather",
+    "topicNp": "मौसमको अवस्था सम्बन्धी शब्दहरू",
+    "words": [
+      { "korean": "날씨가 좋다", "english": "to have good weather", "nepali": "मौसम राम्रो हुनु" },
+      { "korean": "날씨가 나쁘다", "english": "to have bad weather", "nepali": "मौसम खराब हुनु" },
+      { "korean": "맑다", "english": "to be clear / sunny", "nepali": "आकाश सफा हुनु / घाम लाग्नु" },
+      { "korean": "흐리다", "english": "to be cloudy", "nepali": "बादल लाग्नु / धुम्म हुनु" },
+      { "korean": "비가 오다", "english": "to rain", "nepali": "पानी पर्नु" },
+      { "korean": "비가 그치다", "english": "to stop raining", "nepali": "पानी पर्न रोकिनु" },
+      { "korean": "눈이 오다", "english": "to snow", "nepali": "हिउँ पर्नु" },
+      { "korean": "눈이 그치다", "english": "to stop snowing", "nepali": "हिउँ पर्न रोकिनु" },
+      { "korean": "바람이 불다", "english": "to be windy", "nepali": "हावा चल्नु" }
+    ]
+  },
+  "grammar2": {
+    "point": "안",
+    "meaningNp": "हुँदैन / गर्दिन (नकारात्मक रूप / Negative Particle)",
+    "explanationEn": "Placed before verbs and adjectives to simply negate an action, state, or to show lack of intent.",
+    "explanationNp": "क्रिया वा विशेषणको अगाडि राखिएर कार्य वा अवस्थालाई नकारात्मक बनाउँछ (होइन/गर्दिन भन्ने अर्थ दिन्छ)।",
+    "ruleNp": "안 + क्रिया/विशेषण (उदा: 안 가요 = जाँदिन, 안 더워요 = गर्मी छैन, 안 먹어요 = खान्न)। नोट: '하다' क्रियामा '공부 안 해요', '운동 안 해요' भनिन्छ।",
+    "examples": [
+      {
+        "korean": "아침을 안 먹었어요.",
+        "english": "I didn't eat breakfast.",
+        "nepali": "बिहानको खाना खाइनँ।"
+      },
+      {
+        "korean": "어제는 비가 안 왔어요.",
+        "english": "It didn't rain yesterday.",
+        "nepali": "हिजो पानी परेन।"
+      }
+    ]
+  },
+  "cultureAndInfo": {
+    "titleKo": "한국의 사계절",
+    "titleEn": "The Four Seasons of Korea",
+    "titleNp": "कोरियाका चार ऋतुहरू",
+    "sections": [
+      {
+        "subtitleNp": "१. वसन्त (봄 - ३ देखि ५ महिना)",
+        "contentNp": "न्यानो र मनमोहक मौसम। चेरी ब्लोसम (चेरीका फूलहरू) फुल्ने समय भएकाले कोरियालीहरू फूल हेर्न घुम्न जान्छन्।"
+      },
+      {
+        "subtitleNp": "२. ग्रीष्म (여름 - ६ देखि ८ महिना)",
+        "contentNp": "धेरै गर्मी र बर्खा (जाङ्मा) हुने महिना। कामदार तथा कर्मचारीहरूले समुद्र तट वा पहाडमा गर्मी बिदा (ह्युगा) मनाउँछन्।"
+      },
+      {
+        "subtitleNp": "३. शरद (가을 - ९ देखि ११ महिना)",
+        "contentNp": "शीतल र सफा मौसम। रूखका पातहरू राता र पहेँला (दानफुङ) भएर झर्ने अत्यन्तै सुन्दर मौसम।"
+      },
+      {
+        "subtitleNp": "४. शिशिर (겨울 - १२ देखि २ महिना)",
+        "contentNp": "अत्यधिक चिसो र हिउँ पर्ने महिना। तातो ज्याकेट (प्याडिङ) लगाउनुपर्छ र कोठा तताउन हिटर प्रयोग गरिन्छ।"
+      }
+    ]
+  }
+}

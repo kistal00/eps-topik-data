@@ -1,0 +1,175 @@
+{
+  "chapterNo": 13,
+  "titleKo": "주말 활동",
+  "titleEn": "Weekend Activities",
+  "titleNp": "सप्ताहन्तका क्रियाकलापहरू",
+  "learningObjectives": [
+    {
+      "id": "ch13_obj_01",
+      "korean": "주말 활동에 대해 말할 수 있다.",
+      "english": "Can talk about weekend plans and activities.",
+      "nepali": "सप्ताहन्त (शनिबार/आइतबार) का योजनाहरूबारे बताउन सक्नुहुनेछ।"
+    },
+    {
+      "id": "ch13_obj_02",
+      "korean": "상태나 기분에 대해 말할 수 있다.",
+      "english": "Can talk about feelings and conditions.",
+      "nepali": "मनोभावना र शारीरिक अवस्थाबारे बताउन सक्नुहुनेछ।"
+    }
+  ],
+  "vocabulary1": {
+    "topicKo": "주말 활동",
+    "topicEn": "Weekend Activities",
+    "topicNp": "फुर्सदका क्रियाकलापहरू",
+    "words": [
+      {
+        "korean": "축구하다",
+        "english": "to play soccer",
+        "nepali": "फुटबल खेल्नु"
+      },
+      {
+        "korean": "헬스를 하다",
+        "english": "to work out at gym",
+        "nepali": "जिम (कसरत) गर्नु"
+      },
+      {
+        "korean": "고향 사람을 만나다",
+        "english": "to meet people from hometown",
+        "nepali": "आफ्नै देशका साथीहरूलाई भेट्नु"
+      },
+      {
+        "korean": "고향 음식을 먹다",
+        "english": "to eat hometown food",
+        "nepali": "आफ्नै देशको परिकार खानु"
+      },
+      {
+        "korean": "탁구를 치다",
+        "english": "to play table tennis",
+        "nepali": "टेबलटेनिस खेल्नु"
+      },
+      {
+        "korean": "친구 집을 방문하다",
+        "english": "to visit a friend's house",
+        "nepali": "साथीको कोठामा घुम्न जानु"
+      },
+      {
+        "korean": "교회 / 절 / 사원에 가다",
+        "english": "to go to church / temple / mosque",
+        "nepali": "चर्च / मन्दिर / मस्जिद जानु"
+      },
+      {
+        "korean": "낮잠을 자다",
+        "english": "to take a nap",
+        "nepali": "दिउँसोको छोटो निद्रा सुत्नु"
+      }
+    ]
+  },
+  "grammar1": {
+    "point": "-(으)ㄹ 거예요",
+    "meaningNp": "गर्नेछु / गर्नेछ (भविष्यको योजना वा सम्भावना / Will / Going to)",
+    "explanationEn": "Expresses the subject's future plans or intentions, or an assumption about a future event.",
+    "explanationNp": "भविष्यमा केही काम गर्ने निश्चित योजना वा निर्णय बताउँदा प्रयोग गरिन्छ।",
+    "ruleNp": "बाच्छिम भए '-을 거예요' (उदा: 먹을 거예요 = खानेछु), बाच्छिम नभए वा 'ㄹ' भए '-ㄹ 거예요' (उदा: 탁구를 칠 거예요 = टेबलटेनिस खेल्नेछु)।",
+    "examples": [
+      {
+        "korean": "일요일에 뭐 할 거예요? / 친구하고 축구할 거예요.",
+        "english": "Q: What will you do on Sunday? / A: I will play soccer with friends.",
+        "nepali": "क: आइतबार के गर्नुहुन्छ? / ख: साथीहरूसँग फुटबल खेल्नेछु।"
+      }
+    ]
+  },
+  "dialogue1": {
+    "titleNp": "संवाद १",
+    "lines": [
+      {
+        "speaker": "투안 (Tuan)",
+        "korean": "리한 씨, 주말에 뭐 할 거예요?",
+        "english": "Rihan, what will you do over the weekend?",
+        "nepali": "रिहान जी, सप्ताहन्तमा के गर्ने योजना छ?"
+      },
+      {
+        "speaker": "리한 (Rihan)",
+        "korean": "저는 고향 친구들을 만나서 같이 네팔 음식을 먹을 거예요.",
+        "english": "I'm going to meet friends from hometown and eat Nepali food together.",
+        "nepali": "म देशका साथीहरूलाई भेटेर सँगै नेपाली खाना खानेछु।"
+      }
+    ]
+  },
+  "vocabulary2": {
+    "topicKo": "상태와 기분",
+    "topicEn": "Feelings and Conditions",
+    "topicNp": "मनोभावना र शारीरिक अवस्था",
+    "words": [
+      {
+        "korean": "시간이 있다",
+        "english": "to have time",
+        "nepali": "समय हुनु / फुर्सद हुनु"
+      },
+      {
+        "korean": "시간이 없다",
+        "english": "to have no time",
+        "nepali": "समय नहुनु"
+      },
+      {
+        "korean": "바쁘다",
+        "english": "to be busy",
+        "nepali": "व्यस्त हुनु"
+      },
+      {
+        "korean": "한가하다",
+        "english": "to be free / not busy",
+        "nepali": "फुर्सदिलो हुनु"
+      },
+      {
+        "korean": "기분이 좋다",
+        "english": "to be in a good mood",
+        "nepali": "मन प्रफुल्लित हुनु"
+      },
+      {
+        "korean": "기분이 나쁘다",
+        "english": "to be in a bad mood",
+        "nepali": "मन खिन्न हुनु"
+      },
+      {
+        "korean": "기쁘다",
+        "english": "to be joyful / happy",
+        "nepali": "खुसी हुनु"
+      },
+      {
+        "korean": "슬프다",
+        "english": "to be sad",
+        "nepali": "दुःखी हुनु"
+      },
+      {
+        "korean": "피곤하다",
+        "english": "to be tired / exhausted",
+        "nepali": "थकित हुनु / गल्नु"
+      }
+    ]
+  },
+  "grammar2": {
+    "point": "못",
+    "meaningNp": "गर्न सक्दिनँ (असमर्थता / Cannot)",
+    "explanationEn": "Placed before a verb to express that the subject is unable to do the action due to lack of ability or circumstances.",
+    "explanationNp": "क्षमताको अभाव, बिरामी वा विशेष परिस्थितिले गर्दा कुनै कार्य गर्न नसक्दा क्रियाको अगाडि '못' राखिन्छ।",
+    "ruleNp": "못 + क्रिया (उदा: 못 가요 = जान सक्दिनँ, 못 먹어요 = खान सक्दिनँ, 일 못해요 = काम गर्न सक्दिनँ)।",
+    "examples": [
+      {
+        "korean": "어제 왜 모임에 안 왔어요? / 일이 많아서 못 갔어요.",
+        "english": "Q: Why didn't you come to the gathering yesterday? / A: I couldn't go because I had too much work.",
+        "nepali": "क: हिजो भेटघाटमा किन आउनुभएन? / ख: काम धेरै भएर जान सकिनँ।"
+      }
+    ]
+  },
+  "cultureAndInfo": {
+    "titleKo": "한국인의 종교",
+    "titleEn": "Religions in Korea",
+    "titleNp": "कोरियामा धार्मिक स्वतन्त्रता र धर्महरू",
+    "sections": [
+      {
+        "subtitleNp": "१. धार्मिक विविधता (다종교 사회)",
+        "contentNp": "कोरियामा विभिन्न धर्म मान्ने स्वतन्त्रता छ। मुख्य रूपमा प्रोटेस्टेन्ट (개신교), बौद्ध धर्म (불교), क्याथोलिक (천주교) मान्नेहरू छन् भने झन्डै ५०% मानिसहरू कुनै धर्म मान्दैनन्।"
+      }
+    ]
+  }
+}

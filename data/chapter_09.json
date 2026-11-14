@@ -10,30 +10,141 @@
     "• 물건의 개수를 말할 수 있다.",
     "• 두 개 이상의 물건을 나열해서 말할 수 있다."
   ],
-  "vocabulary": [],
-  "grammar": [
+  "vocabulary": [
     {
-      "point": "음식 주문",
-      "explanation": "Ordering Food 음식을 주문할 수 있다. 학습 목표 Can order food. LEARNING OBJECTIVES 물건의 개수를 말할 수 있다. Can say how many items there are. CHAPTER 09 EPS-TOPIK 메 뉴 비빔밥 불고기 된장찌개 김치찌개 뭐 드시겠어요? 비빔밥 주세요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION 주세요 음식 한국인의 식사 하고 Food Korean Meals 숫자와 분류사 Numbers and Classifiers 130 한국어 표준교재 1",
-      "examples": [],
-      "explanationNp": "음식 주문 सम्बन्धी व्याकरण नियम र प्रयोग।"
+      "korean": "비빔밥",
+      "english": "bibimbap",
+      "nepali": "विबिमबाप (तरकारी, मासु र भात मुछेर खाने परिकार)"
     },
     {
+      "korean": "김밥",
+      "english": "gimbap",
+      "nepali": "गिमबाप (सामुद्रिक लेउले बेरेको चामलको रोल)"
+    },
+    {
+      "korean": "라면",
+      "english": "ramen / instant noodles",
+      "nepali": "चाउचाउ (राम्योन)"
+    },
+    {
+      "korean": "김치찌개",
+      "english": "kimchi stew",
+      "nepali": "खिम्ची झोल (खिम्ची-च्चिगे)"
+    },
+    {
+      "korean": "된장찌개",
+      "english": "soybean paste stew",
+      "nepali": "भटमासको पेस्ट झोल (दोन्जाङ-च्चिगे)"
+    },
+    {
+      "korean": "불고기",
+      "english": "bulgogi (marinated beef)",
+      "nepali": "बुलगोगी (गुलियो मसलेदार पोलेको मासु)"
+    },
+    {
+      "korean": "돈가스",
+      "english": "pork cutlet",
+      "nepali": "पोर्क कटलेट (दोनगासु)"
+    },
+    {
+      "korean": "치킨",
+      "english": "fried chicken",
+      "nepali": "फ्राइड चिकेन"
+    },
+    {
+      "korean": "맛있다",
+      "english": "to be delicious / tasty",
+      "nepali": "मिठो / स्वादिष्ट हुनु"
+    },
+    {
+      "korean": "맛없다",
+      "english": "to be tasteless / bad",
+      "nepali": "नमिठो हुनु"
+    },
+    {
+      "korean": "맵다",
+      "english": "to be spicy",
+      "nepali": "पिरो हुनु"
+    },
+    {
+      "korean": "달다",
+      "english": "to be sweet",
+      "nepali": "गुलियो हुनु"
+    },
+    {
+      "korean": "짜다",
+      "english": "to be salty",
+      "nepali": "नुनिलो हुनु"
+    },
+    {
+      "korean": "싱겁다",
+      "english": "to be bland",
+      "nepali": "खल्लो (कम नुन भएको) हुनु"
+    },
+    {
+      "korean": "하나, 둘, 셋, 넷, 다섯",
+      "english": "1, 2, 3, 4, 5 (Pure Korean)",
+      "nepali": "एक, दुई, तीन, चार, पाँच"
+    },
+    {
+      "korean": "여섯, 일곱, 여덟, 아홉, 열",
+      "english": "6, 7, 8, 9, 10 (Pure Korean)",
+      "nepali": "छ, सात, आठ, नौ, दश"
+    },
+    {
+      "korean": "개 (한 개, 두 개)",
+      "english": "unit counter (general objects)",
+      "nepali": "वटा (सामान्य वस्तु गन्दा: साबु, स्याउ आदि)"
+    },
+    {
+      "korean": "명 / 분 (두 명, 세 분)",
+      "english": "counter for people (분 is honorific)",
+      "nepali": "जना (मानिस गन्दा; '분' आदरार्थी)"
+    },
+    {
+      "korean": "마리 (한 마리, 두 마리)",
+      "english": "counter for animals",
+      "nepali": "वटा (पशुपन्छी वा जनावर गन्दा)"
+    },
+    {
+      "korean": "권 (한 권, 두 권)",
+      "english": "counter for books",
+      "nepali": "प्रति (किताब, कापी गन्दा)"
+    },
+    {
+      "korean": "병 (한 병, 두 병)",
+      "english": "counter for bottles",
+      "nepali": "बोतल (पानी, पेय पदार्थ गन्दा)"
+    },
+    {
+      "korean": "잔 (한 잔, 두 잔)",
+      "english": "counter for cups / glasses",
+      "nepali": "कप / ग्लास (कफी, चिया गन्दा)"
+    },
+    {
+      "korean": "그릇 / 공기",
+      "english": "counter for bowls",
+      "nepali": "कचौरा (भात, सुप गन्दा)"
+    }
+  ],
+  "grammar": [
+    {
       "point": "주세요",
-      "explanation": "‘주세요’는 명사 뒤에 쓰여 그 명사가 지시하는 대상을 달라는 요청이나 명령을 나타낸다. The phrase ‘주세요’ is placed after a noun to express a request or command for the item indicated by the noun. 비빔밥 주세요. 김치찌개 주세요.",
+      "explanation": "Used after a noun to politely request or order the specified item.",
+      "explanationNp": "संज्ञाको पछाडि जोडिएर पसल वा रेस्टुरेन्टमा सामान माग्दा वा खाना अर्डर गर्दा प्रयोग गरिन्छ। वस्तु + 주세요 (उदा: 물 주세요 = पानी दिनुहोस्, 비빔밥 주세요 = विबिमबाप दिनुहोस्)।",
       "examples": [
-        "예 물 주세요."
-      ],
-      "explanationNp": "주세요 सम्बन्धी व्याकरण नियम र प्रयोग।"
+        "사장님, 김치찌개 하나 주세요. — साहुजी, एउटा खिम्ची झोल दिनुहोस्।",
+        "시원한 물 좀 주세요. — कृपया चिसो पानी दिनुहोस्।"
+      ]
     },
     {
       "point": "하고",
-      "explanation": "과/와 ‘하고’는 명사와 결합하여 그 명사를 다른 명사와 연결하거나 주로 구어에서 사용하는 ‘하고’와 달리 그 명사가 지시하는 대상이 어떤 일을 함께 하는 대상임을 ‘과/와’는 대개 격식적 상황이나 문어에 나타낸다. 서 사용한다. 앞에 오는 명사의 마지막 음절에 받침이 있으면 ‘과’, 받침이 없으 ‘하고’ combines with nouns to link them to other nouns or 면 ‘와’를 붙인다. to show that the noun it is attached to is participating in Unlike the colloquial ‘하고’, ‘와/과’ is used an action with another noun. in formal situations or written language. 연필하고 지우개가 있어요. has a final consonant, use ‘과’. If it does 토요일에 친구하고 축구했어요. not, use ‘와’. 날씨와 계절",
+      "explanation": "Used in spoken Korean to connect two nouns (and) or indicate with whom an action is performed.",
+      "explanationNp": "दुई नामहरूलाई जोड्दा 'र' वा कसैसँग मिलेर काम गर्दा 'सँग' भन्ने अर्थमा प्रयोग गरिन्छ। नाम + 하고 (बाच्छिम भए पनि नभए पनि '하고' नै जोडिन्छ)।",
       "examples": [
-        "예 우유하고 빵을 사요. If the last syllable of the preceding noun",
-        "예 빵과 우유"
-      ],
-      "explanationNp": "दुई वा दुईभन्दा बढी संज्ञा जोड्दा प्रयोग गरिन्छ। नेपालीमा 'र' वा 'सँग' भन्ने अर्थ दिन्छ।"
+        "식당에서 밥하고 국을 먹었어요. — रेस्टुरेन्टमा भात र सुप खाएँ।",
+        "친구하고 같이 쇼핑했어요. — साथीसँग मिलेर किनमेल गरेँ।"
+      ]
     }
   ],
   "conversations": [
@@ -152,6 +263,6 @@
       "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
-  "titleNp": "खाना अर्डर गर्ने",
+  "titleNp": "खाना अर्डर",
   "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_09.pdf"
 }

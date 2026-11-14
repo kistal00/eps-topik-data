@@ -12,35 +12,175 @@
   ],
   "vocabulary": [
     {
-      "korean": "생활용품",
-      "english": "Daily Necessities",
-      "nepali": "दैनिक आवश्यकताहरू"
+      "korean": "이것",
+      "english": "this (thing)",
+      "nepali": "यो (नजिकै भएको वस्तु)"
+    },
+    {
+      "korean": "저것",
+      "english": "that (over there)",
+      "nepali": "त्यो परको (टाढा भएको वस्तु)"
+    },
+    {
+      "korean": "그것",
+      "english": "that (thing)",
+      "nepali": "त्यो (सुन्ने व्यक्ति नजिक भएको वस्तु)"
+    },
+    {
+      "korean": "무엇 / 뭐",
+      "english": "what",
+      "nepali": "के"
+    },
+    {
+      "korean": "연필",
+      "english": "pencil",
+      "nepali": "सिसाकलम / पेन्सिल"
+    },
+    {
+      "korean": "볼펜",
+      "english": "(ballpoint) pen",
+      "nepali": "डटपेन"
+    },
+    {
+      "korean": "가위",
+      "english": "scissors",
+      "nepali": "कैंची"
+    },
+    {
+      "korean": "칼",
+      "english": "boxcutter / knife",
+      "nepali": "कटर / चक्कु"
+    },
+    {
+      "korean": "시계",
+      "english": "clock / watch",
+      "nepali": "घडी"
+    },
+    {
+      "korean": "달력",
+      "english": "calendar",
+      "nepali": "पात्रो (क्यालेन्डर)"
+    },
+    {
+      "korean": "컴퓨터",
+      "english": "computer",
+      "nepali": "कम्प्युटर"
+    },
+    {
+      "korean": "안경",
+      "english": "glasses",
+      "nepali": "चस्मा"
+    },
+    {
+      "korean": "휴대폰 / 휴대전화",
+      "english": "cell phone",
+      "nepali": "मोबाइल फोन"
+    },
+    {
+      "korean": "계산기",
+      "english": "calculator",
+      "nepali": "क्यालकुलेटर"
+    },
+    {
+      "korean": "컵",
+      "english": "cup",
+      "nepali": "कप"
+    },
+    {
+      "korean": "린스",
+      "english": "conditioner (rinse)",
+      "nepali": "कन्डिसनर (कपालको)"
+    },
+    {
+      "korean": "샴푸",
+      "english": "shampoo",
+      "nepali": "स्याम्पु"
+    },
+    {
+      "korean": "비누",
+      "english": "soap",
+      "nepali": "साबुन"
+    },
+    {
+      "korean": "칫솔",
+      "english": "toothbrush",
+      "nepali": "दाँत माझ्ने ब्रस"
+    },
+    {
+      "korean": "치약",
+      "english": "toothpaste",
+      "nepali": "मञ्जन (टुथपेस्ट)"
+    },
+    {
+      "korean": "수건",
+      "english": "towel",
+      "nepali": "तौलिया"
+    },
+    {
+      "korean": "면도기",
+      "english": "razor",
+      "nepali": "रेजर / दाह्री काट्ने मेसिन"
+    },
+    {
+      "korean": "휴지",
+      "english": "tissue / toilet paper",
+      "nepali": "टिस्यु / ट्वाइलेट पेपर"
+    },
+    {
+      "korean": "여권",
+      "english": "passport",
+      "nepali": "राहदानी (पासपोर्ट)"
+    },
+    {
+      "korean": "우산",
+      "english": "umbrella",
+      "nepali": "छाता"
+    },
+    {
+      "korean": "열쇠",
+      "english": "key",
+      "nepali": "चाबी / साँचो"
+    },
+    {
+      "korean": "지갑",
+      "english": "wallet",
+      "nepali": "पर्स / वालेट"
+    },
+    {
+      "korean": "가방",
+      "english": "bag",
+      "nepali": "झोला"
+    },
+    {
+      "korean": "베개",
+      "english": "pillow",
+      "nepali": "सिरानी"
+    },
+    {
+      "korean": "이불",
+      "english": "blanket / quilt",
+      "nepali": "ओढ्ने कम्बल / सिरक"
     }
   ],
   "grammar": [
     {
-      "point": "생활용품",
-      "explanation": "Daily Necessities 물건의 이름을 묻고 대답할 수 있다. 학습 목표 Can ask and answer the names of objects. LEARNING OBJECTIVES 지시어로 묻고 대답할 수 있다. Can ask and answer questions using demonstratives. 60 한국어 표준교재 1 CHAPTER 02 EPS-TOPIK 이건 뭐예요? 시계예요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION 이에요/예요 사무실 물건 한국에서 알뜰하게 이/가 아니에요 Office Supplies 생필품을 구입하는 팁 생활용품 Tips for Buying Daily Necessities Cheaply in Korea Daily Necessities 60 한국어 표준교재 1",
-      "examples": [],
-      "explanationNp": "생활용품 सम्बन्धी व्याकरण नियम र प्रयोग।"
-    },
-    {
-      "point": "이에요/예요",
-      "explanation": "‘이에요/예요’는 격식을 차리지 ‘이에요/예요’는 주어의 속성을 나타내는 명사와 결합하여, 비격식적 않아도 되는 상황에서 친근하 게 말할 때 사용한다. ‘입니다’ 상황에서 듣는 사람을 높여 말하는 문장의 서술어가 된다. 는 회의나 발표와 같이 공식적 주어의 속성에 대하여 물을 때는 ‘이에요/예요?’를 사용하고 문장의 인 자리에서 예의를 갖추고 말 끝 부분을 올려 발음한다. 할 때 사용한다. ‘이에요/예요’ is combined with a noun that expresses the attribute ‘이에요/예요’ is used in friendly, of the subject and functions as the predicate in a sentence where informal situations. ‘입니다’ is the speaker elevates the listener in an informal setting. When used in formal settings like asking about the subject's attribute, ‘이에요/예요?’ is used, and the meetings or presentations. end of the sentence is pronounced with a rising intonation. 받침 ○ 이에요 컵 → 컵이에요 받침 × 예요 시계 → 시계예요 그건 안경이에요. 가 : 어느 나라 사람이에요? 나 : 베트남 사람이에요.",
+      "point": "이에요 / 예요",
+      "explanation": "Attaches to a noun to mean 'to be' (am/is/are) in informal, polite spoken Korean.",
+      "explanationNp": "‘이에요/예요’ संज्ञासँग जोडिएर अनौपचारिक तर आदरार्थी बोलचालमा 'हो' भन्ने अर्थ दिने विधेय बन्छ। सोध्दा अन्तिम स्वर माथि उचालेर 'हो?' भनी प्रश्न गरिन्छ। अन्तिम अक्षरमा बाच्छिम (व्यञ्जन) भए '이에요' (उदा: 컵이에요), बाच्छिम नभए '예요' (उदा: 시계예요) जोडिन्छ।",
       "examples": [
-        "예 프엉 씨는 베트남 사람입니다.",
-        "예 이건 계산기예요."
-      ],
-      "explanationNp": "समय वा स्थान जनाउने प्रत्यय हो। नेपालीमा 'मा' वा 'तिर' भन्ने अर्थ लाग्दछ।"
+        "이건 계산기예요. — यो क्यालकुलेटर हो।",
+        "그건 안경이에요. — त्यो चस्मा हो।",
+        "가: 어느 나라 사람이에요? / 나: 베트남 사람이에요. — क: कुन देशको व्यक्ति हुनुहुन्छ? / ख: म भियतनामको नागरिक हुँ।"
+      ]
     },
     {
       "point": "이/가 아니에요",
-      "explanation": "‘아니에요’는 ‘이에요’의 부정 표현 ‘이/가 아니에요’는 주어의 속성을 나타내는 명사와 결합하여 그 이다. ‘이/가 아니에요’는 격식적인 속성이 사실이 아님을 나타낸다. 상황에서는 ‘이/가 아닙니다’로 사용 된다. ‘이/가 아니에요’ combines with a noun that shows that an ‘이/가 아니에요’ is the negative form attribute of the subject is not true. of ‘이에요’. In formal situations ‘이/ 가 아닙니다’ is used. 받침 ○ 이 아니에요 지갑 → 지갑이 아니에요 받침 × 가 아니에요 의사 → 의사가 아니에요 그건 휴지가 아니에요. 가 : 이건 유수프 씨 우산이에요? 나 : 아니요, 유수프 씨 우산이 아니에요.",
+      "explanation": "Combines with a noun to indicate the negation of 'to be' (is not / am not / are not).",
+      "explanationNp": "संज्ञाको पछाडि जोडिएर 'होइन' भन्ने नकारात्मक अर्थ दिन्छ। ‘이에요/예요’ को नकारात्मक रूप हो। बाच्छिम भए '이 아니에요' (उदा: 달력이 아니에요), बाच्छिम नभए '가 아니에요' (उदा: 시계가 아니에요) जोडिन्छ।",
       "examples": [
-        "예 이건 화장품이 아닙니다.",
-        "예 저는 인도 사람이 아니에요."
-      ],
-      "explanationNp": "कर्ता (Subject) कारक जनाउने प्रत्यय हो। बाच्छिम भए '이', बाच्छिम नभए '가' जोडिन्छ।"
+        "이건 볼펜이 아니에요. 연필이에요. — यो डटपेन होइन। पेन्सिल हो।",
+        "가: 저건 가방이에요? / 나: 아니요, 가방이 아니에요. — क: त्यो परको झोला हो? / ख: होइन, झोला होइन।"
+      ]
     }
   ],
   "conversations": [
@@ -212,6 +352,6 @@
       "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
-  "titleNp": "दैनिक उपभोग्य वस्तुहरू",
+  "titleNp": "दैनिक आवश्यकताका वस्तुहरू",
   "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_02.pdf"
 }

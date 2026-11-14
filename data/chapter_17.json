@@ -1,8 +1,8 @@
 {
   "version": 1,
   "chapterNo": 17,
-  "title": "휴가",
-  "titleEn": "Vacation",
+  "title": "약속",
+  "titleEn": "Appointments",
   "learningObjectives": [
     "휴가 계획을 말할 수 있다.",
     "여행 경험에 대해 묻고 대답할 수 있다.",
@@ -13,36 +13,67 @@
   ],
   "vocabulary": [
     {
-      "korean": "휴가",
-      "english": "Vacation",
-      "nepali": "बिदा"
+      "korean": "약속을 하다",
+      "english": "to make an appointment",
+      "nepali": "भेट्ने बाचा/समय तय गर्नु"
     },
     {
-      "korean": "콘도",
-      "english": "membership resort",
-      "nepali": "सदस्यता रिसोर्ट"
+      "korean": "약속을 지키다",
+      "english": "to keep an appointment",
+      "nepali": "बाचा पूरा गर्नु / समयको पालना गर्नु"
+    },
+    {
+      "korean": "약속을 어기다",
+      "english": "to break an appointment",
+      "nepali": "बाचा तोड्नु / समयमा नपुग्नु"
+    },
+    {
+      "korean": "약속에 늦다",
+      "english": "to be late for an appointment",
+      "nepali": "भेटघाटको समयमा ढिलो पुग्नु"
+    },
+    {
+      "korean": "일찍",
+      "english": "early",
+      "nepali": "चाँडै / समय अगावै"
+    },
+    {
+      "korean": "늦게",
+      "english": "late",
+      "nepali": "ढिलो गरी"
+    },
+    {
+      "korean": "영화관 / 극장",
+      "english": "movie theater / cinema",
+      "nepali": "चलचित्र हल (सिनेमा हल)"
+    },
+    {
+      "korean": "커피숍",
+      "english": "coffee shop",
+      "nepali": "कफी सप"
+    },
+    {
+      "korean": "정문",
+      "english": "main entrance / gate",
+      "nepali": "मुख्य ढोका / प्रवेशद्वार"
     }
   ],
   "grammar": [
     {
-      "point": "휴가",
-      "explanation": "Vacation 휴가 계획을 말할 수 있다. 학습 목표 Can talk about vacation plans. LEARNING OBJECTIVES 여행 경험에 대해 묻고 대답할 수 있다. Can ask and answer questions about travel experiences. 210 한국어 표준교재 1 CHAPTER 17 EPS-TOPIK 휴가 때 뭐 하려고 해요? 부산에 가려고 해요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -(으)ㄹ 때 여행 관련 어휘 한국의 문화유산 -(으)려고 하다 Vocabulary Related to Travel Korea's Cultural Heritage 여행지 관련 어휘 Vocabulary Related to Travel Destinations 210 한국어 표준교재 1",
-      "examples": [],
-      "explanationNp": "휴가 सम्बन्धी व्याकरण नियम र प्रयोग।"
-    },
-    {
-      "point": "때",
-      "explanation": "‘-(으)ㄹ 때’는 동사, 형용사에 붙어 어떤 일이 일어나는 시간을 나타내는 명사와 함께 사용할 때는 순간이나 계속되는 동안을 나타낸다. ‘명사 때’의 구성으로 사용할 수 있다. 단, ‘주말’, ‘요일’, ‘오전’, ‘오후’ 등의 명사와는 ‘-(으)ㄹ 때’ is attached to verbs and adjectives to 사용할 수 없다. indicate the moment when something happens or the duration during which something continues. When used with nouns indicating time, However, it cannot be used with nouns like 받침 ○ -을 때 먹다 → 먹을 때 ‘주말 (weekend)’, ‘요일 (day of the week)’, ‘오전 (AM)’, or ‘오후 (PM)’. 가다 → 갈 때 받침 ×, 받침 ‘ㄹ’ -ㄹ 때 만들다 → 만들 때 예 휴가 때 부산에 갈 거예요. 제주도에 갈 때 비행기를 타요. 음식을 만들 때 기분이 좋아요.",
+      "point": "-(으)ㄹ까요?",
+      "explanation": "Used when suggesting an action together or asking for the listener's opinion.",
+      "explanationNp": "सुन्ने व्यक्तिलाई सँगै केही गर्न प्रस्ताव गर्दा वा उसको विचार सोध्दा प्रयोग गरिन्छ। बाच्छिम भए '-을까요?' (उदा: 먹을까요? = खाउँ कि?), बाच्छिम नभए वा 'ㄹ' भए '-ㄹ까요?' (उदा: 갈까요? = जाउँ कि?, 만날까요? = भेटौं कि?)।",
       "examples": [
-        "예 시간이 있을 때 여행을 가요."
-      ],
-      "explanationNp": "कुनै कार्य वा अवस्था भइरहेको समय जनाउँछ। नेपालीमा '... गर्दाको समयमा / बखत' भन्ने अर्थ लाग्छ।"
+        "우리 몇 시에 만날까요? / 6시에 만나요. — क: हामी कति बजे भेटौं त? / ख: ६ बजे भेटौं।"
+      ]
     },
     {
-      "point": "친구를 만나다 책을 읽다",
-      "explanation": "⑵ ⑶ 가 : 주말에 뭐 하려고 해요? 가 : 휴가 때 뭐 하려고 해요? 나 : . 나 : . 쇼핑하다 제주도에 가다",
-      "examples": [],
-      "explanationNp": "친구를 만나다 책을 읽다 सम्बन्धी व्याकरण नियम र प्रयोग।"
+      "point": "-(으)ㅂ시다",
+      "explanation": "Used to make a formal suggestion or agreement to act together.",
+      "explanationNp": "औपचारिक रूपमा अरूलाई सँगै कार्य गर्न अनुरोध गर्दा प्रयोग गरिन्छ। बाच्छिम भए '-읍시다' (उदा: 먹읍시다 = खाऔं), बाच्छिम नभए वा 'ㄹ' भए '-ㅂ시다' (उदा: 만납시다 = भेटौं, 갑시다 = जाऔं)।",
+      "examples": [
+        "회사 앞에서 만납시다. — कम्पनी अगाडि भेटौं।"
+      ]
     }
   ],
   "conversations": [
@@ -246,6 +277,6 @@
       "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
-  "titleNp": "बिदा तथा छुट्टी",
+  "titleNp": "भेटघाट र बाचा",
   "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_17.pdf"
 }

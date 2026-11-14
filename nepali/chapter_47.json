@@ -1,0 +1,162 @@
+{
+  "chapterNo": 47,
+  "titleKo": "연안 어업과 양식",
+  "titleEn": "Coastal Fishery and Aquaculture",
+  "titleNp": "समुद्री माछा मार्ने र माछा पालन",
+  "learningObjectives": [
+    {
+      "id": "ch47_obj_01",
+      "korean": "어업 도구와 조업 활동에 대해 말할 수 있다.",
+      "english": "Can talk about fishery tools and offshore fishing activities.",
+      "nepali": "माछा मार्ने औजार र समुन्द्रमा गरिने कामबारे कुराकानी गर्न सक्नुहुनेछ।"
+    },
+    {
+      "id": "ch47_obj_02",
+      "korean": "양식장 관리 및 시설 유지에 대해 설명할 수 있다.",
+      "english": "Can explain fish farm management and facility maintenance.",
+      "nepali": "माछा पोखरी (एक्वाकल्चर) व्यवस्थापन र उपकरणको मर्मतबारे बताउन सक्नुहुनेछ।"
+    }
+  ],
+  "vocabulary1": {
+    "topicKo": "어업 도구와 조업 어휘",
+    "topicEn": "Fishery Tools and Activities",
+    "topicNp": "माछा मार्ने औजार र क्रियाकलाप",
+    "words": [
+      {
+        "korean": "그물",
+        "english": "fishing net",
+        "nepali": "माछा मार्ने जाल"
+      },
+      {
+        "korean": "통발",
+        "english": "fish trap / pot",
+        "nepali": "धोक्से (माछा/काँक्रा पार्ने जालको भाँडो)"
+      },
+      {
+        "korean": "양망기",
+        "english": "net hauler / net winch",
+        "nepali": "जाल तान्ने मेसिन"
+      },
+      {
+        "korean": "밧줄",
+        "english": "thick rope",
+        "nepali": "मोटो डोरी"
+      },
+      {
+        "korean": "닻",
+        "english": "anchor",
+        "nepali": "जहाज अड्याउने लङ्गर"
+      },
+      {
+        "korean": "부표",
+        "english": "buoy / float",
+        "nepali": "पानीमा तैरिने संकेत (बोया)"
+      },
+      {
+        "korean": "바늘대",
+        "english": "net mending needle",
+        "nepali": "जाल बुन्ने सियो"
+      },
+      {
+        "korean": "그물을 던지다",
+        "english": "to cast a fishing net",
+        "nepali": "जाल हान्नु / फ्याँक्नु"
+      },
+      {
+        "korean": "그물을 끌어올리다",
+        "english": "to pull up a net",
+        "nepali": "जाल माथि तान्नु"
+      },
+      {
+        "korean": "고기를 잡다",
+        "english": "to catch fish",
+        "nepali": "माछा समात्नु"
+      }
+    ]
+  },
+  "grammar1": {
+    "point": "-는 동안에",
+    "meaningNp": "...भइरहँदा / ...हुन्जेलसम्म (कुनै कार्य चलिरहेको अवधि / While / During the time that...)",
+    "explanationEn": "Attaches to verbs to indicate the duration of time during which an action or state continues.",
+    "explanationNp": "क्रियापदमा जोडिएर कुनै कार्य चलिरहेको समय अवधिभर अर्को घटना घट्दा प्रयोग गरिन्छ। '에' नराखेर '-는 동안' मात्र पनि भनिन्छ।",
+    "ruleNp": "धातुमा 받침 भए पनि नभए पनि सिधै '-는 동안에' जोडिन्छ।",
+    "examples": [
+      {
+        "korean": "배가 이동하는 동안에 그물을 손질하세요.",
+        "english": "While the boat is moving, please mend the nets.",
+        "nepali": "डुङ्गा अगाडि बढिरहेको बेलामा जाल मर्मत गर्नुहोस्।"
+      },
+      {
+        "korean": "점심을 먹는 동안에 비가 내렸어요.",
+        "english": "While we were eating lunch, it rained.",
+        "nepali": "दिउँसोको खाना खाइरहँदा पानी पर्‍यो।"
+      }
+    ]
+  },
+  "vocabulary2": {
+    "topicKo": "양식업 관련 어휘",
+    "topicEn": "Aquaculture Vocabulary",
+    "topicNp": "माछा तथा समुद्री जीव पालन",
+    "words": [
+      {
+        "korean": "양식장",
+        "english": "aquaculture farm / fish farm",
+        "nepali": "माछा पालन केन्द्र / पोखरी"
+      },
+      {
+        "korean": "수조",
+        "english": "water tank",
+        "nepali": "पानीको ट्यांकी"
+      },
+      {
+        "korean": "펌프",
+        "english": "water pump",
+        "nepali": "पानी तान्ने पम्प"
+      },
+      {
+        "korean": "산소 공급기",
+        "english": "oxygen supply system / aerator",
+        "nepali": "अक्सिजन दिने मेसिन"
+      },
+      {
+        "korean": "온도계",
+        "english": "thermometer",
+        "nepali": "तापक्रम नाप्ने यन्त्र (थर्मोमिटर)"
+      },
+      {
+        "korean": "치어",
+        "english": "fry / young fish",
+        "nepali": "माछाको भुरा"
+      },
+      {
+        "korean": "사료를 주다",
+        "english": "to feed fish",
+        "nepali": "माछालाई दाना खुवाउनु"
+      },
+      {
+        "korean": "수질 관리",
+        "english": "water quality management",
+        "nepali": "पानीको गुणस्तर व्यवस्थापन"
+      }
+    ]
+  },
+  "grammar2": {
+    "point": "-기로 하다",
+    "meaningNp": "...गर्ने निर्णय गरें / ...गर्ने निधो भयो (निर्णय वा योजना / Decided to...)",
+    "explanationEn": "Attaches to verbs to indicate a decision, plan, resolution, or mutual agreement to do something.",
+    "explanationNp": "क्रियापदमा जोडिएर कुनै कार्य गर्ने निर्णय, पक्का योजना वा आपसमा भएको सहमति व्यक्त गर्न प्रयोग गरिन्छ।",
+    "ruleNp": "धातुमा सिधै '-기로 하다' जोडिन्छ।",
+    "examples": [
+      {
+        "korean": "내일 새벽에 바다로 나가기로 했어요.",
+        "english": "We decided to head out to sea tomorrow at dawn.",
+        "nepali": "भोलि बिहानै समुन्द्रमा जाने निर्णय गर्‍यौं।"
+      },
+      {
+        "korean": "제가 수조를 청소하기로 했어요.",
+        "english": "I decided to clean the water tanks.",
+        "nepali": "मैले पानीको ट्यांकी सफा गर्ने निधो गरें।"
+      }
+    ]
+  }
+}

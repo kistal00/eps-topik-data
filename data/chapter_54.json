@@ -10,27 +10,94 @@
   ],
   "vocabulary": [
     {
-      "korean": "공사중",
-      "english": "to not smoke or eat",
-      "nepali": "चुरोट नखाने वा नखाने"
+      "korean": "환기 장치를 켜다",
+      "english": "to turn on the ventilation system",
+      "nepali": "हावा फाल्ने भेन्टिलेटर खोल्नु"
+    },
+    {
+      "korean": "보호구를 착용하다",
+      "english": "to wear personal protective equipment (PPE)",
+      "nepali": "सुरक्षा सामग्री लगाउनु"
+    },
+    {
+      "korean": "출입 금지 구역",
+      "english": "restricted / no-entry area",
+      "nepali": "प्रवेश निषेध गरिएको क्षेत्र"
+    },
+    {
+      "korean": "비상구",
+      "english": "emergency exit",
+      "nepali": "आपतकालीन ढोका (एक्जिट)"
+    },
+    {
+      "korean": "소화기",
+      "english": "fire extinguisher",
+      "nepali": "आगो निभाउने यन्त्र (अग्निनियन्त्रक)"
+    },
+    {
+      "korean": "작업 수칙을 지키다",
+      "english": "to observe work regulations",
+      "nepali": "कामको सुरक्षा नियम पालना गर्नु"
+    },
+    {
+      "korean": "안전 점검을 하다",
+      "english": "to conduct safety inspections",
+      "nepali": "सुरक्षा जाँच गर्नु"
+    },
+    {
+      "korean": "정비",
+      "english": "maintenance / servicing",
+      "nepali": "मर्मतसम्भार"
+    },
+    {
+      "korean": "수리",
+      "english": "repair",
+      "nepali": "मर्मत"
+    },
+    {
+      "korean": "교체",
+      "english": "replacement",
+      "nepali": "फेर्ने काम (पार्ट्स साट्ने)"
+    },
+    {
+      "korean": "전원을 차단하다",
+      "english": "to cut / shut off power supply",
+      "nepali": "बिजुलीको मेन स्विच बन्द गर्नु"
+    },
+    {
+      "korean": "점검 중 표지",
+      "english": "Under Inspection sign",
+      "nepali": "'जाँच हुँदैछ' भन्ने बोर्ड"
+    },
+    {
+      "korean": "끼임 사고",
+      "english": "entrapment / jamming accident",
+      "nepali": "मेसिनमा हातखुट्टा च्यापिने दुर्घटना"
+    },
+    {
+      "korean": "추락 사고",
+      "english": "fall accident",
+      "nepali": "माथिबाट खस्ने दुर्घटना"
     }
   ],
   "grammar": [
     {
-      "point": "산업 안전 및 보건 수칙",
-      "explanation": "Industrial Safety and Health Regulations 안전 및 보건 수칙에 대해 묻고 대답할 수 있다. 학습 목표 Can ask and answer questions about safety and health preservation regulations. LEARNING OBJECTIVES 산업 재해 예방을 위한 준수 사항을 말할 수 있다. Can talk about terms of compliance for preventing industrial accidents. CHAPTER 54 EPS-TOPIK 보호구를 착용하니까 좀 답답해요. 폐 질환 등을 예방하기 위한 것이니까 꼭 착용하세요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -도록 하다 안전 및 보건 수칙 대피로 표지 -기 위해 Safety and Health Preservation Evacuation Route Signs Regulations 산업 재해 예방을 위한 준수 사항 Terms of Compliance for Industrial Accident Prevention 246 한국어 표준교재 2",
-      "examples": [],
-      "explanationNp": "산업 안전 및 보건 수칙 सम्बन्धी व्याकरण नियम र प्रयोग।"
+      "point": "-도록 하다",
+      "explanation": "Attaches to verbs to instruct, order, or strongly advise someone to perform an action or reach a certain state.",
+      "explanationNp": "क्रियापदमा जोडिएर अरू कसैलाई कुनै कार्य अनिवार्य पालना गर्न निर्देशन दिन वा सल्लाह दिन प्रयोग गरिन्छ। धातुमा सिधै '-도록 하다' जोडिन्छ।",
+      "examples": [
+        "작업 전에는 반드시 환기 장치를 켜도록 하세요. — काम सुरु गर्नुअगाडि अनिवार्य रूपमा भेन्टिलेटर खोल्ने गर्नुहोस्।",
+        "안전모 턱끈을 꼭 조이도록 하십시오. — सुरक्षा टोपीको फिता अवश्य कस्ने गर्नुहोस्।"
+      ]
     },
     {
-      "point": "시킴을 당하는 사람이 드러",
-      "explanation": "‘-도록 하다’는 동사에 붙어 다른 사람에게 어떤 일을 하게 함을 나타 나지 않으면 사동의 의미가 낸다. 없어진다. ‘-도록 하다’ is attached to verbs to indicate making another person do If the person being directed something. isn’t specified, the causative meaning disappears. 10일까지 휴가를 신청하도록 하세요. 습니다. 안전 규칙을 지키도록 하세요. ※ 부정적인 내용을 서술할 때에는 ‘-지 않도록 하다’를 사용한다. To state negative contents, it takes the form ‘-지 않도록 하다’. 출근 시간에 늦지 않도록 하세요.",
+      "point": "-기 위해(서)",
+      "explanation": "Attaches to verbs and nouns (명사 + 을/를 위해) to express the purpose or goal of doing the main action.",
+      "explanationNp": "क्रियापदमा जोडिएर कुनै उद्देश्य प्राप्त गर्नका लागि मुख्य काम गरिन्छ भन्ने स्पष्ट पार्न प्रयोग गरिन्छ। धातुमा सिधै '-기 위해(서)' जोडिन्छ। नामपदसँग 'नाम + 을/를 위해' हुन्छ।",
       "examples": [
-        "예 작업을 할 때는 개인 보호구를 착용하도록 하세요.",
-        "예 제 가 현장에 가 보도록 하겠",
-        "예 이곳에는 들어가지 않도록 하세요."
-      ],
-      "explanationNp": "시킴을 당하는 사람이 드러 सम्बन्धी व्याकरण नियम र प्रयोग।"
+        "사고를 예방하기 위해서 안전 수칙을 준수해야 해요. — दुर्घटना रोकथाम गर्नका लागि सुरक्षा नियम पालना गर्नैपर्छ।",
+        "안전을 위해 안전화를 신으세요. — सुरक्षाका लागि सेफ्टी जुत्ता लगाउनुहोस्।"
+      ]
     }
   ],
   "conversations": [

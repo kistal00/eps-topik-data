@@ -1,0 +1,181 @@
+{
+  "version": 2,
+  "chapterNo": 3,
+  "titleKo": "위치와 장소",
+  "titleEn": "Locations and Places",
+  "titleNp": "स्थान र ठाउँहरू",
+  "learningObjectives": [
+    {
+      "id": "ch03_obj_01",
+      "korean": "집에 있는 물건에 대해 말할 수 있다.",
+      "english": "Can talk about items at home.",
+      "nepali": "घरमा भएका सामानहरूको बारेमा बताउन सक्नुहुनेछ।"
+    },
+    {
+      "id": "ch03_obj_02",
+      "korean": "사람이나 물건이 있는 장소에 대해 말할 수 있다.",
+      "english": "Can talk about where a person or object is.",
+      "nepali": "व्यक्ति वा वस्तु रहेको स्थानको बारेमा बताउन सक्नुहुनेछ।"
+    }
+  ],
+  "vocabulary1": {
+    "topicKo": "가구와 전자제품",
+    "topicEn": "Furniture and Electronics",
+    "topicNp": "फर्निचर र विद्युतीय उपकरणहरू",
+    "words": [
+      { "korean": "에어컨", "english": "air conditioner", "nepali": "एयर कन्डिसनर (एसी)" },
+      { "korean": "침대", "english": "bed", "nepali": "खाट / बेड" },
+      { "korean": "의자", "english": "chair", "nepali": "कुर्सी" },
+      { "korean": "책상", "english": "desk", "nepali": "टेबुल / डेस्क" },
+      { "korean": "옷장", "english": "closet / wardrobe", "nepali": "दराज (कपडा राख्ने)" },
+      { "korean": "소파", "english": "sofa", "nepali": "सोफा" },
+      { "korean": "텔레비전", "english": "television", "nepali": "टेलिभिजन" },
+      { "korean": "전자레인지", "english": "microwave oven", "nepali": "माइक्रोवेभ ओभन" },
+      { "korean": "세탁기", "english": "washing machine", "nepali": "कपडा धुने मेसिन (वासिङ मेसिन)" },
+      { "korean": "냉장고", "english": "refrigerator", "nepali": "फ्रिज (रेफ्रिजरेटर)" },
+      { "korean": "청소기", "english": "vacuum cleaner", "nepali": "भ्याकुम क्लिनर" },
+      { "korean": "식탁", "english": "dining table", "nepali": "डाइनिङ टेबुल (खाना खाने टेबुल)" }
+    ]
+  },
+  "grammar1": {
+    "point": "이/가 있어요, 없어요",
+    "meaningNp": "छ / छैन (अस्तित्व वा स्वामित्व जनाउने)",
+    "explanationEn": "Indicates the existence or possession of a person or object.",
+    "explanationNp": "कर्ता वा वस्तुको उपस्थिति (छ) वा अनुपस्थिति (छैन) व्यक्त गर्दा प्रयोग गरिन्छ।",
+    "ruleNp": "बाच्छिम भए '이 있어요/없어요' (उदा: 옷장이 있어요), बाच्छिम नभए '가 있어요/없어요' (उदा: 침대가 있어요) जोडिन्छ।",
+    "examples": [
+      {
+        "korean": "방에 침대가 있어요.",
+        "english": "There is a bed in the room.",
+        "nepali": "कोठामा खाट छ।"
+      },
+      {
+        "korean": "거실에 텔레비전이 없어요.",
+        "english": "There is no television in the living room.",
+        "nepali": "बैठक कोठामा टेलिभिजन छैन।"
+      }
+    ]
+  },
+  "dialogue1": {
+    "titleNp": "संवाद १",
+    "lines": [
+      {
+        "speaker": "자하라 (Zahara)",
+        "korean": "텔레비전은 어디에 있어요?",
+        "english": "Where is the television?",
+        "nepali": "टेलिभिजन कहाँ छ?"
+      },
+      {
+        "speaker": "민수 (Minsu)",
+        "korean": "거실에 있어요.",
+        "english": "It's in the living room.",
+        "nepali": "बैठक कोठा (लिभिङ रुम) मा छ।"
+      },
+      {
+        "speaker": "자하라 (Zahara)",
+        "korean": "냉장고는 어디에 있어요?",
+        "english": "Where is the refrigerator?",
+        "nepali": "फ्रिज चाहिँ कहाँ छ?"
+      },
+      {
+        "speaker": "민수 (Minsu)",
+        "korean": "부엌에 있어요.",
+        "english": "It's in the kitchen.",
+        "nepali": "भान्सा कोठामा छ।"
+      }
+    ]
+  },
+  "vocabulary2": {
+    "topicKo": "장소",
+    "topicEn": "Places",
+    "topicNp": "स्थान र ठाउँहरू",
+    "words": [
+      { "korean": "회사", "english": "company / workplace", "nepali": "कम्पनी / कार्यालय" },
+      { "korean": "식당", "english": "restaurant", "nepali": "रेस्टुरेन्ट / भोजनालय" },
+      { "korean": "은행", "english": "bank", "nepali": "बैंक" },
+      { "korean": "커피숍", "english": "coffee shop / cafe", "nepali": "कफी सप" },
+      { "korean": "편의점", "english": "convenience store", "nepali": "सुविधा पसल (२४ घण्टे पसल)" },
+      { "korean": "시장", "english": "market", "nepali": "बजार" },
+      { "korean": "미용실", "english": "hair salon / barbershop", "nepali": "कपाल काट्ने सैलुन" },
+      { "korean": "슈퍼마켓", "english": "supermarket", "nepali": "सुपरमार्केट" },
+      { "korean": "약국", "english": "pharmacy", "nepali": "औषधि पसल (फार्मेसी)" },
+      { "korean": "병원", "english": "hospital", "nepali": "अस्पताल" },
+      { "korean": "우체국", "english": "post office", "nepali": "हुलाक कार्यालय" },
+      { "korean": "집", "english": "house / home", "nepali": "घर" },
+      { "korean": "방", "english": "room", "nepali": "कोठा" },
+      { "korean": "화장실", "english": "restroom / bathroom", "nepali": "शौचालय" },
+      { "korean": "거실", "english": "living room", "nepali": "बैठक कोठा" },
+      { "korean": "여기", "english": "here", "nepali": "यहाँ" },
+      { "korean": "거기", "english": "there", "nepali": "त्यहाँ" },
+      { "korean": "저기", "english": "over there", "nepali": "त्यहाँ पर" },
+      { "korean": "어디", "english": "where", "nepali": "कहाँ" }
+    ]
+  },
+  "grammar2": {
+    "point": "에 있어요 / 없어요",
+    "meaningNp": "ठाउँमा छ / ठाउँमा छैन (स्थान प्रत्यय)",
+    "explanationEn": "Attaches to place nouns to indicate the location where something exists or does not exist.",
+    "explanationNp": "स्थान जनाउने नामको पछाडि '에' (मा) जोडेर व्यक्ति वा वस्तु कुन ठाउँमा छ वा छैन भन्ने दर्शाउँछ।",
+    "ruleNp": "स्थान + 에 있어요 (उदा: 회사에 있어요 = कम्पनीमा हुनुहुन्छ/छ)",
+    "examples": [
+      {
+        "korean": "투안 씨는 지금 회사에 있어요.",
+        "english": "Tuan is at the company right now.",
+        "nepali": "तुआन जी अहिले कम्पनीमा हुनुहुन्छ।"
+      },
+      {
+        "korean": "가: 약국이 어디에 있어요? / 나: 저기에 있어요.",
+        "english": "Q: Where is the pharmacy? / A: It is over there.",
+        "nepali": "क: औषधि पसल कहाँ छ? / ख: त्यहाँ पर छ।"
+      }
+    ]
+  },
+  "dialogue2": {
+    "titleNp": "संवाद २",
+    "lines": [
+      {
+        "speaker": "리한 (Rihan)",
+        "korean": "여기가 기숙사예요?",
+        "english": "Is this the dormitory?",
+        "nepali": "यहाँ होस्टेल हो?"
+      },
+      {
+        "speaker": "투안 (Tuan)",
+        "korean": "네, 기숙사예요.",
+        "english": "Yes, it is the dormitory.",
+        "nepali": "हो, होस्टेल हो।"
+      },
+      {
+        "speaker": "리한 (Rihan)",
+        "korean": "세탁실은 어디에 있어요?",
+        "english": "Where is the laundry room?",
+        "nepali": "लुगा धुने कोठा (ल्यान्ड्री रुम) कहाँ छ?"
+      },
+      {
+        "speaker": "투안 (Tuan)",
+        "korean": "1층에 있어요.",
+        "english": "It's on the first floor.",
+        "nepali": "पहिलो तलामा छ।"
+      }
+    ]
+  },
+  "cultureAndInfo": {
+    "titleKo": "한국의 주거 형태",
+    "titleEn": "Housing Types in Korea",
+    "titleNp": "कोरियामा बसोबासका प्रकारहरू",
+    "sections": [
+      {
+        "subtitleNp": "१. अपार्टमेन्ट (아파트)",
+        "contentNp": "कोरियामा धेरै परिवारहरू बहु-तले आधुनिक अपार्टमेन्टहरूमा बसोबास गर्छन्।"
+      },
+      {
+        "subtitleNp": "२. वान-रुम (원룸)",
+        "contentNp": "एउटै कोठामा भान्सा, सुत्ने ठाउँ र शौचालय जोडिएको एकल कोठा, जो एक्लै बस्ने कामदार वा विद्यार्थीहरूले धेरै प्रयोग गर्छन्।"
+      },
+      {
+        "subtitleNp": "३. होस्टेल / कम्पनी क्वार्टर (기숙사)",
+        "contentNp": "विदेशी कामदारहरूको सुविधाको लागि कम्पनीले उपलब्ध गराउने साझा आवास, जहाँ साझा भान्सा र लुगा धुने ठाउँ हुन्छ।"
+      }
+    ]
+  }
+}

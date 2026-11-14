@@ -1,0 +1,209 @@
+{
+  "chapterNo": 11,
+  "titleKo": "집안일",
+  "titleEn": "Household Chores",
+  "titleNp": "घरायसी कामहरू",
+  "learningObjectives": [
+    {
+      "id": "ch11_obj_01",
+      "korean": "쓰레기 버리는 법에 대해 묻고 대답할 수 있다.",
+      "english": "Can ask and answer questions about waste disposal.",
+      "nepali": "फोहोर फाल्ने तरिकाको बारेमा सोध्न र उत्तर दिन सक्नुहुनेछ।"
+    },
+    {
+      "id": "ch11_obj_02",
+      "korean": "집안일에 대해 말할 수 있다.",
+      "english": "Can talk about household chores.",
+      "nepali": "घरभित्र गरिने सरसफाइ र घरायसी कामहरूबारे बताउन सक्नुहुनेछ।"
+    }
+  ],
+  "vocabulary1": {
+    "topicKo": "쓰레기 분리배출",
+    "topicEn": "Waste Separation and Disposal",
+    "topicNp": "फोहोरको वर्गीकरण र विसर्जन",
+    "words": [
+      {
+        "korean": "일반쓰레기",
+        "english": "general waste",
+        "nepali": "साधारण (नकुहिने) फोहोर"
+      },
+      {
+        "korean": "음식물쓰레기",
+        "english": "food waste",
+        "nepali": "भान्छाको खानेकुराको फोहोर (कुहिने फोहोर)"
+      },
+      {
+        "korean": "재활용품",
+        "english": "recyclable materials",
+        "nepali": "पुनःप्रयोग गर्न मिल्ने सामानहरू"
+      },
+      {
+        "korean": "헌 옷",
+        "english": "old clothes",
+        "nepali": "पुराना कपडाहरू"
+      },
+      {
+        "korean": "유리 (유리병)",
+        "english": "glass (glass bottle)",
+        "nepali": "सिसा (सिसाको बोतल)"
+      },
+      {
+        "korean": "종이 (신문, 상자)",
+        "english": "paper (newspaper, box)",
+        "nepali": "कागज (पत्रिका, कार्टुन)"
+      },
+      {
+        "korean": "캔",
+        "english": "cans",
+        "nepali": "टिन / क्यान"
+      },
+      {
+        "korean": "플라스틱",
+        "english": "plastic",
+        "nepali": "प्लास्टिक"
+      },
+      {
+        "korean": "쓰레기봉투",
+        "english": "trash bag",
+        "nepali": "फोहोरको झोला (सरकारी स्ट्याम्प भएको)"
+      },
+      {
+        "korean": "따로 버리다",
+        "english": "to throw away separately",
+        "nepali": "छुट्याएर छुट्टाछुट्टै फाल्नु"
+      },
+      {
+        "korean": "수거함에 버리다",
+        "english": "to dispose in collection box",
+        "nepali": "फोहोर संकलन बाकसमा फाल्नु"
+      }
+    ]
+  },
+  "grammar1": {
+    "point": "-아야/어야 되다 (하다)",
+    "meaningNp": "गर्नुपर्छ (दायित्व वा कानुनी अनिवार्यता / Must / Have to)",
+    "explanationEn": "Attaches to verbs and adjectives to express necessity, obligation, or requirement.",
+    "explanationNp": "कुनै कार्य गर्नैपर्ने दायित्व, नियम वा कर्तव्य व्यक्त गर्दा धातुको पछाडि जोडिन्छ।",
+    "ruleNp": "धातुको स्वर 'ㅏ, ㅗ' भए '-아야 되다' (उदा: 가다 → 가야 돼요 = जानुपर्छ), अन्य स्वर भए '-어야 되다' (उदा: 버리다 → 버려야 돼요 = फाल्नुपर्छ), '하다' भए '-해야 되다' (उदा: 분리하다 → 분리해야 돼요 = छुट्याउनुपर्छ)।",
+    "examples": [
+      {
+        "korean": "캔하고 유리병은 따로 버려야 돼요.",
+        "english": "Cans and glass bottles must be thrown away separately.",
+        "nepali": "क्यान र सिसाका बोतल छुट्टाछुट्टै फाल्नुपर्छ।"
+      },
+      {
+        "korean": "일반쓰레기는 종량제 봉투에 넣어야 돼요.",
+        "english": "General waste must be put in designated volume-rate garbage bags.",
+        "nepali": "साधारण फोहोर सरकारी फोहोरको झोलामा हाल्नुपर्छ।"
+      }
+    ]
+  },
+  "dialogue1": {
+    "titleNp": "संवाद १",
+    "lines": [
+      {
+        "speaker": "투안 (Tuan)",
+        "korean": "캔하고 유리병을 같이 버려요?",
+        "english": "Do we throw away cans and glass bottles together?",
+        "nepali": "क्यान र सिसाको बोतल सँगै फाल्ने हो?"
+      },
+      {
+        "speaker": "리한 (Rihan)",
+        "korean": "아니요, 따로 버려야 돼요. 재활용품은 종류별로 분리해서 버려야 해요.",
+        "english": "No, you have to throw them separately. Recyclables must be separated by type.",
+        "nepali": "होइन, छुट्टाछुट्टै फाल्नुपर्छ। पुनःप्रयोग हुने सामान प्रकार अनुसार छुट्याएर फाल्नुपर्छ।"
+      }
+    ]
+  },
+  "vocabulary2": {
+    "topicKo": "집안일",
+    "topicEn": "Household Chores",
+    "topicNp": "घरायसी काम र सरसफाइ",
+    "words": [
+      {
+        "korean": "세탁기를 돌리다",
+        "english": "to run the washing machine",
+        "nepali": "लुगा धुने मेसिन चलाउनु"
+      },
+      {
+        "korean": "빨래를 널다",
+        "english": "to hang the laundry",
+        "nepali": "धोएको लुगा सुकाउनु"
+      },
+      {
+        "korean": "빨래를 걷다",
+        "english": "to take down the laundry",
+        "nepali": "सुकेको लुगा उठाउनु"
+      },
+      {
+        "korean": "옷을 다리다",
+        "english": "to iron clothes",
+        "nepali": "कपडा इस्त्री गर्नु"
+      },
+      {
+        "korean": "옷을 개다",
+        "english": "to fold clothes",
+        "nepali": "कपडा पट्याउनु"
+      },
+      {
+        "korean": "먼지를 털다",
+        "english": "to dust off",
+        "nepali": "धुलो टक्टक्याउनु / झार्नु"
+      },
+      {
+        "korean": "빗자루로 쓸다",
+        "english": "to sweep with a broom",
+        "nepali": "कुचोले बढार्नु"
+      },
+      {
+        "korean": "걸레로 닦다",
+        "english": "to wipe with a cloth",
+        "nepali": "टालोले पुछ्नु"
+      },
+      {
+        "korean": "청소기를 돌리다",
+        "english": "to vacuum",
+        "nepali": "भ्याकुम क्लिनर चलाउनु"
+      },
+      {
+        "korean": "정리하다",
+        "english": "to organize / tidy up",
+        "nepali": "सामान मिलाएर राख्नु"
+      }
+    ]
+  },
+  "grammar2": {
+    "point": "-(으)ㄹ게요",
+    "meaningNp": "गर्नेछु (वक्ताको दृढ इच्छा वा प्रतिज्ञा / I will)",
+    "explanationEn": "Used only with first person subjects to make a promise or show strong willingness to the listener.",
+    "explanationNp": "सुन्ने व्यक्तिलाई कुनै काम गर्ने दृढ बचन वा प्रतिज्ञा गर्दा प्रयोग गरिन्छ। यो केवल 'म' वा 'हामी' सँग मात्र प्रयोग हुन्छ।",
+    "ruleNp": "बाच्छिम भए '-을게요' (उदा: 먹을게요 = खानेछु), बाच्छिम नभए वा 'ㄹ' भए '-ㄹ게요' (उदा: 제가 청소할게요 = म सफा गर्नेछु)।",
+    "examples": [
+      {
+        "korean": "방이 너무 더러워요. / 제가 청소할게요.",
+        "english": "The room is very dirty. / I will clean it.",
+        "nepali": "कोठा धेरै फोहोर छ। / म सफा गर्नेछु।"
+      },
+      {
+        "korean": "설거지는 제가 할게요.",
+        "english": "I will do the dishes.",
+        "nepali": "भाँडा म माझ्नेछु।"
+      }
+    ]
+  },
+  "cultureAndInfo": {
+    "titleKo": "쓰레기 종량제 및 분리배출",
+    "titleEn": "Volume-Rate Waste Fee System in Korea",
+    "titleNp": "कोरियामा फोहोर विसर्जन र झोला खरिद गर्ने नियम",
+    "sections": [
+      {
+        "subtitleNp": "१. सरकारी फोहोरको झोला (종량제 봉투)",
+        "contentNp": "कोरियामा साधारण फोहोर र खानेकुराको फोहोर निश्चित मूल्य तिरेर सुपरमार्केटबाट किनिएको सरकारी स्ट्याम्प भएको झोलामा मात्र फाल्न पाइन्छ।"
+      },
+      {
+        "subtitleNp": "२. पुनःप्रयोग हुने फोहोर (재활용 분리)",
+        "contentNp": "सिसा, प्लास्टिक, कागज, र क्यानहरूलाई भित्रबाट सफा गरी निश्चित बार र स्थानमा मात्र छुट्याएर फाल्नुपर्छ। नियम मिचेमा जरिवाना हुन्छ।"
+      }
+    ]
+  }
+}

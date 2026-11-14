@@ -1,0 +1,157 @@
+{
+  "chapterNo": 36,
+  "titleKo": "출하 관리",
+  "titleEn": "Shipment Management",
+  "titleNp": "माल ढुवानी व्यवस्थापन",
+  "learningObjectives": [
+    {
+      "id": "ch36_obj_01",
+      "korean": "포장 작업 과정에 대해 말할 수 있다.",
+      "english": "Can talk about the packaging process.",
+      "nepali": "प्याकिङ प्रक्रियाबारे बताउन सक्नुहुनेछ।"
+    },
+    {
+      "id": "ch36_obj_02",
+      "korean": "출하 과정에서의 지시를 이해할 수 있다.",
+      "english": "Can understand instructions during shipment.",
+      "nepali": "ढुवानी प्रक्रियाका निर्देशनहरू बुझ्न सक्नुहुनेछ।"
+    }
+  ],
+  "vocabulary1": {
+    "topicKo": "포장 관련 어휘",
+    "topicEn": "Packaging Vocabulary",
+    "topicNp": "प्याकिङ सम्बन्धी शब्दावली",
+    "words": [
+      {
+        "korean": "포장하다",
+        "english": "to pack / package",
+        "nepali": "प्याकिङ गर्नु"
+      },
+      {
+        "korean": "상자에 담다",
+        "english": "to put into boxes",
+        "nepali": "बाकसमा हाल्नु"
+      },
+      {
+        "korean": "밀봉하다",
+        "english": "to seal",
+        "nepali": "सिल गर्नु"
+      },
+      {
+        "korean": "테이프를 붙이다",
+        "english": "to apply tape",
+        "nepali": "टेप लगाउनु"
+      },
+      {
+        "korean": "라벨을 붙이다",
+        "english": "to attach a label",
+        "nepali": "लेबल टाँस्नु"
+      },
+      {
+        "korean": "완충재",
+        "english": "cushioning material",
+        "nepali": "झट्का रोक्ने सामग्री (बफर)"
+      },
+      {
+        "korean": "파렛트",
+        "english": "pallet",
+        "nepali": "प्यालेट (काठको चौरस ढकनी)"
+      },
+      {
+        "korean": "지게차",
+        "english": "forklift",
+        "nepali": "फोर्कलिफ्ट"
+      },
+      {
+        "korean": "컨베이어 벨트",
+        "english": "conveyor belt",
+        "nepali": "कन्भेयर बेल्ट"
+      }
+    ]
+  },
+  "grammar1": {
+    "point": "-냐고 하다",
+    "meaningNp": "...भनेर सोध्नुभयो (अरूको प्रश्न दोहोर्‍याउँदा / Indirect question: Someone asked whether...)",
+    "explanationEn": "Used to relay a question someone else asked (indirect quotation of questions).",
+    "explanationNp": "अरू कसैले सोधेको प्रश्न दोहोर्‍याएर बताउँदा प्रयोग गरिन्छ।",
+    "ruleNp": "क्रिया/विशेषण '-냐고 하다', नामपद '(이)냐고 하다' हुन्छ।",
+    "examples": [
+      {
+        "korean": "반장님이 포장이 다 끝났냐고 했어요.",
+        "english": "The team leader asked whether all the packing was done.",
+        "nepali": "टिम लिडरले प्याकिङ सबै सकियो कि भनेर सोध्नुभयो।"
+      },
+      {
+        "korean": "사장님이 출하 준비가 되었냐고 물었어요.",
+        "english": "The boss asked if the shipment was ready.",
+        "nepali": "बॉसले ढुवानीको तयारी भयो कि भनेर सोध्नुभयो।"
+      }
+    ]
+  },
+  "vocabulary2": {
+    "topicKo": "출하 관련 어휘",
+    "topicEn": "Shipment Terms",
+    "topicNp": "ढुवानी सम्बन्धी शब्दावली",
+    "words": [
+      {
+        "korean": "출하하다",
+        "english": "to ship / send out goods",
+        "nepali": "माल पठाउनु / डिस्प्याच गर्नु"
+      },
+      {
+        "korean": "배송하다",
+        "english": "to deliver",
+        "nepali": "डेलिभरी गर्नु"
+      },
+      {
+        "korean": "트럭에 싣다",
+        "english": "to load onto a truck",
+        "nepali": "ट्रकमा माल लाद्नु"
+      },
+      {
+        "korean": "내리다",
+        "english": "to unload",
+        "nepali": "माल ओरोस्नु"
+      },
+      {
+        "korean": "운반하다",
+        "english": "to transport / carry",
+        "nepali": "ओसार्नु"
+      },
+      {
+        "korean": "수량을 확인하다",
+        "english": "to check quantity",
+        "nepali": "परिमाण जाँच्नु"
+      },
+      {
+        "korean": "거래처",
+        "english": "client / business partner",
+        "nepali": "व्यापारी ग्राहक / बिजनेस पार्टनर"
+      },
+      {
+        "korean": "납품하다",
+        "english": "to deliver (goods to a client)",
+        "nepali": "ग्राहकलाई माल बुझाउनु"
+      }
+    ]
+  },
+  "grammar2": {
+    "point": "-달라고 하다",
+    "meaningNp": "...दिनुहोस् भन्नुभयो (अरूको अनुरोध दोहोर्‍याउँदा / Someone asked me to give/do something for them)",
+    "explanationEn": "Used to relay a request from someone else, specifically when the action benefits the requester.",
+    "explanationNp": "अरू कसैले आफूलाई केही गरिदिनुहोस् भनेर अनुरोध गरेको कुरा दोहोर्‍याउँदा प्रयोग गरिन्छ।",
+    "ruleNp": "क्रियापदको धातुमा सिधै '-달라고 하다' जोडिन्छ।",
+    "examples": [
+      {
+        "korean": "반장님이 상자를 더 가져다 달라고 했어요.",
+        "english": "The team leader asked to bring more boxes.",
+        "nepali": "टिम लिडरले अरू बाकस ल्याइदिनुहोस् भन्नुभयो।"
+      },
+      {
+        "korean": "동료가 내일 좀 도와 달라고 했어요.",
+        "english": "A colleague asked me to help a bit tomorrow.",
+        "nepali": "सहकर्मीले भोलि अलि सहयोग गरिदिनुहोस् भन्यो।"
+      }
+    ]
+  }
+}

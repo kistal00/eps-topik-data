@@ -11,26 +11,179 @@
   ],
   "vocabulary": [
     {
-      "korean": "장소",
-      "english": "Places",
-      "nepali": "स्थान"
+      "korean": "에어컨",
+      "english": "air conditioner",
+      "nepali": "एयर कन्डिसनर (एसी)"
+    },
+    {
+      "korean": "침대",
+      "english": "bed",
+      "nepali": "खाट / बेड"
+    },
+    {
+      "korean": "의자",
+      "english": "chair",
+      "nepali": "कुर्सी"
+    },
+    {
+      "korean": "책상",
+      "english": "desk",
+      "nepali": "टेबुल / डेस्क"
+    },
+    {
+      "korean": "옷장",
+      "english": "closet / wardrobe",
+      "nepali": "दराज (कपडा राख्ने)"
+    },
+    {
+      "korean": "소파",
+      "english": "sofa",
+      "nepali": "सोफा"
+    },
+    {
+      "korean": "텔레비전",
+      "english": "television",
+      "nepali": "टेलिभिजन"
+    },
+    {
+      "korean": "전자레인지",
+      "english": "microwave oven",
+      "nepali": "माइक्रोवेभ ओभन"
+    },
+    {
+      "korean": "세탁기",
+      "english": "washing machine",
+      "nepali": "कपडा धुने मेसिन (वासिङ मेसिन)"
+    },
+    {
+      "korean": "냉장고",
+      "english": "refrigerator",
+      "nepali": "फ्रिज (रेफ्रिजरेटर)"
+    },
+    {
+      "korean": "청소기",
+      "english": "vacuum cleaner",
+      "nepali": "भ्याकुम क्लिनर"
+    },
+    {
+      "korean": "식탁",
+      "english": "dining table",
+      "nepali": "डाइनिङ टेबुल (खाना खाने टेबुल)"
+    },
+    {
+      "korean": "회사",
+      "english": "company / workplace",
+      "nepali": "कम्पनी / कार्यालय"
+    },
+    {
+      "korean": "식당",
+      "english": "restaurant",
+      "nepali": "रेस्टुरेन्ट / भोजनालय"
+    },
+    {
+      "korean": "은행",
+      "english": "bank",
+      "nepali": "बैंक"
+    },
+    {
+      "korean": "커피숍",
+      "english": "coffee shop / cafe",
+      "nepali": "कफी सप"
+    },
+    {
+      "korean": "편의점",
+      "english": "convenience store",
+      "nepali": "सुविधा पसल (२४ घण्टे पसल)"
+    },
+    {
+      "korean": "시장",
+      "english": "market",
+      "nepali": "बजार"
+    },
+    {
+      "korean": "미용실",
+      "english": "hair salon / barbershop",
+      "nepali": "कपाल काट्ने सैलुन"
+    },
+    {
+      "korean": "슈퍼마켓",
+      "english": "supermarket",
+      "nepali": "सुपरमार्केट"
+    },
+    {
+      "korean": "약국",
+      "english": "pharmacy",
+      "nepali": "औषधि पसल (फार्मेसी)"
+    },
+    {
+      "korean": "병원",
+      "english": "hospital",
+      "nepali": "अस्पताल"
+    },
+    {
+      "korean": "우체국",
+      "english": "post office",
+      "nepali": "हुलाक कार्यालय"
+    },
+    {
+      "korean": "집",
+      "english": "house / home",
+      "nepali": "घर"
+    },
+    {
+      "korean": "방",
+      "english": "room",
+      "nepali": "कोठा"
+    },
+    {
+      "korean": "화장실",
+      "english": "restroom / bathroom",
+      "nepali": "शौचालय"
+    },
+    {
+      "korean": "거실",
+      "english": "living room",
+      "nepali": "बैठक कोठा"
+    },
+    {
+      "korean": "여기",
+      "english": "here",
+      "nepali": "यहाँ"
+    },
+    {
+      "korean": "거기",
+      "english": "there",
+      "nepali": "त्यहाँ"
+    },
+    {
+      "korean": "저기",
+      "english": "over there",
+      "nepali": "त्यहाँ पर"
+    },
+    {
+      "korean": "어디",
+      "english": "where",
+      "nepali": "कहाँ"
     }
   ],
   "grammar": [
     {
-      "point": "위치와 장소",
-      "explanation": "Locations and Places 집에 있는 물건에 대해 말할 수 있다. 학습 목표 Can talk about items at home. LEARNING OBJECTIVES 사람이나 물건이 있는 장소에 대해 말할 수 있다. Can talk about where a person or object is. CHAPTER 03 EPS-TOPIK 텔레비전은 어디에 있어요? 거실에 있어요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION 이/가 있어요, 없어요 가구와 전자제품 한국의 도시 에(장소) Furniture and Electronics Korea's Cities 장소 Places 70 한국어 표준교재 1",
-      "examples": [],
-      "explanationNp": "위치와 장소 सम्बन्धी व्याकरण नियम र प्रयोग।"
+      "point": "이/가 있어요, 없어요",
+      "explanation": "Indicates the existence or possession of a person or object.",
+      "explanationNp": "कर्ता वा वस्तुको उपस्थिति (छ) वा अनुपस्थिति (छैन) व्यक्त गर्दा प्रयोग गरिन्छ। बाच्छिम भए '이 있어요/없어요' (उदा: 옷장이 있어요), बाच्छिम नभए '가 있어요/없어요' (उदा: 침대가 있어요) जोडिन्छ।",
+      "examples": [
+        "방에 침대가 있어요. — कोठामा खाट छ।",
+        "거실에 텔레비전이 없어요. — बैठक कोठामा टेलिभिजन छैन।"
+      ]
     },
     {
-      "point": "이/가 있어요, 없어요",
-      "explanation": "‘이/가’는 명사와 결합하여 ‘이/가 있어요’는 사람이나 물건의 존재, 소유를 나타낸다. ‘이/가 없어요’는 문장의 주어임을 나타낸다. 존재하지 않거나 소유하고 있지 않을 때 사용한다. ‘이/가’ combines with a noun to indicate the subject of a ‘이/가 있어요’ shows the existence or possession of a person or object. sentence. ‘이/가 없어요’ is used when something does not exist or is not possessed. 책상 → 책상이 있어요 받침 ○ 이 있어요, 없어요 텔레비전 → 텔레비전이 없어요 소파 → 소파가 있어요 받침 × 가 있어요, 없어요 냉장고 → 냉장고가 없어요 의자가 있어요. 컴퓨터가 없어요. ※ 존 재나 소유에 대하여 물을 때는 형태 변화 없이 ‘이/가 있어요?, 없어요?’를 사용한다. When asking about the existence or possession of something, ‘이/가 있어요?, 없어요?’ is used.",
+      "point": "에 있어요 / 없어요",
+      "explanation": "Attaches to place nouns to indicate the location where something exists or does not exist.",
+      "explanationNp": "स्थान जनाउने नामको पछाडि '에' (मा) जोडेर व्यक्ति वा वस्तु कुन ठाउँमा छ वा छैन भन्ने दर्शाउँछ। स्थान + 에 있어요 (उदा: 회사에 있어요 = कम्पनीमा हुनुहुन्छ/छ)",
       "examples": [
-        "예 이름이 뭐예요?",
-        "예 옷장이 있어요."
-      ],
-      "explanationNp": "कर्ता (Subject) कारक जनाउने प्रत्यय हो। बाच्छिम भए '이', बाच्छिम नभए '가' जोडिन्छ।"
+        "투안 씨는 지금 회사에 있어요. — तुआन जी अहिले कम्पनीमा हुनुहुन्छ।",
+        "가: 약국이 어디에 있어요? / 나: 저기에 있어요. — क: औषधि पसल कहाँ छ? / ख: त्यहाँ पर छ।"
+      ]
     }
   ],
   "conversations": [

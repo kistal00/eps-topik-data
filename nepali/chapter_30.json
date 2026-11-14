@@ -1,0 +1,162 @@
+{
+  "chapterNo": 30,
+  "titleKo": "한국의 대중문화",
+  "titleEn": "Korean Popular Culture",
+  "titleNp": "कोरियाको लोकप्रिय संस्कृति",
+  "learningObjectives": [
+    {
+      "id": "ch30_obj_01",
+      "korean": "경기 관람 및 한류 문화(K-Pop, 드라마)에 대해 말할 수 있다.",
+      "english": "Can talk about sports events and Hallyu culture (K-Pop, K-Dramas).",
+      "nepali": "खेलकुद रंगशाला अवलोकन र कोरियाली लहर (K-Pop, सिरियल) बारे कुराकानी गर्न सक्नुहुनेछ।"
+    },
+    {
+      "id": "ch30_obj_02",
+      "korean": "자신의 감상이나 생각을 부드럽게 표현할 수 있다.",
+      "english": "Can express opinions and impressions politely.",
+      "nepali": "आफ्ना विचार र अनुभवहरू नम्रतापूर्वक व्यक्त गर्न सक्नुहुनेछ।"
+    }
+  ],
+  "vocabulary1": {
+    "topicKo": "경기 관람 관련 어휘",
+    "topicEn": "Watching Sports Vocabulary",
+    "topicNp": "खेलकुद प्रतियोगिता अवलोकन",
+    "words": [
+      {
+        "korean": "경기장",
+        "english": "stadium / sports arena",
+        "nepali": "रंगशाला (स्टेडियम)"
+      },
+      {
+        "korean": "관람하다",
+        "english": "to watch / view a game or show",
+        "nepali": "अवलोकन गर्नु / हेर्नु"
+      },
+      {
+        "korean": "관중",
+        "english": "audience / crowd / spectators",
+        "nepali": "दर्शकवृन्द"
+      },
+      {
+        "korean": "관중석",
+        "english": "spectator seating",
+        "nepali": "दर्शक बस्ने सिट"
+      },
+      {
+        "korean": "응원단",
+        "english": "cheering squad",
+        "nepali": "हुटिङ गर्ने टोली"
+      },
+      {
+        "korean": "응원가",
+        "english": "cheering song / anthem",
+        "nepali": "हुटिङ गीत"
+      },
+      {
+        "korean": "응원하다",
+        "english": "to cheer on / support",
+        "nepali": "हुटिङ गर्नु / समर्थन गर्नु"
+      },
+      {
+        "korean": "이기다",
+        "english": "to win",
+        "nepali": "जित्नु"
+      },
+      {
+        "korean": "지다",
+        "english": "to lose",
+        "nepali": "हार्नु"
+      },
+      {
+        "korean": "비기다",
+        "english": "to tie / draw",
+        "nepali": "बराबरी हुनु (ड्र हुनु)"
+      }
+    ]
+  },
+  "grammar1": {
+    "point": "-는/(으)ㄴ 것 같다",
+    "meaningNp": "...जस्तो लाग्छ (अनुमान वा नम्र राय / It seems that / I think that)",
+    "explanationEn": "Attaches to verbs and adjectives to make a gentle guess or express one's opinion modestly.",
+    "explanationNp": "क्रियापद वा विशेषणमा जोडिएर कुनै घटनाको अनुमान लगाउन वा आफ्नो विचार नम्रतापूर्वक व्यक्त गर्न प्रयोग गरिन्छ।",
+    "ruleNp": "वर्तमान काल क्रियापदसँग '-는 것 같다', विशेषणमा 받침 भए '-은 것 같다', नभए '-ㄴ 것 같다' जोडिन्छ।",
+    "examples": [
+      {
+        "korean": "한국에서는 축구가 인기가 많은 것 같아요.",
+        "english": "I think soccer is very popular in Korea.",
+        "nepali": "कोरियामा फुटबल निकै लोकप्रिय छ जस्तो लाग्छ।"
+      },
+      {
+        "korean": "오늘 비가 올 것 같아요.",
+        "english": "It looks like it will rain today.",
+        "nepali": "आज पानी पर्ला जस्तो छ।"
+      }
+    ]
+  },
+  "vocabulary2": {
+    "topicKo": "한류 관련 어휘",
+    "topicEn": "Hallyu (Korean Wave) Vocabulary",
+    "topicNp": "हान्ल्यु (कोरियाली लहर) सम्बन्धी शब्दावली",
+    "words": [
+      {
+        "korean": "한류",
+        "english": "Hallyu (Korean Wave)",
+        "nepali": "हान्ल्यु (विश्वभर फैलिएको कोरियाली कला-संस्कृति)"
+      },
+      {
+        "korean": "K-팝",
+        "english": "K-pop (Korean pop music)",
+        "nepali": "के-पप (कोरियाली पप संगीत)"
+      },
+      {
+        "korean": "K-드라마",
+        "english": "K-drama",
+        "nepali": "के-ड्रामा (कोरियाली टेलिशृङ्खला)"
+      },
+      {
+        "korean": "K-푸드",
+        "english": "K-food",
+        "nepali": "के-फुड (कोरियाली परिकार)"
+      },
+      {
+        "korean": "K-뷰티",
+        "english": "K-beauty",
+        "nepali": "के-ब्युटी (कोरियाली सौन्दर्य उत्पादन)"
+      },
+      {
+        "korean": "가수",
+        "english": "singer",
+        "nepali": "गायक / गायिका"
+      },
+      {
+        "korean": "배우",
+        "english": "actor / actress",
+        "nepali": "अभिनेता / अभिनेत्री"
+      },
+      {
+        "korean": "팬",
+        "english": "fan / admirer",
+        "nepali": "प्रशंसक (फ्यान)"
+      }
+    ]
+  },
+  "grammar2": {
+    "point": "-기 쉽다 / 어렵다",
+    "meaningNp": "...गर्न सजिलो छ / गाह्रो छ (सरलता वा कठिनाइ / Easy / Difficult to do)",
+    "explanationEn": "Attaches to verbs to express that doing an action is easy or difficult, or likely/unlikely to happen.",
+    "explanationNp": "क्रियापदमा जोडिएर कुनै कार्य गर्न सजिलो वा गाह्रो छ, अथवा कुनै घटना घट्ने सम्भावना बढी छ भनी व्यक्त गरिन्छ।",
+    "ruleNp": "받침 भए पनि नभए पनि क्रियाको धातुमा सिधै '-기 쉽다' वा '-기 어렵다' जोडिन्छ।",
+    "examples": [
+      {
+        "korean": "이 책은 설명이 잘 되어 있어서 공부하기 쉬워요.",
+        "english": "This book is well-explained so it is easy to study.",
+        "nepali": "यो किताबमा व्याख्या राम्रोसँग गरिएकोले अध्ययन गर्न सजिलो छ।"
+      },
+      {
+        "korean": "주말에는 기차표를 예매하기 어려워요.",
+        "english": "It is difficult to book train tickets on weekends.",
+        "nepali": "सप्ताहन्तमा रेलको टिकट काट्न गाह्रो हुन्छ।"
+      }
+    ]
+  }
+}

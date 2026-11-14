@@ -10,25 +10,146 @@
     "• 사물의 상태와 관련된 어휘들을 말할 수 있다.",
     "• 필요한 것을 상대방에게 요청할 수 있다."
   ],
-  "vocabulary": [],
+  "vocabulary": [
+    {
+      "korean": "크다",
+      "english": "to be big",
+      "nepali": "ठूलो हुनु"
+    },
+    {
+      "korean": "작다",
+      "english": "to be small",
+      "nepali": "सानो हुनु"
+    },
+    {
+      "korean": "싱싱하다",
+      "english": "to be fresh",
+      "nepali": "ताजा हुनु (फलफूल, तरकारी)"
+    },
+    {
+      "korean": "상하다",
+      "english": "to be spoiled / rotten",
+      "nepali": "बिग्रनु / सड्नु"
+    },
+    {
+      "korean": "많다",
+      "english": "to be many / much",
+      "nepali": "धेरै हुनु"
+    },
+    {
+      "korean": "적다",
+      "english": "to be few / little",
+      "nepali": "थोरै हुनु"
+    },
+    {
+      "korean": "싸다",
+      "english": "to be cheap",
+      "nepali": "सस्तो हुनु"
+    },
+    {
+      "korean": "비싸다",
+      "english": "to be expensive",
+      "nepali": "महँगो हुनु"
+    },
+    {
+      "korean": "가볍다",
+      "english": "to be light",
+      "nepali": "हल्का हुनु"
+    },
+    {
+      "korean": "무겁다",
+      "english": "to be heavy",
+      "nepali": "गह्रौं हुनु"
+    },
+    {
+      "korean": "길다",
+      "english": "to be long",
+      "nepali": "लामो हुनु"
+    },
+    {
+      "korean": "짧다",
+      "english": "to be short",
+      "nepali": "छोटो हुनु"
+    },
+    {
+      "korean": "과일 (수박, 사과, 딸기)",
+      "english": "fruit (watermelon, apple, strawberry)",
+      "nepali": "फलफूल (खर्बुजा, स्याउ, स्ट्रबेरी)"
+    },
+    {
+      "korean": "돈 / 현금",
+      "english": "money / cash",
+      "nepali": "पैसा / नगद"
+    },
+    {
+      "korean": "동전",
+      "english": "coin",
+      "nepali": "सिक्का (१०, ५०, १००, ५०० वन)"
+    },
+    {
+      "korean": "지폐",
+      "english": "paper banknote",
+      "nepali": "कागजी नोट (१०००, ५०००, १००००, ५०००० वन)"
+    },
+    {
+      "korean": "신용카드",
+      "english": "credit card",
+      "nepali": "क्रेडिट कार्ड"
+    },
+    {
+      "korean": "값 / 가격",
+      "english": "price",
+      "nepali": "मूल्य / भाउ"
+    },
+    {
+      "korean": "값을 깎다",
+      "english": "to bargain / get a discount",
+      "nepali": "भाउ घटाउनु / बार्गेनिङ गर्नु"
+    },
+    {
+      "korean": "계산하다",
+      "english": "to pay / settle the bill",
+      "nepali": "हिसाब गर्नु / रकम तिर्नु"
+    },
+    {
+      "korean": "넣다",
+      "english": "to put in",
+      "nepali": "हाल्नु / राख्नु"
+    },
+    {
+      "korean": "포장하다 / 싸다",
+      "english": "to wrap / pack",
+      "nepali": "प्याक गर्नु / पोको पार्नु"
+    },
+    {
+      "korean": "바꾸다 / 교환하다",
+      "english": "to exchange",
+      "nepali": "साट्नु (सामान फेर्नु / एक्सचेन्ज गर्नु)"
+    },
+    {
+      "korean": "환불하다",
+      "english": "to get a refund",
+      "nepali": "फिर्ता गरेर पैसा फिर्ता लिनु (रिफन्ड)"
+    }
+  ],
   "grammar": [
     {
-      "point": "물건 구입",
-      "explanation": "Shopping 물건의 상태에 대해 묻고 대답할 수 있다. 학습 목표 Can ask and answer about the descriptions of things. LEARNING OBJECTIVES 필요한 것을 상대방에게 요청할 수 있다. Can request items needed from others. 140 한국어 표준교재 1 CHAPTER 10 EPS-TOPIK 어서 오세요. 과일이 싱싱하네요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -네요 상태 관련 어휘 무인 판매점 -아/어 주세요 Description Words Unmanned Stores 화폐 및 물품 구매 관련 어휘 Vocabulary Related to Currency and Purchasing Items 140 한국어 표준교재 1",
-      "examples": [],
-      "explanationNp": "물건 구입 सम्बन्धी व्याकरण नियम र प्रयोग।"
+      "point": "-네요",
+      "explanation": "Used to express exclamation, admiration, or surprise upon discovering or experiencing something new.",
+      "explanationNp": "आफूले भर्खरै देखेको, अनुभव गरेको वा थाहा पाएको कुरामा आश्चर्य वा प्रशंसा व्यक्त गर्दा प्रयोग गरिन्छ। धातु + 네요 (बाच्छिम भए पनि नभए पनि '네요' नै जोडिन्छ। उदा: 크네요 = ठूलो रहेछ!, 덥네요 = गर्मी रहेछ नि!)।",
+      "examples": [
+        "수박이 정말 크고 싱싱하네요! — खर्बुजा साँच्चै ठूलो र ताजा रहेछ नि!",
+        "투안 씨는 한국말을 참 잘하네요. — तुआन जीले त कोरियन भाषा धेरै राम्रो बोल्नुहुँदो रहेछ।"
+      ]
     },
     {
-      "point": "춥다 예쁘다 어렵다 비싸다",
-      "explanation": "⑴ 가 : 영어 공부가 어때요? ⑵ 가 : 날씨가 어때요? 나 : 조금 . 나 : 오늘 정말 . ⑶ 가 : 이 수박은 삼만 원이에요. ⑷ 가 : 이 사람이 우리 언니예요. 나 : 네? . 나 : 언니가 .",
-      "examples": [],
-      "explanationNp": "춥다 예쁘다 어렵다 비싸다 सम्बन्धी व्याकरण नियम र प्रयोग।"
-    },
-    {
-      "point": "들다 바꾸다 만들다 전화하다 청소하다",
-      "explanation": "[ 보기 ] 지금은 일해요. 오후에 전화해 주세요. ⑴ 사과가 상했어요. 사과를 . ⑵ 상자가 너무 무거워요. 상자를 좀 . ⑶ 김치찌개를 좋아해요. 김치찌개를 . ⑷ 사무실이 어지럽네요. 사무실을 좀 .",
-      "examples": [],
-      "explanationNp": "들다 바꾸다 만들다 전화하다 청소하다 सम्बन्धी व्याकरण नियम र प्रयोग।"
+      "point": "-아/어 주세요",
+      "explanation": "Attaches to verbs to politely request someone to perform an action for the speaker.",
+      "explanationNp": "क्रियाको धातुसँग जोडिएर अरू व्यक्तिलाई कुनै काम गरिदिनको लागि विनम्र अनुरोध गर्दा प्रयोग गरिन्छ। धातुको स्वर 'ㅏ, ㅗ' भए '-아 주세요' (उदा: 깎다 → 깎아 주세요 = घटाइदिनुहोस्), अन्य स्वर भए '-어 주세요' (उदा: 포장하다 → 포장해 주세요 = प्याक गरिदिनुहोस्, 바꾸다 → 바꿔 주세요 = साटिदिनुहोस्)।",
+      "examples": [
+        "봉투에 넣어 주세요. — झोलामा (प्लास्टिक ब्यागमा) हालिदिनुहोस्।",
+        "바지가 작아요. 다른 것으로 교환해 주세요. — प्यान्ट सानो भयो। अर्कोसँग साटिदिनुहोस्।"
+      ]
     }
   ],
   "conversations": [
@@ -207,6 +328,6 @@
       "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
-  "titleNp": "सामान खरिद गर्ने",
+  "titleNp": "सामान खरिद",
   "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_10.pdf"
 }

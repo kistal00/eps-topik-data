@@ -2,7 +2,7 @@
   "version": 1,
   "chapterNo": 51,
   "title": "숙박 서비스",
-  "titleEn": "Accomodation Services",
+  "titleEn": "Accommodation Services",
   "learningObjectives": [
     "객실 정비 업무와 관련한 대화를 할 수 있다.",
     "객실 정비 중 발생한 문제점에 대해 묻고 대답할 수 있다.",
@@ -11,62 +11,104 @@
   ],
   "vocabulary": [
     {
-      "korean": "마른걸레",
-      "english": "dry cloth",
-      "nepali": "सुख्खा कपडा"
+      "korean": "비품실 (린넨실)",
+      "english": "supply room / linen room",
+      "nepali": "सामान कोठा (लिनन रुम)"
     },
     {
-      "korean": "수건",
+      "korean": "청소도구함",
+      "english": "cleaning toolbox / cart",
+      "nepali": "सरसफाइका सामान राख्ने बाकस/ट्रली"
+    },
+    {
+      "korean": "방향제",
+      "english": "air freshener",
+      "nepali": "सुगन्ध छर्कने स्प्रे (एयर फ्रेसनर)"
+    },
+    {
+      "korean": "마른걸레",
+      "english": "dry cloth / dusting rag",
+      "nepali": "सुख्खा टालो"
+    },
+    {
+      "korean": "젖은걸레",
+      "english": "wet / damp cloth",
+      "nepali": "भिजेको टालो"
+    },
+    {
+      "korean": "세제",
+      "english": "cleaning detergent",
+      "nepali": "सफा गर्ने सर्फ/साबुन (डिटर्जेन्ट)"
+    },
+    {
+      "korean": "비누",
+      "english": "soap",
+      "nepali": "साबुन"
+    },
+    {
+      "korean": "샴푸",
+      "english": "shampoo",
+      "nepali": "स्याम्पु"
+    },
+    {
+      "korean": "수건 (타월)",
       "english": "towel",
       "nepali": "तौलिया"
     },
     {
-      "korean": "시트",
-      "english": "mop",
-      "nepali": "MOP"
-    },
-    {
-      "korean": "생수",
-      "english": "collection bin soap toothpaste toothbrush",
-      "nepali": "संग्रह बिन साबुन टूथपेस्ट टूथब्रश"
+      "korean": "객실",
+      "english": "guest room",
+      "nepali": "होटेलको पाहुना कोठा"
     },
     {
       "korean": "전등",
-      "english": "light",
-      "nepali": "खुशी"
+      "english": "electric light / lamp",
+      "nepali": "बिजुलीको बत्ती"
     },
     {
-      "korean": "이불보",
-      "english": "duvet cover",
-      "nepali": "डुभेट कभर"
+      "korean": "침대 시트",
+      "english": "bedsheet",
+      "nepali": "ओछ्यानको तन्ना"
     },
     {
-      "korean": "침대보",
-      "english": "bed sheet",
-      "nepali": "तन्ना"
+      "korean": "베개 커버",
+      "english": "pillowcase",
+      "nepali": "सिरानीको खोल"
+    },
+    {
+      "korean": "환기하다",
+      "english": "to ventilate",
+      "nepali": "हावा ओहोरदोहोर गराउनु"
+    },
+    {
+      "korean": "휴지통을 비우다",
+      "english": "to empty the trash can",
+      "nepali": "डस्टबिन खाली गर्नु"
+    },
+    {
+      "korean": "정비하다 (정돈하다)",
+      "english": "to make up the room / tidy",
+      "nepali": "कोठा चिटिक्क मिलाउनु"
     }
   ],
   "grammar": [
     {
-      "point": "숙박 서비스",
-      "explanation": "Accomodation Services 객실 정비 업무와 관련한 대화를 할 수 있다. 학습 목표 Can engage in conversations related to room cleaning tasks. LEARNING OBJECTIVES 객실 정비 중 발생한 문제점에 대해 묻고 대답할 수 있다. Can ask and answer questions about problems encountered during room cleaning. CHAPTER 51 EPS-TOPIK 하우스키핑 카트가 안 움직여. 살짝 당겼다가 앞으로 밀어 봐. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -았다가/었다가 호텔 비품실 물품 관련 어휘 한국의 관광지 반말 Vocabulary Related to Hotel Tourist Spots in Korea Supplies Room Items 객실 정비 관련 어휘 Vocabulary Related to Room Cleaning 216 한국어 표준교재 2",
-      "examples": [],
-      "explanationNp": "숙박 서비스 सम्बन्धी व्याकरण नियम र प्रयोग।"
-    },
-    {
-      "point": "/ 끄다",
-      "explanation": "나 : 네, 잘 작동하는지 확인하려고 . ⑵ 커튼을 열다 가 : 청소 마치고 객실 커튼을 쳤어요? / 다시 치다 나 : 네, 청소할 때 . ⑶ 가 : 왜 수거함에서 시트를 다시 꺼내요? 시트를 수거함에 넣다 / 다시 꺼내다 나 : 손 님이 잃어버린 물건이 있는지 확인하려고 . 218 한국어 표준교재 2",
-      "examples": [],
-      "explanationNp": "/ 끄다 सम्बन्धी व्याकरण नियम र प्रयोग।"
-    },
-    {
-      "point": "반말",
-      "explanation": "반말은 비격식적 상황에서 아랫사람이나 친근한 관계의 사람에게 높이려는 의도가 없이 쓰는 말로, 일반적으로 종결어미에 의해 구별된다. ‘-아/어, -느냐/(으)냐, -니/(으)니, -자, -아/어(라)’ 등이 반말 종결어미이다. non-honorific speech (banmal) is used in informal situations, usually between close acquaintances or when addressing someone younger or of lower status without the intention of elevating them. It is generally distinguished by sentence endings, such as ‘-아/어, -느냐/(으)냐, -니/(으)니, -자, -아/어(라).’ 평서문 -아/어 청유문 -아/어, -자 -아/어, -느냐/(으)냐, 응, 아니 의문문 명령문 -아/어(라) -니/(으)니 격식체에서 사용하는 ‘예/아니요’에 대응한다. 상대방이 묻는 말에 긍정적으로 대답할 때는 ‘응’, 부정적으로 대답할 때는 ‘아니’를 사용한다. 매일 자전거를 타고 회사에 가니? 명절에는 우리집에 모여서 같이 음식을 만들자. ‘응/아니’ correspond to the formal expressions ‘예/아니요’. When responding affirmatively, use ※ 명사와 함께 사용될 때는 ‘(이)야’의 형태가 된다. ‘응’, and when responding negatively, use ‘아니’. When used with a noun, formal ‘이에요/예요’ 예 가 : 내일은 늦지 마. 나 : 응, 일찍 올게. takes the form ‘(이)야’. 가 : 전원을 켰어? 나 : 아니, 안 켰어.",
+      "point": "-았다가/었다가",
+      "explanation": "Attaches to verbs to show that an action was completed, and then its result was immediately undone or replaced by a conflicting action.",
+      "explanationNp": "क्रियापदमा जोडिएर कुनै कार्य पूरा भएपछि फेरि त्यसको विपरीत कार्य गरियो वा अर्कै काम भयो भन्ने जनाउँछ। अन्तिम स्वरवर्ण ㅏ वा ㅗ भए '-았다가', बाँकी भए '-었다가', 하다 मा '-했다가' हुन्छ।",
       "examples": [
-        "예 시트를 새것으로 교체해.",
-        "예 여기는 비품실이야. 이건 대걸레야."
-      ],
-      "explanationNp": "반말 सम्बन्धी व्याकरण नियम र प्रयोग।"
+        "불을 켰다가 눈이 부셔서 껐어요. — बत्ती बालेको थिएँ, आँखा तिरमिराएर फेरि निभाएँ।",
+        "비품실에 갔다가 필요한 물건을 챙겨 왔어요. — सामान कोठामा गएर चाहिने सामान लिएर आएँ।"
+      ]
+    },
+    {
+      "point": "반말 (비격식 낮춤말)",
+      "explanation": "Non-honorific informal speech used between very close friends, to someone younger, or in casual settings without honorific particles.",
+      "explanationNp": "आफूभन्दा साना वा एकदमै मिल्ने साथीसँग बोलिने अनादरार्थी भाषा हो। वाक्यको अन्त्यमा '-요' हटाइन्छ (예: 먹어, 가, 뭐 해?, 같이 가자)। साधारण वाक्यमा '-아/어', प्रश्नमा '-니? / -(으)냐?', प्रस्तावमा '-자', आदेशमा '-아/어(라)' हुन्छ।",
+      "examples": [
+        "지금 뭐 해? 같이 밥 먹으러 가자. — अहिले के गर्दैछस्? सँगै खाना खान जाऔं।",
+        "청소 다 끝났어? 이제 쉬어. — सफाइ सबै सकियो? अब आराम गर।"
+      ]
     }
   ],
   "conversations": [
@@ -344,6 +386,6 @@
       "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
-  "titleNp": "होटल तथा आवास सेवा",
+  "titleNp": "होटेल तथा आवास सेवा",
   "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_51.pdf"
 }

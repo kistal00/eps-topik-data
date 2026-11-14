@@ -1,0 +1,172 @@
+{
+  "chapterNo": 38,
+  "titleKo": "기계 조립",
+  "titleEn": "Machine Assembly",
+  "titleNp": "मेसिन जोडबिजोड",
+  "learningObjectives": [
+    {
+      "id": "ch38_obj_01",
+      "korean": "조립 공구와 부품의 이름을 말할 수 있다.",
+      "english": "Can name assembly tools and parts.",
+      "nepali": "जोडबिजोडका औजार र पुर्जाहरूको नाम भन्न सक्नुहुनेछ।"
+    },
+    {
+      "id": "ch38_obj_02",
+      "korean": "조립 및 분해 과정을 설명할 수 있다.",
+      "english": "Can explain assembly and disassembly processes.",
+      "nepali": "जोड्ने र खोल्ने प्रक्रिया व्याख्या गर्न सक्नुहुनेछ।"
+    }
+  ],
+  "vocabulary1": {
+    "topicKo": "조립 공구와 부품",
+    "topicEn": "Assembly Tools and Parts",
+    "topicNp": "जोडबिजोडका औजार र पुर्जाहरू",
+    "words": [
+      {
+        "korean": "플라이어",
+        "english": "pliers",
+        "nepali": "प्लायर्स"
+      },
+      {
+        "korean": "롱 노즈 플라이어",
+        "english": "long-nosed pliers",
+        "nepali": "लामो नाकवाला प्लायर्स"
+      },
+      {
+        "korean": "펜치",
+        "english": "pincers / cutting pliers",
+        "nepali": "पेन्सी"
+      },
+      {
+        "korean": "스패너",
+        "english": "wrench / spanner",
+        "nepali": "स्प्यानर"
+      },
+      {
+        "korean": "토크 렌치",
+        "english": "torque wrench",
+        "nepali": "टर्क रेन्च"
+      },
+      {
+        "korean": "육각 렌치",
+        "english": "hex key / Allen key",
+        "nepali": "एलन की (हेक्सागन रेन्च)"
+      },
+      {
+        "korean": "볼트",
+        "english": "bolt",
+        "nepali": "बोल्ट"
+      },
+      {
+        "korean": "너트",
+        "english": "nut",
+        "nepali": "नट"
+      },
+      {
+        "korean": "나사못",
+        "english": "screw",
+        "nepali": "पेच (स्क्रू)"
+      },
+      {
+        "korean": "조이다",
+        "english": "to tighten",
+        "nepali": "कस्नु"
+      },
+      {
+        "korean": "풀다",
+        "english": "to loosen / unfasten",
+        "nepali": "खोल्नु / फुकाल्नु"
+      }
+    ]
+  },
+  "grammar1": {
+    "point": "-(으)면서",
+    "meaningNp": "...गर्दागर्दै / ...गर्ने क्रममा (एकैसाथ दुई कार्य / While doing...)",
+    "explanationEn": "Attaches to verbs/adjectives to show two actions happening simultaneously.",
+    "explanationNp": "क्रियापद वा विशेषणमा जोडिएर दुईवटा कार्य एकैसमयमा भइरहेको जनाउँछ।",
+    "ruleNp": "अन्त्यमा स्वरवर्ण वा 'ㄹ' भए '-면서', व्यञ्जनवर्ण भए '-으면서' जोडिन्छ।",
+    "examples": [
+      {
+        "korean": "음악을 들으면서 일해요.",
+        "english": "I work while listening to music.",
+        "nepali": "गीत सुन्दासुन्दै काम गर्छु।"
+      },
+      {
+        "korean": "도면을 보면서 조립하세요.",
+        "english": "Please assemble while looking at the blueprint.",
+        "nepali": "नक्सा हेर्दैहेर्दै जोड्नुहोस्।"
+      }
+    ]
+  },
+  "vocabulary2": {
+    "topicKo": "조립 및 분해 작업",
+    "topicEn": "Assembly & Disassembly Process",
+    "topicNp": "जोड्ने र खोल्ने काम",
+    "words": [
+      {
+        "korean": "일자 드라이버",
+        "english": "flat-head screwdriver",
+        "nepali": "सिधा नोकको स्क्रूड्राइभर"
+      },
+      {
+        "korean": "십자드라이버",
+        "english": "Phillips screwdriver",
+        "nepali": "क्रस नोकको स्क्रूड्राइभर"
+      },
+      {
+        "korean": "베어링",
+        "english": "bearings",
+        "nepali": "बेयरिङ"
+      },
+      {
+        "korean": "기어",
+        "english": "gear",
+        "nepali": "गियर"
+      },
+      {
+        "korean": "코일 스프링",
+        "english": "coil spring",
+        "nepali": "कोइल स्प्रिङ"
+      },
+      {
+        "korean": "수준기",
+        "english": "level instrument",
+        "nepali": "लेभल (तराजु)"
+      },
+      {
+        "korean": "마모되다",
+        "english": "to be worn out / abraded",
+        "nepali": "घिस्नु / लत्तिनु"
+      },
+      {
+        "korean": "조립하다",
+        "english": "to assemble",
+        "nepali": "जोड्नु"
+      },
+      {
+        "korean": "분해하다",
+        "english": "to disassemble / take apart",
+        "nepali": "खोल्नु / विच्छेद गर्नु"
+      }
+    ]
+  },
+  "grammar2": {
+    "point": "-는 중이다",
+    "meaningNp": "...गरिरहेको छ (जारी कार्य / In the middle of doing...)",
+    "explanationEn": "Attached to verbs to indicate that an action is currently in progress.",
+    "explanationNp": "क्रियापदमा जोडिएर कुनै कार्य यतिखेर जारी नै छ भन्ने जनाउँछ।",
+    "ruleNp": "धातुमा सिधै '-는 중이다' जोडिन्छ।",
+    "examples": [
+      {
+        "korean": "지금 기계를 조립하는 중이에요.",
+        "english": "I am in the middle of assembling the machine.",
+        "nepali": "अहिले मेसिन जोड्ने काम गरिरहेको छु।"
+      },
+      {
+        "korean": "제품을 검사하는 중입니다.",
+        "english": "We are currently inspecting the products.",
+        "nepali": "उत्पादन जाँच गरिरहेको छ।"
+      }
+    ]
+  }
+}

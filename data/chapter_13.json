@@ -11,29 +11,109 @@
     "• 상태와 기분에 대해 이야기할 수 있다.",
     "• 주말 계획에 대해 묻고 대답할 수 있다."
   ],
-  "vocabulary": [],
-  "grammar": [
+  "vocabulary": [
     {
-      "point": "주말 활동",
-      "explanation": "Weekend Activities 주말 활동에 대해 말할 수 있다. 학습 목표 Can talk about weekend plans. LEARNING OBJECTIVES 상태나 기분에 대해 말할 수 있다. Can talk about feelings and moods. 117700 한한국국어어 표표준준교교재재 11 CHAPTER 13 EPS-TOPIK 일요일에 뭐 할 거예요? 친구하고 탁구를 칠 거예요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -(으)ㄹ 거예요 주말 활동 한국인의 종교 못 Weekend Activities Korean People's Religion 상태와 기분 Feelings and Moods",
-      "examples": [],
-      "explanationNp": "주말 활동 सम्बन्धी व्याकरण नियम र प्रयोग।"
+      "korean": "축구하다",
+      "english": "to play soccer",
+      "nepali": "फुटबल खेल्नु"
     },
     {
-      "point": "일요일 월요일 화요일 수요일 목요일 금요일 토요일",
-      "explanation": "[ 보기 ] ⑴ ⑵ ⑶ [ 보기 ] 가 : 일요일에 뭐 할 거예요? 나 : 고향 사람들을 만날 거예요. 172 한국어 표준교재 1",
-      "examples": [],
-      "explanationNp": "일요일 월요일 화요일 수요일 목요일 금요일 토요일 सम्बन्धी व्याकरण नियम र प्रयोग।"
+      "korean": "헬스를 하다",
+      "english": "to work out at gym",
+      "nepali": "जिम (कसरत) गर्नु"
+    },
+    {
+      "korean": "고향 사람을 만나다",
+      "english": "to meet people from hometown",
+      "nepali": "आफ्नै देशका साथीहरूलाई भेट्नु"
+    },
+    {
+      "korean": "고향 음식을 먹다",
+      "english": "to eat hometown food",
+      "nepali": "आफ्नै देशको परिकार खानु"
+    },
+    {
+      "korean": "탁구를 치다",
+      "english": "to play table tennis",
+      "nepali": "टेबलटेनिस खेल्नु"
+    },
+    {
+      "korean": "친구 집을 방문하다",
+      "english": "to visit a friend's house",
+      "nepali": "साथीको कोठामा घुम्न जानु"
+    },
+    {
+      "korean": "교회 / 절 / 사원에 가다",
+      "english": "to go to church / temple / mosque",
+      "nepali": "चर्च / मन्दिर / मस्जिद जानु"
+    },
+    {
+      "korean": "낮잠을 자다",
+      "english": "to take a nap",
+      "nepali": "दिउँसोको छोटो निद्रा सुत्नु"
+    },
+    {
+      "korean": "시간이 있다",
+      "english": "to have time",
+      "nepali": "समय हुनु / फुर्सद हुनु"
+    },
+    {
+      "korean": "시간이 없다",
+      "english": "to have no time",
+      "nepali": "समय नहुनु"
+    },
+    {
+      "korean": "바쁘다",
+      "english": "to be busy",
+      "nepali": "व्यस्त हुनु"
+    },
+    {
+      "korean": "한가하다",
+      "english": "to be free / not busy",
+      "nepali": "फुर्सदिलो हुनु"
+    },
+    {
+      "korean": "기분이 좋다",
+      "english": "to be in a good mood",
+      "nepali": "मन प्रफुल्लित हुनु"
+    },
+    {
+      "korean": "기분이 나쁘다",
+      "english": "to be in a bad mood",
+      "nepali": "मन खिन्न हुनु"
+    },
+    {
+      "korean": "기쁘다",
+      "english": "to be joyful / happy",
+      "nepali": "खुसी हुनु"
+    },
+    {
+      "korean": "슬프다",
+      "english": "to be sad",
+      "nepali": "दुःखी हुनु"
+    },
+    {
+      "korean": "피곤하다",
+      "english": "to be tired / exhausted",
+      "nepali": "थकित हुनु / गल्नु"
+    }
+  ],
+  "grammar": [
+    {
+      "point": "-(으)ㄹ 거예요",
+      "explanation": "Expresses the subject's future plans or intentions, or an assumption about a future event.",
+      "explanationNp": "भविष्यमा केही काम गर्ने निश्चित योजना वा निर्णय बताउँदा प्रयोग गरिन्छ। बाच्छिम भए '-을 거예요' (उदा: 먹을 거예요 = खानेछु), बाच्छिम नभए वा 'ㄹ' भए '-ㄹ 거예요' (उदा: 탁구를 칠 거예요 = टेबलटेनिस खेल्नेछु)।",
+      "examples": [
+        "일요일에 뭐 할 거예요? / 친구하고 축구할 거예요. — क: आइतबार के गर्नुहुन्छ? / ख: साथीहरूसँग फुटबल खेल्नेछु।"
+      ]
     },
     {
       "point": "못",
-      "explanation": "‘못’이 능력 부정을 나타낸다면, ‘못’은 동사의 앞에 놓여 능력이 부족하거나 어떤 다른 이유가 있어서 ‘안’은 단순 부정이나 주어의 주어가 어떤 일을 할 수 없음을 나타낸다. 의지에 의한 부정을 나타낸다. ‘못’ indicates inability, ‘안’ ‘못’ is placed before a verb to indicate that the subject is unable to simply indicates negation or do something due to lack of ability or other reasons. the subject’s willful refusal. 바빠서 밥을 못 먹었어요. 비가 와서 운동을 못 해요. ※ 명사와 ‘-하다’가 결합된 동사를 부정할 때는 명사와 ‘하다’ 사이에 ‘못’을 쓴다. W hen negating a verb that combines a noun with ‘-하다’, ‘못’ is placed between the noun and ‘하다’. × ○",
+      "explanation": "Placed before a verb to express that the subject is unable to do the action due to lack of ability or circumstances.",
+      "explanationNp": "क्षमताको अभाव, बिरामी वा विशेष परिस्थितिले गर्दा कुनै कार्य गर्न नसक्दा क्रियाको अगाडि '못' राखिन्छ। 못 + क्रिया (उदा: 못 가요 = जान सक्दिनँ, 못 먹어요 = खान सक्दिनँ, 일 못해요 = काम गर्न सक्दिनँ)।",
       "examples": [
-        "예 시간이 없어서 친구를 못 만나요.",
-        "예 주말에는 회사에 안 가요.",
-        "예 못 공부해요. ( ), 공부를 못 해요. ( )"
-      ],
-      "explanationNp": "못 सम्बन्धी व्याकरण नियम र प्रयोग।"
+        "어제 왜 모임에 안 왔어요? / 일이 많아서 못 갔어요. — क: हिजो भेटघाटमा किन आउनुभएन? / ख: काम धेरै भएर जान सकिनँ।"
+      ]
     }
   ],
   "conversations": [

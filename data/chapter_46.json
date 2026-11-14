@@ -13,39 +13,109 @@
   ],
   "vocabulary": [
     {
-      "korean": "양",
-      "english": "sheep",
-      "nepali": "भेडा"
+      "korean": "사료",
+      "english": "feed / animal fodder",
+      "nepali": "पशुको दाना"
     },
     {
-      "korean": "말",
-      "english": "horse",
-      "nepali": "घोडा"
+      "korean": "급여하다 (먹이다)",
+      "english": "to feed / supply fodder",
+      "nepali": "दानापानी खुवाउनु"
     },
     {
-      "korean": "토끼",
-      "english": "rabbit",
-      "nepali": "खरायो"
+      "korean": "배합사료",
+      "english": "mixed formula feed",
+      "nepali": "मिश्रित दाना"
+    },
+    {
+      "korean": "건초",
+      "english": "hay / dried grass",
+      "nepali": "सुकेको पराल / घाँस"
+    },
+    {
+      "korean": "물통",
+      "english": "water trough / tank",
+      "nepali": "पानी खाने भाँडो/डुँड"
+    },
+    {
+      "korean": "밥통 (사료통)",
+      "english": "feed trough / feeder",
+      "nepali": "दाना खाने डुँड"
+    },
+    {
+      "korean": "소",
+      "english": "cow / cattle",
+      "nepali": "गाई / गोरु"
+    },
+    {
+      "korean": "돼지",
+      "english": "pig / swine",
+      "nepali": "सुँगुर / बङ्गुर"
+    },
+    {
+      "korean": "닭",
+      "english": "chicken",
+      "nepali": "कुखुरा"
+    },
+    {
+      "korean": "축사",
+      "english": "livestock barn / shed",
+      "nepali": "गोठ / पशु फार्म"
+    },
+    {
+      "korean": "우사",
+      "english": "cow shed / cattle barn",
+      "nepali": "गाईगोठ"
+    },
+    {
+      "korean": "돈사",
+      "english": "pigpen / pigsty",
+      "nepali": "बङ्गुरको खोर"
+    },
+    {
+      "korean": "양계장",
+      "english": "poultry farm / chicken coop",
+      "nepali": "कुखुरा फार्म"
+    },
+    {
+      "korean": "분뇨",
+      "english": "manure / animal waste",
+      "nepali": "गोबर / मलमूत्र"
+    },
+    {
+      "korean": "분뇨 탱크",
+      "english": "manure storage tank",
+      "nepali": "मलमूत्र जम्मा गर्ने ट्यांकी"
+    },
+    {
+      "korean": "치우다",
+      "english": "to clean out / clear away manure",
+      "nepali": "सोहोर्नु / हटाउनु"
+    },
+    {
+      "korean": "소독하다",
+      "english": "to disinfect / sanitize",
+      "nepali": "कीटाणुरहित बनाउनु (औषधि छर्कनु)"
     }
   ],
   "grammar": [
     {
-      "point": "사육 관리",
-      "explanation": "Livestock Management 사료 급여 방법에 대해 묻고 대답할 수 있다. 학습 목표 Can ask and answer questions about the methods of feeding livestock. LEARNING OBJECTIVES 축사 청소 방법 및 순서에 대해 말할 수 있다. Can talk about the methods and procedures for cleaning a barn. CHAPTER 46 EPS-TOPIK 소를 키워 본 적이 있어요? 아니요, 키워 본 적이 없어요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -(으)ㄴ 적이 있다, 없다 사료 급여 관련 어휘 한국의 육류 소비 -게 하다 Vocabulary Related to Feeding Korea's Meat Consumption Livestock 축사 청소 관련 어휘 Vocabulary Related to Barn Cleaning 166 한국어 표준교재 2",
-      "examples": [],
-      "explanationNp": "사육 관리 सम्बन्धी व्याकरण नियम र प्रयोग।"
+      "point": "-(으)ㄴ 적이 있다 / 없다",
+      "explanation": "Attaches to verbs to express having or not having the past experience of doing something.",
+      "explanationNp": "क्रियापदमा जोडिएर विगतमा कुनै कार्य गरेको अनुभव आफूसँग छ वा छैन भन्ने बताउन प्रयोग गरिन्छ। अन्त्यमा स्वरवर्ण भए '-ㄴ 적이 있다/없다', व्यञ्जनवर्ण (받침) भए '-은 적이 있다/없다' जोडिन्छ।",
+      "examples": [
+        "소에게 사료를 준 적이 있어요? — गाईलाई दाना खुवाएको अनुभव छ?",
+        "트랙터를 운전해 본 적이 없어요. — ट्रयाक्टर चलाएको अनुभव छैन।"
+      ]
     },
     {
-      "point": "모내기를 해 보다 전기 용접기를 사용하다",
-      "explanation": "○ × . . ⑶ ⑷ 밀링 작업을 해 보다 양계장에서 일하다 × ○ . .",
-      "examples": [],
-      "explanationNp": "모내기를 해 보다 전기 용접기를 사용하다 सम्बन्धी व्याकरण नियम र प्रयोग।"
-    },
-    {
-      "point": "다라 씨는",
-      "explanation": "그동안 ⑵ 톱밥을 프엉 씨, 가져오세요. 바트 씨는 ⑴ 분뇨를 ⑶ 톱밥을 바닥에 까세요. 치우세요. 축사가 엉망이네요. 청소가 끝나면 청소 도구를 청소하세요. 정리하세요. 어제 축사를 치우지 않고 퇴근해서 축사가 엉망이었습니다. 그래서 상우 씨가 축사를 청소하라고 했습니다. 프엉 씨에게는 ⑴ . 다라 씨에게는 그동안 ⑵ . 바트 씨에게는 다라 씨가 가져온 ⑶ . 그리고 청소가 끝나면 청소 도구를 정리하라고 했습니다. 46 사육 관리 LIVESTOCK MANAGEMENT 171",
-      "examples": [],
-      "explanationNp": "다라 씨는 सम्बन्धी व्याकरण नियम र प्रयोग।"
+      "point": "-게 하다",
+      "explanation": "Attaches to verbs to indicate causing or permitting someone else to do an action.",
+      "explanationNp": "क्रियापदमा जोडिएर अरू कसैलाई कुनै कार्य गर्न अह्राउनु वा अनुमति दिनु भन्ने जनाउँछ। धातुमा सिधै '-게 하다' जोडिन्छ।",
+      "examples": [
+        "가축들이 물을 충분히 마시게 하세요. — पशुहरूलाई पर्याप्त पानी पिउन दिनुहोस्।",
+        "축사가 항상 청결하도록 환기하게 했어요. — गोठ सधैं सफा रहोस् भनेर हावा आउने बनाएँ।"
+      ]
     }
   ],
   "conversations": [
@@ -239,6 +309,6 @@
       "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
-  "titleNp": "पशुपालन व्यवस्थापन",
+  "titleNp": "पशुपालन तथा गोठ व्यवस्थापन",
   "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_46.pdf"
 }

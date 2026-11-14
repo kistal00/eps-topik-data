@@ -2,7 +2,7 @@
   "version": 1,
   "chapterNo": 60,
   "title": "근로자 보험",
-  "titleEn": "Employment Insurance",
+  "titleEn": "Worker Insurance",
   "learningObjectives": [
     "가입한 보험의 보험금에 대해 묻고 대답할 수 있다.",
     "외국인 근로자 관련 보험에 대해 묻고 대답할 수 있다.",
@@ -10,25 +10,106 @@
     "• 가입한 보험의 보험금을 청구할 수 있다.",
     "• 외국인 근로자 보험에 대해 묻고 대답할 수 있다."
   ],
-  "vocabulary": [],
+  "vocabulary": [
+    {
+      "korean": "보험에 가입하다",
+      "english": "to sign up / subscribe to insurance",
+      "nepali": "बीमामा आबद्ध हुनु"
+    },
+    {
+      "korean": "보험료를 내다 (납입하다)",
+      "english": "to pay insurance premiums",
+      "nepali": "बीमाको किस्ता तिर्नु"
+    },
+    {
+      "korean": "보험금을 청구하다",
+      "english": "to claim insurance compensation",
+      "nepali": "बीमा रकम दाबी गर्नु"
+    },
+    {
+      "korean": "지급 심사를 받다",
+      "english": "to undergo payment screening",
+      "nepali": "दाबी भुक्तानीको छानबिन गराउनु"
+    },
+    {
+      "korean": "보험금을 타다 (받다)",
+      "english": "to collect / receive insurance benefits",
+      "nepali": "बीमाको रकम पाउनु"
+    },
+    {
+      "korean": "산재보험 (산업재해보상보험)",
+      "english": "Industrial Accident Compensation Insurance",
+      "nepali": "कार्यस्थल दुर्घटना क्षतिपूर्ति बीमा (सान्जे)"
+    },
+    {
+      "korean": "국민건강보험",
+      "english": "National Health Insurance",
+      "nepali": "राष्ट्रिय स्वास्थ्य बीमा"
+    },
+    {
+      "korean": "휴업 급여",
+      "english": "temporary disability benefit (70% salary while treated)",
+      "nepali": "उपचार गर्दा काम रोकिँदा पाउने बिदा भत्ता (७०% तलब)"
+    },
+    {
+      "korean": "장해 보상금",
+      "english": "disability compensation",
+      "nepali": "अङ्गभङ्ग क्षतिपूर्ति रकम"
+    },
+    {
+      "korean": "출국만기보험",
+      "english": "Departure Guarantee Insurance (severance pay)",
+      "nepali": "घर फर्किने बेला पाउने उपदान बीमा (छुल्गुक मान्गी)"
+    },
+    {
+      "korean": "귀국비용보험",
+      "english": "Return Flight Cost Insurance",
+      "nepali": "हवाई टिकटको फिर्ता खर्च बीमा"
+    },
+    {
+      "korean": "상해보험",
+      "english": "Accident Insurance (off-duty accidents)",
+      "nepali": "काम बाहिर हुने दुर्घटना बीमा"
+    },
+    {
+      "korean": "임금체불보증보험",
+      "english": "Wage Claim Guarantee Insurance (unpaid wages)",
+      "nepali": "तलब नदिँदा ग्यारेन्टी पाउने बीमा"
+    },
+    {
+      "korean": "근로복지공단",
+      "english": "Korea Workers' Compensation and Welfare Service",
+      "nepali": "कोरियाली श्रमिक कल्याण निगम (सान्जे हेर्ने संस्था)"
+    },
+    {
+      "korean": "삼성화재",
+      "english": "Samsung Fire & Marine (foreigner insurance operator)",
+      "nepali": "विदेशी श्रमिकको ४ वटा बीमा हेर्ने कम्पनी"
+    },
+    {
+      "korean": "사망",
+      "english": "death",
+      "nepali": "मृत्यु"
+    }
+  ],
   "grammar": [
     {
-      "point": "근로자 보험",
-      "explanation": "Employment Insurance 가입한 보험의 보험금에 대해 묻고 대답할 수 있다. 학습 목표 Can ask and answer questions about the insurance benefits of an insurance policy one has signed up for. LEARNING OBJECTIVES 외국인 근로자 관련 보험에 대해 묻고 대답할 수 있다. Can ask and answer questions about insurance for foreign workers. 306 한국어 표준교재 2 CHAPTER 60 EPS-TOPIK 상해 보험금을 신청하고 싶어요. 보험금을 신청하려면 병원 진단서가 필요합니다. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -는 바람에 보험 및 보험금 관련 어휘 외국인 근로자 관련 보험 -(으)려면 Vocabulary Related to Insurance and Insurance for Foreign Workers Insurance Benefits 외국인 근로자 전용 보험 관련 어휘 Vocabulary Related to Insurance Exclusive to Foreign Workers 306 한국어 표준교재 2",
-      "examples": [],
-      "explanationNp": "근로자 보험 सम्बन्धी व्याकरण नियम र प्रयोग।"
+      "point": "-는 바람에",
+      "explanation": "Attaches to verbs to indicate that an unexpected event in the first clause directly caused a negative or unintended outcome in the second clause.",
+      "explanationNp": "क्रियापदमा जोडिएर सोच्दै नसोचेको बाहिरी घटना घटेकाले गर्दा पछाडि नराम्रो नतिजा आयो भनी बताउँदा प्रयोग गरिन्छ। क्रियापदको धातुमा सिधै '-는 바람에' जोडिन्छ।",
+      "examples": [
+        "작업 중에 다치는 바람에 병원에 입원했어요. — काम गर्दागर्दै चोट लागेको हुनाले अस्पताल भर्ना हुनुपर्‍यो।",
+        "비가 많이 오는 바람에 작업을 중단했어요. — ठूलो पानी परेको कारणले गर्दा काम रोक्नुपर्‍यो।"
+      ]
     },
     {
-      "point": "밥을 너무 빨리 원목에 구멍을 잘못",
-      "explanation": "체한 것 같아요. (먹다) 다시 작업해야 돼요. (뚫다) ⑶ ⑷ 계단에서 페인트를 잘못 다리를 다쳤어요. (넘어지다) 다시 작업해야 돼요. (칠하다)",
-      "examples": [],
-      "explanationNp": "समय वा स्थान जनाउने प्रत्यय हो। नेपालीमा 'मा' वा 'तिर' भन्ने अर्थ लाग्दछ।"
-    },
-    {
-      "point": "진단서를 제출하다 귀국비용보험에 가입하다",
-      "explanation": "같은 업종에서 새 회사를 찾다 출국예정신고를 하다 [ 보기 ] 가 : 작업장을 옮기고 싶어요. 나 : 작업장을 옮기려면 같은 업종에서 새 회사를 찾아야 돼요. 60 근로자 보험 EMPLOYMENT INSURANCE 311",
-      "examples": [],
-      "explanationNp": "समय वा स्थान जनाउने प्रत्यय हो। नेपालीमा 'मा' वा 'तिर' भन्ने अर्थ लाग्दछ।"
+      "point": "-(으)려면",
+      "explanation": "Attaches to verbs to indicate that if the speaker or listener intends to achieve the action in the first clause, the condition in the second clause is required.",
+      "explanationNp": "क्रियापदमा जोडिएर अगाडिको काम सम्पन्न गर्ने इच्छा छ भने पछाडिको सर्त वा आवश्यकता पूरा गर्नुपर्छ भनी बताउँदा प्रयोग गरिन्छ। अन्त्यमा स्वरवर्ण वा 'ㄹ' भए '-려면', व्यञ्जनवर्ण (받침) भए '-으려면' जोडिन्छ।",
+      "examples": [
+        "보험금을 청구하려면 진단서가 필요해요. — बीमा रकम दाबी गर्ने हो भने डाक्टरको मेडिकल रिपोर्ट (जिन्दान्स) चाहिन्छ।",
+        "출국만기보험을 타려면 공항에서 수령 신청을 하세요. — उपदान बीमा लिने हो भने विमानस्थलमा भुक्तानीको निवेदन दिनुहोस्।"
+      ]
     }
   ],
   "conversations": [
@@ -222,6 +303,6 @@
       "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
-  "titleNp": "कामदार बीमा र क्षतिपूर्ति",
+  "titleNp": "श्रमिक बीमा तथा सामाजिक सुरक्षा",
   "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_60.pdf"
 }

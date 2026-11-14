@@ -10,30 +10,121 @@
     "•금 지 표지의 의미에 대해 묻고 대답할 수 있다.",
     "• 어떤 행동이 끝나고 그 상태가 지속됨을 표현할 수 있다."
   ],
-  "vocabulary": [],
+  "vocabulary": [
+    {
+      "korean": "경고 표지",
+      "english": "warning sign",
+      "nepali": "चेतावनी संकेत चिन्ह"
+    },
+    {
+      "korean": "인화성 물질 경고",
+      "english": "warning: flammable materials",
+      "nepali": "प्रज्वलनशील पदार्थको चेतावनी (आगो लाग्न सक्ने)"
+    },
+    {
+      "korean": "산화성 물질 경고",
+      "english": "warning: oxidizing substances",
+      "nepali": "अक्सिडाइजिङ पदार्थको चेतावनी"
+    },
+    {
+      "korean": "폭발성 물질 경고",
+      "english": "warning: explosive substances",
+      "nepali": "विस्फोटक पदार्थको चेतावनी"
+    },
+    {
+      "korean": "급성 독성 물질 경고",
+      "english": "warning: toxic / poisonous substances",
+      "nepali": "अत्यधिक विषाक्त पदार्थको चेतावनी"
+    },
+    {
+      "korean": "부식성 물질 경고",
+      "english": "warning: corrosive substances",
+      "nepali": "खियाउने/गाल्ने एसिड पदार्थको चेतावनी"
+    },
+    {
+      "korean": "방사선 물질 경고",
+      "english": "warning: radioactive materials",
+      "nepali": "रेडियोधर्मी पदार्थको चेतावनी"
+    },
+    {
+      "korean": "고압 전기 경고",
+      "english": "warning: high-voltage electricity",
+      "nepali": "उच्च भोल्टेज बिजुलीको चेतावनी"
+    },
+    {
+      "korean": "매달린 물체 경고",
+      "english": "warning: overhead suspended objects",
+      "nepali": "झुन्डिएको वस्तुको चेतावनी (माथिबाट खस्न सक्ने)"
+    },
+    {
+      "korean": "낙하물 경고",
+      "english": "warning: falling objects",
+      "nepali": "खस्ने वस्तुको चेतावनी"
+    },
+    {
+      "korean": "금지 표지",
+      "english": "prohibition sign",
+      "nepali": "निषेध संकेत चिन्ह"
+    },
+    {
+      "korean": "금연",
+      "english": "no smoking",
+      "nepali": "धुम्रपान निषेध"
+    },
+    {
+      "korean": "화기 금지",
+      "english": "no open flames / no ignition",
+      "nepali": "आगो बाल्न निषेध"
+    },
+    {
+      "korean": "보행 금지",
+      "english": "no pedestrians / no walking",
+      "nepali": "हिँडडुल गर्न निषेध"
+    },
+    {
+      "korean": "물기 엄금",
+      "english": "keep away from water / moisture prohibited",
+      "nepali": "पानी छुन सख्त मनाही"
+    },
+    {
+      "korean": "차량 통행 금지",
+      "english": "no vehicles allowed",
+      "nepali": "सवारी साधन आवतजावत निषेध"
+    },
+    {
+      "korean": "탑승 금지",
+      "english": "no riding / do not board",
+      "nepali": "सवारीमा चढ्न निषेध"
+    },
+    {
+      "korean": "접근 금지",
+      "english": "no entry / keep out",
+      "nepali": "नजिक जान निषेध (प्रवेश निषेध)"
+    },
+    {
+      "korean": "사용 금지",
+      "english": "do not use",
+      "nepali": "प्रयोग गर्न निषेध"
+    }
+  ],
   "grammar": [
     {
-      "point": "산업 안전 및 보건 표지",
-      "explanation": "Industrial Safety and Health Signs CHAPTER 53 EPS-TOPIK 장애물 주의 여기 붙어 있는 경고 표지는 무슨 의미예요? 바닥에 장애물이 있으니까 조심하라는 의미예요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -았더니/었더니 경고 표지 금지 표지 2 -아/어 있다 Warning Signs Prohibition Signs 2 금지 표지 1 Prohibition Signs 1 경고 표지의 의미에 대해 묻고 대답할 수 있다. 학습 목표 Can ask and answer questions about the meanings of warning signs. LEARNING OBJECTIVES 금지 표지의 의미에 대해 묻고 대답할 수 있다. Can ask and answer questions about the meanings of prohibition signs. 236 한국어 표준교재 2",
-      "examples": [],
-      "explanationNp": "산업 안전 및 보건 표지 सम्बन्धी व्याकरण नियम र प्रयोग।"
+      "point": "-(으)ㄹ지도 모르다",
+      "explanation": "Attaches to verbs and adjectives to express that there is a possibility an event or state might happen, though not certain.",
+      "explanationNp": "क्रियापद वा विशेषणमा जोडिएर कुनै घटना घट्ने वा नराम्रो अवस्था आउने सम्भावना छ भनी अनिश्चितता व्यक्त गर्दा प्रयोग गरिन्छ। अन्त्यमा स्वरवर्ण वा 'ㄹ' भए '-ㄹ지도 모르다', व्यञ्जनवर्ण भए '-을지도 모르다' जोडिन्छ।",
+      "examples": [
+        "위에서 물건이 떨어질지도 모르니까 안전모를 쓰세요. — माथिबाट सामान खस्न पनि सक्छ, त्यसैले सुरक्षा टोपी लगाउनुहोस्।",
+        "바닥이 미끄러울지도 몰라요. — भुइँ चिप्लो हुन पनि सक्छ।"
+      ]
     },
     {
-      "point": "위에서 물체가",
-      "explanation": "바닥이 미끄러워요. 표면이 뜨거워요. 전기가 흘러요. 떨어질 수 있어요. 문법 GRAMMAR -았더니/었더니 ‘-았더니/었더니’는 동사에 붙어 직접 한 어떤 일이 배경이나 원인이 되어 뒤의 상황이 펼쳐짐을 나타낸다. ‘-았더니/었더니’ is attached to verbs to indicate that something the speaker did is the background or cause for the following situation. ㅏ, ㅗ -았더니 가다 → 갔더니 ㅓ, ㅜ, ㅣ… -었더니 먹다 → 먹었더니 -하다 -했더니 전화하다 → 전화했더니 동료의 작업을 도와줬더니 밥을 사 줬어요. 감기약을 먹었더니 졸려요. 238 한국어 표준교재 2",
+      "point": "-(으)면 안 되다 (반복 강화)",
+      "explanation": "Attaches to verbs to emphasize strict prohibition, safety rules, and compliance requirements in industrial sites.",
+      "explanationNp": "कार्यस्थलमा सुरक्षा नियम उल्लंघन गर्न पाइँदैन भनी कडाइका साथ निषेध गर्न प्रयोग गरिन्छ। अन्त्यमा स्वरवर्ण वा 'ㄹ' भए '-면 안 되다', व्यञ्जनवर्ण (받침) भए '-으면 안 되다' जोडिन्छ।",
       "examples": [
-        "예 휴게실에 갔더니 반장님이 계셨어요."
-      ],
-      "explanationNp": "समय वा स्थान जनाउने प्रत्यय हो। नेपालीमा 'मा' वा 'तिर' भन्ने अर्थ लाग्दछ।"
-    },
-    {
-      "point": "이 장소를 지나가면",
-      "explanation": "● ● 안 됩니다. 문법 GRAMMAR -아/어 있다 ‘-아/어 있다’는 자동사에 붙어 어떤 행위의 결과가 지속되고 있음을 나타낸다. ‘-아/어 있다’ is attached to intransitive verbs that don't take an object to indicate that the result of an action continues. ㅏ, ㅗ -아 있다 남다 → 남아 있다 타동사와는 결합하지 않는다. ㅓ, ㅜ, ㅣ… -어 있다 붙다 → 붙어 있다 ‘-아/어 있다’ is not combined -하다 -해 있다 도착하다 → 도착해 있다 with transitive verbs that do take an object. 휴게실 문이 열려 있어요. 작업장에 붙어 있는 금지표지의 의미를 익히세요. 53 산업 안전 및 보건 표지 INDUSTRIAL SAFETY AND HEALTH SIGNS 241",
-      "examples": [
-        "예 재고가 아직 남아 있어요.",
-        "예 작 업장 문을 열어 있었어요. (X)"
-      ],
-      "explanationNp": "이 장소를 지나가면 सम्बन्धी व्याकरण नियम र प्रयोग।"
+        "화기 금지 구역에서는 라이터를 켜면 안 돼요. — आगो बाल्न निषेध गरिएको ठाउँमा लाइटर बाल्न पाइँदैन।",
+        "보호구를 착용하지 않고 들어가면 안 됩니다. — सुरक्षा सामग्री नलगाई भित्र पस्नुहुँदैन।"
+      ]
     }
   ],
   "conversations": [
@@ -157,6 +248,6 @@
       "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
-  "titleNp": "औद्योगिक सुरक्षा तथा स्वास्थ्य संकेतहरू",
+  "titleNp": "औद्योगिक सुरक्षा तथा स्वास्थ्य संकेत चिन्हहरू",
   "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_53.pdf"
 }

@@ -1,8 +1,8 @@
 {
   "version": 1,
   "chapterNo": 19,
-  "title": "요리",
-  "titleEn": "Cooking",
+  "title": "요리와 음식",
+  "titleEn": "Cooking and Food",
   "learningObjectives": [
     "음식의 맛을 말할 수 있다.",
     "음식 재료와 조리법을 말할 수 있다.",
@@ -12,31 +12,112 @@
   ],
   "vocabulary": [
     {
-      "korean": "요리",
-      "english": "Cooking",
-      "nepali": "पकाउँदै"
+      "korean": "소고기",
+      "english": "beef",
+      "nepali": "गाईको मासु"
+    },
+    {
+      "korean": "돼지고기",
+      "english": "pork",
+      "nepali": "सुँगुर/बंगुरको मासु"
+    },
+    {
+      "korean": "닭고기",
+      "english": "chicken meat",
+      "nepali": "कुखुराको मासु"
+    },
+    {
+      "korean": "생선",
+      "english": "fish",
+      "nepali": "माछा"
+    },
+    {
+      "korean": "양파",
+      "english": "onion",
+      "nepali": "प्याज"
+    },
+    {
+      "korean": "마늘",
+      "english": "garlic",
+      "nepali": "लसुन"
+    },
+    {
+      "korean": "당근",
+      "english": "carrot",
+      "nepali": "गाजर"
+    },
+    {
+      "korean": "소금",
+      "english": "salt",
+      "nepali": "नुन"
+    },
+    {
+      "korean": "설탕",
+      "english": "sugar",
+      "nepali": "चिनी"
+    },
+    {
+      "korean": "간장",
+      "english": "soy sauce",
+      "nepali": "सोया सस (भटमासको झोल)"
+    },
+    {
+      "korean": "참기름",
+      "english": "sesame oil",
+      "nepali": "तिलको तेल"
+    },
+    {
+      "korean": "깎다",
+      "english": "to peel",
+      "nepali": "ताछ्नु (फलफूलको बोक्रा)"
+    },
+    {
+      "korean": "썰다",
+      "english": "to chop / slice",
+      "nepali": "टुक्रा पार्नु / काट्नु"
+    },
+    {
+      "korean": "끓이다",
+      "english": "to boil (soup/liquid)",
+      "nepali": "उमाल्नु (सुप, पानी, चिया)"
+    },
+    {
+      "korean": "삶다",
+      "english": "to boil (solid foods)",
+      "nepali": "उसिन्नु (अन्डा, आलु, मासु)"
+    },
+    {
+      "korean": "볶다",
+      "english": "to stir-fry",
+      "nepali": "भुट्नु (थोरै तेलमा)"
+    },
+    {
+      "korean": "튀기다",
+      "english": "to deep-fry",
+      "nepali": "तार्नु (धेरै तेलमा डुबाएर)"
+    },
+    {
+      "korean": "굽다",
+      "english": "to roast / grill",
+      "nepali": "पोल्नु / सेक्नु"
     }
   ],
   "grammar": [
     {
-      "point": "요리",
-      "explanation": "Cooking 음식의 맛을 말할 수 있다. 학습 목표 Can talk about the taste of food. LEARNING OBJECTIVES 음식 재료와 조리법을 말할 수 있다. Can speak about ingredients and cooking methods. 230 한국어 표준교재 1 CHAPTER 19 EPS-TOPIK 나도 요리를 잘하고 싶어요. 요리 교실에 다녀 보세요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -아/어 보다 음식의 맛 특별한 날 먹는 음식 -아서/어서(순차) Taste of Food Food for Special Occasions 재료 및 조리법 Ingredients and Cooking Methods 230 한국어 표준교재 1",
-      "examples": [],
-      "explanationNp": "요리 सम्बन्धी व्याकरण नियम र प्रयोग।"
-    },
-    {
-      "point": "피자를 드시다 커피를 마시다",
-      "explanation": "⑵ ⑶ 라면이 너무 짜요. 한국 음식을 만들고 싶어요. 물을 조금 넣다 비빔밥을 만들다 [ 보기 ] 가 : 이 피자를 먹고 싶어요. 나 : 피자를 드셔 보세요. 232 한국어 표준교재 1",
-      "examples": [],
-      "explanationNp": "피자를 드시다 커피를 마시다 सम्बन्धी व्याकरण नियम र प्रयोग।"
-    },
-    {
-      "point": "다 라 씨한테 전화하고 저녁을",
-      "explanation": "먹었어요. 김밥을 만들어서 친구들하고 먹을 거예요. 가 : 사무실은 어디에 있어요? 나 : 2층으로 올라가서 오른쪽으로 가세요.",
+      "point": "-아/어 보다",
+      "explanation": "Attaches to verbs to express trying something out or having experienced something in the past.",
+      "explanationNp": "कुनै कार्य गरेर हेर्ने प्रयास वा विगतमा त्यस्तो काम गरिसकेको अनुभव व्यक्त गर्दा प्रयोग गरिन्छ। धातुको स्वर 'ㅏ, ㅗ' भए '-아 보다' (उदा: 가 보다 = गइहेर्नु), अन्य स्वर भए '-어 보다' (उदा: 먹어 보다 = खाइहेर्नु)।",
       "examples": [
-        "예 집에 와서 쉬었어요."
-      ],
-      "explanationNp": "다 라 씨한테 전화하고 저녁을 सम्बन्धी व्याकरण नियम र प्रयोग।"
+        "한국 음식을 만들어 봤어요. — मैले कोरियाली खाना बनाएर हेरेको छु।"
+      ]
+    },
+    {
+      "point": "-아서/어서 (순차)",
+      "explanation": "Connects two actions where the first action must occur before the second, with a close chronological connection.",
+      "explanationNp": "पहिलो कार्य सम्पन्न गरेर मात्र त्यसैसँग सम्बन्धित दोस्रो कार्य गर्दा प्रयोग गरिन्छ। धातु + 아서/어서 (उदा: 손을 씻어서 요리해요 = हात धोएर खाना पकाउँछु)।",
+      "examples": [
+        "감자를 썰어서 볶으세요. — आलु काटेर भुट्नुहोस्।"
+      ]
     }
   ],
   "conversations": [
@@ -250,6 +331,6 @@
       "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
-  "titleNp": "खाना पकाउने विधि",
+  "titleNp": "खाना पकाउने र परिकार",
   "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_19.pdf"
 }

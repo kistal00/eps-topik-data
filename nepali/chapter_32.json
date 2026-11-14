@@ -1,0 +1,162 @@
+{
+  "chapterNo": 32,
+  "titleKo": "회사 시설 이용",
+  "titleEn": "Use of Company Facilities",
+  "titleNp": "कम्पनीको सुविधा प्रयोग",
+  "learningObjectives": [
+    {
+      "id": "ch32_obj_01",
+      "korean": "기숙사 시설과 규칙에 대해 말할 수 있다.",
+      "english": "Can talk about dormitory facilities and rules.",
+      "nepali": "डर्मिटरीका सुविधा र नियमहरूबारे बताउन सक्नुहुनेछ।"
+    },
+    {
+      "id": "ch32_obj_02",
+      "korean": "구내식당 이용 방법을 이해할 수 있다.",
+      "english": "Can understand cafeteria usage.",
+      "nepali": "क्यान्टिन प्रयोग गर्ने तरिका बुझ्न सक्नुहुनेछ।"
+    }
+  ],
+  "vocabulary1": {
+    "topicKo": "기숙사 관련 어휘",
+    "topicEn": "Dormitory Vocabulary",
+    "topicNp": "डर्मिटरी (कम्पनी बसोबास) सम्बन्धी शब्दावली",
+    "words": [
+      {
+        "korean": "기숙사",
+        "english": "dormitory",
+        "nepali": "डर्मिटरी / कम्पनीको बसोबास"
+      },
+      {
+        "korean": "방",
+        "english": "room",
+        "nepali": "कोठा"
+      },
+      {
+        "korean": "복도",
+        "english": "hallway / corridor",
+        "nepali": "बाटो/कोरिडोर"
+      },
+      {
+        "korean": "계단",
+        "english": "stairs / staircase",
+        "nepali": "भर्‍याङ"
+      },
+      {
+        "korean": "출입문",
+        "english": "entrance door",
+        "nepali": "प्रवेश ढोका"
+      },
+      {
+        "korean": "세탁실",
+        "english": "laundry room",
+        "nepali": "कपडा धुने कोठा"
+      },
+      {
+        "korean": "샤워실",
+        "english": "shower room",
+        "nepali": "नुहाउने कोठा"
+      },
+      {
+        "korean": "조리실",
+        "english": "kitchen / cooking room",
+        "nepali": "खाना पकाउने कोठा"
+      },
+      {
+        "korean": "관리인",
+        "english": "building manager / caretaker",
+        "nepali": "व्यवस्थापक / केयरटेकर"
+      },
+      {
+        "korean": "규칙을 지키다",
+        "english": "to follow rules",
+        "nepali": "नियम पालना गर्नु"
+      },
+      {
+        "korean": "규칙을 어기다",
+        "english": "to break rules",
+        "nepali": "नियम तोड्नु"
+      }
+    ]
+  },
+  "grammar1": {
+    "point": "-잖아요",
+    "meaningNp": "...होइन र! / ...नि त! (दुवैलाई थाहा भएको कुरा पुष्टि गर्दा / As you know / You know that...)",
+    "explanationEn": "Used to confirm something the speaker believes the listener already knows or should know.",
+    "explanationNp": "सुन्नेलाई पहिले नै थाहा भएको कुरा पुष्टि गर्दै भन्दा प्रयोग गरिन्छ।",
+    "ruleNp": "क्रियापद र विशेषणको धातुमा सिधै '-잖아요' जोडिन्छ।",
+    "examples": [
+      {
+        "korean": "기숙사에서 음식을 만들면 안 되잖아요.",
+        "english": "You know you can't cook in the dorm.",
+        "nepali": "डर्मिटरीमा खाना बनाउन पाइँदैन नि!"
+      },
+      {
+        "korean": "내일 회의가 있잖아요.",
+        "english": "You know there's a meeting tomorrow.",
+        "nepali": "भोलि मिटिङ छ नि त!"
+      }
+    ]
+  },
+  "vocabulary2": {
+    "topicKo": "구내식당 관련 어휘",
+    "topicEn": "Cafeteria Vocabulary",
+    "topicNp": "क्यान्टिन/खाजाघर सम्बन्धी शब्दावली",
+    "words": [
+      {
+        "korean": "구내식당",
+        "english": "company cafeteria",
+        "nepali": "कम्पनीको क्यान्टिन"
+      },
+      {
+        "korean": "배식대",
+        "english": "serving counter / station",
+        "nepali": "खाना वितरण काउन्टर"
+      },
+      {
+        "korean": "식수대",
+        "english": "drinking water station",
+        "nepali": "पिउने पानीको ठाउँ"
+      },
+      {
+        "korean": "퇴식구",
+        "english": "tray return area",
+        "nepali": "थाल फिर्ता गर्ने ठाउँ"
+      },
+      {
+        "korean": "식판",
+        "english": "meal tray",
+        "nepali": "खानाको प्लेट/थाल"
+      },
+      {
+        "korean": "식단표",
+        "english": "menu board / meal schedule",
+        "nepali": "मेनु बोर्ड (दैनिक खानाको सूची)"
+      },
+      {
+        "korean": "줄을 서다",
+        "english": "to stand in line / queue up",
+        "nepali": "लाइनमा बस्नु"
+      }
+    ]
+  },
+  "grammar2": {
+    "point": "-아/어 놓다",
+    "meaningNp": "...गरेर राखेको छ (कार्यको परिणाम कायमै / Done and left in that state)",
+    "explanationEn": "Attached to transitive verbs to show that after an action is completed, its result remains maintained.",
+    "explanationNp": "सकर्मक क्रियापदमा जोडिएर कुनै कार्य गरिसकेपछि त्यसको नतिजा कायमै रहेको जनाउँछ।",
+    "ruleNp": "अन्तिम स्वरवर्ण ㅏ वा ㅗ भए '-아 놓다', बाँकी भए '-어 놓다', 하다 मा '-해 놓다' हुन्छ।",
+    "examples": [
+      {
+        "korean": "에어컨을 켜 놓았어요.",
+        "english": "I turned on the AC and left it on.",
+        "nepali": "एसी खोलेर राखेको छु।"
+      },
+      {
+        "korean": "내일 쓸 재료를 준비해 놓으세요.",
+        "english": "Please prepare the materials for tomorrow in advance.",
+        "nepali": "भोलि चाहिने सामान तयार गरेर राख्नुहोस्।"
+      }
+    ]
+  }
+}

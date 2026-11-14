@@ -12,32 +12,139 @@
   ],
   "vocabulary": [
     {
-      "korean": "약국",
-      "english": "Pharmacy",
-      "nepali": "फार्मेसी"
+      "korean": "열이 나다",
+      "english": "to have a fever",
+      "nepali": "ज्वरो आउनु"
+    },
+    {
+      "korean": "콧물이 나다",
+      "english": "to have a runny nose",
+      "nepali": "सिँगान बग्नु"
+    },
+    {
+      "korean": "목이 붓다",
+      "english": "to have a swollen throat",
+      "nepali": "घाँटी सुन्निनु"
+    },
+    {
+      "korean": "기침을 하다",
+      "english": "to cough",
+      "nepali": "खोक्नु / खोकी लाग्नु"
+    },
+    {
+      "korean": "어지럽다",
+      "english": "to feel dizzy",
+      "nepali": "रिंगटा लाग्नु"
+    },
+    {
+      "korean": "가렵다",
+      "english": "to feel itchy",
+      "nepali": "चिलाउनु"
+    },
+    {
+      "korean": "소화가 안 되다",
+      "english": "to have indigestion",
+      "nepali": "अपच हुनु / खाना नपच्नु"
+    },
+    {
+      "korean": "배탈이 나다",
+      "english": "to have an upset stomach",
+      "nepali": "पेट गडबड हुनु"
+    },
+    {
+      "korean": "설사를 하다",
+      "english": "to have diarrhea",
+      "nepali": "पखाला लाग्नु"
+    },
+    {
+      "korean": "토하다",
+      "english": "to vomit / throw up",
+      "nepali": "बान्ता हुनु"
+    },
+    {
+      "korean": "뼈가 부러지다",
+      "english": "to break a bone",
+      "nepali": "हड्डी भाँच्चिनु"
+    },
+    {
+      "korean": "손이 베이다",
+      "english": "to cut one's hand",
+      "nepali": "हात काटिनु"
+    },
+    {
+      "korean": "발목을 삐다",
+      "english": "to sprain an ankle",
+      "nepali": "कुर्कुच्चा/मर्कनु"
+    },
+    {
+      "korean": "화상을 입다",
+      "english": "to get burned",
+      "nepali": "आगोले पोल्नु"
+    },
+    {
+      "korean": "연고",
+      "english": "ointment",
+      "nepali": "मलम (मल्हम)"
+    },
+    {
+      "korean": "파스",
+      "english": "pain relief patch",
+      "nepali": "पेन रिलिफ पट्टी (टाँस्ने पास)"
+    },
+    {
+      "korean": "붕대",
+      "english": "gauze bandage",
+      "nepali": "पट्टी (ब्यान्डेज)"
+    },
+    {
+      "korean": "밴드",
+      "english": "adhesive band-aid",
+      "nepali": "ह्यान्डीप्लास्ट / ब्यान्ड-एड"
+    },
+    {
+      "korean": "알약",
+      "english": "pill / tablet",
+      "nepali": "चक्की औषधि (ट्याब्लेट)"
+    },
+    {
+      "korean": "물약",
+      "english": "liquid medicine / syrup",
+      "nepali": "झोल औषधि (सिरप)"
+    },
+    {
+      "korean": "소독약",
+      "english": "disinfectant / antiseptic",
+      "nepali": "घाउ सफा गर्ने औषधि (एन्टिसेप्टिक)"
+    },
+    {
+      "korean": "영양제",
+      "english": "nutritional supplement / vitamins",
+      "nepali": "भिटामिन / पौष्टिक तत्वको औषधि"
+    },
+    {
+      "korean": "처방전",
+      "english": "prescription",
+      "nepali": "डाक्टरको सिफारिस पत्र (प्रेस्क्रिप्सन)"
     }
   ],
   "grammar": [
     {
-      "point": "약국",
-      "explanation": "Pharmacy 약에 대해 물어볼 수 있다. 학습 목표 Can ask about medication. LEARNING OBJECTIVES 약 구매를 위하여 증상에 대해 말할 수 있다. Can describe symptoms in order to purchase medicine. 260 한국어 표준교재 1 CHAPTER 22 EPS-TOPIK 이 약은 언제 먹어야 해요? 식사하신 후에 드세요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -(으)니까 증상 관련 어휘 2 의약품 구입 -(으)ㄴ 후에 Vocabulary Related to Symptoms 2 Purchasing Medications 의약품 및 치료법 Medications and Treatments 260 한국어 표준교재 1",
-      "examples": [],
-      "explanationNp": "약국 सम्बन्धी व्याकरण नियम र प्रयोग।"
-    },
-    {
-      "point": "오늘은 피곤하니까 내일 만날까요?",
-      "explanation": "",
-      "examples": [],
-      "explanationNp": "오늘은 피곤하니까 내일 만날까요? सम्बन्धी व्याकरण नियम र प्रयोग।"
-    },
-    {
-      "point": "위의 순서를 나타내지만 시간을 나타",
-      "explanation": "일어남을 나타낸다. 내는 명사와 함께 사용하면 시점을 ‘-(으)ㄴ 후에’ attaches to a verb to show that the following action 나타낸다. happens after the completion of the action preceding it. When used with nouns it’s structured as ‘noun 후에’. Generally it shows the 받침 ○ -은 후에 읽다 → 읽은 후에 sequence of actions, but when used 보다 → 본 후에 with a noun that represents time, it 받침 ×, 받침 ‘ㄹ’ -ㄴ 후에 놀다 → 논 후에 indicates a point in time. 한 시간 후에 전화할게요. 저는 매일 샤워한 후에 잠을 자요. 불고기는 고기와 채소를 썬 후에 양념을 넣고 볶아요.",
+      "point": "-(으)니까",
+      "explanation": "Attaches to verbs and adjectives to indicate the reason or justification for the following clause. Can be followed by imperative or suggestive sentences.",
+      "explanationNp": "क्रियापद वा विशेषणमा जोडिएर पछाडिको कार्यको कारण वा आधार जनाउँछ। यसको पछाडि आदेशार्थी (-(으)세요) वा प्रस्तावार्थी (-(으)प시다) वाक्य आउन सक्छ। अन्त्यमा स्वरवर्ण वा 'ㄹ' भएमा '-니까' र व्यञ्जनवर्ण (받침) भएमा '-으니까' जोडिन्छ।",
       "examples": [
-        "예 식사 후에 회의를 시작할 거예요.",
-        "예 이 약은 밥을 먹은 후에 드세요."
-      ],
-      "explanationNp": "위의 순서를 나타내지만 시간을 나타 सम्बन्धी व्याकरण नियम र प्रयोग।"
+        "날씨가 추우니까 따뜻하게 입으세요. — मौसम चिसो भएकोले न्यानो कपडा लगाउनुहोस्।",
+        "배가 아프니까 병원에 가 보세요. — पेट दुखेको हुनाले अस्पताल गइहेर्नुहोस्।"
+      ]
+    },
+    {
+      "point": "-(으)ㄴ 후에",
+      "explanation": "Attaches to verbs to show that the action in the following clause occurs after the action in the preceding clause is completed.",
+      "explanationNp": "क्रियापदको पछाडि जोडिएर अगाडिको कार्य पूरा भएपछि मात्र पछाडिको कार्य गरिन्छ भन्ने समयको क्रम जनाउँछ। अन्त्यमा स्वरवर्ण भएमा '-ㄴ 후에' र व्यञ्जनवर्ण भएमा '-은 후에' जोडिन्छ। नामपदसँग सिधै '명사 후에' हुन्छ।",
+      "examples": [
+        "밥을 먹은 후에 이 약을 드세요. — खाना खाएपछि यो औषधि खानुहोस्।",
+        "수업이 끝난 후에 만나요. — कक्षा सकिएपछि भेटौं।"
+      ]
     }
   ],
   "conversations": [
@@ -225,6 +332,6 @@
       "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
-  "titleNp": "औषधि पसल र औषधि सेवन",
+  "titleNp": "औषधि पसल",
   "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_22.pdf"
 }

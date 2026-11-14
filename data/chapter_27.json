@@ -10,19 +10,121 @@
     "• 한국의 특별한 날에 대해 말할 수 있다.",
     "• 자신이 경험한 일에 대해 이야기할 수 있다."
   ],
-  "vocabulary": [],
-  "grammar": [
+  "vocabulary": [
     {
-      "point": "한국의 기념일",
-      "explanation": "Korean Commemorative Days 어버이날이 무슨 날이에요? 부모님께 감사의 마음을 전하는 날이에요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -는 국경일과 기념일 관련 어휘 한국의 특별한 날 -아/어 봤다 Vocabulary Related to National Special Days in Korea Holidays and Commemorative Days 특별한 날 관련 어휘 Vocabulary Related to Special Days 한국의 국경일과 기념일에 하는 일을 묻고 대답할 수 있다. Can ask and answer questions about activities on Korea's national holidays and 학습 목표 commemorative days. LEARNING OBJECTIVES 한국의 특별한 날에 대해 말할 수 있다. Can talk about special days in Korea. CHAPTER 27 EPS-TOPIK 310 한국어 표준교재 1",
-      "examples": [],
-      "explanationNp": "한국의 기념일 सम्बन्धी व्याकरण नियम र प्रयोग।"
+      "korean": "국경일",
+      "english": "national holiday",
+      "nepali": "राष्ट्रिय उत्सवको दिन"
     },
     {
-      "point": "외국인 근로자 노래자랑에 한국에서 처음 볼링을",
-      "explanation": ". (나가다) . (치다) ⑶ ⑷ 기숙사에서 불고기를 한국어로 메시지를 . (만들다) . (보내다)",
-      "examples": [],
-      "explanationNp": "समय वा स्थान जनाउने प्रत्यय हो। नेपालीमा 'मा' वा 'तिर' भन्ने अर्थ लाग्दछ।"
+      "korean": "기념일",
+      "english": "commemorative day / anniversary",
+      "nepali": "स्मृति दिवस"
+    },
+    {
+      "korean": "삼일절 (3월 1일)",
+      "english": "Independence Movement Day (March 1st)",
+      "nepali": "साम-इल-जल (स्वतन्त्रता आन्दोलन दिवस)"
+    },
+    {
+      "korean": "어린이날 (5월 5일)",
+      "english": "Children's Day (May 5th)",
+      "nepali": "बाल दिवस (मे ५)"
+    },
+    {
+      "korean": "어버이날 (5월 8일)",
+      "english": "Parents' Day (May 8th)",
+      "nepali": "आमाबाबु दिवस (मातापिता सम्मान दिवस)"
+    },
+    {
+      "korean": "스승의 날 (5월 15일)",
+      "english": "Teacher's Day (May 15th)",
+      "nepali": "गुरु दिवस (शिक्षक दिवस)"
+    },
+    {
+      "korean": "광복절 (8월 15일)",
+      "english": "National Liberation Day (Aug 15th)",
+      "nepali": "क्वाङबोक-जल (राष्ट्रिय मुक्ति दिवस)"
+    },
+    {
+      "korean": "한글날 (10월 9일)",
+      "english": "Hangeul Day (Oct 9th)",
+      "nepali": "हाङ्गुल लिपि दिवस (अक्टोबर ९)"
+    },
+    {
+      "korean": "카네이션",
+      "english": "carnation flower",
+      "nepali": "कार्नेसन फूल (मातापितालाई लगाइदिने फूल)"
+    },
+    {
+      "korean": "돌",
+      "english": "first birthday",
+      "nepali": "पहिलो जन्मदिन (पास्नी जस्तै)"
+    },
+    {
+      "korean": "돌잔치",
+      "english": "first birthday party",
+      "nepali": "पहिलो जन्मदिनको भोज"
+    },
+    {
+      "korean": "돌잡이",
+      "english": "Doljabi (fortune-telling ritual for 1-year-old)",
+      "nepali": "तोल्जाबी (पहिलो जन्मदिनमा बच्चाको भविष्य हेर्न वस्तु छान्ने चलन)"
+    },
+    {
+      "korean": "환갑 (회갑)",
+      "english": "60th birthday celebration",
+      "nepali": "६० औं वर्षको जन्मदिन (ह्वानगाप)"
+    },
+    {
+      "korean": "칠순",
+      "english": "70th birthday celebration",
+      "nepali": "७० औं वर्षको जन्मदिन (छिल्सुन)"
+    },
+    {
+      "korean": "결혼식",
+      "english": "wedding ceremony",
+      "nepali": "विवाह समारोह"
+    },
+    {
+      "korean": "축의금",
+      "english": "congratulatory wedding gift money",
+      "nepali": "विवाहको बधाई रकम (सलामी/उपहार पैसा)"
+    },
+    {
+      "korean": "청첩장",
+      "english": "wedding invitation card",
+      "nepali": "विवाहको निमन्त्रणा कार्ड"
+    },
+    {
+      "korean": "장례식",
+      "english": "funeral ceremony",
+      "nepali": "अन्त्येष्टि / मलामी संस्कार"
+    },
+    {
+      "korean": "조의금",
+      "english": "condolence money",
+      "nepali": "शोक व्यक्त गर्ने समवेदना रकम"
+    }
+  ],
+  "grammar": [
+    {
+      "point": "-는 (동사 현재 수식)",
+      "explanation": "Attaches to verb stems to modify the following noun, indicating an action that happens currently, habitually, or generally.",
+      "explanationNp": "क्रियापदको धातुमा जोडिएर पछाडि आउने नामपदको विशेषता वा वर्तमान समयमा भइरहेको कार्य जनाउँछ। 받침 भए पनि नभए पनि धातुमा सिधै '-는' जोडिन्छ। धातुको 'ㄹ' हटेर '-는' हुन्छ (예: 살다 → 사는).",
+      "examples": [
+        "저기에서 사진을 찍는 사람이 왕민 씨예요. — उता फोटो खिचिरहेको व्यक्ति वाङमिन जी हुन्।",
+        "제가 자주 가는 식당이에요. — यो म प्रायः गइरहने रेस्टुरेन्ट हो।"
+      ]
+    },
+    {
+      "point": "-아/어 봤다 (보다)",
+      "explanation": "Attaches to verbs to express past experience of trying or doing an action.",
+      "explanationNp": "क्रियापदमा जोडिएर विगतमा कुनै कार्य गरिहेरेको वा भोगेको अनुभव व्यक्त गर्न प्रयोग गरिन्छ। अन्तिम स्वरवर्ण ㅏ वा ㅗ भए '-아 봤다', बाँकी भए '-어 봤다', र 하다 मा '-해 봤다' हुन्छ।",
+      "examples": [
+        "한국 전통 결혼식에 가 봤어요. — कोरियाको परम्परागत विवाह समारोहमा गइहेरेको छु।",
+        "한복을 입어 봤어요. — हान्बोक (कोरियन पोसाक) लगाएर हेरेको छु।"
+      ]
     }
   ],
   "conversations": [
@@ -245,6 +347,6 @@
       "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
-  "titleNp": "कोरियाली स्मृति दिवसहरू",
+  "titleNp": "कोरियाका विशेष स्मृति दिवसहरू",
   "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_27.pdf"
 }

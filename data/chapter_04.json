@@ -12,22 +12,171 @@
     "• 동작 및 사물에 관한 어휘들을 말할 수 있다.",
     "• 무엇을 하는지 묻고 대답할 수 있다."
   ],
-  "vocabulary": [],
-  "grammar": [
+  "vocabulary": [
     {
-      "point": "동작과 사물",
-      "explanation": "Actions and Objects 하고 있는 일을 말할 수 있다. 학습 목표 Can talk about what someone is doing. LEARNING OBJECTIVES 무엇을 하는지 묻고 대답할 수 있다. Can ask and answer what someone is doing. 80 한국어 표준교재 1 CHAPTER 04 EPS-TOPIK 지금 뭐 해요? 쇼핑해요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -아요/어요 일상 관련 동작 동사 한국의 좌식 문화 을/를 Verbs Related to Everyday Life Korea's Floor-sitting Culture 일상 관련 명사 Nouns Related to Everyday Life 80 한국어 표준교재 1",
-      "examples": [],
-      "explanationNp": "동작과 사물 सम्बन्धी व्याकरण नियम र प्रयोग।"
+      "korean": "일하다",
+      "english": "to work",
+      "nepali": "काम गर्नु"
     },
     {
-      "point": "을/를",
-      "explanation": "‘동작 명사+-하다’ 용언은 의미 변화 ‘을/를’은 명사와 결합하여 문장의 목적어임을 나타낸다. 없이 ‘동작 명사+을/를 하다’의 형태로 사용할 수 있다. ‘을/를’ combines with a noun to show the object of a sentence. The verb form ‘(action noun)+ -하다’ can be used as ‘(action noun)+을/를 하다’ 받침 ○ 을 밥을 without changing the meaning. 받침 × 를 사과를 전화해요 → 전화를 해요. 자야 씨는 지금 책을 읽어요. 민민아웅 씨는 오늘 영화를 봐요.",
+      "korean": "공부하다",
+      "english": "to study",
+      "nepali": "अध्ययन गर्नु / पढ्नु"
+    },
+    {
+      "korean": "운동하다",
+      "english": "to exercise / workout",
+      "nepali": "व्यायाम गर्नु"
+    },
+    {
+      "korean": "전화하다",
+      "english": "to call / make a phone call",
+      "nepali": "फोन गर्नु"
+    },
+    {
+      "korean": "요리하다",
+      "english": "to cook",
+      "nepali": "खाना पकाउनु"
+    },
+    {
+      "korean": "쇼핑하다",
+      "english": "to shop",
+      "nepali": "किनमेल गर्नु"
+    },
+    {
+      "korean": "쉬다",
+      "english": "to take a rest",
+      "nepali": "आराम गर्नु"
+    },
+    {
+      "korean": "자다",
+      "english": "to sleep",
+      "nepali": "सुत्नु"
+    },
+    {
+      "korean": "가다",
+      "english": "to go",
+      "nepali": "जानु"
+    },
+    {
+      "korean": "오다",
+      "english": "to come",
+      "nepali": "आउनु"
+    },
+    {
+      "korean": "하다",
+      "english": "to do",
+      "nepali": "गर्नु"
+    },
+    {
+      "korean": "밥",
+      "english": "cooked rice / meal",
+      "nepali": "भात / खाना"
+    },
+    {
+      "korean": "빵",
+      "english": "bread",
+      "nepali": "पाउरोटी / ब्रेड"
+    },
+    {
+      "korean": "물",
+      "english": "water",
+      "nepali": "पानी"
+    },
+    {
+      "korean": "주스",
+      "english": "juice",
+      "nepali": "जुस"
+    },
+    {
+      "korean": "먹다",
+      "english": "to eat",
+      "nepali": "खानु"
+    },
+    {
+      "korean": "마시다",
+      "english": "to drink",
+      "nepali": "पिउनु"
+    },
+    {
+      "korean": "사과",
+      "english": "apple",
+      "nepali": "स्याउ"
+    },
+    {
+      "korean": "과자",
+      "english": "snack / cookie",
+      "nepali": "बिस्कुट / स्न्याक्स"
+    },
+    {
+      "korean": "우유",
+      "english": "milk",
+      "nepali": "दूध"
+    },
+    {
+      "korean": "커피",
+      "english": "coffee",
+      "nepali": "कफी"
+    },
+    {
+      "korean": "보다",
+      "english": "to see / watch",
+      "nepali": "हेर्नु"
+    },
+    {
+      "korean": "읽다",
+      "english": "to read",
+      "nepali": "पढ्नु"
+    },
+    {
+      "korean": "텔레비전",
+      "english": "television",
+      "nepali": "टेलिभिजन"
+    },
+    {
+      "korean": "영화",
+      "english": "movie",
+      "nepali": "चलचित्र / फिल्म"
+    },
+    {
+      "korean": "책",
+      "english": "book",
+      "nepali": "किताब"
+    },
+    {
+      "korean": "신문",
+      "english": "newspaper",
+      "nepali": "पत्रपत्रिका"
+    },
+    {
+      "korean": "지금",
+      "english": "now",
+      "nepali": "अहिले"
+    },
+    {
+      "korean": "오늘",
+      "english": "today",
+      "nepali": "आज"
+    }
+  ],
+  "grammar": [
+    {
+      "point": "-아요 / 어요",
+      "explanation": "Attaches to the stem of a verb or adjective to express an action or state in informal, polite present tense.",
+      "explanationNp": "क्रिया वा विशेषणको धातु (Stem) सँग जोडिएर वर्तमान कालको सामान्य आदरार्थी रूप बनाउँछ। धातुको अन्तिम स्वर 'ㅏ, ㅗ' भए '-아요' (उदा: 가다 → 가요, 보다 → 봐요), अन्य स्वर भए '-어요' (उदा: 먹다 → 먹어요, 마시다 → 마셔요), '하다' भए '해요' (उदा: 일하다 → 일해요) जोडिन्छ।",
       "examples": [
-        "예 운동해요 → 운동을 해요.",
-        "예 왕민 씨는 밥을 먹어요."
-      ],
-      "explanationNp": "कर्म (Object) कारक जनाउने प्रत्यय हो। बाच्छिम भए '을', बाच्छिम नभए '를' जोडिन्छ। नेपालीमा 'लाई' भन्ने अर्थ दिन्छ।"
+        "지금 뭐 해요? / 텔레비전을 봐요. — क: अहिले के गर्दै हुनुहुन्छ? / ख: टिभी हेर्दैछु।",
+        "투안 씨는 회사에서 일해요. — तुआन जी कम्पनीमा काम गर्नुहुन्छ।"
+      ]
+    },
+    {
+      "point": "을 / 를",
+      "explanation": "Attaches to a noun that is the object of a transitive verb.",
+      "explanationNp": "सकर्मक क्रियाको कर्म (Object) को पछाडि जोडिएर क्रियाको असर पर्ने वस्तु जनाउँछ। बाच्छिम भए '을' (उदा: 밥을 먹어요 = भात खान्छु, 책을 읽어요 = किताब पढ्छु), बाच्छिम नभए '를' (उदा: 사과를 먹어요 = स्याउ खान्छु, 커피를 마셔요 = कफी पिउँछु) जोडिन्छ।",
+      "examples": [
+        "아침에 빵을 먹어요. — बिहान पाउरोटी खान्छु।",
+        "친구하고 영화를 봐요. — साथीसँग फिल्म हेर्छु।"
+      ]
     }
   ],
   "conversations": [
@@ -161,6 +310,6 @@
       "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
-  "titleNp": "कार्य र वस्तुहरू",
+  "titleNp": "दैनिक कार्य र वस्तुहरू",
   "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_04.pdf"
 }

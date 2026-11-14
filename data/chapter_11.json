@@ -13,36 +13,129 @@
   ],
   "vocabulary": [
     {
-      "korean": "집안일",
-      "english": "Household Chores",
-      "nepali": "घरेलु काम"
+      "korean": "일반쓰레기",
+      "english": "general waste",
+      "nepali": "साधारण (नकुहिने) फोहोर"
     },
     {
-      "korean": "집안일",
-      "english": "Household Chores",
-      "nepali": "घरेलु काम"
+      "korean": "음식물쓰레기",
+      "english": "food waste",
+      "nepali": "भान्छाको खानेकुराको फोहोर (कुहिने फोहोर)"
+    },
+    {
+      "korean": "재활용품",
+      "english": "recyclable materials",
+      "nepali": "पुनःप्रयोग गर्न मिल्ने सामानहरू"
+    },
+    {
+      "korean": "헌 옷",
+      "english": "old clothes",
+      "nepali": "पुराना कपडाहरू"
+    },
+    {
+      "korean": "유리 (유리병)",
+      "english": "glass (glass bottle)",
+      "nepali": "सिसा (सिसाको बोतल)"
+    },
+    {
+      "korean": "종이 (신문, 상자)",
+      "english": "paper (newspaper, box)",
+      "nepali": "कागज (पत्रिका, कार्टुन)"
+    },
+    {
+      "korean": "캔",
+      "english": "cans",
+      "nepali": "टिन / क्यान"
+    },
+    {
+      "korean": "플라스틱",
+      "english": "plastic",
+      "nepali": "प्लास्टिक"
+    },
+    {
+      "korean": "쓰레기봉투",
+      "english": "trash bag",
+      "nepali": "फोहोरको झोला (सरकारी स्ट्याम्प भएको)"
+    },
+    {
+      "korean": "따로 버리다",
+      "english": "to throw away separately",
+      "nepali": "छुट्याएर छुट्टाछुट्टै फाल्नु"
+    },
+    {
+      "korean": "수거함에 버리다",
+      "english": "to dispose in collection box",
+      "nepali": "फोहोर संकलन बाकसमा फाल्नु"
+    },
+    {
+      "korean": "세탁기를 돌리다",
+      "english": "to run the washing machine",
+      "nepali": "लुगा धुने मेसिन चलाउनु"
+    },
+    {
+      "korean": "빨래를 널다",
+      "english": "to hang the laundry",
+      "nepali": "धोएको लुगा सुकाउनु"
+    },
+    {
+      "korean": "빨래를 걷다",
+      "english": "to take down the laundry",
+      "nepali": "सुकेको लुगा उठाउनु"
+    },
+    {
+      "korean": "옷을 다리다",
+      "english": "to iron clothes",
+      "nepali": "कपडा इस्त्री गर्नु"
+    },
+    {
+      "korean": "옷을 개다",
+      "english": "to fold clothes",
+      "nepali": "कपडा पट्याउनु"
+    },
+    {
+      "korean": "먼지를 털다",
+      "english": "to dust off",
+      "nepali": "धुलो टक्टक्याउनु / झार्नु"
+    },
+    {
+      "korean": "빗자루로 쓸다",
+      "english": "to sweep with a broom",
+      "nepali": "कुचोले बढार्नु"
+    },
+    {
+      "korean": "걸레로 닦다",
+      "english": "to wipe with a cloth",
+      "nepali": "टालोले पुछ्नु"
+    },
+    {
+      "korean": "청소기를 돌리다",
+      "english": "to vacuum",
+      "nepali": "भ्याकुम क्लिनर चलाउनु"
+    },
+    {
+      "korean": "정리하다",
+      "english": "to organize / tidy up",
+      "nepali": "सामान मिलाएर राख्नु"
     }
   ],
   "grammar": [
     {
-      "point": "집안일",
-      "explanation": "Household Chores 쓰레기 버리는 법에 대해 묻고 대답할 수 있다. 학습 목표 Can ask and answer questions about waste disposal. LEARNING OBJECTIVES 집안일에 대해 말할 수 있다. Can talk about household chores. 150 한국어 표준교재 1 CHAPTER 11 EPS-TOPIK 캔하고 유리병을 같이 버려요? 따로 버려야 돼요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -아야/어야 되다 쓰레기 분리배출 관련 어휘 쓰레기 분리배출 -(으)ㄹ게요 Vocabulary Related to Waste Separation and Disposal Waste Separation and Disposal 집안일 Household Chores 150 한국어 표준교재 1",
-      "examples": [],
-      "explanationNp": "집안일 सम्बन्धी व्याकरण नियम र प्रयोग।"
-    },
-    {
-      "point": "따로 버리다 수거함에 버리다 쓰레기봉투에 넣다 음식물 쓰레기통에 버리다",
-      "explanation": "⑴ ⑵ 가 : 캔 하고 유리병을 같이 버려야 가 : 헌 옷은 어디에 버려야 돼요? 돼요? 나 : . 나 : . ⑶ ⑷ 가 : 일 반 쓰레기는 어디에 넣어야 가 : 음 식물 쓰레기는 어디에 돼요? 버려야 돼요? 나 : . 나 : . 152 한국어 표준교재 1",
-      "examples": [],
-      "explanationNp": "समय वा स्थान जनाउने प्रत्यय हो। नेपालीमा 'मा' वा 'तिर' भन्ने अर्थ लाग्दछ।"
-    },
-    {
-      "point": "명령이나 요구에 대한 답으로 사용하는",
-      "explanation": "의지나 약속을 나타낸다. 경우가 많다. ‘-(으)ㄹ게요’ is attached to verbs to express the speaker's It can only be used when the subject is intention or promise to do something. the first person and cannot be used in questions. It is often used in response 받침 ○ -을게요 먹다 → 먹을게요 to someone else's request or command. 받침 ×, 받침 ‘ㄹ’ -ㄹ게요 가다 → 갈게요 예 제 가 빨래를 할게요. (O) 이반 씨가 빨래를 할게요. (X) 오후에 빨래를 걷을게요. 나 : 네, 내일 일찍 올게요. (O) 제가 휴게실을 청소할게요.",
+      "point": "-아야/어야 되다 (하다)",
+      "explanation": "Attaches to verbs and adjectives to express necessity, obligation, or requirement.",
+      "explanationNp": "कुनै कार्य गर्नैपर्ने दायित्व, नियम वा कर्तव्य व्यक्त गर्दा धातुको पछाडि जोडिन्छ। धातुको स्वर 'ㅏ, ㅗ' भए '-아야 되다' (उदा: 가다 → 가야 돼요 = जानुपर्छ), अन्य स्वर भए '-어야 되다' (उदा: 버리다 → 버려야 돼요 = फाल्नुपर्छ), '하다' भए '-해야 되다' (उदा: 분리하다 → 분리해야 돼요 = छुट्याउनुपर्छ)।",
       "examples": [
-        "예 제가 음식을 만들게요. 가 : 먼저 갈게요? (X)"
-      ],
-      "explanationNp": "समय वा स्थान जनाउने प्रत्यय हो। नेपालीमा 'मा' वा 'तिर' भन्ने अर्थ लाग्दछ।"
+        "캔하고 유리병은 따로 버려야 돼요. — क्यान र सिसाका बोतल छुट्टाछुट्टै फाल्नुपर्छ।",
+        "일반쓰레기는 종량제 봉투에 넣어야 돼요. — साधारण फोहोर सरकारी फोहोरको झोलामा हाल्नुपर्छ।"
+      ]
+    },
+    {
+      "point": "-(으)ㄹ게요",
+      "explanation": "Used only with first person subjects to make a promise or show strong willingness to the listener.",
+      "explanationNp": "सुन्ने व्यक्तिलाई कुनै काम गर्ने दृढ बचन वा प्रतिज्ञा गर्दा प्रयोग गरिन्छ। यो केवल 'म' वा 'हामी' सँग मात्र प्रयोग हुन्छ। बाच्छिम भए '-을게요' (उदा: 먹을게요 = खानेछु), बाच्छिम नभए वा 'ㄹ' भए '-ㄹ게요' (उदा: 제가 청소할게요 = म सफा गर्नेछु)।",
+      "examples": [
+        "방이 너무 더러워요. / 제가 청소할게요. — कोठा धेरै फोहोर छ। / म सफा गर्नेछु।",
+        "설거지는 제가 할게요. — भाँडा म माझ्नेछु।"
+      ]
     }
   ],
   "conversations": [
@@ -246,6 +339,6 @@
       "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
-  "titleNp": "घरको कामकाज",
+  "titleNp": "घरायसी कामहरू",
   "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_11.pdf"
 }

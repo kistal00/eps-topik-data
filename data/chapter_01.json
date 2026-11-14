@@ -12,38 +12,242 @@
   ],
   "vocabulary": [
     {
-      "korean": "자기소개",
-      "english": "Self Introduction",
-      "nepali": "आत्म परिचय"
+      "korean": "한국",
+      "english": "Republic of Korea",
+      "nepali": "दक्षिण कोरिया"
     },
     {
-      "korean": "직업명",
-      "english": "Occupations",
-      "nepali": "पेशाहरू"
+      "korean": "네팔",
+      "english": "Nepal",
+      "nepali": "नेपाल"
+    },
+    {
+      "korean": "동티모르",
+      "english": "East Timor",
+      "nepali": "पूर्वी टिमोर"
+    },
+    {
+      "korean": "라오스",
+      "english": "Laos",
+      "nepali": "लाओस"
+    },
+    {
+      "korean": "몽골",
+      "english": "Mongolia",
+      "nepali": "मङ्गोलिया"
+    },
+    {
+      "korean": "미얀마",
+      "english": "Myanmar",
+      "nepali": "म्यानमार"
+    },
+    {
+      "korean": "방글라데시",
+      "english": "Bangladesh",
+      "nepali": "बङ्गलादेश"
+    },
+    {
+      "korean": "베트남",
+      "english": "Vietnam",
+      "nepali": "भियतनाम"
+    },
+    {
+      "korean": "스리랑카",
+      "english": "Sri Lanka",
+      "nepali": "श्रीलङ्का"
+    },
+    {
+      "korean": "우즈베키스탄",
+      "english": "Uzbekistan",
+      "nepali": "उज्बेकिस्तान"
+    },
+    {
+      "korean": "인도네시아",
+      "english": "Indonesia",
+      "nepali": "इन्डोनेसिया"
+    },
+    {
+      "korean": "중국",
+      "english": "China",
+      "nepali": "चीन"
+    },
+    {
+      "korean": "캄보디아",
+      "english": "Cambodia",
+      "nepali": "कम्बोडिया"
+    },
+    {
+      "korean": "키르기스스탄",
+      "english": "Kyrgyzstan",
+      "nepali": "किर्गिस्तान"
+    },
+    {
+      "korean": "타지키스탄",
+      "english": "Tajikistan",
+      "nepali": "ताजिकिस्तान"
+    },
+    {
+      "korean": "태국",
+      "english": "Thailand",
+      "nepali": "थाइल्यान्ड"
+    },
+    {
+      "korean": "파키스탄",
+      "english": "Pakistan",
+      "nepali": "पाकिस्तान"
+    },
+    {
+      "korean": "필리핀",
+      "english": "The Philippines",
+      "nepali": "फिलिपिन्स"
+    },
+    {
+      "korean": "어느",
+      "english": "which",
+      "nepali": "कुन"
+    },
+    {
+      "korean": "사람",
+      "english": "person",
+      "nepali": "व्यक्ति"
+    },
+    {
+      "korean": "이름",
+      "english": "name",
+      "nepali": "नाम"
+    },
+    {
+      "korean": "국적",
+      "english": "nationality",
+      "nepali": "राष्ट्रियता"
+    },
+    {
+      "korean": "누구",
+      "english": "who",
+      "nepali": "को"
+    },
+    {
+      "korean": "학생",
+      "english": "student",
+      "nepali": "विद्यार्थी"
+    },
+    {
+      "korean": "선생님",
+      "english": "teacher (honorific)",
+      "nepali": "शिक्षक / शिक्षिका"
+    },
+    {
+      "korean": "회사원",
+      "english": "company employee",
+      "nepali": "कम्पनीका कर्मचारी"
+    },
+    {
+      "korean": "근로자",
+      "english": "worker",
+      "nepali": "कामदार"
+    },
+    {
+      "korean": "경찰관",
+      "english": "police officer",
+      "nepali": "प्रहरी"
+    },
+    {
+      "korean": "소방관",
+      "english": "firefighter",
+      "nepali": "अग्निनियन्त्रक"
+    },
+    {
+      "korean": "공무원",
+      "english": "public official",
+      "nepali": "सरकारी कर्मचारी"
+    },
+    {
+      "korean": "점원",
+      "english": "clerk",
+      "nepali": "पसलका कर्मचारी"
+    },
+    {
+      "korean": "의사",
+      "english": "doctor",
+      "nepali": "चिकित्सक"
+    },
+    {
+      "korean": "간호사",
+      "english": "nurse",
+      "nepali": "नर्स"
+    },
+    {
+      "korean": "요리사",
+      "english": "cook",
+      "nepali": "भान्से"
+    },
+    {
+      "korean": "운전기사",
+      "english": "driver",
+      "nepali": "चालक"
+    },
+    {
+      "korean": "기술자",
+      "english": "technician",
+      "nepali": "प्राविधिक"
+    },
+    {
+      "korean": "목수",
+      "english": "carpenter",
+      "nepali": "सिकर्मी"
+    },
+    {
+      "korean": "농부",
+      "english": "farmer",
+      "nepali": "किसान"
+    },
+    {
+      "korean": "어부",
+      "english": "fisherperson",
+      "nepali": "माछा मार्ने कामदार"
+    },
+    {
+      "korean": "씨",
+      "english": "Mr./Ms. (after a name)",
+      "nepali": "श्री/सुश्री (नामपछि)"
+    },
+    {
+      "korean": "저",
+      "english": "I (humble)",
+      "nepali": "म (विनम्र)"
+    },
+    {
+      "korean": "아니요",
+      "english": "no",
+      "nepali": "होइन"
+    },
+    {
+      "korean": "네",
+      "english": "yes",
+      "nepali": "हो"
     }
   ],
   "grammar": [
     {
-      "point": "자기소개",
-      "explanation": "Self Introduction 어느 나라 사람인지 묻고 대답할 수 있다. 학습 목표 Can ask and answer questions about where someone is from. LEARNING OBJECTIVES 직업이 무엇인지 묻고 대답할 수 있다. Can ask and answer questions about what someone's occupation is. CHAPTER 01 EPS-TOPIK 어느 나라 사람입니까? 저는 네팔 사람입니다. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION 입니다, 입니까? 나라 이름 한국의 인사 예절 은/는 Countries Korean Greeting Etiquette 직업명 Occupations 50 한국어 표준교재 1",
-      "examples": [],
-      "explanationNp": "자기소개 सम्बन्धी व्याकरण नियम र प्रयोग।"
-    },
-    {
       "point": "입니다, 입니까?",
-      "explanation": "‘입니다’는 주어의 속성을 나타내는 명사와 결합하여, 격식적 상황에서 듣는 사람을 높여 말하는 문장의 서술어가 된다. ‘입니까?’는 ‘입니다’의 의문형으로 주어의 속성에 대하여 물을 때 사용한다. ‘입니다’ combines with a noun that shows an attribute of the subject and is the predicate of a sentence in formal situations, making the listener higher. ‘입니까?’ is the question form of ‘입니다’ and is used when asking about an attribute of the subject. 왕민입니다. 가 : 어느 나라 사람입니까? 나 : (저는) 라오스 사람입니다.",
+      "explanation": "",
+      "explanationNp": "",
       "examples": [
-        "예 (저는) 유수프입니다."
-      ],
-      "explanationNp": "‘입니다’ संज्ञासँग जोडेर औपचारिक अवस्थामा 'हो' भन्ने अर्थ दिन्छ। ‘입니까?’ यसको प्रश्न रूप 'हो र?' वा 'हो?' हो।"
+        "왕민입니다. — म वाङ मिन हुँ।",
+        "가: 어느 나라 사람입니까? 나: (저는) 라오스 사람입니다. — क: तपाईं कुन देशको व्यक्ति हुनुहुन्छ? ख: म लाओसको व्यक्ति हुँ।",
+        "(저는) 유수프입니다. — म युसुफ हुँ।"
+      ]
     },
     {
       "point": "은/는",
-      "explanation": "‘은/는’은 명사와 결합하여 문장의 주제나 화제를 나타낸다. ‘은/는’ combines with a noun to show the topic of a sentence. 받침 ○ 은 푸캄은 받침 × 는 자야는 진수 씨는 회사원입니다. 자하라 씨는 파키스탄 사람입니다.",
+      "explanation": "",
+      "explanationNp": "",
       "examples": [
-        "예 투안은 목수입니다."
-      ],
-      "explanationNp": "वाक्यको मुख्य विषय (Topic) चिनाउने प्रत्यय हो। बाच्छिम भए '은', बाच्छिम नभए '는' जोडिन्छ। नेपालीमा 'चाहिं' भन्ने अर्थ दिन्छ।"
+        "받침 ○: 푸캄은 / 받침 ×: 자야는 — अन्तिम व्यञ्जन भए: 푸캄은 / अन्तिम व्यञ्जन नभए: 자야는",
+        "투안은 목수입니다. — तुआन सिकर्मी हुन्।",
+        "진수 씨는 회사원입니다. — जिन्सु कम्पनीका कर्मचारी हुन्।",
+        "자하라 씨는 파키스탄 사람입니다. — जहार पाकिस्तानकी हुन्।"
+      ]
     }
   ],
   "conversations": [
@@ -190,6 +394,6 @@
       "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
-  "titleNp": "आत्म परिचय",
+  "titleNp": "आत्मपरिचय",
   "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_01.pdf"
 }

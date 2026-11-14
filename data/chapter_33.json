@@ -9,25 +9,121 @@
     "• 직장의 분위기에 대해 말할 수 있다.",
     "• 동료와의 관계에 대해 말할 수 있다."
   ],
-  "vocabulary": [],
+  "vocabulary": [
+    {
+      "korean": "동료",
+      "english": "colleague / co-worker",
+      "nepali": "सहकर्मी"
+    },
+    {
+      "korean": "상사",
+      "english": "boss / superior",
+      "nepali": "बॉस / माथिल्लो अधिकारी"
+    },
+    {
+      "korean": "부하",
+      "english": "subordinate",
+      "nepali": "मातहतका कर्मचारी"
+    },
+    {
+      "korean": "사이가 좋다",
+      "english": "to have a good relationship",
+      "nepali": "राम्रो सम्बन्ध हुनु"
+    },
+    {
+      "korean": "사이가 나쁘다",
+      "english": "to have a bad relationship",
+      "nepali": "नराम्रो सम्बन्ध हुनु"
+    },
+    {
+      "korean": "가깝다",
+      "english": "to be close",
+      "nepali": "नजिक/घनिष्ठ हुनु"
+    },
+    {
+      "korean": "격려하다",
+      "english": "to encourage",
+      "nepali": "प्रोत्साहन गर्नु"
+    },
+    {
+      "korean": "서로 위해 주다",
+      "english": "to care for each other",
+      "nepali": "एकअर्काको ख्याल गर्नु"
+    },
+    {
+      "korean": "분위기가 좋다",
+      "english": "to have a good atmosphere",
+      "nepali": "वातावरण राम्रो हुनु"
+    },
+    {
+      "korean": "믿다",
+      "english": "to trust / believe",
+      "nepali": "विश्वास गर्नु"
+    },
+    {
+      "korean": "의지하다",
+      "english": "to rely on / depend",
+      "nepali": "भर पर्नु"
+    },
+    {
+      "korean": "아끼다",
+      "english": "to cherish / value",
+      "nepali": "माया गर्नु"
+    },
+    {
+      "korean": "화를 내다",
+      "english": "to get angry",
+      "nepali": "रिसाउनु"
+    },
+    {
+      "korean": "짜증을 내다",
+      "english": "to get irritated",
+      "nepali": "झ्यापिनु / चिडचिडाउनु"
+    },
+    {
+      "korean": "말다툼을 하다",
+      "english": "to argue / quarrel",
+      "nepali": "बाकबाक गर्नु / झगडा गर्नु"
+    },
+    {
+      "korean": "소리를 지르다",
+      "english": "to yell / shout",
+      "nepali": "कराउनु"
+    },
+    {
+      "korean": "오해하다",
+      "english": "to misunderstand",
+      "nepali": "गलत बुझ्नु"
+    },
+    {
+      "korean": "사과하다",
+      "english": "to apologize",
+      "nepali": "माफी माग्नु"
+    },
+    {
+      "korean": "화해하다",
+      "english": "to make up / reconcile",
+      "nepali": "मिलापत्र गर्नु / मिल्नु"
+    }
+  ],
   "grammar": [
     {
-      "point": "동료와의 관계",
-      "explanation": "Colleague Relationships 직장의 분위기에 대해 말할 수 있다. 학습 목표 Can talk about the atmosphere at the workplace. LEARNING OBJECTIVES 동료와의 관계에 대해 말할 수 있다. Can talk about colleague relationships. CHAPTER 33 회사 분위기는 어때요? 좋은 편이에요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -는/(으)ㄴ 편이다 직장의 분위기 관련 어휘 한국의 회식 문화 -거든요 Vocabulary Related to Workplace Korea's Hoesik (Company Dinner) Atmosphere Culture 동료와의 관계 관련 어휘 Vocabulary Related to Colleague Relationships 36 한국어 표준교재 2",
-      "examples": [],
-      "explanationNp": "동료와의 관계 सम्बन्धी व्याकरण नियम र प्रयोग।"
+      "point": "-는/(으)ㄴ 편이다",
+      "explanation": "Used to express that something generally leans toward a certain category or quality, rather than stating definitively.",
+      "explanationNp": "कुनै कुरा एकतर्फी ठोकुवा गर्नुभन्दा सामान्यतः त्यो पक्षतिर पर्छ भन्ने नरम तरिकाले व्यक्त गर्न प्रयोग गरिन्छ। क्रियापदसँग '-는 편이다', विशेषणमा 받침 भए '-은 편이다', नभए '-ㄴ 편이다' जोडिन्छ।",
+      "examples": [
+        "우리 회사 분위기는 좋은 편이에요. — हाम्रो कम्पनीको वातावरण प्रायः राम्रो तर्फ नै छ।",
+        "저는 아침에 일찍 일어나는 편이에요. — म प्रायः बिहान चाँडै उठ्ने तिरको छु।"
+      ]
     },
     {
-      "point": "읽다 가깝다 싸다 작다",
-      "explanation": "[ 보기 ] 이 농구 선수는 키가 작은 편이에요. ⑴ 저는 책을 많이 . ⑵ 회사가 집에서 . ⑶ 이 커피숍은 커피 값이 .",
-      "examples": [],
-      "explanationNp": "읽다 가깝다 싸다 작다 सम्बन्धी व्याकरण नियम र प्रयोग।"
-    },
-    {
-      "point": "분위기가 좋다 오늘은 특별한 날이다 물건값이 싸다 감기에 걸렸다",
-      "explanation": "[ 보기 ] 저는 보통 시장에서 장을 봐요. 물건값이 싸거든요 . ⑴ 저는 우리 회사가 좋아요. . ⑵ 약을 먹어야 해요. . ⑶ 친구에게 줄 꽃을 샀어요. .",
-      "examples": [],
-      "explanationNp": "समय वा स्थान जनाउने प्रत्यय हो। नेपालीमा 'मा' वा 'तिर' भन्ने अर्थ लाग्दछ।"
+      "point": "-거든요",
+      "explanation": "Used to provide new information or a reason that the speaker thinks the listener doesn't know.",
+      "explanationNp": "वक्ताले श्रोतालाई थाहा नभएको कुरा जानकारी दिँदै कारण बताउँदा प्रयोग गरिन्छ। धातुमा सिधै '-거든요' जोडिन्छ।",
+      "examples": [
+        "내일 좀 일찍 올게요. 병원에 가야 하거든요. — भोलि अलि चाँडै आउँछु। अस्पताल जानुपर्छ, किनभने।",
+        "조금 쉬어야겠어요. 많이 아프거든요. — अलि आराम गर्नुपर्छ। निकै बिरामी भएको हो किनभने।"
+      ]
     }
   ],
   "conversations": [
@@ -376,6 +472,6 @@
       "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
-  "titleNp": "सहकर्मीहरूसँगको सम्बन्ध",
+  "titleNp": "सहकर्मीसँगको सम्बन्ध",
   "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_33.pdf"
 }

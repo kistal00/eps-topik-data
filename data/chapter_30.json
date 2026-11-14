@@ -12,29 +12,116 @@
     "• 한류에 대한 대화를 할 수 있다.",
     "• 현재 상황이나 상태를 추측하여 말할 수 있다."
   ],
-  "vocabulary": [],
+  "vocabulary": [
+    {
+      "korean": "경기장",
+      "english": "stadium / sports arena",
+      "nepali": "रंगशाला (स्टेडियम)"
+    },
+    {
+      "korean": "관람하다",
+      "english": "to watch / view a game or show",
+      "nepali": "अवलोकन गर्नु / हेर्नु"
+    },
+    {
+      "korean": "관중",
+      "english": "audience / crowd / spectators",
+      "nepali": "दर्शकवृन्द"
+    },
+    {
+      "korean": "관중석",
+      "english": "spectator seating",
+      "nepali": "दर्शक बस्ने सिट"
+    },
+    {
+      "korean": "응원단",
+      "english": "cheering squad",
+      "nepali": "हुटिङ गर्ने टोली"
+    },
+    {
+      "korean": "응원가",
+      "english": "cheering song / anthem",
+      "nepali": "हुटिङ गीत"
+    },
+    {
+      "korean": "응원하다",
+      "english": "to cheer on / support",
+      "nepali": "हुटिङ गर्नु / समर्थन गर्नु"
+    },
+    {
+      "korean": "이기다",
+      "english": "to win",
+      "nepali": "जित्नु"
+    },
+    {
+      "korean": "지다",
+      "english": "to lose",
+      "nepali": "हार्नु"
+    },
+    {
+      "korean": "비기다",
+      "english": "to tie / draw",
+      "nepali": "बराबरी हुनु (ड्र हुनु)"
+    },
+    {
+      "korean": "한류",
+      "english": "Hallyu (Korean Wave)",
+      "nepali": "हान्ल्यु (विश्वभर फैलिएको कोरियाली कला-संस्कृति)"
+    },
+    {
+      "korean": "K-팝",
+      "english": "K-pop (Korean pop music)",
+      "nepali": "के-पप (कोरियाली पप संगीत)"
+    },
+    {
+      "korean": "K-드라마",
+      "english": "K-drama",
+      "nepali": "के-ड्रामा (कोरियाली टेलिशृङ्खला)"
+    },
+    {
+      "korean": "K-푸드",
+      "english": "K-food",
+      "nepali": "के-फुड (कोरियाली परिकार)"
+    },
+    {
+      "korean": "K-뷰티",
+      "english": "K-beauty",
+      "nepali": "के-ब्युटी (कोरियाली सौन्दर्य उत्पादन)"
+    },
+    {
+      "korean": "가수",
+      "english": "singer",
+      "nepali": "गायक / गायिका"
+    },
+    {
+      "korean": "배우",
+      "english": "actor / actress",
+      "nepali": "अभिनेता / अभिनेत्री"
+    },
+    {
+      "korean": "팬",
+      "english": "fan / admirer",
+      "nepali": "प्रशंसक (फ्यान)"
+    }
+  ],
   "grammar": [
     {
-      "point": "한국의 대중문화",
-      "explanation": "Korean Popular Culture 경기장에 사람이 많지요? 네, 한국에서는 축구가 인기가 많은 것 같아요. 문법 어휘 문화와 정보 GRAMMAR VOCABULARY CULTURE & INFORMATION -는/(으)ㄴ 것 같다 경기 관람 관련 어휘 한류 문화 -기 쉽다, 어렵다 Vocabulary Related to Watching Hallyu Culture Sports 한류 관련 어휘 Vocabulary Related to Hallyu (the Korean Wave) 프로 스포츠에 대해 묻고 대답할 수 있다. 학습 목표 Can ask and answer questions about professional sports. LEARNING OBJECTIVES 한류에 대해 말할 수 있다. Can talk about the Korean Wave. 340 한국어 표준교재 1 CHAPTER 30 EPS-TOPIK 340 한국어 표준교재 1",
-      "examples": [],
-      "explanationNp": "한국의 대중문화 सम्बन्धी व्याकरण नियम र प्रयोग।"
-    },
-    {
-      "point": "입다 인기가 많다 자다 작다",
-      "explanation": "[ 보기 ] 가 : 신발이 발에 잘 맞아요? 나 : 음, 조금 작은 것 같아요. ⑴ 가 : 칼로 씨한테 전화해 봤어요? 나 : 네, 그런데 전화를 안 받아요. 지금 . ⑵ 가 : 야구 경기는 처음 보는데, 경기장에 관중이 정말 많네요. 나 : 네, 한국에서는 프로 야구가 . ⑶ 가 : 다라 씨는 청바지를 자주 . 청바지를 좋아해요? 나 : 네, 편해서 좋아해요.",
-      "examples": [],
-      "explanationNp": "입다 인기가 많다 자다 작다 सम्बन्धी व्याकरण नियम र प्रयोग।"
-    },
-    {
-      "point": "의 형용사와도 함께 사용할 수",
-      "explanation": "나타낸다. 있다. ‘-기 쉽다, 어렵다’ is attached to verbs to express that it is easy or ‘-기’ can be used not only with difficult to do something. ‘쉽다 (easy)’ and ‘어렵다 (difficult)’ but also with adjectives such as ‘좋다 (good), 싫다 (dislike), 편하다 만들기 쉬운 음식이 뭐예요? (comfortable), and 불편하다 한국어로 문자 메시지를 보내기 어려워요. (uncomfortable)'. ※ ‘ -기’는 ‘-는 것이’로 바꿀 수 있다. 이 옷은 입기 편해요 ‘-기’ can be replaced with ‘-는 것이’. → 명절에는 기차표를 예매하는 것이 어려워요.",
+      "point": "-는/(으)ㄴ 것 같다",
+      "explanation": "Attaches to verbs and adjectives to make a gentle guess or express one's opinion modestly.",
+      "explanationNp": "क्रियापद वा विशेषणमा जोडिएर कुनै घटनाको अनुमान लगाउन वा आफ्नो विचार नम्रतापूर्वक व्यक्त गर्न प्रयोग गरिन्छ। वर्तमान काल क्रियापदसँग '-는 것 같다', विशेषणमा 받침 भए '-은 것 같다', नभए '-ㄴ 것 같다' जोडिन्छ।",
       "examples": [
-        "예 월세가 싼 집을 구하기 어려워요.",
-        "예 이 공원은 산책하기 좋아요.",
-        "예 명절에는 기차표를 예매하기 어려워요."
-      ],
-      "explanationNp": "의 형용사와도 함께 사용할 수 सम्बन्धी व्याकरण नियम र प्रयोग।"
+        "한국에서는 축구가 인기가 많은 것 같아요. — कोरियामा फुटबल निकै लोकप्रिय छ जस्तो लाग्छ।",
+        "오늘 비가 올 것 같아요. — आज पानी पर्ला जस्तो छ।"
+      ]
+    },
+    {
+      "point": "-기 쉽다 / 어렵다",
+      "explanation": "Attaches to verbs to express that doing an action is easy or difficult, or likely/unlikely to happen.",
+      "explanationNp": "क्रियापदमा जोडिएर कुनै कार्य गर्न सजिलो वा गाह्रो छ, अथवा कुनै घटना घट्ने सम्भावना बढी छ भनी व्यक्त गरिन्छ। 받침 भए पनि नभए पनि क्रियाको धातुमा सिधै '-기 쉽다' वा '-기 어렵다' जोडिन्छ।",
+      "examples": [
+        "이 책은 설명이 잘 되어 있어서 공부하기 쉬워요. — यो किताबमा व्याख्या राम्रोसँग गरिएकोले अध्ययन गर्न सजिलो छ।",
+        "주말에는 기차표를 예매하기 어려워요. — सप्ताहन्तमा रेलको टिकट काट्न गाह्रो हुन्छ।"
+      ]
     }
   ],
   "conversations": [
@@ -222,6 +309,6 @@
       "questionNepali": "अडियो सुनेर मिल्दो उत्तर छान्नुहोस्।"
     }
   ],
-  "titleNp": "कोरियाली पप संस्कृति (हल्ल्यु)",
+  "titleNp": "कोरियाको लोकप्रिय संस्कृति",
   "pdfUrl": "https://github.com/kistal00/eps-topik-data/releases/download/v1.0.0/chapter_30.pdf"
 }
